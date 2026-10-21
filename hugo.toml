@@ -1,0 +1,36 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-gb'
+title = 'Hugo Web'
+theme = 'hugo-book'
+
+# Keep URLs lowercase and stable
+disablePathToLower = false
+
+[markup]
+  [markup.goldmark.renderer]
+    # allows raw HTML inside markdown
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+[params]
+  # hugo-book options
+  BookTheme = 'auto'                  # auto | light | dark
+  BookToC = true                      # right-hand table of contents
+  BookSection = 'docs'                # default section for the content tree
+  BookRepo = ''                       # e.g. https://github.com/you/repo (adds "Edit" link)
+  BookEditPath = 'edit/main'
+  BookDateFormat = '2 January 2006'
+
+[menu]
+  [[menu.after]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+    [menu.after.params]
+      icon = 'home'
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
