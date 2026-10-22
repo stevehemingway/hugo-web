@@ -1,5 +1,5 @@
 baseURL = 'http://localhost:1313/'
-languageCode = 'en-gb'
+locale = 'en-gb'
 title = 'Hugo Web'
 theme = 'hugo-book'
 
