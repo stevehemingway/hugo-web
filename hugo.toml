@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://stevehemingway.github.io/hugo-web/'
 locale = 'en-gb'
 title = 'Hugo Web'
 theme = 'hugo-book'
@@ -19,7 +19,7 @@ disablePathToLower = false
   BookTheme = 'auto'                  # auto | light | dark
   BookToC = true                      # right-hand table of contents
   BookSection = 'docs'                # default section for the content tree
-  BookRepo = ''                       # e.g. https://github.com/you/repo (adds "Edit" link)
+  BookRepo = 'https://github.com/stevehemingway/hugo-web'   # adds "Edit" link
   BookEditPath = 'edit/main'
   BookDateFormat = '2 January 2006'
 
