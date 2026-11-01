@@ -1,0 +1,36 @@
+# Netlify configuration for Hugo site
+# https://docs.netlify.com/configure-builds/file-based-configuration/
+
+[build]
+  command = "hugo --gc --minify --baseURL $URL"
+  publish = "public"
+
+[build.environment]
+  # Pin Hugo: hugo-book requires a recent version, Netlify's default is too old.
+  HUGO_VERSION = "0.162.1"
+  HUGO_ENVIRONMENT = "production"
+  HUGO_ENV = "production"
+  TZ = "Europe/London"
+
+# Fetch the hugo-book submodule during checkout.
+[build.processing]
+  skip_processing = false
+
+# Redirects commonly wanted for a docs-ish site
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+
+# Sensible cache headers for hashed assets
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    Referrer-Policy = "strict-origin-when-cross-origin"

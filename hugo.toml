@@ -1,4 +1,6 @@
-baseURL = 'https://stevehemingway.github.io/hugo-web/'
+# baseURL is supplied at build time. Netlify sets --baseURL $URL via netlify.toml,
+# so branch deploys and deploy previews get the right absolute URLs.
+baseURL = '/'
 locale = 'en-gb'
 title = 'Hugo Web'
 theme = 'hugo-book'
