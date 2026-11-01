@@ -12,16 +12,6 @@
   HUGO_ENV = "production"
   TZ = "Europe/London"
 
-# Fetch the hugo-book submodule during checkout.
-[build.processing]
-  skip_processing = false
-
-# Redirects commonly wanted for a docs-ish site
-[[redirects]]
-  from = "/*"
-  to = "/404.html"
-  status = 404
-
 # Sensible cache headers for hashed assets
 [[headers]]
   for = "/assets/*"
