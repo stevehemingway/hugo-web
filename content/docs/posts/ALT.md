@@ -1,0 +1,60 @@
+---
+title: company name company name
+date: '2026-10-12T21:42:14+01:00'
+tags: [analyst/kerrisdale-capital, focus/security, market/united-states, potential/short, sector/sector, short, thesis/thesis, tracked]
+type: stock
+ticker: ALT
+draft: false
+---
+# company name (stocks/ALT), company name
+
+Thesis: thesis, analyst: kerrisdale-cap, sector: sector.
+
+<blockquote>
+<pre>
+quote
+</pre>
+</blockquote>
+
+[More ...](https://x.com/KerrisdaleCap/status/1757414378213618032?s=20)
+latest change: 2026-02-28
+
+2026-01-30 USD 5.6
+2026-01-30 USD 5.6
+2026-01-30 USD 5.6
+
+---
+*Last updated: 2026-03-07 by automated standardization process*
+---
+tags: ["analyst/kerrisdale-cap"]
+---
+
+# company name (A/ALT)
+
+<blockquote>
+<pre>
+quote
+</pre>
+</blockquote>
+
+[More ...](https://x.com/KerrisdaleCap/status/1757414378213618032?s=20)
+latest change: 2026-02-08
+
+2026-01-30 USD 5.6
+2026-01-30 USD 5.6
+2026-01-30 USD 5.6
+---
+tags: ["analyst/kerrisdale-cap"]
+---
+
+# company name (ALT)
+
+<blockquote>
+<pre>
+quote
+</pre>
+</blockquote>
+
+[More ...](https://x.com/KerrisdaleCap/status/1757414378213618032?s=20)
+latest change: 2025-10-29
+

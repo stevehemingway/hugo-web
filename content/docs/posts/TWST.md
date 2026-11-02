@@ -1,0 +1,17 @@
+---
+title: Twist Biologics(?)
+date: '2026-10-12T21:42:14+01:00'
+tags: [analyst/scorpion, analyst/scorpion-capital, focus/security, potential/short, sector/healthcare, short, thesis/fraud]
+type: stock
+ticker: TWST
+draft: false
+---
+# Twist Biologics(?)
+
+---
+*Last updated: 2026-03-07 by automated standardization process*
+---
+tags: ["potential/short", "thesis/fraud", "analyst/scorpion-capital"]
+---
+
+# Twist Biologics(?)

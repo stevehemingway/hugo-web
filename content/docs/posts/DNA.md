@@ -1,0 +1,57 @@
+---
+title: ginkgo bioworks
+date: '2026-10-12T21:42:14+01:00'
+tags: [analyst/scorpion-capital, focus/security, potential/short, sector/biotech, short, thesis/economics, tracked]
+type: stock
+ticker: DNA
+draft: false
+---
+# ginkgo bioworks (DNA)
+
+<blockquote>
+<pre>
+ A Snake Oil Salesman And Some Hedge Funds Partner Up To Pimp The
+Latest “Synthetic Biology” Scam -- As Phantom Revenue, A Hocus-Pocus
+Business Model, Rampant Related-Party Games, And A Decade of
+Colossal Failure Get Shoveled Into Yet Another Garbage SPAC. 
+</pre>
+</blockquote>
+
+[More ...](https://scorpioncapital.s3.us-east-2.amazonaws.com/reports/DNA1.pdf)
+latest change: 2025-07-07
+---
+tags: ["thesis/economics", "sector/biotech", "analyst/scorpion-capital"]
+---
+
+# ginkgo bioworks (DNA)
+
+<blockquote>
+<pre>
+ A Snake Oil Salesman And Some Hedge Funds Partner Up To Pimp The
+Latest “Synthetic Biology” Scam -- As Phantom Revenue, A Hocus-Pocus
+Business Model, Rampant Related-Party Games, And A Decade of
+Colossal Failure Get Shoveled Into Yet Another Garbage SPAC. 
+</pre>
+</blockquote>
+
+[More ...](https://scorpioncapital.s3.us-east-2.amazonaws.com/reports/DNA1.pdf)
+latest change: 2025-10-29
+---
+tags: ["thesis/economics", "sector/biotech", "analyst/scorpion-capital"]
+---
+
+# ginkgo bioworks (ds/DNA)
+
+<blockquote>
+<pre>
+ A Snake Oil Salesman And Some Hedge Funds Partner Up To Pimp The
+Latest “Synthetic Biology” Scam -- As Phantom Revenue, A Hocus-Pocus
+Business Model, Rampant Related-Party Games, And A Decade of
+Colossal Failure Get Shoveled Into Yet Another Garbage SPAC. 
+</pre>
+</blockquote>
+
+[More ...](https://scorpioncapital.s3.us-east-2.amazonaws.com/reports/DNA1.pdf)
+latest change: 2026-02-08
+2026-01-30 USD 8.97
+2026-01-30 USD 8.97

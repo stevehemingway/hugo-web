@@ -1,0 +1,24 @@
+---
+title: Skechers USA, Inc.
+date: '2026-10-12T21:42:14+01:00'
+tags: [focus/security, potential/long, potential/short, sector/retail, short]
+type: stock
+ticker: SKX
+draft: false
+---
+# Skechers USA, Inc.
+
+This is basically a shoe brand, sold through dedicated retail outlets.
+It has gone down a lot, and has started buybacks, so it probably was a sell, but it may be too late to short.
+
+---
+*Last updated: 2026-03-07 by automated standardization process*
+---
+tags: ["potential/short", "potential/long"]
+---
+
+# Skechers USA, Inc.
+
+This is basically a shoe brand, sold through dedicated retail outlets.
+It has gone down a lot, and has started buybacks, so it probably was a sell, but it may be too late to short.
+

@@ -1,0 +1,37 @@
+---
+title: Oklo Inc Oklo Inc
+date: '2026-10-12T21:42:14+01:00'
+tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/energy, short, thesis/regulator-approval]
+type: stock
+ticker: OKLO
+draft: false
+---
+# Oklo Inc (stocks/OKLO), Oklo Inc
+
+Thesis: regulator-approval, analyst: kerrisdale-capital, sector: energy.
+
+<blockquote>
+<pre>
+Kerrisdale Capital published on Oklo (NYSE: OKLO — $3.08 billion), a nuclear energy company. Kerrisdale alleged that the company’s “claimed unit economics are nonsensical, its management are academics with weak real-world commercialization experience, its tech/engineering team dramatically trails peers and its projected timelines are laughable.” Kerrisdale concluded that with “hype over nuclear powered AI datacenters at fever pitch, a parabolic rise in share price and years of cash burn before any revenue let alone profit, dilutive capital raises are likely.”
+</pre>
+</blockquote>
+
+[More ...](kerrisdale-capital)
+latest change: 2026-02-28
+
+---
+*Last updated: 2026-03-07 by automated standardization process*
+---
+tags: ["thesis/regulator-approval", "sector/energy", "analyst/kerrisdale-capital"]
+---
+
+# Oklo Inc (OKLO)
+
+<blockquote>
+<pre>
+Kerrisdale Capital published on Oklo (NYSE: OKLO — $3.08 billion), a nuclear energy company. Kerrisdale alleged that the company’s “claimed unit economics are nonsensical, its management are academics with weak real-world commercialization experience, its tech/engineering team dramatically trails peers and its projected timelines are laughable.” Kerrisdale concluded that with “hype over nuclear powered AI datacenters at fever pitch, a parabolic rise in share price and years of cash burn before any revenue let alone profit, dilutive capital raises are likely.”
+</pre>
+</blockquote>
+
+[More ...](kerrisdale-capital)
+latest change: 2025-10-29

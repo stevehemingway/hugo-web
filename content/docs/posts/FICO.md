@@ -1,0 +1,51 @@
+---
+title: Fair-Isaac Corp. Fair-Isaac Corp.
+date: '2026-10-12T21:42:14+01:00'
+tags: [analyst/bristlemoon-capital, focus/security, potential/short, sector/sector, short, thesis/fraud]
+type: stock
+ticker: FICO
+draft: false
+---
+# Fair-Isaac Corp. (stocks/FICO), Fair-Isaac Corp.
+
+Thesis: fraud, analyst: bristlemoon-capital, sector: sector.
+
+<blockquote>
+<pre>
+see below
+</pre>
+</blockquote>
+
+[More ...](https://report-url)
+latest change: 2026-02-28
+
+---
+*Last updated: 2026-03-07 by automated standardization process*
+---
+tags: ["thesis/fraud", "analyst/bristlemoon-capital"]
+---
+
+# Fair-Isaac Corp. (F/FICO)
+
+<blockquote>
+<pre>
+see below
+</pre>
+</blockquote>
+
+[More ...](https://report-url)
+latest change: 2026-02-08
+---
+tags: ["thesis/fraud", "analyst/bristlemoon-capital"]
+---
+
+# Fair-Isaac Corp. (FICO)
+
+<blockquote>
+<pre>
+see below
+</pre>
+</blockquote>
+
+[More ...](https://report-url)
+latest change: 2025-10-29

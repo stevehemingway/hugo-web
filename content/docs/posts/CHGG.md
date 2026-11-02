@@ -1,0 +1,53 @@
+---
+title: Chegg Chegg
+date: '2026-10-12T21:42:14+01:00'
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/tech, short, thesis/competition, tracked]
+type: stock
+ticker: CHGG
+draft: false
+---
+# Chegg (stocks/CHGG), Chegg
+
+Thesis: competition, analyst: dorsey, sector: tech.
+
+<blockquote>
+<pre>
+Chegg’s primary business is selling students monthly subscriptions for homework help. The Bear Cave believes that rapidly growing new competition powered by AI is destroying Chegg’s key student market and the company is playing increasingly desperate games to stem a student exodus. In short, The Bear Cave concludes that Chegg is a billion-dollar company headed to zero.
+</pre>
+</blockquote>
+
+[More ...](https://open.substack.com/pub/thebearcave/p/problems-at-chegg-chgg?r=nmbt&utm_campaign=post&utm_medium=email)
+latest change: 2026-02-28
+2026-01-30 USD 0.769
+
+---
+*Last updated: 2026-03-07 by automated standardization process*
+---
+tags: ["thesis/competition", "sector/tech", "analyst/dorsey"]
+---
+
+# Chegg (C/CHGG)
+
+<blockquote>
+<pre>
+Chegg’s primary business is selling students monthly subscriptions for homework help. The Bear Cave believes that rapidly growing new competition powered by AI is destroying Chegg’s key student market and the company is playing increasingly desperate games to stem a student exodus. In short, The Bear Cave concludes that Chegg is a billion-dollar company headed to zero.
+</pre>
+</blockquote>
+
+[More ...](https://open.substack.com/pub/thebearcave/p/problems-at-chegg-chgg?r=nmbt&utm_campaign=post&utm_medium=email)
+latest change: 2026-02-08
+2026-01-30 USD 0.769
+---
+tags: ["thesis/competition", "sector/tech", "analyst/dorsey"]
+---
+
+# Chegg (CHGG)
+
+<blockquote>
+<pre>
+Chegg’s primary business is selling students monthly subscriptions for homework help. The Bear Cave believes that rapidly growing new competition powered by AI is destroying Chegg’s key student market and the company is playing increasingly desperate games to stem a student exodus. In short, The Bear Cave concludes that Chegg is a billion-dollar company headed to zero.
+</pre>
+</blockquote>
+
+[More ...](https://open.substack.com/pub/thebearcave/p/problems-at-chegg-chgg?r=nmbt&utm_campaign=post&utm_medium=email)
+latest change: 2025-10-29

@@ -1,153 +1,55 @@
 ---
-title: 'NBIS'
-date: 2026-10-25T10:26:05Z
+title: Nbis
+date: '2026-10-08T16:11:55+01:00'
+tags: [analyst/me, focus/security, potential/short, short]
+type: stock
+ticker: NBIS
 draft: false
-weight: 100
-bookHidden: false
+---
+**NBIS is Nebius Group** — a Dutch AI cloud infrastructure company. Yes, it's very much like CoreWeave, but with some key differences.
+
 ---
 
+## What is Nebius (NBIS)?
 
-<https://shipwaveresearch.substack.com/p/nebius-thesis?r=57a252&utm_campaign=post-expanded-share&utm_medium=web>
+- **Formerly Yandex** — Russia's Google equivalent. After 2022 sanctions, it divested Russian assets, relocated to Amsterdam, and pivoted to AI infrastructure
+- **Business:** Rents GPU cloud compute for AI training and inference. Also offers managed software services — more "full stack" than CoreWeave
+- **Data centers:** One owned in Finland, plus leased across US, UK, and Europe
+- **Key backers:** Nvidia is both a major supplier and investor. Also has big contracts with **Meta** and **Microsoft**
 
+---
 
+## Nebius vs CoreWeave
 
-### Nebius thesis
+| | **CoreWeave (CRWV)** | **Nebius (NBIS)** |
+|---|---|---|
+| **Q1 2026 revenue** | $2.1B (up 112%) | $399M (up 684%) |
+| **Backlog** | ~$100B | ~$50B |
+| **Debt-to-equity** | 10.7 (heavy) | 2.1 (manageable) |
+| **Cash position** | Burdened by debt | $3.7B cash |
+| **Growth rate** | Fast | **Much faster** |
+| **Focus** | GPU compute for training | Full-stack AI (training + inference + software) |
+| **Stock performance (12mo)** | +70% | **+510%** |
+| **Valuation** | ~5x sales | ~16x sales |
 
-$NBIS
+---
 
-RC Capital ☑️
-Oct 24
- 
-READ IN APP
- 
-The investment thesis
+## Is it risky?
 
-There is a reason Nebius has attracted so much attention from investors. The AI boom is no longer just about who builds the best model. It is also about who can provide the computing power, electricity, data centers and software needed to train and run those models at scale.
+**Yes — very high risk, high reward:**
 
-That is the market Nebius wants to capture.
+- **Pre-profitability:** Both companies are burning cash. Nebius had an adjusted net loss of $100M in Q1 2026
+- **Customer concentration:** Massive reliance on Meta and Microsoft deals
+- **Competition:** Going up against AWS, Google Cloud, Azure — plus other "neoclouds" like CoreWeave and Lambda
+- **Execution risk:** Needs to keep building data centers fast enough to meet demand
+- **Yandex overhang:** Some investors are wary given its Russian origins, though it's now fully separated
 
-The company is building an AI cloud business designed for organizations that need substantial GPU capacity without having to build and operate every part of the infrastructure themselves. Its opportunity is straightforward: AI demand is growing quickly, and companies developing advanced models need reliable access to increasingly expensive computing resources.
+**The bull case:** Nebius is growing revenue at 684% YoY, has a cleaner balance sheet than CoreWeave, and analysts expect it to turn GAAP profitable by 2028. Its "full stack" approach (compute + software) could give it an edge in AI inference as the market shifts from training to deployment.
 
-Revenue reached $582.3 million in Q2 2026, up 454% year over year. Management is targeting $3.0–$3.4 billion in revenue for the full year and $7–$9 billion in annualized revenue run rate by year-end.
+**The bear case:** It's already up 510% in a year. At 16x sales, there's a lot of growth priced in. Any miss on execution or slowdown in AI capex spending could hit the stock hard.
 
+---
 
-Whether Nebius can convert that demand into attractive returns on the capital it is putting to work.?
+**Bottom line:** If you're comparing the two, Nebius is the "growthier" but pricier pick. CoreWeave is bigger and cheaper but loaded with debt. Both are speculative — this is a bet on AI infrastructure demand staying hot, not a conservative investment.
 
-What does Nebius do?
-
-Nebius Group N.V. is an Amsterdam-headquartered technology company that operates an AI-focused cloud infrastructure business. The company was formerly associated with Yandex N.V. and has since developed a different corporate and operating focus.
-
-Its core business, Nebius AI Cloud, provides the infrastructure required to develop, train and deploy artificial intelligence systems.
-
-That includes:
-
- • GPU computing for model training and inference.
-
- • High-performance networking and storage.
-
- • Cloud software and tools for managing AI workloads.
-
- • Managed inference services, including its Token Factory platform.
-
- • Infrastructure designed for customers running demanding AI workloads at scale.
-
-The important distinction is that Nebius is not simply trying to rent out individual GPUs. It wants to deliver a complete environment in which customers can run AI workloads with less operational complexity.
-
-Large customer commitments:
-
-The Microsoft and Meta agreements provide evidence that Nebius can attract major customers with substantial infrastructure needs. Large contracts can improve revenue visibility and help justify investment in capacity.
-
-They also create execution obligations. Nebius must deliver the promised infrastructure, maintain performance and manage the financial requirements of building that capacity.
-
-Pledge your support
-
-Hearing from customers:
-
-Revolut: Nebius’s Revolut case study describes AI workloads supporting financial-crime investigations and customer service. The story reports infrastructure using more than 200 NVIDIA H100 GPUs, with AI agents supporting up to 1.2 million customer-support tickets per month.
-
-Nebius also reports that around 80% of chats are resolved without human intervention and cites a 21% improvement in fraud-detection precision for one AI initiative.
-
-If a customer depends on infrastructure for ongoing services rather than occasional experiments, that is a more meaningful commercial signal.
-
-
-Nebius’s Higgsfield case study describes a generative media platform that had grown to more than 15 million users and over 4.5 million image and video generations per day.
-
-Thanks for reading ShipWave Research! Subscribe for free to receive new posts and support my work.
-
-Pledge your support
-
-Generative video and image applications can consume substantial compute resources, particularly as products expand and models become more capable. Training and inference create different infrastructure needs, and both can contribute to demand.
-
-Higgsfield AI created “Hell Grind“, a 95-minute feature film built entirely with artificial intelligence in just 14 days on a $500,000 budget, powered by the Nebius AI Cloud
-
-Extending AI into the physical world
-
-RoboForce story focuses on robotics and physical AI. The case study describes infrastructure supporting development workflows and reports a 70% reduction in AI pipeline setup time, alongside shorter development iteration cycles.
-
-Robotics creates a potentially interesting demand category for AI infrastructure. Training and improving these systems can involve simulation, synthetic data, computer vision and repeated model development.
-
-AI for scientific research
-
-Prima Mente case study describes a reserved 32-GPU cluster used for neuroscience-related AI research. The company reports a 12% improvement in pre-training throughput, reaching 1.19 million tokens per second across 16 nodes.
-
-Scientific research is another potential source of specialized compute demand. These workloads may differ from consumer AI applications, but they still require powerful infrastructure and efficient execution.
-
-What could go wrong?
-
-The bear case is not that AI disappears. It is that Nebius fails to earn sufficient returns from the infrastructure it builds.
-
-Data-center construction, power connections, networking and GPU deployment can all take longer than expected. Delays can push revenue into future periods while costs are already being incurred.
-
-My take:
-
-For me, the deciding factor is execution. AI demand creates the opportunity; the quality of Nebius’s capital allocation and delivery will determine how much of that opportunity ultimately becomes shareholder value.
-
-Technical point
-
-Nebius ($NBIS) — My Entry Plan and Long-Term Outlook
-
-Nebius has now printed two consecutive red weekly candles, and with semiconductor stocks under pressure, I wouldn’t be surprised to see more volatility ahead. The stock is sitting near an important support zone, but I think there’s a reasonable chance that support breaks.
-
-I’m not in a hurry to chase it here. Ideally, I’d like to see several weeks of consolidation, similar to what we saw in January and February 2026. That would give me a more attractive opportunity to start building or adding to a position.
-
-What keeps me interested is the longer-term valuation opportunity. At a market cap of roughly $43 billion, Nebius trades at around 1.2x my assumed FY2029 revenue of approximately $36 billion.
-
-If Nebius delivers that level of revenue and the market eventually assigns it a 9–10x sales multiple, we’re looking at a potential valuation north of $300 billion market cap (price of $900).
-
-That’s an aggressive bull case, not my base case. A lot needs to go right: infrastructure deployment, customer demand, margins, financing and execution. And with the amount of capital this business requires, dilution and cash flow are risks I won’t ignore.
-
-For now, I’d rather be patient and wait for a better setup than force an entry. I remain bullish on the long-term opportunity, but the price I pay matters just as much as the story.
-
-Disclaimer:
-
-Investing and trading carry significant risks, including the potential loss of your entire investment. RC Capital or Shipwave Research and its affiliates are not licensed financial advisors, investment advisors, broker-dealers, or other financial professionals. All content published on this Substack is intended solely for educational and informational purposes and should not be considered financial or investment advice.
-
-Nothing shared here is a recommendation to buy, sell, or hold any security or other asset. Always conduct your own research (DYOR) and make investment decisions based on your own judgment and risk tolerance.
-
-The opinions and analysis expressed represent the views of author as of the time of publication and may change without notice. This publication may hold positions in securities or assets discussed in its content and may change those positions at any time.
-
-By subscribing to or reading this Substack, you acknowledge that you are solely responsible for your own investment decisions and any resulting gains or losses.
-
-Thanks for reading ShipWave Research! Subscribe for free to receive new posts and support my work.
-
-Pledge your support
-Share
-
-
-ShipWave Research is free today. But if you enjoyed this post, you can tell ShipWave Research that their writing is valuable by pledging a future subscription. You won't be charged unless they enable payments.
-
-Pledge your support
-
- 
-Share
- 
- 
-Like
-Comment
-Restack
- 
-© 2026 Capital Migration
-548 Market Street PMB 72296, San Francisco, CA 94104 
-Unsubscribe
-
-Start your Substack
+Are you thinking of buying, or just researching?

@@ -1,0 +1,25 @@
+---
+title: Paymentus Holding
+date: '2026-10-12T21:42:14+01:00'
+tags: [analyst/bear-cave, focus/security, potential/short, sector/technology, short, source/bear-cave]
+type: stock
+ticker: PAY
+draft: false
+---
+# Paymentus Holding
+Cloud provider of payment services.
+Up against some strong players.
+Stockprice down from $35 to $12, still trading at a P/E of 370.
+Not the most compelling short ... but pretty bombed.
+
+---
+*Last updated: 2026-03-07 by automated standardization process*
+---
+tags: ["potential/short", "source/bear-cave"]
+---
+
+# Paymentus Holding
+Cloud provider of payment services.
+Up against some strong players.
+Stockprice down from $35 to $12, still trading at a P/E of 370.
+Not the most compelling short ... but pretty bombed.

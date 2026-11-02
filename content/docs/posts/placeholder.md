@@ -1,7 +1,7 @@
 ---
 title: "Place your markdown here"
 date: 2026-10-21
-draft: false
+draft: true
 weight: 10
 ---
 
