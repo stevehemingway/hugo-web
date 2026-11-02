@@ -1,12 +1,12 @@
 ---
-title: Svenska Cellulosa Svenska Cellulosa
+title: Svenska Cellulosa
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/ningi-research; viceroy-research, analyst/ningi-research;-viceroy-research, focus/security, potential/short, sector/forestry, short, thesis/fraud]
 type: stock
 ticker: SCAB
 draft: false
 ---
-# Svenska Cellulosa (stocks/SCAB), Svenska Cellulosa
+# Svenska Cellulosa (stocks/SCAB)
 
 Thesis: fraud, analyst: NINGI-research; viceroy-research, sector: forestry.
 

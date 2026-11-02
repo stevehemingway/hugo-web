@@ -1,12 +1,12 @@
 ---
-title: Clear Secure, Inc. Clear Secure, Inc.
+title: Clear Secure, Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/support services, sector/support-services, short, thesis/fraud]
 type: stock
 ticker: YOU
 draft: false
 ---
-# Clear Secure, Inc. (stocks/YOU), Clear Secure, Inc.
+# Clear Secure, Inc. (stocks/YOU)
 
 Thesis: fraud, analyst: spruce-point, sector: support services.
 

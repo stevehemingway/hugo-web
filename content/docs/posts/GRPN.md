@@ -1,12 +1,12 @@
 ---
-title: Groupon Inc. Groupon Inc.
+title: Groupon Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/lauren-balik, focus/security, potential/short, sector/web marketing, sector/web-marketing, short, thesis/dubious practice, thesis/dubious-practice]
 type: stock
 ticker: GRPN
 draft: false
 ---
-# Groupon Inc. (stocks/GRPN), Groupon Inc.
+# Groupon Inc. (stocks/GRPN)
 
 Thesis: dubious practice, analyst: lauren-balik, sector: web marketing.
 

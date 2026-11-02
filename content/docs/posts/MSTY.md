@@ -1,12 +1,12 @@
 ---
-title: Microstrategy Treasury Microstrategy Treasury
+title: Microstrategy Treasury
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/me, focus/security, potential/short, sector/ponzi, short, thesis/economics]
 type: stock
 ticker: MSTY
 draft: false
 ---
-# Microstrategy Treasury (stocks/MSTY), Microstrategy Treasury
+# Microstrategy Treasury (stocks/MSTY)
 
 Thesis: economics, analyst: you, sector: ponzi.
 

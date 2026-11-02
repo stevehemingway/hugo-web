@@ -1,12 +1,12 @@
 ---
-title: Universal Stainless Universal Stainless
+title: Universal Stainless
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hunterbrook, focus/security, potential/short, sector/manufacturing, short, thesis/legal claims, thesis/legal-claims]
 type: stock
 ticker: USAP
 draft: false
 ---
-# Universal Stainless (stocks/USAP), Universal Stainless
+# Universal Stainless (stocks/USAP)
 
 Thesis: legal claims, analyst: hunterbrook, sector: manufacturing.
 

@@ -1,12 +1,12 @@
 ---
-title: Canoo Canoo
+title: Canoo
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/EV, sector/ev, short, thesis/fraud]
 type: stock
 ticker: GOEV
 draft: false
 ---
-# Canoo (stocks/GOEV), Canoo
+# Canoo (stocks/GOEV)
 
 Thesis: fraud, analyst: dorsey, sector: EV.
 

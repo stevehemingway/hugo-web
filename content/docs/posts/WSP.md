@@ -1,12 +1,12 @@
 ---
-title: WSP Global Inc. WSP Global Inc.
+title: WSP Global Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/not sure, sector/not-sure, short, thesis/fraud]
 type: stock
 ticker: WSP
 draft: false
 ---
-# WSP Global Inc. (stocks/WSP), WSP Global Inc.
+# WSP Global Inc. (stocks/WSP)
 
 Thesis: fraud, analyst: spruce-point-capital, sector: not sure.
 

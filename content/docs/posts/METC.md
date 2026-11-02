@@ -1,12 +1,12 @@
 ---
-title: Ramco Resources Ramco Resources
+title: Ramco Resources
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/wolfpack-research, focus/security, potential/short, sector/mining, short, thesis/fraud]
 type: stock
 ticker: METC
 draft: false
 ---
-# Ramco Resources (stocks/METC), Ramco Resources
+# Ramco Resources (stocks/METC)
 
 Thesis: fraud, analyst: wolfpack-research, sector: mining.
 

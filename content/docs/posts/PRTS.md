@@ -1,12 +1,12 @@
 ---
-title: Car Parts Car Parts
+title: Car Parts
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/elmer-spud, focus/security, potential/long, sector/retail, thesis/turnaround]
 type: stock
 ticker: PRTS
 draft: false
 ---
-# Car Parts (stocks/PRTS), Car Parts
+# Car Parts (stocks/PRTS)
 
 Thesis: turnaround, analyst: elmer-spud, sector: retail.
 

@@ -1,12 +1,12 @@
 ---
-title: Mercury General Mercury General
+title: Mercury General
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/wolfpack-research, focus/security, potential/short, sector/insurance, short, thesis/risks]
 type: stock
 ticker: MCY
 draft: false
 ---
-# Mercury General (stocks/MCY), Mercury General
+# Mercury General (stocks/MCY)
 
 Thesis: risks, analyst: wolfpack-research, sector: insurance.
 

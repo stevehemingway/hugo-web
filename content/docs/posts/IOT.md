@@ -1,12 +1,12 @@
 ---
-title: Samsara Inc. Samsara Inc.
+title: Samsara Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/IT-hardware, sector/it-hardware, short, thesis/fraud]
 type: stock
 ticker: IOT
 draft: false
 ---
-# Samsara Inc. (stocks/IOT), Samsara Inc.
+# Samsara Inc. (stocks/IOT)
 
 Thesis: fraud, analyst: spruce-point-capital, sector: IT-hardware.
 

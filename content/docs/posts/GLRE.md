@@ -1,12 +1,12 @@
 ---
-title: Greenlight Re Greenlight Re
+title: Greenlight Re
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, potential/long, sector/insurance, thesis/cheap]
 type: stock
 ticker: GLRE
 draft: false
 ---
-# Greenlight Re (stocks/GLRE), Greenlight Re
+# Greenlight Re (stocks/GLRE)
 
 Thesis: cheap, analyst: me, sector: insurance.
 

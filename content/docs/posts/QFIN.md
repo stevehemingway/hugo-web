@@ -1,12 +1,12 @@
 ---
-title: Qifu Technology Inc. Qifu Technology Inc.
+title: Qifu Technology Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/grizzly-research, focus/security, potential/short, sector/china, short, thesis/thesis]
 type: stock
 ticker: QFIN
 draft: false
 ---
-# Qifu Technology Inc. (stocks/QFIN), Qifu Technology Inc.
+# Qifu Technology Inc. (stocks/QFIN)
 
 Thesis: thesis, analyst: grizzly-research, sector: china.
 

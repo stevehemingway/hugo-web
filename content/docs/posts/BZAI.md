@@ -6,7 +6,7 @@ type: stock
 ticker: BZAI
 draft: false
 ---
-# Blaize AI -- short 
+# Blaize AI -- short
 
 ## Blaize AI: Short Report on Artificially Boosted Share Price
 

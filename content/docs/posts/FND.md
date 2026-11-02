@@ -1,12 +1,12 @@
 ---
-title: Floor and Decor Floor and Decor
+title: Floor and Decor
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/retail, short, thesis/cyclical, thesis/economics]
 type: stock
 ticker: FND
 draft: false
 ---
-# Floor and Decor (stocks/FND), Floor and Decor
+# Floor and Decor (stocks/FND)
 
 Thesis: economics, analyst: spruce-point-capital, sector: retail.
 

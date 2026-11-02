@@ -1,12 +1,12 @@
 ---
-title: PureCycle Technologies PureCycle Technologies
+title: PureCycle Technologies
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/bleecker-street-research, analyst/bleecker-street-research and hindenberg, analyst/hindenberg, focus/security, potential/short, sector/industrial, short, thesis/fraud]
 type: stock
 ticker: PCT
 draft: false
 ---
-# PureCycle Technologies (stocks/PCT), PureCycle Technologies
+# PureCycle Technologies (stocks/PCT)
 
 Thesis: fraud, analyst: bleecker-street-research and hindenberg, sector: industrial.
 

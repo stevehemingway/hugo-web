@@ -1,12 +1,12 @@
 ---
-title: Pony AI Pony AI
+title: Pony AI
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/grizzly-research, focus/security, potential/short, sector/AI, sector/ai, short, thesis/weak tech, thesis/weak-tech]
 type: stock
 ticker: PONY
 draft: false
 ---
-# Pony AI (stocks/PONY), Pony AI
+# Pony AI (stocks/PONY)
 
 Thesis: weak tech, analyst: grizzly-research, sector: AI.
 

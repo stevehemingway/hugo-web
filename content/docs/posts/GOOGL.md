@@ -1,12 +1,12 @@
 ---
-title: Alphabet Alphabet
+title: Alphabet
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/bristlemoon-capital, focus/security, market/united-states, potential/long, sector/AI, sector/ai, thesis/underrated]
 type: stock
 ticker: GOOGL
 draft: false
 ---
-# Alphabet (stocks/GOOGL), Alphabet
+# Alphabet (stocks/GOOGL)
 
 Thesis: underrated, analyst: bristlemoon, sector: AI.
 

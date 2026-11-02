@@ -1,12 +1,12 @@
 ---
-title: Driven Brands Driven Brands
+title: Driven Brands
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/daily-shot, focus/security, potential/long, sector/retail, thesis/tariffs]
 type: stock
 ticker: DRVN
 draft: false
 ---
-# Driven Brands (stocks/DRVN), Driven Brands
+# Driven Brands (stocks/DRVN)
 
 Thesis: tariffs, analyst: daily-shot, sector: retail.
 

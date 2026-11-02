@@ -1,12 +1,12 @@
 ---
-title: UWM Holdings UWM Holdings
+title: UWM Holdings
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/retail-finance, short, thesis/fraud]
 type: stock
 ticker: UWMC
 draft: false
 ---
-# UWM Holdings (stocks/UWMC), UWM Holdings
+# UWM Holdings (stocks/UWMC)
 
 Thesis: fraud, analyst: hunterbrook-media, sector: retail-finance.
 

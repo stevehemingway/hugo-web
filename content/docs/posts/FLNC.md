@@ -1,12 +1,12 @@
 ---
-title: Fluence Energy Inc. Fluence Energy Inc.
+title: Fluence Energy Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/blue-orca, focus/security, potential/short, sector/energy, short, thesis/fraud]
 type: stock
 ticker: FLNC
 draft: false
 ---
-# Fluence Energy Inc. (stocks/FLNC), Fluence Energy Inc.
+# Fluence Energy Inc. (stocks/FLNC)
 
 Thesis: fraud, analyst: blue-orca, sector: energy.
 

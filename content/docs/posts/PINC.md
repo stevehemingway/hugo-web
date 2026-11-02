@@ -1,12 +1,12 @@
 ---
-title: Premier Inc Premier Inc
+title: Premier Inc
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/healthcare-purchasing, short, thesis/thesis]
 type: stock
 ticker: PINC
 draft: false
 ---
-# Premier Inc (stocks/PINC), Premier Inc
+# Premier Inc (stocks/PINC)
 
 Thesis: thesis, analyst: Jehoshaphat, sector: healthcare-purchasing.
 

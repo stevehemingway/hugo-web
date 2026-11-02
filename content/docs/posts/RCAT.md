@@ -1,12 +1,12 @@
 ---
-title: company_name company_name
+title: company_name
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fuzzy-panda, analyst/kerrisdale-capital, focus/security, potential/short, sector/sector, short, thesis/thesis]
 type: stock
 ticker: RCAT
 draft: false
 ---
-# company_name (stocks/RCAT), company_name
+# company_name (stocks/RCAT)
 
 Thesis: thesis, analyst: kerrisdale-capital and fuzzy-panda, sector: sector.
 

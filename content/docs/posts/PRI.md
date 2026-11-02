@@ -1,12 +1,12 @@
 ---
-title: Primerica Inc Primerica Inc
+title: Primerica Inc
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/insurance, short, thesis/ponzi]
 type: stock
 ticker: PRI
 draft: false
 ---
-# Primerica Inc (stocks/PRI), Primerica Inc
+# Primerica Inc (stocks/PRI)
 
 Thesis: ponzi, analyst: edwin-dorsey, sector: insurance.
 

@@ -1,12 +1,12 @@
 ---
-title: quote quote
+title: quote
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/<unsure>, analyst/unknown, focus/security, market/canada, potential/long, sector/energy, thesis/energy]
 type: stock
 ticker: BNE
 draft: false
 ---
-# quote (stocks/BNE.TO), quote
+# quote (stocks/BNE.TO)
 
 Thesis: energy, analyst: <unsure>, sector: energy.
 

@@ -1,12 +1,12 @@
 ---
-title: Roblox Roblox
+title: Roblox
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hindenburg-research, focus/security, market/united-states, potential/short, sector/gaming, short, thesis/reputation]
 type: stock
 ticker: RBLX
 draft: false
 ---
-# Roblox (stocks/RBLX), Roblox
+# Roblox (stocks/RBLX)
 
 Thesis: reputation, analyst: hindenberg, sector: gaming.
 

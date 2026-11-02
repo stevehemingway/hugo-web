@@ -1,12 +1,12 @@
 ---
-title: LPP LPP
+title: LPP
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hindenburg-research, focus/security, market/poland, potential/short, sector/retail, short, thesis/fraud]
 type: stock
 ticker: LPP
 draft: false
 ---
-# LPP (stocks/LPP.WSE), LPP
+# LPP (stocks/LPP.WSE)
 
 Thesis: fraud, analyst: hindenberg, sector: retail.
 

@@ -1,12 +1,12 @@
 ---
-title: PDD Holdings PDD Holdings
+title: PDD Holdings
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/grizzly-research, focus/security, potential/short, sector/Chinese listing, sector/Chinese-listing, sector/chinese-listing, short, thesis/spyware]
 type: stock
 ticker: PDD
 draft: false
 ---
-# PDD Holdings (stocks/PDD), PDD Holdings
+# PDD Holdings (stocks/PDD)
 
 Thesis: spyware, analyst: grizzlyreports, sector: Chinese listing.
 

@@ -6,7 +6,7 @@ type: stock
 ticker: LIFE
 draft: false
 ---
-# Ethos Technologies 
+# Ethos Technologies
 
 Update: 4 Oct 2026
 

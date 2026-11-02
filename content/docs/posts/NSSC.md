@@ -1,12 +1,12 @@
 ---
-title: Napco Security Technologies Napco Security Technologies
+title: Napco Security Technologies
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fuzzy-panda, focus/security, potential/short, sector/IT, sector/it, short, thesis/fraud]
 type: stock
 ticker: NSSC
 draft: false
 ---
-# Napco Security Technologies (stocks/NSSC), Napco Security Technologies
+# Napco Security Technologies (stocks/NSSC)
 
 Thesis: fraud, analyst: fuzzy-panda, sector: IT.
 

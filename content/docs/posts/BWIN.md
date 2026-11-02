@@ -1,12 +1,12 @@
 ---
-title: Baldwin Insurance Group Baldwin Insurance Group
+title: Baldwin Insurance Group
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/blue-orca, focus/security, potential/short, sector/insurance brokers, sector/insurance-brokers, short, thesis/fraud, tracked]
 type: stock
 ticker: BWIN
 draft: false
 ---
-# Baldwin Insurance Group (stocks/BWIN), Baldwin Insurance Group
+# Baldwin Insurance Group (stocks/BWIN)
 
 Thesis: fraud, analyst: blue-orca, sector: insurance brokers.
 

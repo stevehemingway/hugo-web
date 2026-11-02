@@ -1,12 +1,12 @@
 ---
-title: Lion Electric Inc Lion Electric Inc
+title: Lion Electric Inc
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/sunshine research, analyst/sunshine-research, focus/security, potential/short, sector/electric vehicles, sector/electric-vehicles, short, thesis/safety]
 type: stock
 ticker: LEV
 draft: false
 ---
-# Lion Electric Inc (stocks/LEV), Lion Electric Inc
+# Lion Electric Inc (stocks/LEV)
 
 Thesis: safety, analyst: Sunshine Research, sector: electric vehicles.
 

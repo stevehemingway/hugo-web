@@ -1,12 +1,12 @@
 ---
-title: SuperX AI Technology SuperX AI Technology
+title: SuperX AI Technology
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/j-capital-research, focus/security, market/hong-kong, potential/short, sector/interior design!, sector/interior-design!, short, thesis/fraud]
 type: stock
 ticker: SUPX
 draft: false
 ---
-# SuperX AI Technology (stocks/SUPX), SuperX AI Technology
+# SuperX AI Technology (stocks/SUPX)
 
 Thesis: fraud, analyst: j-capital-research, sector: interior design!.
 

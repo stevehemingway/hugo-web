@@ -1,12 +1,12 @@
 ---
-title: EHang Holdings EHang Holdings
+title: EHang Holdings
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hindenburg-research, focus/security, potential/short, sector/aviation, short, thesis/fraud]
 type: stock
 ticker: EH
 draft: false
 ---
-# EHang Holdings (stocks/EH), EHang Holdings
+# EHang Holdings (stocks/EH)
 
 Thesis: fraud, analyst: hindenberg, sector: aviation.
 

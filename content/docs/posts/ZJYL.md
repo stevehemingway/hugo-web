@@ -1,12 +1,12 @@
 ---
-title: Jin Medical International Jin Medical International
+title: Jin Medical International
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/culpeper-research, focus/security, potential/short, sector/medical devices, sector/medical-devices, short, thesis/fraud]
 type: stock
 ticker: ZJYL
 draft: false
 ---
-# Jin Medical International (stocks/ZJYL), Jin Medical International
+# Jin Medical International (stocks/ZJYL)
 
 Thesis: fraud, analyst: culper-research, sector: medical devices.
 

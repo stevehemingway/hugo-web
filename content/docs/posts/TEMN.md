@@ -1,12 +1,12 @@
 ---
-title: Temenos Temenos
+title: Temenos
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hindeberg-research, focus/security, potential/short, sector/software, short, thesis/fraud]
 type: stock
 ticker: TEMN
 draft: false
 ---
-# Temenos (stocks/TEMN), Temenos
+# Temenos (stocks/TEMN)
 
 Thesis: fraud, analyst: hindeberg-research, sector: software.
 

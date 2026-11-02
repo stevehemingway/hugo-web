@@ -1,12 +1,12 @@
 ---
-title: Super Micro Super Micro
+title: Super Micro
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hindenburg-research, focus/security, potential/short, sector/IT hardware, sector/IT-hardware, sector/it-hardware, short, thesis/fraud]
 type: stock
 ticker: SMCI
 draft: false
 ---
-# Super Micro (stocks/SMCI), Super Micro
+# Super Micro (stocks/SMCI)
 
 Thesis: fraud, analyst: hindenberg, sector: IT hardware.
 

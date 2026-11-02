@@ -1,12 +1,12 @@
 ---
-title: Vedanta Vedanta
+title: Vedanta
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/viceroy-research, focus/security, potential/short, sector/conglomerate, short, thesis/fraud]
 type: stock
 ticker: VEDL
 draft: false
 ---
-# Vedanta (stocks/VEDL), Vedanta
+# Vedanta (stocks/VEDL)
 
 Thesis: fraud, analyst: viceroy-research, sector: conglomerate.
 

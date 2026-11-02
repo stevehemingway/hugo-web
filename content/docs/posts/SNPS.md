@@ -1,12 +1,12 @@
 ---
-title: synopsys synopsys
+title: synopsys
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/chips, thesis/monopoly]
 type: stock
 ticker: SNPS
 draft: false
 ---
-# synopsys (stocks/SNPS), synopsys
+# synopsys (stocks/SNPS)
 
 Thesis: monopoly, analyst: bristlemoon, sector: chips.
 

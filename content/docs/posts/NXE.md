@@ -6,7 +6,7 @@ type: stock
 ticker: NXE
 draft: false
 ---
-# NextGen Energy 
+# NextGen Energy
 #
 
 #

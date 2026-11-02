@@ -1,12 +1,12 @@
 ---
-title: Ubiquity Inc Ubiquity Inc
+title: Ubiquity Inc
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/hunterbrook, focus/security, potential/long, sector/technology, thesis/moat]
 type: stock
 ticker: UI
 draft: false
 ---
-# Ubiquity Inc (stocks/UI), Ubiquity Inc
+# Ubiquity Inc (stocks/UI)
 
 Thesis: moat, analyst: hunterbrook, sector: technology.
 

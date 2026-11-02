@@ -1,12 +1,12 @@
 ---
-title: xponential fitness xponential fitness
+title: xponential fitness
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/franchising, thesis/cheap]
 type: stock
 ticker: XPOF
 draft: false
 ---
-# xponential fitness (stocks/XPOF), xponential fitness
+# xponential fitness (stocks/XPOF)
 
 Thesis: cheap, analyst: bristlemoon-capital, sector: franchising.
 

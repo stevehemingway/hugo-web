@@ -1,12 +1,12 @@
 ---
-title: ASP Isotopes ASP Isotopes
+title: ASP Isotopes
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fuzzy-panda-research, focus/security, market/united-states, potential/short, sector/mining, short, thesis/fraud, tracked]
 type: stock
 ticker: ASPI
 draft: false
 ---
-# ASP Isotopes (stocks/ASPI), ASP Isotopes
+# ASP Isotopes (stocks/ASPI)
 
 Thesis: fraud, analyst: fuzzy-panda-research, sector: mining.
 

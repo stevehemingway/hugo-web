@@ -1,12 +1,12 @@
 ---
-title: Richtech Robotics Richtech Robotics
+title: Richtech Robotics
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fugazi-research, focus/security, potential/short, sector/china-hype, short, thesis/fraud]
 type: stock
 ticker: RR
 draft: false
 ---
-# Richtech Robotics (stocks/RR), Richtech Robotics
+# Richtech Robotics (stocks/RR)
 
 Thesis: fraud, analyst: fugaziresearch, sector: china-hype.
 

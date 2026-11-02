@@ -1,12 +1,12 @@
 ---
-title: AXOS AXOS
+title: AXOS
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, market/united-states, potential/short, sector/real estate, sector/real-estate, short, thesis/fraud, tracked]
 type: stock
 ticker: AX
 draft: false
 ---
-# AXOS (stocks/AX), AXOS
+# AXOS (stocks/AX)
 
 Thesis: fraud, analyst: dorsey, sector: real estate.
 

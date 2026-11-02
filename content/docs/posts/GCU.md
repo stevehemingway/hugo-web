@@ -1,12 +1,12 @@
 ---
-title: company_name company_name
+title: company_name
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, potential/long, potential/short, sector/sector, thesis/fraud]
 type: stock
 ticker: GCU
 draft: false
 ---
-# company_name (stocks/GCU), company_name
+# company_name (stocks/GCU)
 
 Thesis: fraud, analyst: analyst, sector: sector.
 

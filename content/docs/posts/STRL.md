@@ -1,12 +1,12 @@
 ---
-title: Sterling Infrastructure Inc Sterling Infrastructure Inc
+title: Sterling Infrastructure Inc
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/snowcap-research, focus/security, potential/short, sector/construction, thesis/fraud]
 type: stock
 ticker: STRL
 draft: false
 ---
-# Sterling Infrastructure Inc (stocks/STRL), Sterling Infrastructure Inc
+# Sterling Infrastructure Inc (stocks/STRL)
 
 Thesis: fraud, analyst: snowcap-research, sector: construction.
 

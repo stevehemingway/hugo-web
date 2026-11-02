@@ -1,12 +1,12 @@
 ---
-title: Arbor Realty Trust Inc. Arbor Realty Trust Inc.
+title: Arbor Realty Trust Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/viceroy-research, focus/security, market/united-states, potential/short, sector/REIT, sector/reit, short, thesis/economics, tracked]
 type: stock
 ticker: ARB
 draft: false
 ---
-# Arbor Realty Trust Inc. (stocks/ARB), Arbor Realty Trust Inc.
+# Arbor Realty Trust Inc. (stocks/ARB)
 
 Thesis: economics, analyst: viceroy-research, sector: REIT.
 

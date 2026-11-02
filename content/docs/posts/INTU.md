@@ -1,12 +1,12 @@
 ---
-title: Intuit Inc. Intuit Inc.
+title: Intuit Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/software, short, thesis/economics]
 type: stock
 ticker: INTU
 draft: false
 ---
-# Intuit Inc. (stocks/INTU), Intuit Inc.
+# Intuit Inc. (stocks/INTU)
 
 Thesis: economics, analyst: spruce-point, sector: software.
 

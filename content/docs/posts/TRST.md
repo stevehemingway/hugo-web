@@ -1,12 +1,12 @@
 ---
-title: Trustpilot Trustpilot
+title: Trustpilot
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hithawk, focus/security, potential/short, sector/media, short, thesis/fraud]
 type: stock
 ticker: TRST
 draft: false
 ---
-# Trustpilot (stocks/TRST), Trustpilot
+# Trustpilot (stocks/TRST)
 
 Thesis: fraud, analyst: hithawk, sector: media.
 

@@ -1,12 +1,12 @@
 ---
-title: Nanu Nuclear Nanu Nuclear
+title: Nanu Nuclear
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hunterbrook, focus/security, potential/short, sector/energy, short, thesis/economics]
 type: stock
 ticker: NNE
 draft: false
 ---
-# Nanu Nuclear (stocks/NNE), Nanu Nuclear
+# Nanu Nuclear (stocks/NNE)
 
 Thesis: economics, analyst: hunterbrook, sector: energy.
 

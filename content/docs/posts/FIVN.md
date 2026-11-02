@@ -1,12 +1,12 @@
 ---
-title: Five9 Five9
+title: Five9
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/IT, sector/it, short, thesis/economics]
 type: stock
 ticker: FIVN
 draft: false
 ---
-# Five9 (stocks/FIVN), Five9
+# Five9 (stocks/FIVN)
 
 Thesis: economics, analyst: dorsey, sector: IT.
 

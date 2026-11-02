@@ -1,12 +1,12 @@
 ---
-title: Eurofins Eurofins
+title: Eurofins
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/muddy-waters, focus/security, market/france, potential/short, sector/drug testing, sector/drug-testing, short, thesis/fraud]
 type: stock
 ticker: ERF
 draft: false
 ---
-# Eurofins (stocks/ERF.FP), Eurofins
+# Eurofins (stocks/ERF.FP)
 
 Thesis: fraud, analyst: muddy-waters, sector: drug testing.
 

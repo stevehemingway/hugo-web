@@ -1,12 +1,12 @@
 ---
-title: Interactive Brokers Interactive Brokers
+title: Interactive Brokers
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/finance, thesis/economics]
 type: stock
 ticker: IBKR
 draft: false
 ---
-# Interactive Brokers (stocks/IBKR), Interactive Brokers
+# Interactive Brokers (stocks/IBKR)
 
 Thesis: economics, analyst: bristlemoon-capital, sector: finance.
 

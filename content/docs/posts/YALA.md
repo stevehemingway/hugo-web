@@ -1,12 +1,12 @@
 ---
-title: Yala Group Yala Group
+title: Yala Group
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/pelican-bay-research, focus/security, potential/short, sector/gaming, short, thesis/fraud]
 type: stock
 ticker: YALA
 draft: false
 ---
-# Yala Group (stocks/YALA), Yala Group
+# Yala Group (stocks/YALA)
 
 Thesis: fraud, analyst: pelican-bay-research, sector: gaming.
 

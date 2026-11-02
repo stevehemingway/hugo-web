@@ -1,12 +1,12 @@
 ---
-title: Boss Resources Ltd. Boss Resources Ltd.
+title: Boss Resources Ltd.
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, potential/long, sector/miners, thesis/uranium]
 type: stock
 ticker: BOE
 draft: false
 ---
-# Boss Resources Ltd. (stocks/BOE), Boss Resources Ltd.
+# Boss Resources Ltd. (stocks/BOE)
 
 Thesis: uranium, analyst: me, sector: miners.
 

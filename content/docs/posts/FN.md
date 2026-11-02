@@ -1,12 +1,12 @@
 ---
-title: Fabrinet Fabrinet
+title: Fabrinet
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/restrinct, focus/security, potential/short, sector/tech, short, thesis/thesis]
 type: stock
 ticker: FN
 draft: false
 ---
-# Fabrinet (stocks/FN), Fabrinet
+# Fabrinet (stocks/FN)
 
 Thesis: thesis, analyst: Restrinct, sector: tech.
 

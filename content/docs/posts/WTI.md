@@ -1,12 +1,12 @@
 ---
-title: W&T Offshore W&T Offshore
+title: W&T Offshore
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/pinecone macro, analyst/pinecone-macro, focus/security, potential/long, sector/offshore-oil, thesis/global supply, thesis/global-supply]
 type: stock
 ticker: WTI
 draft: false
 ---
-# W&T Offshore (stocks/WTI), W&T Offshore
+# W&T Offshore (stocks/WTI)
 
 Thesis: global supply, analyst: pinecone macro, sector: offshore-oil.
 

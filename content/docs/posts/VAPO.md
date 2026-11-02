@@ -12,7 +12,7 @@ draft: false
 - 
 ![](https://whitediamondresearch.com/wp-content/themes/enfold/images/1slider_image.jpg)
 
-# [VAPO Likely Facing Imminent Bankruptcy](https://whitediamondresearch.com/archive/vapo-likely-facing-imminent-bankruptcy/ "Permanent Link: VAPO Likely Facing Imminent Bankruptcy")
+# [VAPO Likely Facing Imminent Bankruptcy](https://whitediamondresearch.com/archive/vapo-likely-facing-imminent-bankruptcy/ "Permanent Link: VAPO Bankruptcy")
 
 **Unable To Raise Funds And With Low Cash Breaking Its Debt Covenant, Vapotherm Is Likely On The Verge of Bankruptcy**
 

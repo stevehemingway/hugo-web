@@ -1,12 +1,12 @@
 ---
-title: Serve Robotics Serve Robotics
+title: Serve Robotics
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/bonitas-research, analyst/edwin-dorsey, focus/security, potential/short, sector/tech, short, thesis/product]
 type: stock
 ticker: SERV
 draft: false
 ---
-# Serve Robotics (stocks/SERV), Serve Robotics
+# Serve Robotics (stocks/SERV)
 
 Thesis: product, analyst: bonitas-research, sector: tech.
 

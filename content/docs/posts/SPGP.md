@@ -1,12 +1,12 @@
 ---
-title: iShares Gold Producers iShares Gold Producers
+title: iShares Gold Producers
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/comment in ft, analyst/comment-in-ft, focus/security, potential/long, sector/mining, thesis/cheap exposure, thesis/cheap-exposure]
 type: stock
 ticker: SPGP
 draft: false
 ---
-# iShares Gold Producers (stocks/SPGP), iShares Gold Producers
+# iShares Gold Producers (stocks/SPGP)
 
 Thesis: cheap exposure, analyst: comment in FT, sector: mining.
 

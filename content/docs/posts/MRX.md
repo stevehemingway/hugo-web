@@ -1,12 +1,12 @@
 ---
-title: Marex Group plc Marex Group plc
+title: Marex Group plc
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/ningni research, analyst/ningni-research, focus/security, potential/short, sector/financial, short, thesis/fraud]
 type: stock
 ticker: MRX
 draft: false
 ---
-# Marex Group plc (stocks/MRX), Marex Group plc
+# Marex Group plc (stocks/MRX)
 
 Thesis: fraud, analyst: Ningni research, sector: financial.
 

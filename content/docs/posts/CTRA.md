@@ -1,12 +1,12 @@
 ---
-title: Coterra Energy Coterra Energy
+title: Coterra Energy
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/robert armstrong, analyst/robert-armstrong, focus/security, potential/long, sector/drilling, thesis/cheap]
 type: stock
 ticker: CTRA
 draft: false
 ---
-# Coterra Energy (stocks/CTRA), Coterra Energy
+# Coterra Energy (stocks/CTRA)
 
 Thesis: cheap, analyst: robert armstrong, sector: drilling.
 

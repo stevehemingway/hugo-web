@@ -1,12 +1,12 @@
 ---
-title: Global X MSCI Argentina ETF Global X MSCI Argentina ETF
+title: Global X MSCI Argentina ETF
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, potential/long, sector/ETF, sector/etf, thesis/undervalued]
 type: stock
 ticker: ARGT
 draft: false
 ---
-# Global X MSCI Argentina ETF (stocks/ARGT), Global X MSCI Argentina ETF
+# Global X MSCI Argentina ETF (stocks/ARGT)
 
 Thesis: undervalued, analyst: analyst, sector: ETF.
 

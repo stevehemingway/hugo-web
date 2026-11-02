@@ -1,12 +1,12 @@
 ---
-title: Oddity Oddity
+title: Oddity
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/advertising, short, thesis/misrepresentation]
 type: stock
 ticker: ODD
 draft: false
 ---
-# Oddity (stocks/ODD), Oddity
+# Oddity (stocks/ODD)
 
 Thesis: misrepresentation, analyst: edwin-dorsey, sector: advertising.
 

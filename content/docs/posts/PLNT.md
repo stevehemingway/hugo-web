@@ -1,12 +1,12 @@
 ---
-title: Planet Fitness Planet Fitness
+title: Planet Fitness
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/leisure, short, thesis/fraud]
 type: stock
 ticker: PLNT
 draft: false
 ---
-# Planet Fitness (stocks/PLNT), Planet Fitness
+# Planet Fitness (stocks/PLNT)
 
 Thesis: fraud, analyst: dorsey, sector: leisure.
 

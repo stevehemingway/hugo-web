@@ -1,12 +1,12 @@
 ---
-title: Assa Abloy Assa Abloy
+title: Assa Abloy
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, potential/long, sector/builing and security systems, sector/builing-and-security-systems, thesis/dominant position, thesis/dominant-position]
 type: stock
 ticker: ASSAB
 draft: false
 ---
-# Assa Abloy (stocks/ASSAB), Assa Abloy
+# Assa Abloy (stocks/ASSAB)
 
 Thesis: dominant position, analyst: me, sector: builing and security systems.
 

@@ -1,12 +1,12 @@
 ---
-title: Lanvin Group Lanvin Group
+title: Lanvin Group
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/unknown, short, thesis/resignation]
 type: stock
 ticker: LANV
 draft: false
 ---
-# Lanvin Group (stocks/LANV), Lanvin Group
+# Lanvin Group (stocks/LANV)
 
 Thesis: resignation, analyst: edwin-dorsey, sector: unknown.
 

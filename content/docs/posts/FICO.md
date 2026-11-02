@@ -1,12 +1,12 @@
 ---
-title: Fair-Isaac Corp. Fair-Isaac Corp.
+title: Fair-Isaac Corp.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/bristlemoon-capital, focus/security, potential/short, sector/sector, short, thesis/fraud]
 type: stock
 ticker: FICO
 draft: false
 ---
-# Fair-Isaac Corp. (stocks/FICO), Fair-Isaac Corp.
+# Fair-Isaac Corp. (stocks/FICO)
 
 Thesis: fraud, analyst: bristlemoon-capital, sector: sector.
 

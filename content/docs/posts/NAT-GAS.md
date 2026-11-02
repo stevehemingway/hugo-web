@@ -1,12 +1,12 @@
 ---
-title: Natural Gas Natural Gas
+title: Natural Gas
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, focus/theme, potential/long, sector/commodity, thesis/commodity]
 type: stock
 ticker: NAT-GAS
 draft: false
 ---
-# Natural Gas (stocks/NAT-GAS), Natural Gas
+# Natural Gas (stocks/NAT-GAS)
 
 Thesis: commodity, analyst: analyst, sector: commodity.
 

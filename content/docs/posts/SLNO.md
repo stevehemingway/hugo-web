@@ -1,12 +1,12 @@
 ---
-title: Soleno Therapeutics Soleno Therapeutics
+title: Soleno Therapeutics
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/scorpion-capital, focus/security, potential/short, sector/pharma, short, thesis/fraud]
 type: stock
 ticker: SLNO
 draft: false
 ---
-# Soleno Therapeutics (stocks/SLNO), Soleno Therapeutics
+# Soleno Therapeutics (stocks/SLNO)
 
 Thesis: fraud, analyst: scorpion-capital, sector: pharma.
 

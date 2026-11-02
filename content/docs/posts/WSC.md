@@ -1,12 +1,12 @@
 ---
-title: Willscot Inc. Willscot Inc.
+title: Willscot Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/df-research, focus/security, potential/short, sector/b-to-b, short, thesis/fraud]
 type: stock
 ticker: WSC
 draft: false
 ---
-# Willscot Inc. (stocks/WSC), Willscot Inc.
+# Willscot Inc. (stocks/WSC)
 
 Thesis: fraud, analyst: df-research, sector: b-to-b.
 

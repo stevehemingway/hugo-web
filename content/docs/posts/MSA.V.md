@@ -1,12 +1,12 @@
 ---
-title: Mineros SA Mineros SA
+title: Mineros SA
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/brandon-at-micro ops, analyst/brandon-at-micro-ops, focus/security, market/canada, potential/long, sector/gold mining, sector/gold-mining, thesis/good FCF, thesis/good-FCF, thesis/good-fcf]
 type: stock
 ticker: MSA
 draft: false
 ---
-# Mineros SA (stocks/MSA.V), Mineros SA
+# Mineros SA (stocks/MSA.V)
 
 Thesis: good FCF, analyst: brandon-at-Micro Ops, sector: gold mining.
 

@@ -1,12 +1,12 @@
 ---
-title: Go Easy Go Easy
+title: Go Easy
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/jehoshaphat-research, focus/security, market/canada, potential/short, sector/finance, short, thesis/fraud]
 type: stock
 ticker: GSY
 draft: false
 ---
-# Go Easy (stocks/GSY.CA), Go Easy
+# Go Easy (stocks/GSY.CA)
 
 Thesis: fraud, analyst: jehosaphat-research, sector: finance.
 

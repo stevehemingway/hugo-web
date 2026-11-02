@@ -6,7 +6,7 @@ type: stock
 ticker: AAOI
 draft: false
 ---
-# Update: 2024-04-12 
+# Update: 2024-04-12
 
 [Citron Research piles in](https://x.com/CitronResearch/status/2042598525817463059?s=20)
 

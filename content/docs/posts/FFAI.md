@@ -1,12 +1,12 @@
 ---
-title: Faraday Future Faraday Future
+title: Faraday Future
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/wolfpack-research, focus/security, potential/short, sector/EV, sector/ev, short, thesis/fraud]
 type: stock
 ticker: FFAI
 draft: false
 ---
-# Faraday Future (stocks/FFAI), Faraday Future
+# Faraday Future (stocks/FFAI)
 
 Thesis: fraud, analyst: wolfpack-research, sector: EV.
 

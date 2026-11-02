@@ -1,12 +1,12 @@
 ---
-title: Lululemon Athletica Lululemon Athletica
+title: Lululemon Athletica
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/me, focus/security, market/united-states, potential/short, sector/retail, short, thesis/economics]
 type: stock
 ticker: LULU
 draft: false
 ---
-# Lululemon Athletica (stocks/LULU), Lululemon Athletica
+# Lululemon Athletica (stocks/LULU)
 
 Thesis: economics, analyst: me, sector: retail.
 

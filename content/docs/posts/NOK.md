@@ -1,12 +1,12 @@
 ---
-title: Norweigen Kroner Norweigen Kroner
+title: Norweigen Kroner
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, potential/long, sector/currency, thesis/value]
 type: stock
 ticker: NOK
 draft: false
 ---
-# Norweigen Kroner (stocks/NOK), Norweigen Kroner
+# Norweigen Kroner (stocks/NOK)
 
 Thesis: value, analyst: analyst, sector: currency.
 

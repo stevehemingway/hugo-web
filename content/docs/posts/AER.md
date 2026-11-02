@@ -1,12 +1,12 @@
 ---
-title: AerCap AerCap
+title: AerCap
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/bristlemoon-capital, focus/security, market/united-states, potential/long, sector/aircraft leasing, sector/aircraft-leasing, thesis/economics]
 type: stock
 ticker: AER
 draft: false
 ---
-# AerCap (stocks/AER), AerCap
+# AerCap (stocks/AER)
 
 Thesis: economics, analyst: bristlemoon-capital, sector: aircraft leasing.
 

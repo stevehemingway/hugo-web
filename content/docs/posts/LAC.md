@@ -1,12 +1,12 @@
 ---
-title: Lithium Americas Corp Lithium Americas Corp
+title: Lithium Americas Corp
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/bleeker-street, analyst/bleeker-street-research, focus/security, potential/short, sector/mining, short, thesis/economics]
 type: stock
 ticker: LAC
 draft: false
 ---
-# Lithium Americas Corp (stocks/LAC), Lithium Americas Corp
+# Lithium Americas Corp (stocks/LAC)
 
 Thesis: economics, analyst: bleeker-street, sector: mining.
 

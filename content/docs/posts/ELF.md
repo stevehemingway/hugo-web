@@ -1,12 +1,12 @@
 ---
-title: e.l.f. Beauty e.l.f. Beauty
+title: e.l.f. Beauty
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/cosmetics, short, thesis/fraud]
 type: stock
 ticker: ELF
 draft: false
 ---
-# e.l.f. Beauty (stocks/ELF), e.l.f. Beauty
+# e.l.f. Beauty (stocks/ELF)
 
 Thesis: fraud, analyst: spruce-point, sector: cosmetics.
 

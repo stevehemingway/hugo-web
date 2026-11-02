@@ -1,12 +1,12 @@
 ---
-title: Evolv Technologies Inc. Evolv Technologies Inc.
+title: Evolv Technologies Inc.
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/hunterbrook, focus/security, potential/long, sector/ai, thesis/oversold]
 type: stock
 ticker: EVLV
 draft: false
 ---
-# Evolv Technologies Inc. (stocks/EVLV), Evolv Technologies Inc.
+# Evolv Technologies Inc. (stocks/EVLV)
 
 Thesis: oversold, analyst: hunterbrook, sector: ai.
 

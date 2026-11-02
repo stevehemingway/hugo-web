@@ -1,12 +1,12 @@
 ---
-title: Plug Power Inc Plug Power Inc
+title: Plug Power Inc
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hunterbrook, focus/security, market/united-states, potential/short, sector/green energy, sector/green-energy, short, thesis/economics]
 type: stock
 ticker: PLUG
 draft: false
 ---
-# Plug Power Inc (stocks/PLUG), Plug Power Inc
+# Plug Power Inc (stocks/PLUG)
 
 Thesis: economics, analyst: hunterbrook, sector: green energy.
 

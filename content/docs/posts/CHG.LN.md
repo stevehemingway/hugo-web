@@ -1,12 +1,12 @@
 ---
-title: CHEMRING CHEMRING
+title: CHEMRING
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/massif-capital, focus/security, market/uk, potential/long, sector/defence, thesis/moat]
 type: stock
 ticker: CHG
 draft: false
 ---
-# CHEMRING (stocks/CHG.LN), CHEMRING
+# CHEMRING (stocks/CHG.LN)
 
 Thesis: moat, analyst: massif-capital, sector: defence.
 

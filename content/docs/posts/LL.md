@@ -1,12 +1,12 @@
 ---
-title: LL Flooring Holdings LL Flooring Holdings
+title: LL Flooring Holdings
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/bleeker-street-research, focus/security, potential/short, sector/flooring, short, thesis/stock pump via fake offer, thesis/stock-pump-via-fake-offer]
 type: stock
 ticker: LL
 draft: false
 ---
-# LL Flooring Holdings (stocks/LL), LL Flooring Holdings
+# LL Flooring Holdings (stocks/LL)
 
 Thesis: stock pump via fake offer, analyst: bleeker-street-research, sector: flooring.
 

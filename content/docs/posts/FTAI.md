@@ -1,5 +1,5 @@
 ---
-title: FTAI Aviation FTAI Aviation
+title: FTAI Aviation
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/muddy-waters, analyst/muddy-waters and snowcap research, analyst/snowcap-research, focus/security, potential/short, sector/aviation, short, thesis/fraud]
 type: stock
@@ -12,7 +12,7 @@ Update: <https://open.substack.com/pub/bristlemoon/p/ftai-aviation-ftai-us-the-e
 
 
 
-# FTAI Aviation (stocks/FTAI), FTAI Aviation
+# FTAI Aviation (stocks/FTAI)
 
 Thesis: fraud, analyst: muddy-waters and snowcap research, sector: aviation.
 

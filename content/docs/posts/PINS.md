@@ -1,12 +1,12 @@
 ---
-title: Pinterest Pinterest
+title: Pinterest
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/grizzly-research, focus/security, potential/short, sector/cmt, short, thesis/economics]
 type: stock
 ticker: PINS
 draft: false
 ---
-# Pinterest (stocks/PINS), Pinterest
+# Pinterest (stocks/PINS)
 
 Thesis: economics, analyst: grizzly-research, sector: cmt.
 

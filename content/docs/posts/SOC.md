@@ -1,12 +1,12 @@
 ---
-title: Sable Offshore Sable Offshore
+title: Sable Offshore
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/oil-and-gas, short, thesis/economics]
 type: stock
 ticker: SOC
 draft: false
 ---
-# Sable Offshore (stocks/SOC), Sable Offshore
+# Sable Offshore (stocks/SOC)
 
 Thesis: economics, analyst: Hunterbrook Media, sector: oil-and-gas.
 

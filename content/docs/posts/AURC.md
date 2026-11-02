@@ -6,7 +6,7 @@ type: stock
 ticker: AURC
 draft: false
 ---
-# Aurora Acquisition Corp: death by dilution 
+# Aurora Acquisition Corp: death by dilution
 
 
 Thesis: dilution, analyst: guasty-winds, sector: Aurora Acquisition Corp.

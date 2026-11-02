@@ -1,12 +1,12 @@
 ---
-title: Gogo Inc. Gogo Inc.
+title: Gogo Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/bleeker-street, analyst/bleeker-street-research, focus/security, potential/short, sector/TMT, sector/tmt, short, thesis/competition]
 type: stock
 ticker: GOGO
 draft: false
 ---
-# Gogo Inc. (stocks/GOGO), Gogo Inc.
+# Gogo Inc. (stocks/GOGO)
 
 Thesis: competition, analyst: bleeker-street, sector: TMT.
 

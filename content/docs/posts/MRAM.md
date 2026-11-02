@@ -6,7 +6,7 @@ type: stock
 ticker: MRAM
 draft: false
 ---
-# Everspin Technologies 
+# Everspin Technologies
 
 Kerrisdale Capital published on Everspin Technologies (NASDAQ: MRAM — $790 million), a niche chipmaker company. Kerrisdale alleged the company “doesn’t have a meaningful role in the hyperscale AI infrastructure buildout driving today’s semiconductor boom” despite its stock rising 300% over the last six months. Kerrisdale estimated the company has 63% downside and wrote:
 

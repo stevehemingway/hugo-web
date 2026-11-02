@@ -1,11 +1,11 @@
 ---
-title: Beeline Beeline
+title: Beeline
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, potential/long, sector/fintech, thesis/fintech]
 type: note
 draft: false
 ---
-# Beeline (stocks/Beeline), Beeline
+# Beeline (stocks/Beeline)
 
 Thesis: fintech, analyst: analyst, sector: fintech.
 

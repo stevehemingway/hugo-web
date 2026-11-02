@@ -1,12 +1,12 @@
 ---
-title: Granite Construction Granite Construction
+title: Granite Construction
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/glasshouse-research, focus/security, potential/short, sector/construction, short, thesis/fraud]
 type: stock
 ticker: GVA
 draft: false
 ---
-# Granite Construction (stocks/GVA), Granite Construction
+# Granite Construction (stocks/GVA)
 
 Thesis: fraud, analyst: glasshouse-research, sector: construction.
 

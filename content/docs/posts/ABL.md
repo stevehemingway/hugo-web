@@ -1,12 +1,12 @@
 ---
-title: 'Abacus Global Management (NASDAQ: ABL) Abacus Global Management (NASDAQ: ABL)'
+title: 'Abacus Global Management (NASDAQ: ABL)'
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/morpheus-research, focus/security, market/united-states, potential/short, sector/asset management, sector/asset-management, short, thesis/fraud, tracked]
 type: stock
 ticker: ABL
 draft: false
 ---
-# Abacus Global Management (NASDAQ: ABL) (stocks/ABL), Abacus Global Management (NASDAQ: ABL)
+# Abacus Global Management (NASDAQ: ABL) (stocks/ABL)
 
 Thesis: fraud, analyst: morpheus-research, sector: asset management.
 

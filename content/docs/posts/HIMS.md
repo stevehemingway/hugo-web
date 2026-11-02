@@ -1,12 +1,12 @@
 ---
-title: Hims and Hers Hims and Hers
+title: Hims and Hers
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/bear-cave, analyst/bear-cave, herb-greenberg, analyst/bear-cave,-herb-greenberg, analyst/herb-greenberg, focus/security, potential/short, sector/pharma, short, thesis/fraud]
 type: stock
 ticker: HIMS
 draft: false
 ---
-# Hims and Hers (stocks/HIMS), Hims and Hers
+# Hims and Hers (stocks/HIMS)
 
 Thesis: fraud, analyst: bear-cave, herb-greenberg, sector: pharma.
 

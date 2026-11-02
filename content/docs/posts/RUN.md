@@ -1,12 +1,12 @@
 ---
-title: Sunrun Sunrun
+title: Sunrun
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/muddy-waters, focus/security, potential/long, potential/short, sector/finance, short, thesis/fraud]
 type: stock
 ticker: RUN
 draft: false
 ---
-# Sunrun (stocks/RUN), Sunrun
+# Sunrun (stocks/RUN)
 
 Thesis: fraud, analyst: muddy-waters, sector: .
 

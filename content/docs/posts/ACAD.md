@@ -1,12 +1,12 @@
 ---
-title: company name company name
+title: company name
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/culpeper-research, focus/security, potential/short, sector/sector, short, thesis/thesis, tracked]
 type: stock
 ticker: ACAD
 draft: false
 ---
-# company name (stocks/ACAD), company name
+# company name (stocks/ACAD)
 
 Thesis: thesis, analyst: culper-research, sector: sector.
 

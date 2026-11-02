@@ -1,12 +1,12 @@
 ---
-title: ProPetro Holding Corp ProPetro Holding Corp
+title: ProPetro Holding Corp
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/guasty-winds, focus/security, potential/long, sector/oilfield-services, thesis/asymmetric]
 type: stock
 ticker: PUMP-US
 draft: false
 ---
-# ProPetro Holding Corp (stocks/PUMP-US), ProPetro Holding Corp
+# ProPetro Holding Corp (stocks/PUMP-US)
 
 Thesis: asymmetric, analyst: guasty-winds, sector: oilfield-services.
 

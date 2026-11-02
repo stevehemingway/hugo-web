@@ -1,12 +1,12 @@
 ---
-title: Nextstar Media Group Inc Nextstar Media Group Inc
+title: Nextstar Media Group Inc
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/grizzly-research, focus/security, potential/short, sector/media, short, thesis/management]
 type: stock
 ticker: NXST
 draft: false
 ---
-# Nextstar Media Group Inc (stocks/NXST), Nextstar Media Group Inc
+# Nextstar Media Group Inc (stocks/NXST)
 
 Thesis: management, analyst: grizzly-reports, sector: media.
 

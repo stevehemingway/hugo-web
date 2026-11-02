@@ -1,12 +1,12 @@
 ---
-title: Globe Life Globe Life
+title: Globe Life
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/friendly-bear, analyst/fuzzy-panda-research, analyst/fuzzy-panda-research, friendly-bear, viceroy-research, analyst/fuzzy-panda-research,-friendly-bear,-viceroy-research, analyst/viceroy-research, focus/security, potential/short, sector/insurance, short, thesis/fraud]
 type: stock
 ticker: GL
 draft: false
 ---
-# Globe Life (stocks/GL), Globe Life
+# Globe Life (stocks/GL)
 
 Thesis: fraud, analyst: fuzzy-panda-research, friendly-bear, viceroy-research, sector: insurance.
 

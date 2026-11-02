@@ -1,12 +1,12 @@
 ---
-title: Medical Properties Trust Medical Properties Trust
+title: Medical Properties Trust
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/viceroy-research, focus/security, potential/short, sector/REIT, sector/reit, short, thesis/fraud]
 type: stock
 ticker: MPW
 draft: false
 ---
-# Medical Properties Trust (stocks/MPW), Medical Properties Trust
+# Medical Properties Trust (stocks/MPW)
 
 Thesis: fraud, analyst: viceroy-research, sector: REIT.
 

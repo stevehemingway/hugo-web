@@ -1,12 +1,12 @@
 ---
-title: Lordstown Motors Lordstown Motors
+title: Lordstown Motors
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/mckenna, focus/security, potential/short, sector/automotive, short, thesis/unprofitable]
 type: stock
 ticker: RIDE
 draft: false
 ---
-# Lordstown Motors (stocks/RIDE), Lordstown Motors
+# Lordstown Motors (stocks/RIDE)
 
 Thesis: unprofitable, analyst: mckenna, sector: automotive.
 

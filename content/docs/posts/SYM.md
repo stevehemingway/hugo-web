@@ -1,12 +1,12 @@
 ---
-title: company_name company_name
+title: company_name
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/anonymous, analyst/anonymous and hunterbrook, analyst/hunterbrook, focus/security, potential/short, sector/sector, short, thesis/thesis]
 type: stock
 ticker: SYM
 draft: false
 ---
-# company_name (stocks/SYM), company_name
+# company_name (stocks/SYM)
 
 Thesis: thesis, analyst: anonymous and hunterbrook, sector: sector.
 

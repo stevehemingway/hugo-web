@@ -1,12 +1,12 @@
 ---
-title: Main Street Capital Main Street Capital
+title: Main Street Capital
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/shadow-banking, short, thesis/fraud]
 type: stock
 ticker: MAIN
 draft: false
 ---
-# Main Street Capital (stocks/MAIN), Main Street Capital
+# Main Street Capital (stocks/MAIN)
 
 Thesis: fraud, analyst: jehosaphat-research, sector: shadow-banking.
 

@@ -1,12 +1,12 @@
 ---
-title: MSCI Inc. MSCI Inc.
+title: MSCI Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/financial services, sector/financial-services, short, thesis/management]
 type: stock
 ticker: MSCI
 draft: false
 ---
-# MSCI Inc. (stocks/MSCI), MSCI Inc.
+# MSCI Inc. (stocks/MSCI)
 
 Thesis: management, analyst: spruce-point-research, sector: financial services.
 

@@ -1,12 +1,12 @@
 ---
-title: Costamare Inc. Costamare Inc.
+title: Costamare Inc.
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/rogue-funds, focus/security, potential/long, sector/bulk-shipping, thesis/cyclical, thesis/value]
 type: stock
 ticker: CMRE
 draft: false
 ---
-# Costamare Inc. (stocks/CMRE), Costamare Inc.
+# Costamare Inc. (stocks/CMRE)
 
 Thesis: value, analyst: rogue-funds, sector: bulk-shipping.
 

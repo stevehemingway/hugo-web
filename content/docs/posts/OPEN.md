@@ -1,12 +1,12 @@
 ---
-title: Opendoor Technologies Opendoor Technologies
+title: Opendoor Technologies
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/citron, focus/security, market/united-states, potential/short, sector/resi-real-estate, short, thesis/fraud]
 type: stock
 ticker: OPEN
 draft: false
 ---
-# Opendoor Technologies (stocks/OPEN), Opendoor Technologies
+# Opendoor Technologies (stocks/OPEN)
 
 Thesis: fraud, analyst: Citron, sector: resi-real-estate.
 

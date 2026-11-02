@@ -1,12 +1,12 @@
 ---
-title: Avangrid Avangrid
+title: Avangrid
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/bear-cave, focus/security, market/united-states, potential/short, sector/electricity, short, thesis/resignations, tracked]
 type: stock
 ticker: AGR
 draft: false
 ---
-# Avangrid (stocks/AGR), Avangrid
+# Avangrid (stocks/AGR)
 
 Thesis: resignations, analyst: bear-cave, sector: electricity.
 

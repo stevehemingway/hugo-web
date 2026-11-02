@@ -1,12 +1,12 @@
 ---
-title: Mitchell Services (based in Aus,presumably) Mitchell Services (based in Aus,presumably)
+title: Mitchell Services (based in Aus,presumably)
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/rogue-funds, focus/security, market/australia, potential/long, sector/civil-engineering, thesis/undeveralued]
 type: stock
 ticker: MSV
 draft: false
 ---
-# Mitchell Services (based in Aus,presumably) (stocks/MSV.AX), Mitchell Services (based in Aus,presumably)
+# Mitchell Services (based in Aus,presumably) (stocks/MSV.AX)
 
 Thesis: undeveralued, analyst: rogue-funds, sector: civil-engineering.
 

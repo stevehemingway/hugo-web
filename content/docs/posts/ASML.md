@@ -1,12 +1,12 @@
 ---
-title: ASML ASML
+title: ASML
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/bristlemoon-capital, focus/security, market/united-states, potential/long, sector/IT, sector/it, thesis/monopoly]
 type: stock
 ticker: ASML
 draft: false
 ---
-# ASML (stocks/ASML), ASML
+# ASML (stocks/ASML)
 
 Thesis: monopoly, analyst: bristlemoon, sector: IT.
 

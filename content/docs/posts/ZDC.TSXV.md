@@ -1,12 +1,12 @@
 ---
-title: Zedcor Inc Zedcor Inc
+title: Zedcor Inc
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/left-field-investing, focus/security, market/canada, potential/long, sector/infrastructure, thesis/economics]
 type: stock
 ticker: ZDC
 draft: false
 ---
-# Zedcor Inc (stocks/ZDC.TSXV), Zedcor Inc
+# Zedcor Inc (stocks/ZDC.TSXV)
 
 Thesis: economics, analyst: left-field-investing, sector: infrastructure.
 

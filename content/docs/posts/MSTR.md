@@ -1,12 +1,12 @@
 ---
-title: MicroStrategy MicroStrategy
+title: MicroStrategy
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/crypto, short, thesis/arbitrage]
 type: stock
 ticker: MSTR
 draft: false
 ---
-# MicroStrategy (stocks/MSTR), MicroStrategy
+# MicroStrategy (stocks/MSTR)
 
 Thesis: arbitrage, analyst: kerrisdale-capital, sector: crypto.
 

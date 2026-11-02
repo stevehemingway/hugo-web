@@ -1,12 +1,12 @@
 ---
-title: Unity Software Unity Software
+title: Unity Software
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/IT, sector/it, thesis/economics]
 type: stock
 ticker: U
 draft: false
 ---
-# Unity Software (stocks/U), Unity Software
+# Unity Software (stocks/U)
 
 Thesis: economics, analyst: bristlemoon, sector: IT.
 

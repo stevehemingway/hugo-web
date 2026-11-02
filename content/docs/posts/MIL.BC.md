@@ -1,12 +1,12 @@
 ---
-title: Brunello Cucinelli Brunello Cucinelli
+title: Brunello Cucinelli
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/morpheus-research, focus/security, market/spain, potential/short, sector/unknown, short, thesis/illegal activity, thesis/illegal-activity]
 type: stock
 ticker: MIL
 draft: false
 ---
-# Brunello Cucinelli (stocks/MIL.BC), Brunello Cucinelli
+# Brunello Cucinelli (stocks/MIL.BC)
 
 Thesis: illegal activity, analyst: morpheus-research, sector: unknown.
 

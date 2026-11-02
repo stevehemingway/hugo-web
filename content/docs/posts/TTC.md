@@ -1,12 +1,12 @@
 ---
-title: The Toro Company The Toro Company
+title: The Toro Company
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/jehospaphat-research, focus/security, potential/short, sector/consumer-discretionary, short, thesis/economics]
 type: stock
 ticker: TTC
 draft: false
 ---
-# The Toro Company (stocks/TTC), The Toro Company
+# The Toro Company (stocks/TTC)
 
 Thesis: economics, analyst: Jehospaphat-research, sector: consumer-discretionary.
 

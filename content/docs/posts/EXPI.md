@@ -1,12 +1,12 @@
 ---
-title: eXp World Holdings eXp World Holdings
+title: eXp World Holdings
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/real-estate-brokerages, short, thesis/economics]
 type: stock
 ticker: EXPI
 draft: false
 ---
-# eXp World Holdings (stocks/EXPI), eXp World Holdings
+# eXp World Holdings (stocks/EXPI)
 
 Thesis: economics, analyst: edwin-dorsey, sector: real-estate-brokerages.
 

@@ -1,12 +1,12 @@
 ---
-title: Rocket Lab Rocket Lab
+title: Rocket Lab
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/bleekr-street-research, focus/security, potential/short, sector/space, short, thesis/fraud]
 type: stock
 ticker: RKLB
 draft: false
 ---
-# Rocket Lab (stocks/RKLB), Rocket Lab
+# Rocket Lab (stocks/RKLB)
 
 Thesis: fraud, analyst: bleekr-street-research, sector: space.
 

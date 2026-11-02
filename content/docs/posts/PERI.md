@@ -1,12 +1,12 @@
 ---
-title: Perion Network Ltd. Perion Network Ltd.
+title: Perion Network Ltd.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/IT, sector/it, short, thesis/fraud]
 type: stock
 ticker: PERI
 draft: false
 ---
-# Perion Network Ltd. (stocks/PERI), Perion Network Ltd.
+# Perion Network Ltd. (stocks/PERI)
 
 Thesis: fraud, analyst: spruce-point-management, sector: IT.
 

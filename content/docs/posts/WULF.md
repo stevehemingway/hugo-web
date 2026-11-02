@@ -6,7 +6,7 @@ type: stock
 ticker: WULF
 draft: false
 ---
-# Terawulf is a charade to enrich insiders 
+# Terawulf is a charade to enrich insiders
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: Restoration Hardware Holdings Restoration Hardware Holdings
+title: Restoration Hardware Holdings
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/herb-greenberg, analyst/hunterbrook, focus/security, potential/short, sector/furniture, short, thesis/fraud]
 type: stock
 ticker: RH
 draft: false
 ---
-# Restoration Hardware Holdings (stocks/RH), Restoration Hardware Holdings
+# Restoration Hardware Holdings (stocks/RH)
 
 Thesis: fraud, analyst: hunterbrook, sector: furniture.
 

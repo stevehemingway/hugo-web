@@ -1,12 +1,12 @@
 ---
-title: PowerSchool Holdings PowerSchool Holdings
+title: PowerSchool Holdings
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/education, short, thesis/economics-fraud-legal]
 type: stock
 ticker: PWSC
 draft: false
 ---
-# PowerSchool Holdings (stocks/PWSC), PowerSchool Holdings
+# PowerSchool Holdings (stocks/PWSC)
 
 Thesis: economics-fraud-legal, analyst: spruce-point-capital, sector: education.
 

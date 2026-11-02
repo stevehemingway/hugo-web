@@ -6,7 +6,7 @@ type: stock
 ticker: KNSL
 draft: false
 ---
-# Kinsale Capital Group 
+# Kinsale Capital Group
 
 Kinsale Capital Group (NYSE: KNSL — $7.00 billion) is a specialty property-and-casualty insurer focused on “insurance coverages for risks that are unusual or hard to place in the standard insurance market,” known as the excess and surplus lines market.
 

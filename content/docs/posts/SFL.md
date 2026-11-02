@@ -7,7 +7,7 @@ type: stock
 ticker: SFL
 draft: false
 ---
-# https://seekingalpha.com/article/4572569-sfl-putting-to-rest-concern-about-large-container-fleet (stocks/SFL), https://seekingalpha.com/article/4572569-sfl-putting-to-rest-concern-about-large-container-fleet
+# https://seekingalpha.com/article/4572569-sfl-putting-to-rest-concern-about-large-container-fleet (stocks/SFL)
 
 Thesis: undervalued, analyst: tudor-invest-holdings, sector: .
 

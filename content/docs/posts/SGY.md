@@ -6,7 +6,7 @@ type: stock
 ticker: SGY
 draft: false
 ---
-# Surge Energy 
+# Surge Energy
 
 ## Overview
 

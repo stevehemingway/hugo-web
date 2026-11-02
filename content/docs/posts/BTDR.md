@@ -1,12 +1,12 @@
 ---
-title: Bitdeer Technologies Bitdeer Technologies
+title: Bitdeer Technologies
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/callisto-research, focus/security, potential/short, sector/crypto, short, thesis/thesis, tracked]
 type: stock
 ticker: BTDR
 draft: false
 ---
-# Bitdeer Technologies (stocks/BTDR), Bitdeer Technologies
+# Bitdeer Technologies (stocks/BTDR)
 
 Thesis: thesis, analyst: callisto-research, sector: crypto.
 

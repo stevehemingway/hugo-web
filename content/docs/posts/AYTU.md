@@ -1,12 +1,12 @@
 ---
-title: Aytu Biopharma Aytu Biopharma
+title: Aytu Biopharma
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/white-diamond-research, focus/security, market/united-states, potential/short, sector/pharma, short, thesis/competition, tracked]
 type: stock
 ticker: AYTU
 draft: false
 ---
-# Aytu Biopharma (stocks/AYTU), Aytu Biopharma
+# Aytu Biopharma (stocks/AYTU)
 
 Thesis: competition, analyst: white-diamond-research, sector: pharma.
 

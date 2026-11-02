@@ -1,12 +1,12 @@
 ---
-title: Vita Coco Company Vita Coco Company
+title: Vita Coco Company
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/ningi-research, focus/security, potential/short, sector/food manufacturing, sector/food-manufacturing, short, thesis/thesis, tracked]
 type: stock
 ticker: COCO
 draft: false
 ---
-# Vita Coco Company (stocks/COCO), Vita Coco Company
+# Vita Coco Company (stocks/COCO)
 
 Thesis: thesis, analyst: Ningi-research, sector: food manufacturing.
 

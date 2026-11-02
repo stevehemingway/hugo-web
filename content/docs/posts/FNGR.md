@@ -1,12 +1,12 @@
 ---
-title: FingerMotion FingerMotion
+title: FingerMotion
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/capybara-research, focus/security, potential/short, sector/phone-data, short, thesis/stock-promotion]
 type: stock
 ticker: FNGR
 draft: false
 ---
-# FingerMotion (stocks/FNGR), FingerMotion
+# FingerMotion (stocks/FNGR)
 
 Thesis: stock-promotion, analyst: capybara-research, sector: phone-data.
 

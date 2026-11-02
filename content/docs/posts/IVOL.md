@@ -6,7 +6,7 @@ type: stock
 ticker: IVOL
 draft: false
 ---
-# Quadratic Interest Rate Volatility and Inflation Hedge ETF 
+# Quadratic Interest Rate Volatility and Inflation Hedge ETF
 
 This is a steepener trade wrapped up in an ETF.
 

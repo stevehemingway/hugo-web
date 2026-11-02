@@ -1,12 +1,12 @@
 ---
-title: Kyndryl Kyndryl
+title: Kyndryl
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/me, focus/security, potential/short, sector/IT, sector/it, short, thesis/fraud]
 type: stock
 ticker: KD
 draft: false
 ---
-# Kyndryl (stocks/KD), Kyndryl
+# Kyndryl (stocks/KD)
 
 Thesis: fraud, analyst: analyst, sector: IT.
 

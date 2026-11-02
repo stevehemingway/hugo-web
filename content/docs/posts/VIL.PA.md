@@ -6,6 +6,6 @@ type: stock
 ticker: VIL
 draft: false
 ---
-# Viel & Cie 
+# Viel & Cie
 
 (valuezoomer substack)[https://open.substack.com/pub/valuezoomer/p/viel-and-cie-cashing-in-on-chaos?utm_campaign=post-expanded-share&utm_medium=web] 

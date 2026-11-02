@@ -1,12 +1,12 @@
 ---
-title: Tenet Healthcare Tenet Healthcare
+title: Tenet Healthcare
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fuzzy-panda-research, focus/security, potential/short, sector/healthcare, short, thesis/fraud]
 type: stock
 ticker: THC
 draft: false
 ---
-# Tenet Healthcare (stocks/THC), Tenet Healthcare
+# Tenet Healthcare (stocks/THC)
 
 Thesis: fraud, analyst: fuzzy-panda-research, sector: healthcare.
 

@@ -1,12 +1,12 @@
 ---
-title: RXO Inc. RXO Inc.
+title: RXO Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/keith dalrymple, analyst/keith-dalrymple, focus/security, potential/short, sector/freight-forwarding, short, thesis/fraud]
 type: stock
 ticker: RXO
 draft: false
 ---
-# RXO Inc. (stocks/RXO), RXO Inc.
+# RXO Inc. (stocks/RXO)
 
 Thesis: fraud, analyst: Keith Dalrymple, sector: freight-forwarding.
 

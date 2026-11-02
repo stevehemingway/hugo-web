@@ -1,12 +1,12 @@
 ---
-title: Sharplink Gaming Sharplink Gaming
+title: Sharplink Gaming
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fugazi-research, focus/security, potential/short, sector/crypto, short, thesis/fraud]
 type: stock
 ticker: SBET
 draft: false
 ---
-# Sharplink Gaming (stocks/SBET), Sharplink Gaming
+# Sharplink Gaming (stocks/SBET)
 
 Thesis: fraud, analyst: fugazi-research, sector: crypto.
 

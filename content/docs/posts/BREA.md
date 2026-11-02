@@ -1,12 +1,12 @@
 ---
-title: Brera Holdings PLC Brera Holdings PLC
+title: Brera Holdings PLC
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fugazi-research, focus/security, potential/short, sector/sport, short, thesis/fraud]
 type: stock
 ticker: BREA
 draft: false
 ---
-# Brera Holdings PLC (stocks/BREA), Brera Holdings PLC
+# Brera Holdings PLC (stocks/BREA)
 
 Thesis: fraud, analyst: fugazi-research, sector: sport.
 

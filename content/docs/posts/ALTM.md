@@ -1,12 +1,12 @@
 ---
-title: company_name company_name
+title: company_name
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/me, focus/security, potential/short, sector/sector, short, thesis/thesis, tracked]
 type: stock
 ticker: ALTM
 draft: false
 ---
-# company_name (stocks/ALTM), company_name
+# company_name (stocks/ALTM)
 
 Thesis: thesis, analyst: analyst, sector: sector.
 

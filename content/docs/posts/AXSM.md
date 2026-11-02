@@ -1,12 +1,12 @@
 ---
-title: company_name company_name
+title: company_name
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/culpeper-research, focus/security, market/united-states, potential/short, sector/sector, short, thesis/fraud, tracked]
 type: stock
 ticker: AXSM
 draft: false
 ---
-# company_name (stocks/AXSM), company_name
+# company_name (stocks/AXSM)
 
 Thesis: fraud, analyst: culper-research, sector: sector.
 

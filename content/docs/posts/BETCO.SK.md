@@ -1,12 +1,12 @@
 ---
-title: Better Collective Better Collective
+title: Better Collective
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, market/sweden, potential/short, sector/sector, short, thesis/fraud]
 type: stock
 ticker: BETCO
 draft: false
 ---
-# Better Collective (stocks/BETCO.SK), Better Collective
+# Better Collective (stocks/BETCO.SK)
 
 Thesis: fraud, analyst: dorsey, sector: sector.
 

@@ -1,12 +1,12 @@
 ---
-title: Advent Technologies Advent Technologies
+title: Advent Technologies
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fugazi-research, focus/security, market/united-states, potential/short, sector/hydrogen fuel cells, sector/hydrogen-fuel-cells, short, thesis/fraud]
 type: stock
 ticker: ADN
 draft: false
 ---
-# Advent Technologies (stocks/ADN), Advent Technologies
+# Advent Technologies (stocks/ADN)
 
 Thesis: fraud, analyst: Fugazi Research, sector: hydrogen fuel cells.
 

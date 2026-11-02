@@ -1,12 +1,12 @@
 ---
-title: GRAIL Inc. GRAIL Inc.
+title: GRAIL Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/ningi-research, focus/security, potential/short, sector/pharmaceuticals and biotechnology, sector/pharmaceuticals-and-biotechnology, short, thesis/fraud]
 type: stock
 ticker: GRAL
 draft: false
 ---
-# GRAIL Inc. (stocks/GRAL), GRAIL Inc.
+# GRAIL Inc. (stocks/GRAL)
 
 Thesis: fraud, analyst: ningi-research, sector: pharmaceuticals and biotechnology.
 

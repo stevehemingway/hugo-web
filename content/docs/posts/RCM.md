@@ -1,12 +1,12 @@
 ---
-title: R1 RCM R1 RCM
+title: R1 RCM
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/health-admin, short, thesis/fraud]
 type: stock
 ticker: RCM
 draft: false
 ---
-# R1 RCM (stocks/RCM), R1 RCM
+# R1 RCM (stocks/RCM)
 
 Thesis: fraud, analyst: jehoshaphat-research, sector: health-admin.
 

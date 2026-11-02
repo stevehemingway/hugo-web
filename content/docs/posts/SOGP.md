@@ -1,12 +1,12 @@
 ---
-title: sound group sound group
+title: sound group
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fugazi-research, focus/security, potential/short, sector/chinese scam, sector/chinese-scam, short, thesis/fraud]
 type: stock
 ticker: SOGP
 draft: false
 ---
-# sound group (stocks/SOGP), sound group
+# sound group (stocks/SOGP)
 
 Thesis: fraud, analyst: fugazi-research, sector: chinese scam.
 

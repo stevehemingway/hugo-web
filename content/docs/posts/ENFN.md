@@ -1,12 +1,12 @@
 ---
-title: Enfusion Enfusion
+title: Enfusion
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/Inc., sector/inc., short, thesis/quality]
 type: stock
 ticker: ENFN
 draft: false
 ---
-# Enfusion (stocks/ENFN), Enfusion
+# Enfusion (stocks/ENFN)
 
 Thesis: quality, analyst: spruce-point, sector: Inc..
 

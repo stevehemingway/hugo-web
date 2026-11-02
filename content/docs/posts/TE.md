@@ -1,12 +1,12 @@
 ---
-title: T1 Energy T1 Energy
+title: T1 Energy
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/culpeper-research, analyst/fuzzy-panda, focus/security, potential/short, sector/clean-energy, short, thesis/fraud]
 type: stock
 ticker: TE
 draft: false
 ---
-# T1 Energy (stocks/TE), T1 Energy
+# T1 Energy (stocks/TE)
 
 
 

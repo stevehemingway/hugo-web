@@ -1,12 +1,12 @@
 ---
-title: The Bancorp Inc. The Bancorp Inc.
+title: The Bancorp Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/culpeper-research, focus/security, potential/short, sector/finance, short, thesis/economics]
 type: stock
 ticker: TBBK
 draft: false
 ---
-# The Bancorp Inc. (stocks/TBBK), The Bancorp Inc.
+# The Bancorp Inc. (stocks/TBBK)
 
 Thesis: economics, analyst: culper-research, sector: finance.
 

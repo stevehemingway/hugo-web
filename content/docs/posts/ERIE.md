@@ -1,12 +1,12 @@
 ---
-title: Erie Indeminity Company Erie Indeminity Company
+title: Erie Indeminity Company
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/sector, short, thesis/thesis]
 type: stock
 ticker: ERIE
 draft: false
 ---
-# Erie Indeminity Company (stocks/ERIE), Erie Indeminity Company
+# Erie Indeminity Company (stocks/ERIE)
 
 Thesis: thesis, analyst: spruce-point-management, sector: sector.
 

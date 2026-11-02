@@ -1,12 +1,12 @@
 ---
-title: AVIO SPA AVIO SPA
+title: AVIO SPA
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/wasteland-capital, focus/security, market/italy, market/milan, potential/short, sector/defence, short, thesis/economics]
 type: stock
 ticker: AVIO
 draft: false
 ---
-# AVIO SPA (stocks/AVIO.BVME), AVIO SPA
+# AVIO SPA (stocks/AVIO.BVME)
 
 Thesis: economics, analyst: wasteland-capital, sector: defence.
 

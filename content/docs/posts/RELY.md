@@ -1,5 +1,5 @@
 ---
-title: company_name company_name
+title: company_name
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point, focus/security, potential/long, potential/short, sector/retail, short]
 type: stock

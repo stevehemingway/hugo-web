@@ -1,12 +1,12 @@
 ---
-title: Anbio Anbio
+title: Anbio
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/hithawk-research, focus/security, potential/short, sector/medicine, thesis/fraud]
 type: stock
 ticker: NNNN
 draft: false
 ---
-# Anbio (stocks/NNNN), Anbio
+# Anbio (stocks/NNNN)
 
 Thesis: fraud, analyst: hithawk-research, sector: medicine.
 

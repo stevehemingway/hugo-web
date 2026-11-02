@@ -1,12 +1,12 @@
 ---
-title: Shark Ninja Shark Ninja
+title: Shark Ninja
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/grizzly-research, focus/security, potential/short, sector/China IT, sector/China-IT, sector/china-it, short, thesis/ramp]
 type: stock
 ticker: SN
 draft: false
 ---
-# Shark Ninja (stocks/SN), Shark Ninja
+# Shark Ninja (stocks/SN)
 
 Thesis: ramp, analyst: grizzly-research, sector: China IT.
 

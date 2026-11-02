@@ -1,12 +1,12 @@
 ---
-title: QMMM Holdings QMMM Holdings
+title: QMMM Holdings
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, market/hong-kong, potential/short, sector/digital media, sector/digital-media, short, thesis/fraud]
 type: stock
 ticker: QMMM
 draft: false
 ---
-# QMMM Holdings (stocks/QMMM), QMMM Holdings
+# QMMM Holdings (stocks/QMMM)
 
 Thesis: fraud, analyst: dorsey, sector: digital media.
 

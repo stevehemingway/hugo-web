@@ -1,12 +1,12 @@
 ---
-title: Rimini Street Rimini Street
+title: Rimini Street
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/rogue funds, analyst/rogue-funds, focus/security, potential/long, sector/software, thesis/legal-turnaround, thesis/turnaround]
 type: stock
 ticker: RS
 draft: false
 ---
-# Rimini Street (stocks/RS), Rimini Street
+# Rimini Street (stocks/RS)
 
 Thesis: legal-turnaround, analyst: rogue funds, sector: software.
 

@@ -1,12 +1,12 @@
 ---
-title: Borr Drilling Borr Drilling
+title: Borr Drilling
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/macro-ops, focus/security, potential/long, sector/oil and gas exploration, sector/oil-and-gas-exploration, thesis/value]
 type: stock
 ticker: BORR
 draft: false
 ---
-# Borr Drilling (stocks/BORR), Borr Drilling
+# Borr Drilling (stocks/BORR)
 
 Thesis: value, analyst: macro-ops, sector: oil and gas exploration.
 

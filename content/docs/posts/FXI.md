@@ -1,12 +1,12 @@
 ---
-title: iShares China Large-Cap ETF iShares China Large-Cap ETF
+title: iShares China Large-Cap ETF
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, potential/long, sector/ETF, sector/etf, thesis/macro]
 type: stock
 ticker: FXI
 draft: false
 ---
-# iShares China Large-Cap ETF (stocks/FXI), iShares China Large-Cap ETF
+# iShares China Large-Cap ETF (stocks/FXI)
 
 Thesis: macro, analyst: analyst, sector: ETF.
 

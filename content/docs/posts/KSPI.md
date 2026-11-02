@@ -1,12 +1,12 @@
 ---
-title: Kaspi Kaspi
+title: Kaspi
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/culpeper-research, focus/security, potential/short, sector/payments, short, thesis/fraud]
 type: stock
 ticker: KSPI
 draft: false
 ---
-# Kaspi (stocks/KSPI), Kaspi
+# Kaspi (stocks/KSPI)
 
 Thesis: fraud, analyst: culpeper-research, sector: payments.
 

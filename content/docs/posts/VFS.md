@@ -1,12 +1,12 @@
 ---
-title: VinFast VinFast
+title: VinFast
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/automotive, short, thesis/poor product, thesis/poor-product]
 type: stock
 ticker: VFS
 draft: false
 ---
-# VinFast (stocks/VFS), VinFast
+# VinFast (stocks/VFS)
 
 Thesis: poor product, analyst: hunterbrook media, sector: automotive.
 

@@ -1,12 +1,12 @@
 ---
-title: NextNav NextNav
+title: NextNav
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/bleeker-street-research, analyst/bleeker-street-research and night market research, analyst/night-market-research, focus/security, potential/short, sector/tech, short, thesis/competition]
 type: stock
 ticker: NN
 draft: false
 ---
-# NextNav (stocks/NN), NextNav
+# NextNav (stocks/NN)
 
 Thesis: competition, analyst: bleeker-street-research and Night Market Research, sector: tech.
 

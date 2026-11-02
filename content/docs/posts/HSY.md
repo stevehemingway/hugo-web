@@ -1,12 +1,12 @@
 ---
-title: Hershey Hershey
+title: Hershey
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/grizzly-research, focus/security, potential/short, sector/food, short, thesis/legal threat, thesis/legal-threat]
 type: stock
 ticker: HSY
 draft: false
 ---
-# Hershey (stocks/HSY), Hershey
+# Hershey (stocks/HSY)
 
 Thesis: legal threat, analyst: grizzly-research, sector: food.
 

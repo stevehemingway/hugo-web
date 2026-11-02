@@ -1,12 +1,12 @@
 ---
-title: A-Mark Precious Metas A-Mark Precious Metas
+title: A-Mark Precious Metas
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/kuppy, focus/security, market/united-states, potential/long, potential/short, sector/mints, thesis/gold-play]
 type: stock
 ticker: AMRK
 draft: false
 ---
-# A-Mark Precious Metas (stocks/AMRK), A-Mark Precious Metas
+# A-Mark Precious Metas (stocks/AMRK)
 
 Thesis: gold-play, analyst: kuppy, sector: mints.
 

@@ -1,12 +1,12 @@
 ---
-title: Signet Jewellers Signet Jewellers
+title: Signet Jewellers
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/retail, short, thesis/market]
 type: stock
 ticker: SIG
 draft: false
 ---
-# Signet Jewellers (stocks/SIG), Signet Jewellers
+# Signet Jewellers (stocks/SIG)
 
 Thesis: market, analyst: dorsey, sector: retail.
 

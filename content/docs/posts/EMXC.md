@@ -1,12 +1,12 @@
 ---
-title: Emerging Markets Ex-China Emerging Markets Ex-China
+title: Emerging Markets Ex-China
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, long, potential/long, sector/mining, thesis/value]
 type: stock
 ticker: EMXC
 draft: false
 ---
-# Emerging Markets Ex-China (stocks/EMXC), Emerging Markets Ex-China
+# Emerging Markets Ex-China (stocks/EMXC)
 
 Thesis: value, analyst: me, sector: .
 

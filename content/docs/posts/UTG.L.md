@@ -1,12 +1,12 @@
 ---
-title: Unite Group PLC Unite Group PLC
+title: Unite Group PLC
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/me, focus/security, market/london, market/uk, potential/short, sector/REIT, sector/reit, short, thesis/macro]
 type: stock
 ticker: UTG
 draft: false
 ---
-# Unite Group PLC (stocks/UTG.L), Unite Group PLC
+# Unite Group PLC (stocks/UTG.L)
 
 Thesis: macro, analyst: me, sector: REIT.
 

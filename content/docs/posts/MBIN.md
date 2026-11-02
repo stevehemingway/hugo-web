@@ -1,12 +1,12 @@
 ---
-title: company_name company_name
+title: company_name
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/ningi-research, focus/security, potential/short, sector/sector, short, thesis/thesis]
 type: stock
 ticker: MBIN
 draft: false
 ---
-# company_name (stocks/MBIN), company_name
+# company_name (stocks/MBIN)
 
 Thesis: thesis, analyst: ningi-research, sector: sector.
 

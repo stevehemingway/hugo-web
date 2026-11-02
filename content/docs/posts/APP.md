@@ -1,12 +1,12 @@
 ---
-title: AppLovin AppLovin
+title: AppLovin
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/culpeper-research, analyst/fuzzy-panda, analyst/lauren-balik, analyst/lauren-balik, culper-research, fuzzy-panda, analyst/lauren-balik,-culper-research,-fuzzy-panda, focus/security, market/united-states, potential/short, sector/internet, short, thesis/fraud, tracked]
 type: stock
 ticker: APP
 draft: false
 ---
-# AppLovin (stocks/APP), AppLovin
+# AppLovin (stocks/APP)
 
 Thesis: fraud, analyst: lauren-balik, culper-research, fuzzy-panda, sector: internet.
 

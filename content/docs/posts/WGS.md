@@ -1,12 +1,12 @@
 ---
-title: GeneDx GeneDx
+title: GeneDx
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/grizzly-research, focus/security, potential/short, sector/biotech, short, thesis/fraud]
 type: stock
 ticker: WGS
 draft: false
 ---
-# GeneDx (stocks/WGS), GeneDx
+# GeneDx (stocks/WGS)
 
 Thesis: fraud, analyst: grizzly-research, sector: biotech.
 

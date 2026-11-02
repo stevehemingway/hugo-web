@@ -1,12 +1,12 @@
 ---
-title: company_name company_name
+title: company_name
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/macro-ops, focus/security, market/canada, potential/long, sector/sector, thesis/thesis]
 type: stock
 ticker: APM
 draft: false
 ---
-# company_name (stocks/APM.V), company_name
+# company_name (stocks/APM.V)
 
 Thesis: thesis, analyst: macro-ops, sector: sector.
 

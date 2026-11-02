@@ -1,12 +1,12 @@
 ---
-title: Carvana Carvana
+title: Carvana
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/kerrisdale-capital, focus/security, market/united-states, potential/short, sector/retail, short, thesis/cyclical, thesis/economics, thesis/moat, thesis/turnaround, tracked]
 type: stock
 ticker: CVNA
 draft: false
 ---
-# Carvana (stocks/CVNA), Carvana
+# Carvana (stocks/CVNA)
 
 Thesis: economics, analyst: kerrisdale-capital, sector: retail.
 

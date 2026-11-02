@@ -1,12 +1,12 @@
 ---
-title: company name company name
+title: company name
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/me, focus/security, potential/short, sector/sector, short, thesis/thesis]
 type: stock
 ticker: RENB
 draft: false
 ---
-# company name (stocks/RENB), company name
+# company name (stocks/RENB)
 
 Thesis: thesis, analyst: analyst, sector: sector.
 

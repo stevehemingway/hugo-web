@@ -1,12 +1,12 @@
 ---
-title: Airsculpt Airsculpt
+title: Airsculpt
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fuzzy-panda-research, focus/security, market/united-states, potential/short, sector/sector, short, thesis/thesis, tracked]
 type: stock
 ticker: AIRS
 draft: false
 ---
-# Airsculpt (stocks/AIRS), Airsculpt
+# Airsculpt (stocks/AIRS)
 
 Thesis: thesis, analyst: fuzzy-panda-research, sector: sector.
 

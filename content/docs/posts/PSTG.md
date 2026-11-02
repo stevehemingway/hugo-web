@@ -1,12 +1,12 @@
 ---
-title: Pure Storage Pure Storage
+title: Pure Storage
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/tech-hardware, short, thesis/technology]
 type: stock
 ticker: PSTG
 draft: false
 ---
-# Pure Storage (stocks/PSTG), Pure Storage
+# Pure Storage (stocks/PSTG)
 
 Thesis: technology, analyst: kerrisdale-capital, sector: tech-hardware.
 

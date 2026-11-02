@@ -1,12 +1,12 @@
 ---
-title: Rollins Inc. Rollins Inc.
+title: Rollins Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/pest-control, short, thesis/pe-rollup]
 type: stock
 ticker: ROL
 draft: false
 ---
-# Rollins Inc. (stocks/ROL), Rollins Inc.
+# Rollins Inc. (stocks/ROL)
 
 Thesis: pe-rollup, analyst: spruce-point-capital, sector: pest-control.
 

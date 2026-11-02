@@ -1,12 +1,12 @@
 ---
-title: Rezolve AI Rezolve AI
+title: Rezolve AI
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fuzzy-panda, analyst/grizzly-research, focus/security, potential/short, sector/AI, sector/ai, short, thesis/fraud]
 type: stock
 ticker: RZLV
 draft: false
 ---
-# Rezolve AI (stocks/RZLV), Rezolve AI
+# Rezolve AI (stocks/RZLV)
 
 Thesis: fraud, analyst: fuzzy-panda and grizzly-research, sector: AI.
 

@@ -1,12 +1,12 @@
 ---
-title: AMC Entertainment AMC Entertainment
+title: AMC Entertainment
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, market/united-states, potential/short, sector/cinemas, short, thesis/everything, tracked]
 type: stock
 ticker: AMC
 draft: false
 ---
-# AMC Entertainment (stocks/AMC), AMC Entertainment
+# AMC Entertainment (stocks/AMC)
 
 Thesis: everything, analyst: dorsey, sector: cinemas.
 

@@ -1,12 +1,12 @@
 ---
-title: Moberg Pharma Moberg Pharma
+title: Moberg Pharma
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/rogue-funds, focus/security, market/sweden, potential/long, sector/pharma, thesis/thesis]
 type: stock
 ticker: MOB
 draft: false
 ---
-# Moberg Pharma (stocks/MOB.ST), Moberg Pharma
+# Moberg Pharma (stocks/MOB.ST)
 
 Thesis: thesis, analyst: rogue-funds, sector: pharma.
 

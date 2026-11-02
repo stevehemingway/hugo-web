@@ -1,12 +1,12 @@
 ---
-title: PAR Technology Corp. PAR Technology Corp.
+title: PAR Technology Corp.
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/bristlemoon-capital, focus/security, potential/long, potential/short, sector/software, thesis/growth]
 type: stock
 ticker: PAR
 draft: false
 ---
-# PAR Technology Corp. (stocks/PAR), PAR Technology Corp.
+# PAR Technology Corp. (stocks/PAR)
 
 Thesis: growth, analyst: bristlemoon-capital, sector: software.
 

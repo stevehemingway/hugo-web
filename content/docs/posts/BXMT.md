@@ -1,12 +1,12 @@
 ---
-title: Blackstone Mortgage Trust Inc. Blackstone Mortgage Trust Inc.
+title: Blackstone Mortgage Trust Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/muddy-waters-capital, focus/security, potential/short, sector/mortgage reit, sector/mortgage-reit, short, thesis/fraud, tracked]
 type: stock
 ticker: BXMT
 draft: false
 ---
-# Blackstone Mortgage Trust Inc. (stocks/BXMT), Blackstone Mortgage Trust Inc.
+# Blackstone Mortgage Trust Inc. (stocks/BXMT)
 
 Thesis: fraud, analyst: muddy-waters-capital, sector: mortgage reit.
 

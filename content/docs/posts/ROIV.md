@@ -1,12 +1,12 @@
 ---
-title: Roivant Sciences Roivant Sciences
+title: Roivant Sciences
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/greenlight-capital, focus/security, potential/long, sector/pharma, thesis/value]
 type: stock
 ticker: ROIV
 draft: false
 ---
-# Roivant Sciences (stocks/ROIV), Roivant Sciences
+# Roivant Sciences (stocks/ROIV)
 
 Thesis: value, analyst: greenlight-capital, sector: pharma.
 

@@ -1,12 +1,12 @@
 ---
-title: NuScale Power NuScale Power
+title: NuScale Power
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/iceberg-research, focus/security, potential/short, sector/generation, short, thesis/fraud]
 type: stock
 ticker: SMR
 draft: false
 ---
-# NuScale Power (stocks/SMR), NuScale Power
+# NuScale Power (stocks/SMR)
 
 Thesis: fraud, analyst: iceberg-research, sector: generation.
 

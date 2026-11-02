@@ -1,12 +1,12 @@
 ---
-title: Amphastar Pharma Amphastar Pharma
+title: Amphastar Pharma
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/black-mamba-research, focus/security, market/united-states, potential/short, sector/pharma, short, thesis/competition, tracked]
 type: stock
 ticker: AMPH
 draft: false
 ---
-# Amphastar Pharma (stocks/AMPH), Amphastar Pharma
+# Amphastar Pharma (stocks/AMPH)
 
 Thesis: competition, analyst: black-mamba-research, sector: pharma.
 

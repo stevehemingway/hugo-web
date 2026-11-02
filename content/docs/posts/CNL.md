@@ -1,12 +1,12 @@
 ---
-title: Collective Mining Collective Mining
+title: Collective Mining
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/morpheus-research, focus/security, potential/short, sector/mining, short, thesis/fraud, tracked]
 type: stock
 ticker: CNL
 draft: false
 ---
-# Collective Mining (stocks/CNL), Collective Mining
+# Collective Mining (stocks/CNL)
 
 Thesis: fraud, analyst: morpheus-research, sector: mining.
 

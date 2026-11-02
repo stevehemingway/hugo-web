@@ -1,12 +1,12 @@
 ---
-title: Fenix Resources Fenix Resources
+title: Fenix Resources
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/macro-ops, focus/security, market/australia, potential/long, sector/mining and logistics, sector/mining-and-logistics, thesis/undervalued port assets, thesis/undervalued-port-assets]
 type: stock
 ticker: FEX
 draft: false
 ---
-# Fenix Resources (stocks/FEX.AX), Fenix Resources
+# Fenix Resources (stocks/FEX.AX)
 
 Thesis: undervalued port assets, analyst: macro-ops, sector: mining and logistics.
 

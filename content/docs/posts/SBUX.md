@@ -1,12 +1,12 @@
 ---
-title: Starbucks Corp Starbucks Corp
+title: Starbucks Corp
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/me, focus/security, market/united-states, potential/short, sector/retail, short, thesis/china]
 type: stock
 ticker: SBUX
 draft: false
 ---
-# Starbucks Corp (stocks/SBUX), Starbucks Corp
+# Starbucks Corp (stocks/SBUX)
 
 Thesis: china, analyst: me, sector: retail.
 

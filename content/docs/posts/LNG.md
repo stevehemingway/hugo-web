@@ -1,12 +1,12 @@
 ---
-title: LNG LNG
+title: LNG
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/massif-capital, focus/security, potential/long, sector/energy, thesis/commodity]
 type: stock
 ticker: LNG
 draft: false
 ---
-# LNG (stocks/LNG), LNG
+# LNG (stocks/LNG)
 
 Thesis: commodity, analyst: massif-capital, sector: energy.
 

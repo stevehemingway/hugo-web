@@ -1,12 +1,12 @@
 ---
-title: Progress Software Progress Software
+title: Progress Software
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/IT, sector/it, short, thesis/product]
 type: stock
 ticker: PRGS
 draft: false
 ---
-# Progress Software (stocks/PRGS), Progress Software
+# Progress Software (stocks/PRGS)
 
 Thesis: product, analyst: dorsey, sector: IT.
 

@@ -1,12 +1,12 @@
 ---
-title: AAON AAON
+title: AAON
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/jehoshaphat-research, focus/security, market/united-states, potential/short, sector/building, short, thesis/fraud, tracked]
 type: stock
 ticker: AAON
 draft: false
 ---
-# AAON (stocks/AAON), AAON
+# AAON (stocks/AAON)
 
 Thesis: fraud, analyst: jehoshaphat-research, sector: building.
 

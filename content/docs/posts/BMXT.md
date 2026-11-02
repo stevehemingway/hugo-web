@@ -1,12 +1,12 @@
 ---
-title: Blackstone Mortgage Trust Blackstone Mortgage Trust
+title: Blackstone Mortgage Trust
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/old time reitser, analyst/old-time-reitser, analyst/old-time-reitster, focus/security, potential/short, sector/REIT, sector/reit, short, thesis/economics]
 type: stock
 ticker: BMXT
 draft: false
 ---
-# Blackstone Mortgage Trust (stocks/BMXT), Blackstone Mortgage Trust
+# Blackstone Mortgage Trust (stocks/BMXT)
 
 Thesis: economics, analyst: Old Time REITser, sector: REIT.
 

@@ -1,12 +1,12 @@
 ---
-title: Vornado Reality Trust Vornado Reality Trust
+title: Vornado Reality Trust
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, potential/long, sector/real-estate, thesis/fairly_valued]
 type: stock
 ticker: VNO
 draft: false
 ---
-# Vornado Reality Trust (stocks/VNO), Vornado Reality Trust
+# Vornado Reality Trust (stocks/VNO)
 
 Thesis: fairly_valued, analyst: me, sector: real-estate.
 

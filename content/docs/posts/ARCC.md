@@ -6,7 +6,7 @@ type: stock
 ticker: ARCC
 draft: false
 ---
-# Ares Capital 
+# Ares Capital
 
 
 

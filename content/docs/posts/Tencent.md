@@ -1,11 +1,11 @@
 ---
-title: Tencent Holdings Ltd Tencent Holdings Ltd
+title: Tencent Holdings Ltd
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/howard-yu, focus/security, potential/long, sector/technology, thesis/tech_giant]
 type: note
 draft: false
 ---
-# Tencent Holdings Ltd (stocks/Tencent), Tencent Holdings Ltd
+# Tencent Holdings Ltd (stocks/Tencent)
 
 Thesis: tech_giant, analyst: howard-yu, sector: technology.
 

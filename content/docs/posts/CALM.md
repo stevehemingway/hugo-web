@@ -1,12 +1,12 @@
 ---
-title: Cal-Maine Cal-Maine
+title: Cal-Maine
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hunterbrook, focus/security, potential/short, sector/wholesale food, sector/wholesale-food, short, thesis/insider action, thesis/insider-action, tracked]
 type: stock
 ticker: CALM
 draft: false
 ---
-# Cal-Maine (stocks/CALM), Cal-Maine
+# Cal-Maine (stocks/CALM)
 
 Thesis: insider action, analyst: hunterbrook, sector: wholesale food.
 

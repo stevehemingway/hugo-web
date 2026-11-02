@@ -1,12 +1,12 @@
 ---
-title: Boot Barn Inc. Boot Barn Inc.
+title: Boot Barn Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/retail, short, thesis/fraud]
 type: stock
 ticker: BOOT
 draft: false
 ---
-# Boot Barn Inc. (stocks/BOOT), Boot Barn Inc.
+# Boot Barn Inc. (stocks/BOOT)
 
 Thesis: fraud, analyst: spruce-point-research, sector: retail.
 

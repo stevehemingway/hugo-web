@@ -1,12 +1,12 @@
 ---
-title: etf etf
+title: etf
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/ben carlson, analyst/ben-carlson, focus/security, potential/long, sector/mining, thesis/cashflow]
 type: stock
 ticker: SYLD
 draft: false
 ---
-# etf (stocks/SYLD), etf
+# etf (stocks/SYLD)
 
 Thesis: cashflow, analyst: Ben Carlson, sector: .
 

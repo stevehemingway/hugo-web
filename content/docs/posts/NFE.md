@@ -1,12 +1,12 @@
 ---
-title: New Fortress Energy New Fortress Energy
+title: New Fortress Energy
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/me, focus/security, potential/short, sector/sector, short, thesis/thesis]
 type: stock
 ticker: NFE
 draft: false
 ---
-# New Fortress Energy (stocks/NFE), New Fortress Energy
+# New Fortress Energy (stocks/NFE)
 
 Thesis: thesis, analyst: analyst, sector: sector.
 

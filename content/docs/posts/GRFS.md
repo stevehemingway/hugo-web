@@ -1,12 +1,12 @@
 ---
-title: Grifols Grifols
+title: Grifols
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/gotham-city-research, focus/security, potential/short, sector/pharma, short, thesis/fraud]
 type: stock
 ticker: GRFS
 draft: false
 ---
-# Grifols (stocks/GRFS), Grifols
+# Grifols (stocks/GRFS)
 
 Thesis: fraud, analyst: gotham-city-research, sector: pharma.
 

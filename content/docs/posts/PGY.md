@@ -1,12 +1,12 @@
 ---
-title: Pagaya Pagaya
+title: Pagaya
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/convequity, focus/security, potential/long, sector/AI, sector/ai, thesis/economics]
 type: stock
 ticker: PGY
 draft: false
 ---
-# Pagaya (stocks/PGY), Pagaya
+# Pagaya (stocks/PGY)
 
 Thesis: economics, analyst: convequity, sector: AI.
 

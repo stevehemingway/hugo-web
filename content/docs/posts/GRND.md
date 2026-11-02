@@ -1,12 +1,12 @@
 ---
-title: Grindr Inc. Grindr Inc.
+title: Grindr Inc.
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/ningi-research, focus/security, potential/long, potential/short, sector/dating, short, thesis/economics, thesis/moat]
 type: stock
 ticker: GRND
 draft: false
 ---
-# Grindr Inc. (stocks/GRND), Grindr Inc.
+# Grindr Inc. (stocks/GRND)
 
 Thesis: economics, analyst: ningi-research, sector: dating.
 

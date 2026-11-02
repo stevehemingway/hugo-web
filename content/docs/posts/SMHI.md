@@ -1,12 +1,12 @@
 ---
-title: Seacore Marine Seacore Marine
+title: Seacore Marine
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/ed-fin, focus/security, potential/long, sector/shipping, thesis/undervalued]
 type: stock
 ticker: SMHI
 draft: false
 ---
-# Seacore Marine (stocks/SMHI), Seacore Marine
+# Seacore Marine (stocks/SMHI)
 
 Thesis: undervalued, analyst: ed-fin, sector: shipping.
 

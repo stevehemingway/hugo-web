@@ -1,12 +1,12 @@
 ---
-title: Zillow Group Zillow Group
+title: Zillow Group
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/services, short, thesis/economics]
 type: stock
 ticker: Z
 draft: false
 ---
-# Zillow Group (stocks/Z), Zillow Group
+# Zillow Group (stocks/Z)
 
 Thesis: economics, analyst: spruce-point, sector: services.
 
