@@ -26,58 +26,10 @@ https://open.substack.com/pub/dfresearch/p/bip-the-quiet-collapse?r=nmbt&utm_cam
 
 2026-01-30 USD 36.15
 
----
-*Last updated: 2026-03-07 by automated standardization process*
----
-tags: []
----
-
----
 thesis: aggressive-accounting
 analyst: df-research
 sector: infrastructure
----
 
-# Brookfield Infrastructure Partners (B/BIP)
-
-<blockquote>
-<pre>
-For example, DF Research noted that a key investment in utility infrastructure provider BUUK Infrastructure is carried at a $1.2 billion value by Brookfield, when in reality the equity may be worthless because the company produces minimal free cash flow.
-</pre>
-</blockquote>
-
-[More ...](https://dfresearch.substack.com/p/dfr-is-short-brookfield-infrastructure)
-latest change: 2026-02-08
-
-[A further research note](https://substack.com/redirect/38cecdb3-e30c-4029-9a4c-914b7cb3c6a8?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98).
-
-https://open.substack.com/pub/dfresearch/p/bip-the-quiet-collapse?r=nmbt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false
-<https://open.substack.com/pub/dfresearch/p/bip-the-quiet-collapse?r=nmbt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false>
-
-2026-01-30 USD 36.15
 ---
 tags: []
 ---
-
----
-thesis: aggressive-accounting
-analyst: df-research
-sector: infrastructure
----
-
-# Brookfield Infrastructure Partners (BIP)
-
-<blockquote>
-<pre>
-For example, DF Research noted that a key investment in utility infrastructure provider BUUK Infrastructure is carried at a $1.2 billion value by Brookfield, when in reality the equity may be worthless because the company produces minimal free cash flow.
-</pre>
-</blockquote>
-
-[More ...](https://dfresearch.substack.com/p/dfr-is-short-brookfield-infrastructure)
-latest change: 2025-10-29
-
-[A further research note](https://substack.com/redirect/38cecdb3-e30c-4029-9a4c-914b7cb3c6a8?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98).
-
-https://open.substack.com/pub/dfresearch/p/bip-the-quiet-collapse?r=nmbt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false
-<https://open.substack.com/pub/dfresearch/p/bip-the-quiet-collapse?r=nmbt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false>
-

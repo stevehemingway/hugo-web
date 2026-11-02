@@ -20,18 +20,5 @@ Jehoshaphat Research published on Premier Inc (NASDAQ: PINC — $2.01 billion), 
 latest change: 2026-02-28
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["sector/healthcare-purchasing", "analyst/Jehoshaphat"]
 ---
-
-# Premier Inc (PINC)
-
-<blockquote>
-<pre>
-Jehoshaphat Research published on Premier Inc (NASDAQ: PINC — $2.01 billion), a healthcare group purchasing organization. Jehoshaphat alleged the company has low earnings quality and that removing “one-time or gimmicky elements” would deflate Adjusted EBITDA by about 40%. Jehoshaphat also predicted many of Premier’s customers would leave upon contract expiration and highlighted that the company’s CFO, COO, Chairman, SVP of Supply Chain, and Group VP of Strategic Sourcing have all departed in the last year.
-</pre>
-</blockquote>
-
-[More ...](https://jehoshaphatresearch.com/wp-content/uploads/2025/01/PINC-Research-Opinion-by-Jehoshaphat-Research-Jan-2025.pdf?)
-latest change: 2025-10-29

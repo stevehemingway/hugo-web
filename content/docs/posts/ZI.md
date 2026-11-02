@@ -11,11 +11,5 @@ draft: false
 Thesis: house prices will collapse, because of rising rates, volumes will dry up, trendy estate agents' portals will fail.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "sector/housing"]
 ---
-
-# Zillow
-
-Thesis: house prices will collapse, because of rising rates, volumes will dry up, trendy estate agents' portals will fail.

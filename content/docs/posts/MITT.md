@@ -13,20 +13,9 @@ A mortgage REIT that is surely too small to survive.
 Probably it will go under if there is a crash in house prices, but there must be safer ways to play this. 
 ETFs?
 
+
 > AG Mortgage Investment Trust, Inc. operates as a residential mortgage real estate investment trust in the United States. Its investment portfolio comprises residential investments, including non-agency loans, agency-eligible loans, re-and non-performing loans, and non-agency residential mortgage-backed securities. The company qualifies as a real estate investment trust for federal income tax purposes. It generally would not be subject to federal corporate income taxes if it distributes at least 90% of its taxable income to its stockholders. The company was incorporated in 2011 and is based in New York, New York.
 
----
-*Last updated: 2026-03-07 by automated standardization process*
 ---
 tags: ["thesis/rising-rates"]
 ---
-
-# AG Mortage Investment Trust
-
-A mortgage REIT that is surely too small to survive. 
-
-Probably it will go under if there is a crash in house prices, but there must be safer ways to play this. 
-ETFs?
-
-
-> AG Mortgage Investment Trust, Inc. operates as a residential mortgage real estate investment trust in the United States. Its investment portfolio comprises residential investments, including non-agency loans, agency-eligible loans, re-and non-performing loans, and non-agency residential mortgage-backed securities. The company qualifies as a real estate investment trust for federal income tax purposes. It generally would not be subject to federal corporate income taxes if it distributes at least 90% of its taxable income to its stockholders. The company was incorporated in 2011 and is based in New York, New York.

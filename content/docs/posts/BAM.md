@@ -17,17 +17,5 @@ I am bearish on complexity. It is the recurring theme across everything I have p
 From [Mispriced Assets](https://open.substack.com/pub/mispricedassets/p/the-empire-of-marks?utm_campaign=post&utm_medium=email)
 
 ---
-*Last updated: 2026-04-13 by steve.
----
 tags: ["sector/private-equity", todo, "thesis/mark-to-fantasy", "potential/short"]
 ---
-
-# Brookfield Asset Management
-[Maybe worth it.](https://www.netinterest.co/p/the-new-conglomerates-1da)
-2026-01-30 USD 49.71
----
-tags: ["sector/private-equity", todo, "thesis/mark-to-fantasy", "potential/short"]
----
-
-# Brookfield Asset Management
-[Maybe worth it.](https://www.netinterest.co/p/the-new-conglomerates-1da)

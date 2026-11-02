@@ -39,37 +39,5 @@ The stock’s surge after an unaudited, incomplete H1/25 report is, in our view,
 We are Short Trustpilot plc ($TRST)
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/fraud", "sector/media", "analyst/hithawk"]
 ---
-
-# Trustpilot (TRST)
-
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://hithawk.com/campaign/trst/)
-latest change: 2025-10-29
-
-Trustpilot – A Brazenly Deceitful Business
- 
- 
-Trustpilot (TRST) is not a review platform. It’s a business model built on coercion and fake credibility:
-
- 
- 
-Deceptive model – Businesses are forced to pay to manage reviews on a platform they never chose.
-Rampant fakery – Widespread review inflation and fabricated feedback across categories.
-Google threat – With reviews now integrated into search and AI answers, Trustpilot traffic is shrinking fast.
-No future – Its lifeline partnership with Google depends entirely on Google’s goodwill.
- 
- 
-The stock’s surge after an unaudited, incomplete H1/25 report is, in our view, an ideal short entry point.
-
- 
- 
-We are Short Trustpilot plc ($TRST)

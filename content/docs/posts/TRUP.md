@@ -13,14 +13,5 @@ Pet insurance seller.
 [Tweet](https://twitter.com/ParrotCapital/status/1665410107352444929?s=20).
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short"]
 ---
-
-# Trupanion 
-
-Pet insurance seller.
-
-[Tweet](https://twitter.com/ParrotCapital/status/1665410107352444929?s=20).
-

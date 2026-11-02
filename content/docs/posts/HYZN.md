@@ -12,12 +12,5 @@ Burning through $134M pa, shareholders' equity is around $370M.
 NGMI?
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "source/bear-cave"]
 ---
-
-# Hyzon Motors
-Another EV bandwagon passenger. 
-Burning through $134M pa, shareholders' equity is around $370M.
-NGMI?

@@ -16,16 +16,5 @@ To download the Report (PDF format), go to our website at:
 # [Chinook Therapeutics Inc: Too Little, Too Late (KDNY US)](https://sable.godaddy.com/c/229849?id=795811.362.1.39d5992f5ed88b489c4815a68f350108 "Click to open https://sable.godaddy.com/c/229849?id=795811.362.1.39d5992f5ed88b489c4815a68f350108")
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["analyst/muddy-waters", "thesis/fraud", "sector/pharma"]
 ---
-
-# Chinook Therapeutics Inc: Too Little, Too Late (KDNY US)
-
-Muddy Waters is short Chinook Therapeutics Inc (NASDAQ:KDNY) because we believe it is highly unlikely that atrasentan, its lead product candidate, will be approved by the FDA. We conclude that atrasentan is inefficacious for chronic kidney disease. We also conclude that atrasentan has been shown to be harmful to patients’ cardiovascular health. AbbVie and Chinook seem to have systemically manipulated research findings and presentation on atrasentan to obscure these trial results. Even if atrasentan were efficacious and safe, it would be unlikely to gain approval because a competing drug, sparsentan, has received accelerated and exclusive orphan drug approval by the US FDA for IgA nephropathy, the condition targeted in Chinook’s   
-only Phase 3 trial, the ALIGN study.
-
-To download the Report (PDF format), go to our website at:
-
-# [Chinook Therapeutics Inc: Too Little, Too Late (KDNY US)](https://sable.godaddy.com/c/229849?id=795811.362.1.39d5992f5ed88b489c4815a68f350108 "Click to open https://sable.godaddy.com/c/229849?id=795811.362.1.39d5992f5ed88b489c4815a68f350108")

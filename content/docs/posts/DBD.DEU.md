@@ -7,13 +7,7 @@ ticker: DBD
 draft: false
 ---
 # Diebold Nixdorf
+
 ---
 tags: ["potential/short", "thesis/overleveraged"]
 ---
-
-# Diebold Nixdorf
----
-tags: ["potential/short", "thesis/overleveraged"]
----
-
-# Diebold Nixdorf

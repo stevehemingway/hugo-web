@@ -20,18 +20,5 @@ Bleecker Street Research published on Lithium Americas Corp (NYSE: LAC — $634 
 latest change: 2026-02-28
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/economics", "sector/mining", "analyst/bleeker-street"]
 ---
-
-# Lithium Americas Corp (LAC)
-
-<blockquote>
-<pre>
-Bleecker Street Research published on Lithium Americas Corp (NYSE: LAC — $634 million), an early-stage Lithium mining company. Bleecker Street said the company’s Nevada mine is “grossly uneconomic” and called the company “an underfunded, Vancouver-based stock promotion.”
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
-latest change: 2025-10-29

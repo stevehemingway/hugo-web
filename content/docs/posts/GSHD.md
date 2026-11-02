@@ -9,14 +9,5 @@ draft: false
 https://wolfpackresearch.com/research/goosehead/
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["analyst/wolfpack-research", "thesis/fraud", "potential/short"]
 ---
-
-https://wolfpackresearch.com/research/goosehead/
----
-tags: ["analyst/wolfpack-research", "thesis/fraud", "potential/short"]
----
-
-https://wolfpackresearch.com/research/goosehead/

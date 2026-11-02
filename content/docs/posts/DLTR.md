@@ -6,36 +6,6 @@ type: stock
 ticker: DLTR
 draft: false
 ---
-# Dollar Tree (DLTR)
-
-<blockquote>
-<pre>
-nope
-</pre>
-</blockquote>
-
-[More ...]()
-latest change: 2025-07-07
-
----
-tags: ["thesis/notsure", "sector/retail", "analyst/me"]
----
-
-# Dollar Tree (DLTR)
-
-<blockquote>
-<pre>
-nope
-</pre>
-</blockquote>
-
-[More ...]()
-latest change: 2025-10-29
-
----
-tags: ["thesis/notsure", "sector/retail", "analyst/me"]
----
-
 # Dollar Tree (ds/DLTR)
 
 <blockquote>
@@ -50,3 +20,7 @@ latest change: 2026-02-08
 2026-01-30 USD 117.59
 2026-01-30 USD 117.59
 2026-01-30 USD 117.59
+
+---
+tags: ["thesis/notsure", "sector/retail", "analyst/me"]
+---

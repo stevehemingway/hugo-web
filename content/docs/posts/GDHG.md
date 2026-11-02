@@ -19,12 +19,6 @@ another classic "China Hustle"
 [More ...](https://x.com/HindenburgRes/status/1724156604583415978?s=20)
 latest change: 2026-02-28
 
----
-*Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/fraud", "sector/leisure", "analyst/Hindenberg"]
----
-
 # Golden Heaven Group Holdings (G/GDHG)
 
 <blockquote>
@@ -35,17 +29,7 @@ another classic "China Hustle"
 
 [More ...](https://x.com/HindenburgRes/status/1724156604583415978?s=20)
 latest change: 2026-02-08
+
 ---
 tags: ["thesis/fraud", "sector/leisure", "analyst/Hindenberg"]
 ---
-
-# Golden Heaven Group Holdings (GDHG)
-
-<blockquote>
-<pre>
-another classic "China Hustle"
-</pre>
-</blockquote>
-
-[More ...](https://x.com/HindenburgRes/status/1724156604583415978?s=20)
-latest change: 2025-10-29

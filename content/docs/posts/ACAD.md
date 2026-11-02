@@ -21,12 +21,6 @@ latest change: 2026-02-28
 2026-01-30 USD 25.13
 2026-01-30 USD 25.13
 
----
-*Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["analyst/culper-research"]
----
-
 # company name (A/ACAD)
 
 <blockquote>
@@ -39,17 +33,7 @@ quote
 latest change: 2026-02-08
 2026-01-30 USD 25.13
 2026-01-30 USD 25.13
+
 ---
 tags: ["analyst/culper-research"]
 ---
-
-# company name (ACAD)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://img1.wsimg.com/blobby/go/cc91fda7-4669-4d1b-81ce-a0b8d77f25ab/downloads/Culper_ACAD_2-15-2024.pdf?ver=1708013890469)
-latest change: 2025-10-29

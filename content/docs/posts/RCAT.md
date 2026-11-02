@@ -24,23 +24,5 @@ Fuzzy Panda Research published a follow-up report on Red Cat Holdings (NASDAQ: R
 Fuzzy Panda originally published on Red Cat in August and alleged that the company’s senior engineers “have been quitting for months” and that the company engages in paid stock promotion.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["analyst/kerrisdale-capital and fuzzy-panda"]
 ---
-
-# company_name (RCAT)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://www.kerrisdalecap.com/wp-content/uploads/2025/01/RCAT-Kerrisdale.pdf)
-latest change: 2025-10-29
-
-
-Fuzzy Panda Research published a follow-up report on Red Cat Holdings (NASDAQ: RCAT — $1.55 billion), a drone technology company. Fuzzy Panda alleged management misled investors about the size of an Army contract and, based on data from a FOIA request, suggested the company’s Army contract “is only worth $12.9 million,” well below “the >$30 million or >$55 million that management has promised in the past.” Fuzzy Panda also alleged the company’s new FANG drone relies on technology from other companies and said some of the drone’s technology may be from manufacturers in China.
-
-Fuzzy Panda originally published on Red Cat in August and alleged that the company’s senior engineers “have been quitting for months” and that the company engages in paid stock promotion.

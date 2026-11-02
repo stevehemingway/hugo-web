@@ -19,12 +19,6 @@ quote
 [More ...](https://report-url)
 latest change: 2026-02-28
 
----
-*Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/market", "sector/fintech", "analyst/me"]
----
-
 # Robin Hood Markets (H/HOOD)
 
 <blockquote>
@@ -35,17 +29,7 @@ quote
 
 [More ...](https://report-url)
 latest change: 2026-02-08
+
 ---
 tags: ["thesis/market", "sector/fintech", "analyst/me"]
 ---
-
-# Robin Hood Markets (HOOD)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
-latest change: 2025-10-29

@@ -12,22 +12,5 @@ Seems to be a developer renting to small charities.
 Haven't read the report, beyond a quick skim, but the stock price has cratered.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "thesis/fraud", "analyst/boatman-capital", "analyst/viceroy-research", "sector/real-estate"]
 ---
-
-See [this](https://theboatmancapital.com/wp-content/uploads/2022/12/Home-REIT-Letter-05Dec22.pdf).
-
-Seems to be a developer renting to small charities. 
-Haven't read the report, beyond a quick skim, but the stock price has cratered.
-	
----
-tags: ["potential/short", "thesis/fraud", "analyst/boatman-capital", "analyst/viceroy-research", "sector/real-estate"]
----
-
-See [this](https://theboatmancapital.com/wp-content/uploads/2022/12/Home-REIT-Letter-05Dec22.pdf).
-
-Seems to be a developer renting to small charities. 
-Haven't read the report, beyond a quick skim, but the stock price has cratered.
-	

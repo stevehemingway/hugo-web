@@ -19,12 +19,6 @@ CFO will no longer serve after seven months
 [More ...]()
 latest change: 2026-02-28
 
----
-*Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/fraud", "sector/EV", "analyst/dorsey"]
----
-
 # Canoo (G/GOEV)
 
 <blockquote>
@@ -39,15 +33,3 @@ latest change: 2026-02-08
 ---
 tags: ["thesis/fraud", "sector/EV", "analyst/dorsey"]
 ---
-
-# Canoo (GOEV)
-
-<blockquote>
-<pre>
-CFO will no longer serve after seven months
-</pre>
-</blockquote>
-
-[More ...]()
-latest change: 2025-10-29
-

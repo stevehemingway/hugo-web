@@ -9,22 +9,8 @@ draft: false
 # Electric Last-mile solutions
 Now bankrupt.
 
----
-*Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["potential/short", "thesis/fraud", "analyst/fuzzy-panda"]
----
-
-# Electric Last-mile solutions
-Now bankrupt.
----
-tags: ["potential/short", "thesis/fraud", "analyst/fuzzy-panda"]
----
-
-# Electric Last-mile solutions
-Now bankrupt.
----
-tags: []
----
-
 This is the content of ELMS.m4
+
+---
+tags: ["potential/short", "thesis/fraud", "analyst/fuzzy-panda"]
+---

@@ -9,14 +9,5 @@ draft: false
 # Blue Apron
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/shitco", "potential/short"]
 ---
-
-# Blue Apron
----
-tags: ["thesis/shitco", "potential/short"]
----
-
-# Blue Apron

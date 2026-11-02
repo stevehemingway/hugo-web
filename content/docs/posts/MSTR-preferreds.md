@@ -12,13 +12,5 @@ STRE: (stream): Euro-denominated, 10% annual yield
 STRD: (Stride): 10% non-cum. fixed div, shorter mat. non-convert.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: []
 ---
-
-STRF: (strife) 10% cum. fixed div, senior to common,
-STRC: (strategy): preferred common
-STRK: (structured bitcoin): convertible to MSTR common
-STRE: (stream): Euro-denominated, 10% annual yield
-STRD: (Stride): 10% non-cum. fixed div, shorter mat. non-convert.

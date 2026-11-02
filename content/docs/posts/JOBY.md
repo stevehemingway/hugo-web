@@ -26,26 +26,5 @@ Basically, JOBY might be a great investment, or a shit one.
 Probably safest to stand well back, or buy a straddle.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/optimism", "sector/aviation", "analyst/bleeker-street-research and kerrisdale-capital"]
 ---
-
-# Joby Aviation (JOBY)
-
-<blockquote>
-<pre>
-
-'“Tesla meets Uber in the sky… [with] some of the most egregious guidance of any SPAC we have seen.”'
-</pre>
-</blockquote>
-
-[More ...](https://twitter.com/KerrisdaleCap/status/1711725862196805928)
-latest change: 2025-10-29
-
-
-But what about [this]("https://open.substack.com/pub/hntrbrk/p/exclusive-joby-hydrogen-powered-autonomous?r=57a252&utm_campaign=post&utm_medium=email")?
-
-
-Basically, JOBY might be a great investment, or a shit one. 
-Probably safest to stand well back, or buy a straddle.

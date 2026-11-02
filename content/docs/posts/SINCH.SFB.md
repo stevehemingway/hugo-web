@@ -21,19 +21,5 @@ NINGI Research is short Sinch AB (Ticker: SINCH.ST) because, in our opinion, the
 latest change: 2026-02-28
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
-
----
 tags: ["thesis/fraud", "sector/cloud computing", "analyst/NINGNI"]
 ---
-
-# SINCH AB (SINCH.SFB)
-
-<blockquote>
-<pre>
-NINGI Research is short Sinch AB (Ticker: SINCH.ST) because, in our opinion, the company acquired nocuous assets and misstated its accounts to beat analysts’ estimates and pump its share price. We have found material misstatements within the company’s current assets and think the annual report for the full year of 2021 does not present an accurate or fairly picture of the financial position of Sinch AB. We question Deloitte’s unqualified opinion for the 2021 annual report.
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
-latest change: 2025-10-29

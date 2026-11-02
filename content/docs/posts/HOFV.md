@@ -13,22 +13,5 @@ Bleecker Street Research published a follow-up report on Hall of Fame Resort and
 In July 2021 Bleecker Street also highlighted the company’s ties to Fyre Festival promoters and a failed three-wheeled electric vehicle company. Hall of Fame Resort and Entertainment is down nearly 90% since its July 2020 SPAC merger.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "thesis/economics", "analyst/bleeker-street-research", "source/bear-cave"]
 ---
-
-# Hall of Fame Resort and Entertainment
-
-Bleecker Street Research published a follow-up report on Hall of Fame Resort and Entertainment (NASDAQ: HOFV — $123 million), a company attempting to build an indoor NFL-themed waterpark in Canton, Ohio. Bleecker Street noted that the company “has risen 100% after a couple of financing agreements were announced and a blitz of publicity” but predicted the company “will eventually be bankrupt.” Bleecker Street highlighted that progress on the waterpark has been slow, the company’s recent financing deal is highly constrained, and in May the largest sponsor, Johnson Controls, looked to terminate its naming rights deal.
-
-In July 2021 Bleecker Street also highlighted the company’s ties to Fyre Festival promoters and a failed three-wheeled electric vehicle company. Hall of Fame Resort and Entertainment is down nearly 90% since its July 2020 SPAC merger.
----
-tags: ["potential/short", "thesis/economics", "analyst/bleeker-street-research", "source/bear-cave"]
----
-
-# Hall of Fame Resort and Entertainment
-
-Bleecker Street Research published a follow-up report on Hall of Fame Resort and Entertainment (NASDAQ: HOFV — $123 million), a company attempting to build an indoor NFL-themed waterpark in Canton, Ohio. Bleecker Street noted that the company “has risen 100% after a couple of financing agreements were announced and a blitz of publicity” but predicted the company “will eventually be bankrupt.” Bleecker Street highlighted that progress on the waterpark has been slow, the company’s recent financing deal is highly constrained, and in May the largest sponsor, Johnson Controls, looked to terminate its naming rights deal.
-
-In July 2021 Bleecker Street also highlighted the company’s ties to Fyre Festival promoters and a failed three-wheeled electric vehicle company. Hall of Fame Resort and Entertainment is down nearly 90% since its July 2020 SPAC merger.

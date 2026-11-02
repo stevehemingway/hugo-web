@@ -13,22 +13,5 @@ EV battery co., engages in fraud/fake tech.
 https://twitter.com/ResearchGrizzly/status/1600513611402575872?s=20&t=zbGoAr6T5FJriExBfwNiiA
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["analyst/grizzly-research", "thesis/fraud", "potential/short"]
 ---
-
-# ESS Tech
-
-EV battery co., engages in fraud/fake tech.
-
-https://twitter.com/ResearchGrizzly/status/1600513611402575872?s=20&t=zbGoAr6T5FJriExBfwNiiA
----
-tags: ["analyst/grizzly-research", "thesis/fraud", "potential/short"]
----
-
-# ESS Tech
-
-EV battery co., engages in fraud/fake tech.
-
-https://twitter.com/ResearchGrizzly/status/1600513611402575872?s=20&t=zbGoAr6T5FJriExBfwNiiA

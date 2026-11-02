@@ -8,15 +8,9 @@ draft: false
 ---
 # XYZ Corporation
 
+
 This is a test company.
 
----
-*Last updated: 2026-03-07 by automated standardization process*
 ---
 tags: []
 ---
-
-# XYZ Corporation
-
-
-This is a test company.

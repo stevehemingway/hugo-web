@@ -8,9 +8,5 @@ draft: false
 Wolfpack Research published on Mercury General (NYSE: MCY — $2.76 billion), a Los Angeles-based home and auto insurance company. Wolfpack estimated that the company “faces more than $2 billion in losses following the LA wildfires” based on Wolfpack’s analysis of “an obscure, ~4,000-page rate filing which reveals the number of homes and condominiums [Mercury] insures in each California zip code.” Wolfpack also highlighted that Mercury’s losses materially exceed the company’s ~$1.3 billion in reinsurance, among other issues.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: []
 ---
-
-Wolfpack Research published on Mercury General (NYSE: MCY — $2.76 billion), a Los Angeles-based home and auto insurance company. Wolfpack estimated that the company “faces more than $2 billion in losses following the LA wildfires” based on Wolfpack’s analysis of “an obscure, ~4,000-page rate filing which reveals the number of homes and condominiums [Mercury] insures in each California zip code.” Wolfpack also highlighted that Mercury’s losses materially exceed the company’s ~$1.3 billion in reinsurance, among other issues.

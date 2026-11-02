@@ -15,15 +15,5 @@ draft: false
 [1]: <https://www.sprucepointcap.com/nuvei-corp/> "Spruce Point thesis"
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["analyst/spruce-point-capital", "thesis/fraud"]
 ---
-
-# Nuvei Corp.
-
-[Spruce Point][1] writes:
-
-> After conducting a forensic financial and accounting review, Spruce Point believes shares of Nuvei Corp. (TSX and Nasdaq: NVEI), a highly promoted payments processing technology company, has covered up a pattern of business failures, lack of organic growth, and a web of relationships with individuals connected to major Ponzi Schemes and alleged fraudulent activities
-
-[1]: <https://www.sprucepointcap.com/nuvei-corp/> "Spruce Point thesis"

@@ -18,19 +18,5 @@ Summary
     IBAT’s two largest shareholders with 40% of outstanding shares have sold nearly 30% of their stakes this year in private transactions.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "analyst/night-market-research", "country/canada"]
 ---
-
-# International Battery Metals
-International Battery Metals: Overinflated And Precariously Underfunded
-Oct. 26, 2022 10:00 AM ETInternational Battery Metals Ltd. (IBATF)
-Summary
-
-    International Battery Metals (IBAT) professes development of a revolutionary lithium extraction technology joining a sea of start-ups telling similar stories.
-    Despite just completing test facility construction and reporting limited, “high-level” testing, IBAT has a market capitalization of $500m, up 125x over two years.
-    IBAT has less than two quarters of cash, $20m in debt and negative working capital of $16m.
-    IBAT is  tempting a highly dilutive equity for debt transaction indicating a low-value technology reliant on usurious capital.
-    IBAT’s two largest shareholders with 40% of outstanding shares have sold nearly 30% of their stakes this year in private transactions.
-

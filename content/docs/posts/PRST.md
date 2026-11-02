@@ -9,9 +9,5 @@ draft: false
 White Diamond Research published a one-page report on Presto Automation (NASDAQ: PRST — $171 million), a restaurant technology company. White Diamond accused the company of engaging in stock promotion and noted the company added and then deleted the McDonald’s logo from its website — creating the impression among some investors of a McDonald’s partnership when none appears to actually exist.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/fraud", "analyst/white-diamond-research", "problem/unborrowable"]
 ---
-
-White Diamond Research published a one-page report on Presto Automation (NASDAQ: PRST — $171 million), a restaurant technology company. White Diamond accused the company of engaging in stock promotion and noted the company added and then deleted the McDonald’s logo from its website — creating the impression among some investors of a McDonald’s partnership when none appears to actually exist.

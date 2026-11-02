@@ -11,11 +11,5 @@ draft: false
 [Hindenberg Report](https://hindenburgresearch.com/block/)
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "analyst/hindenberg-research", "thesis/fraud", "thesis/insider-enrichment"]
 ---
-
-# Block Inc.
-
-[Hindenberg Report](https://hindenburgresearch.com/block/)

@@ -10,10 +10,5 @@ draft: false
 Somewhat like [[ZI]]
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short"]
 ---
-
-# Redfin
-Somewhat like [[ZI]]

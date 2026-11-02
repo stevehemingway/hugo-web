@@ -24,24 +24,5 @@ Citron Research tweeted critically on Opendoor Technologies (NASDAQ: OPEN — $4
 “The business model is not broken... it has never worked.”
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/fraud", "sector/resi-real-estate", "analyst/Citron"]
 ---
-
-# Opendoor Technologies (OPEN)
-
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
-latest change: 2025-10-29
-
-
-Citron Research tweeted critically on Opendoor Technologies (NASDAQ: OPEN — $4.89 billion), a company that buys and sells homes online. Citron said Opendoor “is nothing more than a stock promo and a science project in how to burn money” and concluded,
-
-“The business model is not broken... it has never worked.”
-

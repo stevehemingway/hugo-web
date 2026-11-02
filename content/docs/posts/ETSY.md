@@ -9,14 +9,5 @@ draft: false
 https://citronresearch.com/wp-content/uploads/2023/02/Citron-Exposes-the-Dirty-Secrets-of-Etsy.pdf
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "analyst/citron-research", "thesis/regulatory"]
 ---
-
-https://citronresearch.com/wp-content/uploads/2023/02/Citron-Exposes-the-Dirty-Secrets-of-Etsy.pdf
----
-tags: ["potential/short", "analyst/citron-research", "thesis/regulatory"]
----
-
-https://citronresearch.com/wp-content/uploads/2023/02/Citron-Exposes-the-Dirty-Secrets-of-Etsy.pdf

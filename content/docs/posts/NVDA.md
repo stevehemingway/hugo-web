@@ -10,11 +10,5 @@ draft: false
 Bear thesis: these things are used to mine bitcoin. Bitcoin is going out of fashion.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "thesis/over-owned", "analyst/me"]
 ---
-
-# Nvidia Corp
-Bear thesis: these things are used to mine bitcoin. Bitcoin is going out of fashion.
-	

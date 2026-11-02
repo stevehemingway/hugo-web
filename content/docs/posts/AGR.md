@@ -21,12 +21,6 @@ latest change: 2026-02-28
 2024-12-23 USD 36.02
 2024-12-23 USD 36.02
 
----
-*Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/resignations", "sector/electricity", "analyst/bear-cave"]
----
-
 # Avangrid (A/AGR)
 
 <blockquote>
@@ -39,17 +33,7 @@ tags: ["thesis/resignations", "sector/electricity", "analyst/bear-cave"]
 latest change: 2026-02-08
 2024-12-23 USD 36.02
 2024-12-23 USD 36.02
+
 ---
 tags: ["thesis/resignations", "sector/electricity", "analyst/bear-cave"]
 ---
-
-# Avangrid (AGR)
-
-<blockquote>
-<pre>
-
-</pre>
-</blockquote>
-
-[More ...]()
-latest change: 2025-10-29

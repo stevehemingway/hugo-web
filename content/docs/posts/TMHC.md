@@ -11,12 +11,5 @@ draft: false
 [IG Index](https://www.ig.com/uk/marketanalysis/ig-shares/taylor-morrison-home-corp-TMHC-US/prompts/CASH)
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/cfo-departure"]
 ---
-
-> CFO of Taylor Morrison Home Corp (NYSE: TMHC — $4.70 billion) stepped down after a little over one year “to attend to family commitments that will require him to relocate out of Arizona.”
-
-[IG Index](https://www.ig.com/uk/marketanalysis/ig-shares/taylor-morrison-home-corp-TMHC-US/prompts/CASH)
-

@@ -81,12 +81,6 @@ Carvana's operational turnaround is genuine—cost discipline and operational ef
 *Market cap: ~$85B*  
 *Short interest: Elevated, with continued skepticism from Kerrisdale and Hindenburg Research*
 
----
-*Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/economics", "sector/retail", "analyst/kerrisdale-capital"]
----
-
 # Carvana (C/CVNA)
 
 <blockquote>
@@ -101,19 +95,7 @@ Kerrisdale Capital published a follow-up report on Carvana (NYSE: CVNA — $16.8
 latest change: 2026-02-08
 2026-01-30 USD 401.11
 2026-01-30 USD 401.11
+
 ---
 tags: ["thesis/economics", "sector/retail", "analyst/kerrisdale-capital"]
 ---
-
-# Carvana (CVNA)
-
-<blockquote>
-<pre>
-Kerrisdale Capital published a follow-up report on Carvana (NYSE: CVNA — $16.8 billion), an online platform for buying and selling used cars. Kerrisdale raised concerns about the company’s valuation and challenging growth prospects and said the company is “a poorly capitalized, growth-challenged auto retailer now valued at an absurd 42x EV/2024E EBITDA.” Kerrisdale also published a letter to Carvana’s auditor, Grant Thornton, raising concerns about its auto financing agreements with DriveTime Automotive. Kerrisdale wrote, in part,
-
-    “Carvana’s relationship with DriveTime is far from arm’s length, in our opinion. DriveTime is controlled by Ernie Garcia II, a controlling shareholder of Carvana and father of Carvana’s CEO Ernie Garcia III, making them literally related parties.”
-</pre>
-</blockquote>
-
-[More ...](https://www.kerrisdalecap.com/wp-content/uploads/2024/02/Carvana-Kerrisdale-Feb-2024.pdf)
-latest change: 2025-10-29

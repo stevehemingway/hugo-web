@@ -9,16 +9,5 @@ draft: false
 > CFO of Whole Earth Brands (NASDAQ: FREE — $101 million) “separated” after a little over one year. The company has had four different CFOs since its June 2020 SPAC merger.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/resignations"]
 ---
-
-> CFO of Whole Earth Brands (NASDAQ: FREE — $101 million) “separated” after a little over one year. The company has had four different CFOs since its June 2020 SPAC merger.
-
----
-tags: ["thesis/resignations"]
----
-
-> CFO of Whole Earth Brands (NASDAQ: FREE — $101 million) “separated” after a little over one year. The company has had four different CFOs since its June 2020 SPAC merger.
-

@@ -11,12 +11,5 @@ D-Wave (quantum computing)
 Martin Shrkeli.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: []
 ---
-
-D-Wave (quantum computing)
-
-Martin Shrkeli.
-

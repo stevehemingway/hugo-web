@@ -9,11 +9,5 @@ draft: false
 https://thebearcave.substack.com/p/problems-at-the-beauty-health-co
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "analyst/edwin-dorsey"]
 ---
-
-https://thebearcave.substack.com/p/problems-at-the-beauty-health-co
-
-	

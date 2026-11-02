@@ -16,27 +16,5 @@ Most of its thin sliver of equity is goodwill.
 2026-01-30 USD 5.74
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short"]
 ---
-
-# Bausch Health Companies Inc.
-
-BHC:NYSE
-
-This is the rump of Valeant. 
-It is generating income but has a ton of debt.
-Most of its thin sliver of equity is goodwill.
-2026-01-30 USD 5.74
----
-tags: ["potential/short"]
----
-
-# Bausch Health Companies Inc.
-
-BHC:NYSE
-
-This is the rump of Valeant. 
-It is generating income but has a ton of debt.
-Most of its thin sliver of equity is goodwill.

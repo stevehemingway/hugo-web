@@ -11,12 +11,5 @@ draft: false
 No compelling thesis, really.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/legal-crackdown"]
 ---
-
-# Las Vegas Sands
-
-No compelling thesis, really. 
-

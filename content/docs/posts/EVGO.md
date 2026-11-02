@@ -11,22 +11,5 @@ draft: false
 Incredibly volatile. Probably a LT zero but too hard to trade. (2023-04-17).
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["analyst/fuzzy-panda", "thesis/fraud", "potential/short"]
 ---
-
-# EVgo Inc.
-
-Incredibly volatile. Probably a LT zero but too hard to trade. (2023-04-17).
-
-
----
-tags: ["analyst/fuzzy-panda", "thesis/fraud", "potential/short"]
----
-
-# EVgo Inc.
-
-Incredibly volatile. Probably a LT zero but too hard to trade. (2023-04-17).
-
-

@@ -12,12 +12,5 @@ Bombed out e-commerce company with a buy-now pay-later operation.
 Trading at $0.5. Has traded at $1 for a long time.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: []
 ---
-
-# Katapult
-
-Bombed out e-commerce company with a buy-now pay-later operation.
-Trading at $0.5. Has traded at $1 for a long time. 

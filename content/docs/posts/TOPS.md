@@ -11,11 +11,5 @@ Terrible governance. Excessive dilution.
 [seeking alpha](https://seekingalpha.com/symbol/TOPS)
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/shitco", "potential/short"]
 ---
-
-Terrible governance. Excessive dilution.
-
-[seeking alpha](https://seekingalpha.com/symbol/TOPS)

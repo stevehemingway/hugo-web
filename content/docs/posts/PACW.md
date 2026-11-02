@@ -14,14 +14,5 @@ that have experienced rapid growth over the last few decades.
 [1]: <https://www.netinterest.co/p/doom-loop?publication_id=43559&post_id=119490414&isFreemail=true> (Net Interest blog)
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["analyst/marc-rubenstein", "thesis/roll-up", "potential/short"]
 ---
-
-# PacWest (and others)
-
-[This post][1] suggests that things are not in such good shape for some west coast banks
-that have experienced rapid growth over the last few decades. 
-
-[1]: <https://www.netinterest.co/p/doom-loop?publication_id=43559&post_id=119490414&isFreemail=true> (Net Interest blog)

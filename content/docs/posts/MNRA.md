@@ -10,17 +10,8 @@ draft: false
 Based on exit of a couple of CFOs, not an actual analysis.
 Very uncertain short, but prob. overvalued.
 
----
-*Last updated: 2026-03-07 by automated standardization process*
+This is the content of MNRA.m4
+
 ---
 tags: ["source/bear-cave", "potential/short"]
 ---
-
-# Moderna
-Based on exit of a couple of CFOs, not an actual analysis.
-Very uncertain short, but prob. overvalued.
----
-tags: []
----
-
-This is the content of MNRA.m4

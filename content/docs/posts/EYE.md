@@ -20,32 +20,5 @@ Bristlemoon Capital published on National Vision Holdings (NASDAQ: EYE — $1.62
 latest change: 2026-02-28
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/demand and supply", "sector/retail", "analyst/bristlemoon-capital"]
 ---
-
-# National Vision Holdings (E/EYE)
-
-<blockquote>
-<pre>
-Bristlemoon Capital published on National Vision Holdings (NASDAQ: EYE — $1.62 billion), an eye care and glasses retailer. Bristlemoon highlighted that the company recently lost a large contract with Walmart that expires in February 2024, faces weakening demand from its low-income customer base, and will be hurt by an optometrist shortage and rising labor rates.
-</pre>
-</blockquote>
-
-[More ...](https://www.bristlemoonresearch.com/p/a-short-we-like-edition-1)
-latest change: 2026-02-08
----
-tags: ["thesis/demand and supply", "sector/retail", "analyst/bristlemoon-capital"]
----
-
-# National Vision Holdings (EYE)
-
-<blockquote>
-<pre>
-Bristlemoon Capital published on National Vision Holdings (NASDAQ: EYE — $1.62 billion), an eye care and glasses retailer. Bristlemoon highlighted that the company recently lost a large contract with Walmart that expires in February 2024, faces weakening demand from its low-income customer base, and will be hurt by an optometrist shortage and rising labor rates.
-</pre>
-</blockquote>
-
-[More ...](https://www.bristlemoonresearch.com/p/a-short-we-like-edition-1)
-latest change: 2025-10-29

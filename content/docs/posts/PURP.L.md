@@ -9,9 +9,5 @@ draft: false
 this is the actual post.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["analyst/me", "thesis/macro"]
 ---
-
-this is the actual post.

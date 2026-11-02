@@ -19,12 +19,6 @@ see below
 [More ...](https://report-url)
 latest change: 2026-02-28
 
----
-*Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/fraud", "sector/mining", "analyst/blue orca"]
----
-
 # Aya Gold and Silver (A/AYA.TSX)
 
 <blockquote>
@@ -35,17 +29,7 @@ see below
 
 [More ...](https://report-url)
 latest change: 2026-02-08
+
 ---
 tags: ["thesis/fraud", "sector/mining", "analyst/blue orca"]
 ---
-
-# Aya Gold and Silver (AYA.TSX)
-
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
-latest change: 2026-01-20

@@ -11,11 +11,5 @@ draft: false
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Oxford physicist re rubbish like <a href="https://twitter.com/search?q=%24IONQ&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$IONQ</a>. Quantum computing is code for industrial subsidy or welfare scheme for academics. <br><br>“Some physicists believe, in private, that there is no problem here: why not take advantage of the situation while it lasts, and take the easy money…” <a href="https://t.co/271zYCGOqF">https://t.co/271zYCGOqF</a></p>&mdash; Scorpion Capital (@ScorpionFund) <a href="https://twitter.com/ScorpionFund/status/1562902578757005313?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short"]
 ---
-
-# IONQ 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Oxford physicist re rubbish like <a href="https://twitter.com/search?q=%24IONQ&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$IONQ</a>. Quantum computing is code for industrial subsidy or welfare scheme for academics. <br><br>“Some physicists believe, in private, that there is no problem here: why not take advantage of the situation while it lasts, and take the easy money…” <a href="https://t.co/271zYCGOqF">https://t.co/271zYCGOqF</a></p>&mdash; Scorpion Capital (@ScorpionFund) <a href="https://twitter.com/ScorpionFund/status/1562902578757005313?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

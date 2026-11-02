@@ -19,12 +19,6 @@ see below
 [More ...](https://report-url)
 latest change: 2026-02-28
 
----
-*Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/fraud"]
----
-
 # company_name (H/HFG)
 
 <blockquote>
@@ -35,17 +29,7 @@ see below
 
 [More ...](https://report-url)
 latest change: 2026-02-08
+
 ---
 tags: ["thesis/fraud"]
 ---
-
-# company_name (HFG)
-
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
-latest change: 2025-10-29

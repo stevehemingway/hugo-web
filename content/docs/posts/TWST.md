@@ -9,9 +9,5 @@ draft: false
 # Twist Biologics(?)
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "thesis/fraud", "analyst/scorpion-capital"]
 ---
-
-# Twist Biologics(?)

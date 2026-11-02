@@ -10,16 +10,5 @@ draft: false
 [Fisker – Undisclosed Bank Guarantees Show the Cash is Pledged; Fisker’s History of Lies Revealed.](https://fuzzypandaresearch.com/fisker-inc/)
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "thesis/fraud", "analyst/fuzzy-panda"]
 ---
-
-# Fisker
-[Fisker – Undisclosed Bank Guarantees Show the Cash is Pledged; Fisker’s History of Lies Revealed.](https://fuzzypandaresearch.com/fisker-inc/)
----
-tags: ["potential/short", "thesis/fraud", "analyst/fuzzy-panda"]
----
-
-# Fisker
-[Fisker – Undisclosed Bank Guarantees Show the Cash is Pledged; Fisker’s History of Lies Revealed.](https://fuzzypandaresearch.com/fisker-inc/)

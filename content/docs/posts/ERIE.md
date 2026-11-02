@@ -19,12 +19,6 @@ quote
 [More ...](https://www.sprucepointcap.com/research/erie-indemnity-company )
 latest change: 2026-02-28
 
----
-*Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["analyst/spruce-point-management"]
----
-
 # Erie Indeminity Company (E/ERIE)
 
 <blockquote>
@@ -35,17 +29,7 @@ quote
 
 [More ...](https://www.sprucepointcap.com/research/erie-indemnity-company )
 latest change: 2026-02-08
+
 ---
 tags: ["analyst/spruce-point-management"]
 ---
-
-# Erie Indeminity Company (ERIE)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://www.sprucepointcap.com/research/erie-indemnity-company )
-latest change: 2025-10-29

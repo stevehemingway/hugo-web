@@ -12,14 +12,5 @@ Losing money.
 Possibly about to be taken private.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["source/bear-cave", "potential/short", "analyst/edwin-dorsey"]
 ---
-
-# Weber Inc
-Maker of BBQ grills.
-Losing money.
-Possibly about to be taken private.
-
-

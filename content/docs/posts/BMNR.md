@@ -24,39 +24,5 @@ Kerrisdale Capital published on Bitmine Immersion Technologies (NYSE: BMNR — $
 2026-01-30 USD 25.1
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["thesis/fraud", "sector/bitmining", "analyst/kerrisdale-cap"]
 ---
-
-# Bitmine Immersion Technologies (B/BMNR)
-
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
-latest change: 2026-02-08
-
-Kerrisdale Capital published on Bitmine Immersion Technologies (NYSE: BMNR — $14.9 billion), a Bitcoin mining company that recently launched an Ethereum digital asset treasury model. Kerrisdale said the model of digital asset treasuries, selling inflated stock to buy cryptocurrency, “is on its way to extinction” as more companies replicate the model and more investors choose to buy cryptocurrency directly. Kerrisdale predicted the company’s ~40% premium to holdings would diminish over time.
-
-2026-01-30 USD 25.1
----
-tags: ["thesis/fraud", "sector/bitmining", "analyst/kerrisdale-cap"]
----
-
-# Bitmine Immersion Technologies (BMNR)
-
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
-latest change: 2026-01-20
-
-Kerrisdale Capital published on Bitmine Immersion Technologies (NYSE: BMNR — $14.9 billion), a Bitcoin mining company that recently launched an Ethereum digital asset treasury model. Kerrisdale said the model of digital asset treasuries, selling inflated stock to buy cryptocurrency, “is on its way to extinction” as more companies replicate the model and more investors choose to buy cryptocurrency directly. Kerrisdale predicted the company’s ~40% premium to holdings would diminish over time.
-

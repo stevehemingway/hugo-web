@@ -9,9 +9,5 @@ draft: false
 New Amsterdam Pharma, on NASDAQ, nothing obvious for shorting.
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: []
 ---
-
-New Amsterdam Pharma, on NASDAQ, nothing obvious for shorting.

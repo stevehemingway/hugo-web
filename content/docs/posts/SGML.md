@@ -60,13 +60,5 @@ NOT AVAILABLE FOR SHORT SALE
 >>>>>>> b13a364 (few m4 files.):stocks/SGML.m4
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["potential/short", "analyst/grizzly-reports", "thesis/fraud"]
 ---
-
-# Sigma Lithium Corp
-[The report](https://grizzlyreports.com/sigma-lithium-corp-nasdaq-sgml-bogus-feasibility-studies-production-delays-will-leave-investors-praying-for-a-buyout/)
-
--   Sigma Lithium Corp. (NASDAQ: SGML) is a development-stage lithium mining company focused on advancing its Grota do Cirilo Project to production in Minas Gerais, Brazil. SGML has coasted a boom in lithium prices to a >26x return over the last 3 years, with the stock surging another 200% over last 12 months on speculation of a buyout ahead of production commencing.
--   Though several large mining players have been rumored with an SGML takeover, reported interest from Tesla has generated the most investor enthusiasm. **We believe a Tesla bid is highly unlikely** given Elon’s focus on refining and preference for clay minerals available in Nevada over conventional spodumene, as well as the availability of less risky offtake agreements which are standard for OEMs.

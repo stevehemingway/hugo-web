@@ -11,11 +11,5 @@ draft: false
 https://seekingalpha.com/symbol/IXRRF?hasComeFromMpArticle=false
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: []
 ---
-
-# Ionic Rare Earths
-
-https://seekingalpha.com/symbol/IXRRF?hasComeFromMpArticle=false

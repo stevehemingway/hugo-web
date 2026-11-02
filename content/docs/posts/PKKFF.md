@@ -11,11 +11,5 @@ draft: false
 Basically a penny stock: $0.26
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: [high-tech]
 ---
-
-# Tenet Fintech Group
-
-Basically a penny stock: $0.26

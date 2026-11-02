@@ -20,28 +20,5 @@ High Levels of Banned PFAS Detected in Hershey’s (NYSE: HSY) Packaging. Indepe
 latest change: 2026-02-28
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: []
 ---
-
-theworks(legal threat,
-grizzly-research,
-{High Levels of Banned PFAS Detected in Hershey’s (NYSE: HSY) Packaging. Independent Tests Reveal Widespread Presence of Cancer-Linked “Forever Chemicals” in its Biggest Brands},
-Hershey,
-food,
-{https://grizzlyreports.com/hsy})
----
-tags: ["thesis/legal threat", "sector/food", "analyst/grizzly-research"]
----
-
-# Hershey (HSY)
-
-<blockquote>
-<pre>
-High Levels of Banned PFAS Detected in Hershey’s (NYSE: HSY) Packaging. Independent Tests Reveal Widespread Presence of Cancer-Linked “Forever Chemicals” in its Biggest Brands
-</pre>
-</blockquote>
-
-[More ...](https://grizzlyreports.com/hsy)
-latest change: 2025-10-29

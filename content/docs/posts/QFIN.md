@@ -20,18 +20,5 @@ China hustle
 latest change: 2026-02-28
 
 ---
-*Last updated: 2026-03-07 by automated standardization process*
----
 tags: ["sector/china", "analyst/grizzly-research"]
 ---
-
-# Qifu Technology Inc. (QFIN)
-
-<blockquote>
-<pre>
-China hustle
-</pre>
-</blockquote>
-
-[More ...](https://grizzlyreports.com/we-believe-qifu-technology-inc-nasdaq-qfin-is-a-china-hustle-stock-with-outright-fake-financials-fraudulent-backers-and-an-imploding-business/)
-latest change: 2025-10-29
