@@ -16,8 +16,6 @@ Thesis: fraud, analyst: Culper-research, sector: https://substack.com/redirect/6
 [url](https://substack.com/redirect/67983652-8ce3-4505-b524-c7a1a80e91db?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98)
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-28
 
 "“Insiders have dumped $52M in stock in the past year and an astounding $375M since early 2020, both in open market sales and 10b5-1 plans. We think there will be little left of XPEL as investors realize its Tesla and entrotech engines have both flamed out.”"
@@ -31,8 +29,6 @@ latest change: 2026-02-28
 
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2025-10-29
 
 "“Insiders have dumped $52M in stock in the past year and an astounding $375M since early 2020, both in open market sales and 10b5-1 plans. We think there will be little left of XPEL as investors realize its Tesla and entrotech engines have both flamed out.”"

@@ -9,25 +9,9 @@ draft: false
 # company name (stocks/MTCH)
 
 Thesis: declining revenue, analyst: bristle moon capital, sector: sector.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
 # company name (MTCH)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
 latest change: 2025-10-29

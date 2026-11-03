@@ -15,8 +15,6 @@ Thesis: technology, analyst: crash capital, sector: defence.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 Electro Optic Systems Holdings Limited is an Australia-based company engaged in designing, manufacturing, and exporting advanced technology systems. The Company operates in two segments: Defence Systems and Space Systems. The Defence Systems segment specializes in technology for weapon systems optimization and integration,

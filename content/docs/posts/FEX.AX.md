@@ -15,8 +15,6 @@ Thesis: undervalued port assets, analyst: macro-ops, sector: mining and logistic
 
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 > 

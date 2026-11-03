@@ -15,8 +15,6 @@ Thesis: monopoly, analyst: bristlemoon, sector: chips.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 Synopsys Inc

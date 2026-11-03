@@ -15,8 +15,6 @@ Thesis: cashflow, analyst: Ben Carlson, sector: .
 Cambria’s Shareholder Yield ETF, SYLD goes beyond dividends to include buybacks and debt paydown, resulting in a fund portfolio that historically ranks highly on a metric referred to as shareholder yield.
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-28
 
 ---

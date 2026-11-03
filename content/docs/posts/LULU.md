@@ -15,8 +15,6 @@ Thesis: economics, analyst: me, sector: retail.
 see below
 </pre>
 </blockquote>
-
-[More ...](none)
 latest change: 2026-02-28
 
 This is just me thinking: how can a shop selling leggings be valued like Google?

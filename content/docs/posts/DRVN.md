@@ -15,8 +15,6 @@ Thesis: tariffs, analyst: daily-shot, sector: retail.
 tariffs will make people keep their car on the road for longer
 </pre>
 </blockquote>
-
-[More ...](none)
 latest change: 2026-02-28
 
 ---

@@ -9,13 +9,6 @@ draft: false
 # Borr Drilling (stocks/BORR)
 
 Thesis: value, analyst: macro-ops, sector: oil and gas exploration.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://operators.macro-ops.com/wp-content/uploads/2023/12/The-Long-Pull_-Borr-Drilling-BORR-1.pdf)
 latest change: 2026-02-28
 

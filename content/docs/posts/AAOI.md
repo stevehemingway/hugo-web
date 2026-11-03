@@ -13,14 +13,6 @@ draft: false
 # Applied Optoelectronics (stocks/AAOI), Applied Optoelectronics
 
 Thesis: thesis, analyst: culper-research, sector: sector.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 Culper Research is Short Applied Optoelectronics, Inc. (AAOI)
@@ -29,17 +21,7 @@ We are short Applied Optoelectronics ("AAOI", "Applied", "the Company"), a manuf
 2026-01-30 USD 43.61
 
 # Applied Optoelectronics (A/AAOI)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-08
-
-
 
 Culper Research is Short Applied Optoelectronics, Inc. (AAOI)
 

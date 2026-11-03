@@ -15,8 +15,6 @@ Thesis: thesis, analyst: Ningi-research, sector: food manufacturing.
 
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 Vita Coco – Structural Issues Amid Stalling Sales and Costco Contract Loss

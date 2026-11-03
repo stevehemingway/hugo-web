@@ -15,8 +15,6 @@ Thesis: economics, analyst: analyst, sector: mining.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 ---

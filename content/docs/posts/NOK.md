@@ -15,8 +15,6 @@ Thesis: value, analyst: analyst, sector: currency.
 NOK
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-28
 
 NOK has to be a good buy. Maybe CHF, but they don't have the oil.

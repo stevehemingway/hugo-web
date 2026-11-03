@@ -9,23 +9,9 @@ draft: false
 # Erie Indeminity Company (stocks/ERIE)
 
 Thesis: thesis, analyst: spruce-point-management, sector: sector.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://www.sprucepointcap.com/research/erie-indemnity-company )
 latest change: 2026-02-28
 
 # Erie Indeminity Company (E/ERIE)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://www.sprucepointcap.com/research/erie-indemnity-company )
 latest change: 2026-02-08

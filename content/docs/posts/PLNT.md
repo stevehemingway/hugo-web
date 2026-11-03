@@ -9,12 +9,5 @@ draft: false
 # Planet Fitness (stocks/PLNT)
 
 Thesis: fraud, analyst: dorsey, sector: leisure.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://thebearcave.substack.com/p/problems-at-planet-fitness-plnt)
 latest change: 2026-02-28

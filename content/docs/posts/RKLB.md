@@ -9,13 +9,6 @@ draft: false
 # Rocket Lab (stocks/RKLB)
 
 Thesis: fraud, analyst: bleekr-street-research, sector: space.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://www.bleeckerstreetresearch.com/research/rklb)
 latest change: 2026-02-28
 

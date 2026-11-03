@@ -15,8 +15,6 @@ Thesis: fraud, analyst: iceberg-research, sector: generation.
 
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-28
 
 ## Hunterbrook update (2024-6-11)

@@ -15,8 +15,6 @@ Thesis: dominant position, analyst: me, sector: builing and security systems.
 like $BLDR but less expensive
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-28
 
 ---

@@ -15,8 +15,6 @@ Thesis: turnaround, analyst: elmer-spud, sector: retail.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 Deep Value? Dumpster Diving? Strategic Turnaround? Welcome to Carparts.com (PRTS)

@@ -15,8 +15,6 @@ Thesis: macro, analyst: me, sector: REIT.
 
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-28
 
 # Unite Group PLC

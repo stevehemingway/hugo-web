@@ -13,6 +13,4 @@ draft: false
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-01-20

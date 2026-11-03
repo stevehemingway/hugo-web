@@ -1,5 +1,5 @@
 ---
-title: company_name
+title: RELY
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/spruce-point-capital, focus/security, potential/long, potential/short, sector/retail]
 type: stock
@@ -9,17 +9,8 @@ draft: false
 date: 2026-06-02
 *Last updated: 2026-03-07 by automated standardization process*
 
-# company_name (RELY)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
+# RELY (RELY)
 latest change: 2025-10-29
-
 
 NEW YORK, March 11, 2025 /BusinessWire/ -- Spruce Point Capital Management, LLC (“Spruce Point” or “we” or “us”), a New York-based investment management firm that focuses on forensic research and short-selling, today issued a detailed report entitled, “Why We Mistrust Remitly”, that outlines why we believe and estimate that shares of Remitly Global, Inc. (Nasdaq: RELY) ("RELY" or the "Company") face approximately 40% – 55% potential long-term downside risk, or $9.00 – $12.00 per share. Download and view the report and its Full Legal Disclaimer by visiting www.sprucepointcap.com for additional information and exclusive updates.
 Spruce Point Report Overview:

@@ -9,14 +9,6 @@ draft: false
 # FFB Bancorp (stocks/FFBB)
 
 Thesis: thesis, analyst: rogue-funds, sector: banking.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 ---

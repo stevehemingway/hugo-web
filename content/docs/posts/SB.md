@@ -7,14 +7,5 @@ ticker: SB
 draft: false
 ---
 # Safe Bulkers Ltd. (SB)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
-
 ---
 *Last updated: 2026-03-07 by automated standardization process*

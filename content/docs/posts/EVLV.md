@@ -9,13 +9,6 @@ draft: false
 # Evolv Technologies Inc. (stocks/EVLV)
 
 Thesis: oversold, analyst: hunterbrook, sector: ai.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://newsletter.hntrbrk.com/p/breaking-schools-stick-with-evolv?r=nmbt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 latest change: 2026-02-28
 

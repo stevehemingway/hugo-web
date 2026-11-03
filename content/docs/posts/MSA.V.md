@@ -19,8 +19,6 @@ We bought the stock for three main reasons:
     MSA can juice shareholder returns once debt-free via increased dividends and/or buybacks.
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 ---

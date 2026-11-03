@@ -1,21 +1,13 @@
 ---
-title: company_name
+title: SYM
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/hunterbrook-media, focus/security, potential/short]
 type: stock
 ticker: SYM
 draft: false
 ---
-# company_name (stocks/SYM)
-
+# SYM (stocks/SYM)
 Thesis: thesis, analyst: anonymous and hunterbrook, sector: sector.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://www.dropbox.com/scl/fi/sh5lzo13fgp9gm6p3dpjy/SYM-thing-isn-t-Right-Picking-apart-a-Case-of-Misleading-Disclosure-8.22.2024-Final.pdf?rlkey=xbwa9v6foj1xsmgsb13vc9mkp&e=4&st=prc9smzt&dl=0)
 latest change: 2026-02-28
 

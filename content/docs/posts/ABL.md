@@ -15,8 +15,6 @@ Thesis: fraud, analyst: morpheus-research, sector: asset management.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 Morpheus Research published on Abacus Global Management (NASDAQ: ABL — $586 million), a life settlements company. Morpheus said its 3-month investigation included “interviews with 33 industry experts & former [Abacus] employees” and alleged that Abacus engaged in “a scheme to systematically overvalue its assets, reminiscent of past life settlements blowups.” In particular, Morpheus alleged that Abacus has an inappropriately close relationship with a life expectancy data provider, Lapetus Solutions, which provides Abacus with low life expectancy predictions that inflate the values of Abacus’ life settlements. Morpheus highlighted that Abacus has invested $1 million in Lapetus and wrote, in part,

@@ -15,8 +15,6 @@ Thesis: elliot, analyst: ft, sector: engineering.
 none
 </pre>
 </blockquote>
-
-[More ...](none)
 latest change: 2026-02-28
 
 Basically, Elliot agitated for a breakup, and it's going to happen.

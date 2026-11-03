@@ -1,7 +1,7 @@
 ---
 title: DocGo
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fuzzy-panda-research, focus/security, potential/short, sector/health-and-transportation(), thesis/fraud, sector/health-and-transportation(!)]
+tags: [analyst/fuzzy-panda-research, focus/security, potential/short, sector/health-and-transportation(), thesis/fraud, sector/health-and-transportation]
 type: stock
 ticker: DCGO
 draft: false

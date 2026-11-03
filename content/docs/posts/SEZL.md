@@ -32,6 +32,4 @@ Insiders have sold ~$71 million in stock this year, including a key pre-IPO inve
 Sezzle
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2025-10-29

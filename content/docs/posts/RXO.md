@@ -22,15 +22,12 @@ New line to test makefile.
 
 ---
 *Last updated: 2026-05-07 by Steve*
-# company_name (RXO)
-
+# RXO (RXO)
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-01-20
 
 Keith Dalrymple of DF Research published on RXO Inc (NYSE: RXO — $2.87 billion), a freight services company. Mr. Dalrymple alleged the company “has masked the consequences of its demonstrably unsustainable business by misleading shareholders” and specifically alleged the company “allocates some costs of revenues to operating expenses, and shifts some operating expenses off the income statement onto the cash flow statement as investments.” Mr. Dalrymple concluded,

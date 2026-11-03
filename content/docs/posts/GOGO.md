@@ -9,23 +9,9 @@ draft: false
 # Gogo Inc. (stocks/GOGO)
 
 Thesis: competition, analyst: bleeker-street, sector: TMT.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://www.bleeckerstreetresearch.com/research/gogo)
 latest change: 2026-02-28
 
 # Gogo Inc. (G/GOGO)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://www.bleeckerstreetresearch.com/research/gogo)
 latest change: 2026-02-08

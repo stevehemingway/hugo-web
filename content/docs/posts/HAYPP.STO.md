@@ -9,13 +9,6 @@ draft: false
 # HAYPP Group (Stockholm) (stocks/HAYPP.STO)
 
 Thesis: economics, analyst: rogue-funds, sector: retailing.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://www.rogue-funds.com/blog/haypp-group)
 latest change: 2026-02-28
 

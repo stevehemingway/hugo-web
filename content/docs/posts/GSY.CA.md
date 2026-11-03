@@ -15,8 +15,6 @@ Thesis: fraud, analyst: jehosaphat-research, sector: finance.
 see below
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-28
 
 This seems to be a sub-prime lender, the stock price of which has cratered this year (2025),

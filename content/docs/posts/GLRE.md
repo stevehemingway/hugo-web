@@ -9,14 +9,6 @@ draft: false
 # Greenlight Re (stocks/GLRE)
 
 Thesis: cheap, analyst: me, sector: insurance.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 This is the idea that Greenlight Capital is a spiffy hedge fund, and you can get 

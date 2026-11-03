@@ -1,21 +1,13 @@
 ---
-title: company_name
+title: RCAT
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/fuzzy-panda-research, analyst/kerrisdale-capital, focus/security, potential/short]
 type: stock
 ticker: RCAT
 draft: false
 ---
-# company_name (stocks/RCAT)
-
+# RCAT (stocks/RCAT)
 Thesis: thesis, analyst: kerrisdale-capital and fuzzy-panda, sector: sector.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://www.kerrisdalecap.com/wp-content/uploads/2025/01/RCAT-Kerrisdale.pdf)
 latest change: 2026-02-28
 

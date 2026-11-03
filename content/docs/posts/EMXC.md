@@ -15,8 +15,6 @@ Thesis: value, analyst: me, sector: .
 Vietnam is hot
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-28
 
 ---

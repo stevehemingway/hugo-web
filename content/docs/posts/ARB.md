@@ -15,8 +15,6 @@ Thesis: economics, analyst: viceroy-research, sector: REIT.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 Arbor Realty – Earnings Preview & CLO Update

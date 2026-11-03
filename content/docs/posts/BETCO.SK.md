@@ -15,8 +15,6 @@ Thesis: fraud, analyst: dorsey, sector: sector.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 WSC: https://open.substack.com/pub/dfresearch/p/wsc-2026-estimates-likely-need-to. Dalrymple

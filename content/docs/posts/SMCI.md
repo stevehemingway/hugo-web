@@ -9,25 +9,11 @@ draft: false
 # Super Micro (stocks/SMCI)
 
 Thesis: fraud, analyst: hindenberg, sector: IT hardware.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://hindenburgresearch.com/smci/)
 latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
 # Super Micro (SMCI)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://hindenburgresearch.com/smci/)
 latest change: 2025-10-29

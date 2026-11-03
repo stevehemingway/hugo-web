@@ -15,8 +15,6 @@ Thesis: preferreds, analyst: analyst, sector: preferred_stock.
 (Micro)Strategy Stretch Preferred. 10% yield! Preferred shares of MicroStrategy with high yield.
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-28
 
 $STRC: (Micro)Strategy Stretch Preferred. 10%!

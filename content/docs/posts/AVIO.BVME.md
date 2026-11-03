@@ -15,8 +15,6 @@ Thesis: economics, analyst: wasteland-capital, sector: defence.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 European defence/space play. AVIO is an Italian aerospace company specializing in the design and production of space launch vehicles and propulsion systems. The company plays a crucial role in the European space industry, contributing to various space missions and satellite launches. AVIO's expertise in solid and liquid propulsion technologies makes it a key player in the development of launch vehicles such as the Vega and Ariane rockets. The company's strategic importance is underscored by its involvement in both national and international space programs, supporting Europe's ambitions in space exploration and satellite deployment.

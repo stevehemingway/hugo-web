@@ -34,8 +34,6 @@ a $1.5 billion share repurchase program. We acquired our shares at an
 average price of $10.96. ROIV ended the quarter at $10.54.
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 ---

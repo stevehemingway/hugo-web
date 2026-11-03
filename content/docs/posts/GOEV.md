@@ -15,8 +15,6 @@ Thesis: fraud, analyst: dorsey, sector: EV.
 CFO will no longer serve after seven months
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-28
 
 # Canoo (G/GOEV)
@@ -26,6 +24,4 @@ latest change: 2026-02-28
 CFO will no longer serve after seven months
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-08

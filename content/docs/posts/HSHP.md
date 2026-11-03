@@ -7,14 +7,5 @@ ticker: HSHP
 draft: false
 ---
 # Himalaya Shipping (HSHP)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
-
 ---
 *Last updated: 2026-03-07 by automated standardization process*

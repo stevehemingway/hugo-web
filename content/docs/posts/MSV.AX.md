@@ -9,14 +9,6 @@ draft: false
 # Mitchell Services (based in Aus,presumably) (stocks/MSV.AX)
 
 Thesis: undeveralued, analyst: rogue-funds, sector: civil-engineering.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 ---

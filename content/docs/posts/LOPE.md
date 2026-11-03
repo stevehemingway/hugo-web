@@ -28,6 +28,4 @@ latest change: 2026-02-28
 Citron said the company “receives more taxpayer student funding than any university in the US”
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2025-10-29

@@ -19,6 +19,4 @@ Explosive new lawsuit by former employees alleges accounting fraud and financial
     The alleged fraud involved mis-categorizing COGS as inventory, and was “well-known within the company,” the lawsuit says.
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28

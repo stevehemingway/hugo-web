@@ -15,8 +15,6 @@ Thesis: fraud, analyst: bleeker-street-research, sector: software.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 Bleecker Street Research published on Aurora Innovation (NASDAQ: AUR — $11.9 billion), a self-driving truck software company. Bleecker Street alleged that Aurora’s key partners are “unready for commercialization” and wrote that its “business case seems to exist in PowerPoint slides rather than reality.” Bleecker Street also raised concerns about high levels of insider selling and recent executive departures.

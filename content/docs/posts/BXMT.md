@@ -15,8 +15,6 @@ Thesis: fraud, analyst: muddy-waters-capital, sector: mortgage reit.
 Muddy Waters is short BXMT. Interest rate swaps and manipulated risk ratings / loss provisions have obscured serious deterioration in BXMT's loan book. 
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 ## 2024-3-10 Old Time Reitser joins in

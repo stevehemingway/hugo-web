@@ -14,8 +14,6 @@ Thesis: fintech, analyst: analyst, sector: fintech.
 Beeline - home equity withdrawal combined with crypto. Sold home equity owned by Beeline CEO, not company itself. Fintech play on home equity extraction.
 </pre>
 </blockquote>
-
-[More ...]()
 change: 2026-02-28
 
 Beeline (), home equity withdrawal combined with crypto. What's not to like. Sold home equity owned by Beeline CEO, not company itself.

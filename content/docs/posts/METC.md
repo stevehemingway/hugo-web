@@ -15,8 +15,6 @@ Thesis: fraud, analyst: wolfpack-research, sector: mining.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 Wolfpack Research reinitiated its short on Ramaco Resources (NASDAQ: METC — $2.07 billion), a North American metallurgical coal and rare metals company. Wolfpack alleged the company’s new rare earth metals project, the Brook Mine, “is a hoax” and said its weekly drone visits found it “is as quiet as a graveyard.” Wolfpack also spoke to 15 industry experts, all of whom questioned the mine’s economic viability. Wolfpack previously criticized the company in December 2023.

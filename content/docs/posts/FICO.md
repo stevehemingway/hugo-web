@@ -15,8 +15,6 @@ Thesis: fraud, analyst: bristlemoon-capital, sector: sector.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 # Fair-Isaac Corp. (F/FICO)
@@ -26,6 +24,4 @@ latest change: 2026-02-28
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-08

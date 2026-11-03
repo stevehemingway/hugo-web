@@ -37,6 +37,4 @@ POET Technologies (NASDAQ: POET — $364 million) is designing an “optical int
 POET Technologies
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2025-10-29

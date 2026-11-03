@@ -9,14 +9,6 @@ draft: false
 # Danaher (stocks/DHR)
 
 Thesis: thesis, analyst: Byrne Hobart, sector: sector.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 Mentioned in passing as able to sustain supranormal returns, like BRK.

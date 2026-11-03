@@ -9,25 +9,11 @@ draft: false
 # company name (stocks/INOD)
 
 Thesis: thesis, analyst: wolfpack-research, sector: sector.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://wolfpackresearch.com/research/inod/)
 latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
 # company name (INOD)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://wolfpackresearch.com/research/inod/)
 latest change: 2025-10-29

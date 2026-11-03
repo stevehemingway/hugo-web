@@ -8,14 +8,6 @@ draft: false
 ---
 # company name (stocks/BKU)
 
-Thesis: thesis, analyst: analyst, sector: sector.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://www.yetanothervalueblog.com/p/bank-opportunity-costs-forgoing-buybacks?r=nmbt&utm_campaign=post&utm_medium=web)
 latest change: 2026-02-28
 

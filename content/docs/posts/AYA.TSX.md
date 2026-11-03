@@ -15,8 +15,6 @@ Thesis: fraud, analyst: blue-orca, sector: mining.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 # Aya Gold and Silver (A/AYA.TSX)
@@ -26,6 +24,4 @@ latest change: 2026-02-28
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-08

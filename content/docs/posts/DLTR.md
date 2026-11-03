@@ -13,8 +13,6 @@ draft: false
 nope
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-08
 
 2026-01-30 USD 117.59

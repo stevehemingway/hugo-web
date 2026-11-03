@@ -9,25 +9,11 @@ draft: false
 # Lion Electric Inc (stocks/LEV)
 
 Thesis: safety, analyst: Sunshine Research, sector: electric vehicles.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://twitter.com/sunshine_rsrch/status/1780986419319644303)
 latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
 # Lion Electric Inc (LEV)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://twitter.com/sunshine_rsrch/status/1780986419319644303)
 latest change: 2025-10-29

@@ -15,8 +15,6 @@ Thesis: fraud, analyst: grizzly-research, culper-research, sector: vtol aviation
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 # Grizzly 

@@ -9,13 +9,6 @@ draft: false
 # Interactive Brokers (stocks/IBKR)
 
 Thesis: economics, analyst: bristlemoon-capital, sector: finance.
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
 [More ...](https://www.bristlemoonresearch.com/p/interactive-brokers-ibkr-hoovering?r=nmbt&utm_campaign=post&utm_medium=web)
 latest change: 2026-02-28
 

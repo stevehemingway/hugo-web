@@ -7,14 +7,5 @@ ticker: GNK
 draft: false
 ---
 # Genco Shipping and Trading Co. Limited (GNK)
-
-<blockquote>
-<pre>
-quote
-</pre>
-</blockquote>
-
-[More ...](https://report-url)
-
 ---
 *Last updated: 2026-03-07 by automated standardization process*

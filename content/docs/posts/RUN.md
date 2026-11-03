@@ -15,8 +15,6 @@ Thesis: fraud, analyst: muddy-waters, sector: .
 uneconomic business built on three shaky pillars
 </pre>
 </blockquote>
-
-[More ...]()
 latest change: 2026-02-28
 
 # Sunrun: “ESG” is for Everybody Screws the Government (RUN US)

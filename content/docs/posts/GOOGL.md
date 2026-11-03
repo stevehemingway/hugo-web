@@ -15,8 +15,6 @@ Thesis: underrated, analyst: bristlemoon, sector: AI.
 see below
 </pre>
 </blockquote>
-
-[More ...](https://report-url)
 latest change: 2026-02-28
 
 Highly rated by Bristlemoon.
