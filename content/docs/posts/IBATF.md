@@ -1,7 +1,7 @@
 ---
 title: International Battery Metals
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/night-market-research, market/canada, focus/security, potential/short, sector/mining]
+tags: [analyst/night-market-research, focus/security, potential/short, sector/mining, market/canada]
 type: stock
 ticker: IBATF
 draft: false

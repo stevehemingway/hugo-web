@@ -1,7 +1,7 @@
 ---
 title: CSG
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/hunterbrook-media, focus/security, potential/short, thesis/fraud]
+tags: [analyst/hunterbrook-media, focus/security, potential/short, thesis/fraud, market/netherlands]
 type: stock
 ticker: CSG
 draft: false

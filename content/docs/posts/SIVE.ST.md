@@ -1,7 +1,7 @@
 ---
 title: Sivers Semiconductors
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/ningi-research, focus/security, potential/short, thesis/fraud]
+tags: [analyst/ningi-research, focus/security, potential/short, thesis/fraud, market/sweden]
 type: stock
 ticker: SIVE
 draft: false

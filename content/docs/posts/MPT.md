@@ -1,7 +1,7 @@
 ---
 title: Medical Properties Trust
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, market/usa, potential/short]
+tags: [focus/security, potential/short, market/united-states]
 type: stock
 ticker: MPT
 draft: false

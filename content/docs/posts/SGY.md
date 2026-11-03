@@ -1,7 +1,7 @@
 ---
 title: Surge Energy
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, market/canada, potential/long, sector/energy, sector/oil-ep, thesis/trump-iran-war]
+tags: [analyst/me, focus/security, potential/long, sector/energy, sector/oil-ep, thesis/trump-iran-war, market/canada]
 type: stock
 ticker: SGY
 draft: false

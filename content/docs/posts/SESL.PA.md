@@ -1,7 +1,7 @@
 ---
 title: SES-imagotag
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, market/france, market/paris, potential/short, sector/retail, thesis/fraud, analyst/gotham-city-research]
+tags: [focus/security, market/france, potential/short, sector/retail, thesis/fraud, analyst/gotham-city-research]
 type: stock
 ticker: SESL
 draft: false

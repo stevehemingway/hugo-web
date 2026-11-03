@@ -1,7 +1,7 @@
 ---
 title: Am Pa
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, market/france, market/paris]
+tags: [focus/security, market/france]
 type: stock
 ticker: AM
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: AVIO SPA
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/wasteland-capital, focus/security, market/italy, market/milan, potential/short, sector/defence, thesis/economics]
+tags: [analyst/wasteland-capital, focus/security, market/italy, potential/short, sector/defence, thesis/economics]
 type: stock
 ticker: AVIO
 draft: false

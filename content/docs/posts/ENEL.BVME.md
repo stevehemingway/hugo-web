@@ -1,7 +1,7 @@
 ---
 title: Enel SpA
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, market/italy, market/milan, potential/long, sector/energy, sector/finance]
+tags: [focus/security, market/italy, potential/long, sector/energy, sector/finance]
 type: stock
 ticker: ENEL
 draft: false
