@@ -1,7 +1,7 @@
 ---
 title: 'Amplia Therapeutics'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/me, focus/security, market/united-states, potential/short]
+tags: [analyst/me, focus/security, market/australia, potential/short]
 type: stock
 ticker: ATX
 draft: false
