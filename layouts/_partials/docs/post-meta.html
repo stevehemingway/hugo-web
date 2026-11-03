@@ -1,0 +1,18 @@
+{{ with .Date }}
+  <a class="flex align-center text-small book-post-date">
+    <svg class="book-icon" aria-hidden="true">{{ partial "docs/icon" "calendar" }}</svg>
+    <span>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</span>
+  </a>
+{{ end }}
+
+{{ with .GetTerms "tags" }}
+<div class="book-post-tags text-small">
+  {{ range . }}
+    {{/* Title is "Market/London"; split so the filter level is visible. */}}
+    {{ $parts := split .Title "/" }}
+    {{ $root := index $parts 0 | lower }}
+    {{ $leaf := cond (gt (len $parts) 1) (index $parts (sub (len $parts) 1)) .Title }}
+    <a href="{{ .RelPermalink }}" class="book-tag book-tag-{{ $root }}" data-tag="{{ .Title | lower }}">{{ $leaf }}</a>
+  {{ end }}
+</div>
+{{ end }}

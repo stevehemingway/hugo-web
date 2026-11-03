@@ -1,0 +1,29 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <h1>Tags</h1>
+  <p>Every post is tagged across eight roots: analyst, sector, thesis, market,
+  potential, focus, size and theme. Tags nest with <code>/</code>, so
+  <code>market/london</code> sits under <code>market</code>.</p>
+
+  {{ $tags := .Site.Taxonomies.tags }}
+  {{ range slice "analyst" "sector" "thesis" "market" "potential" "focus" "size" "theme" }}
+    {{ $root := . }}
+    <h2 id="{{ $root }}">{{ $root | title }}</h2>
+    <ul>
+      {{ range $name, $weighted := $tags }}
+        {{ if hasPrefix $name (printf "%s/" $root) }}
+          {{ with $weighted.Page }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <span class="text-small">({{ $weighted.Count }})</span>
+          </li>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </ul>
+  {{ end }}
+</article>
+{{ end }}
+
+{{ define "breadcrumbs" }}<!-- -->{{ end }}
+{{ define "toc" }}{{ partial "docs/taxonomy" . }}{{ end }}

@@ -1,0 +1,8 @@
+{{/* Sidebar link to the tag index; theme has no taxonomy nav by default. */}}
+<ul>
+  <li>
+    <a href="{{ "tags/" | relURL }}" class="{{ if eq .Kind "taxonomy" }}active{{ end }}">
+      Tags
+    </a>
+  </li>
+</ul>
