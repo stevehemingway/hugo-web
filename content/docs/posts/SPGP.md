@@ -1,7 +1,7 @@
 ---
 title: iShares Gold Producers
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/comment-in-ft, focus/security, potential/long, sector/mining, thesis/cheap-exposure]
+tags: [focus/security, potential/long, sector/mining, thesis/cheap-exposure]
 type: stock
 ticker: SPGP
 draft: false
