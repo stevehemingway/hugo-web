@@ -1,7 +1,7 @@
 ---
 title: Gladstone Commercial Corp.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/old time reitster, analyst/old-time-reitster, focus/security, potential/short, sector/REIT, sector/reit, short, thesis/economics]
+tags: [analyst/old-time-reitster, focus/security, potential/short, sector/reit, short, thesis/economics]
 type: stock
 ticker: GOOD
 draft: false

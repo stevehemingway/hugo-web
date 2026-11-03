@@ -1,7 +1,7 @@
 ---
 title: DoubleVerify Holdings, Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, tracked]
+tags: [focus/security, potential/short]
 type: stock
 ticker: DV
 draft: false

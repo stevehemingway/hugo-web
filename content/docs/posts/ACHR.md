@@ -1,7 +1,7 @@
 ---
 title: Archer Aviation Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/culpeper-research, analyst/grizzly-research, focus/security, potential/short, sector/vtol aviation, sector/vtol-aviation, short, thesis/fraud, tracked]
+tags: [analyst/culpeper-research, analyst/grizzly-research, focus/security, potential/short, sector/vtol-aviation, short, thesis/fraud]
 type: stock
 ticker: ACHR
 draft: false

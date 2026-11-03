@@ -1,7 +1,7 @@
 ---
 title: Electro-Optic Systems
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/crash capital, analyst/crash-capital, focus/security, potential/long, sector/defence, thesis/technology]
+tags: [analyst/crash-capital, focus/security, potential/long, sector/defence, thesis/technology]
 type: stock
 ticker: EOS-ASX
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: National Vision Holdings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bristlemoon-capital, focus/security, potential/short, sector/retail, short, thesis/demand and supply, thesis/demand-and-supply]
+tags: [analyst/bristlemoon-capital, focus/security, potential/short, sector/retail, short, thesis/demand-and-supply]
 type: stock
 ticker: EYE
 draft: false

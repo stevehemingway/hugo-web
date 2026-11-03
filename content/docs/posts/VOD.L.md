@@ -1,7 +1,7 @@
 ---
 title: Vodafone
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, market/london, market/uk, potential/long, sector/mining, todo]
+tags: [focus/security, market/london, market/uk, potential/long, sector/mining]
 type: stock
 ticker: VOD
 draft: false

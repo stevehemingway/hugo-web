@@ -1,7 +1,7 @@
 ---
 title: Equinix 
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg-research, focus/security, potential/short, sector/REIT, sector/reit, short, thesis/fraud]
+tags: [analyst/hindenburg-research, focus/security, potential/short, sector/reit, short, thesis/fraud]
 type: stock
 ticker: EQIX
 draft: false

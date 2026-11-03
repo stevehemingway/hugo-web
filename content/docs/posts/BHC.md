@@ -1,7 +1,7 @@
 ---
 title: Bausch Health Companies Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/healthcare, short, tracked]
+tags: [focus/security, potential/short, sector/healthcare, short]
 type: stock
 ticker: BHC
 draft: false

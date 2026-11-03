@@ -1,7 +1,7 @@
 ---
 title: company name
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, long, potential/long, sector/mining, sector/shipping, thesis/thesis]
+tags: [analyst/me, focus/security, long, potential/long, sector/mining, sector/shipping]
 type: stock
 ticker: BDRY
 draft: false

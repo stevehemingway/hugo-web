@@ -1,7 +1,7 @@
 ---
 title: Linear Consumer Staples
 date: '2026-10-21T16:27:59+01:00'
-tags: [analyst/, potential/long, thesis/compounders]
+tags: [potential/long, thesis/compounders]
 type: note
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'WATT: diluting share to extinction.'
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/short, sector/, short]
+tags: [focus/security, potential/short, short]
 type: stock
 ticker: WATT
 draft: false

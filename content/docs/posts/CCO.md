@@ -1,7 +1,7 @@
 ---
 title: Clear Channel Outdoor Holdings
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/herb-greenberg, focus/security, potential/long, sector/media, thesis/special_situation]
+tags: [analyst/herb-greenberg, focus/security, potential/long, sector/media, thesis/special-situation]
 type: stock
 ticker: CCO
 draft: false

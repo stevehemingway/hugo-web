@@ -1,7 +1,7 @@
 ---
 title: AirBoss of America
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/oss-research, focus/security, market/canada, potential/short, sector/mining, short, tracked]
+tags: [analyst/oss-research, focus/security, market/canada, potential/short, sector/mining, short]
 type: stock
 ticker: BOS
 draft: false

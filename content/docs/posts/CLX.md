@@ -1,7 +1,7 @@
 ---
 title: The Chlorox Company
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, short, thesis/expensive, tracked]
+tags: [focus/security, potential/short, short, thesis/expensive]
 type: stock
 ticker: CLX
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Transdigm
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/byrne hobart, analyst/byrne-hobart, focus/security, potential/long, sector/aerospace, thesis/thesis]
+tags: [analyst/byrne-hobart, focus/security, potential/long, sector/aerospace]
 type: stock
 ticker: TGD
 draft: false

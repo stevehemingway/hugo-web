@@ -1,7 +1,7 @@
 ---
 title: Global Atomic
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/massif capital partners, analyst/massif-capital-partners, focus/security, market/canada, potential/long, potential/short, sector/sector, thesis/fraud]
+tags: [analyst/massif-capital-partners, focus/security, market/canada, potential/long, potential/short, thesis/fraud]
 type: stock
 ticker: GLO
 draft: false

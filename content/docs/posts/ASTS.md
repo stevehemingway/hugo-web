@@ -1,7 +1,7 @@
 ---
 title: AST SpaceMobile
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/kerrisdale-capital, analyst/overlooked-alpha, focus/security, market/united-states, potential/short, sector/technology, short, tracked]
+tags: [analyst/kerrisdale-capital, analyst/overlooked-alpha, focus/security, market/united-states, potential/short, sector/technology, short]
 type: stock
 ticker: ASTS
 draft: false

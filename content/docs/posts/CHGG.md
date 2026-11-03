@@ -1,7 +1,7 @@
 ---
 title: Chegg
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/tech, short, thesis/competition, tracked]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/tech, short, thesis/competition]
 type: stock
 ticker: CHGG
 draft: false

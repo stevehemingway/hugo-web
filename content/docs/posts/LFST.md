@@ -1,7 +1,7 @@
 ---
 title: LifeStance Health
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, analyst/edwin-dorsey and hindenberg, analyst/hindenberg, analyst/hindenburg-research, focus/security, potential/short, sector/health, short, thesis/fraud]
+tags: [analyst/edwin-dorsey, analyst/edwin-dorsey-and-hindenberg, analyst/hindenberg, analyst/hindenburg-research, focus/security, potential/short, sector/health, short, thesis/fraud]
 type: stock
 ticker: LFST
 draft: false

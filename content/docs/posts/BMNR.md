@@ -1,7 +1,7 @@
 ---
 title: Bitmine Immersion Technologies
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/bitmining, short, thesis/fraud, tracked]
+tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/bitmining, short, thesis/fraud]
 type: stock
 ticker: BMNR
 draft: false

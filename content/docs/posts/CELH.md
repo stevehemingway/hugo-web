@@ -1,7 +1,7 @@
 ---
 title: Celsius Holdings Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, market/united-states, potential/long, potential/short, sector/technology, short, thesis/value, tracked]
+tags: [focus/security, market/united-states, potential/long, potential/short, sector/technology, short, thesis/value]
 type: stock
 ticker: CELH
 draft: false

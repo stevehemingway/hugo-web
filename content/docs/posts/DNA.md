@@ -1,7 +1,7 @@
 ---
 title: ginkgo bioworks
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/scorpion-capital, focus/security, potential/short, sector/biotech, short, thesis/economics, tracked]
+tags: [analyst/scorpion-capital, focus/security, potential/short, sector/biotech, short, thesis/economics]
 type: stock
 ticker: DNA
 draft: false

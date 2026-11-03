@@ -1,7 +1,7 @@
 ---
 title: Tencent Holdings Ltd
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/howard-yu, focus/security, potential/long, sector/technology, thesis/tech_giant]
+tags: [analyst/howard-yu, focus/security, potential/long, sector/technology, thesis/tech-giant]
 type: note
 draft: false
 ---

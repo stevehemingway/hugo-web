@@ -1,7 +1,7 @@
 ---
 title: Sun Communities Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/blue-orca, focus/security, potential/short, sector/RV and mobile home sites, sector/RV-and-mobile-home-sites, sector/rv-and-mobile-home-sites, short, thesis/fraud]
+tags: [analyst/blue-orca, focus/security, potential/short, sector/rv-and-mobile-home-sites, short, thesis/fraud]
 type: stock
 ticker: SUI
 draft: false

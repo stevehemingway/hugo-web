@@ -1,7 +1,7 @@
 ---
 title: Apellis Pharmaceuticals
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/citron, focus/security, market/united-states, potential/short, sector/drugs, short, thesis/product, tracked]
+tags: [analyst/citron, focus/security, market/united-states, potential/short, sector/drugs, short, thesis/product]
 type: stock
 ticker: APLS
 draft: false

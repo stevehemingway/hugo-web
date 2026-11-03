@@ -1,7 +1,7 @@
 ---
 title: Adtalem Global Education
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/safkhet-capital, focus/security, market/united-states, potential/short, sector/universities, short, thesis/thesis, tracked]
+tags: [analyst/safkhet-capital, focus/security, market/united-states, potential/short, sector/universities, short]
 type: stock
 ticker: ATGE
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Casino Guichard Perrachon
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, market/france, potential/short, short, thesis/overleveraged, tracked]
+tags: [focus/security, market/france, potential/short, short, thesis/overleveraged]
 type: stock
 ticker: CO
 draft: false

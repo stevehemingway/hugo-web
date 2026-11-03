@@ -1,7 +1,7 @@
 ---
 title: Blackstone Mortgage Trust
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/old time reitser, analyst/old-time-reitser, analyst/old-time-reitster, focus/security, potential/short, sector/REIT, sector/reit, short, thesis/economics]
+tags: [analyst/old-time-reitser, analyst/old-time-reitster, focus/security, potential/short, sector/reit, short, thesis/economics]
 type: stock
 ticker: BMXT
 draft: false

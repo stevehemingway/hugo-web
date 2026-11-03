@@ -1,7 +1,7 @@
 ---
 title: Nu Holdings Inc.
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/ian bezek, analyst/ian-bezek, focus/security, market/united-states, potential/long, sector/fintech, thesis/value]
+tags: [analyst/ian-bezek, focus/security, market/united-states, potential/long, sector/fintech, thesis/value]
 type: stock
 ticker: NU
 draft: false

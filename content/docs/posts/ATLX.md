@@ -1,7 +1,7 @@
 ---
 title: thecompany
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, market/united-states, potential/short, sector/energy, short, tracked]
+tags: [focus/security, market/united-states, potential/short, sector/energy, short]
 type: stock
 ticker: ATLX
 draft: false

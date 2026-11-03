@@ -1,7 +1,7 @@
 ---
 title: Unite Group PLC
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/me, focus/security, market/london, market/uk, potential/short, sector/REIT, sector/reit, short, thesis/macro]
+tags: [analyst/me, focus/security, market/london, market/uk, potential/short, sector/reit, short, thesis/macro]
 type: stock
 ticker: UTG
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Hlne
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/hunterbrook, focus/security, potential/long, private, short, thesis/fraud]
+tags: [analyst/hunterbrook, focus/security, potential/long, short, thesis/fraud]
 type: stock
 ticker: HLNE
 draft: false

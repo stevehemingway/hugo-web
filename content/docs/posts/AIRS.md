@@ -1,7 +1,7 @@
 ---
 title: Airsculpt
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fuzzy-panda-research, focus/security, market/united-states, potential/short, sector/sector, short, thesis/thesis, tracked]
+tags: [analyst/fuzzy-panda-research, focus/security, market/united-states, potential/short, short]
 type: stock
 ticker: AIRS
 draft: false

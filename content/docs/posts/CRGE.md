@@ -1,7 +1,7 @@
 ---
 title: Crge
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/long, potential/short, sector/technology, short, thesis/chronically-loss-making, tracked]
+tags: [focus/security, potential/long, potential/short, sector/technology, short, thesis/chronically-loss-making]
 type: stock
 ticker: CRGE
 draft: false

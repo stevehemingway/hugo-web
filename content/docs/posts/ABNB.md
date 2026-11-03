@@ -1,7 +1,7 @@
 ---
 title: AirBnB
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, focus/security, potential/short, short, tracked]
+tags: [analyst/bear-cave, focus/security, potential/short, short]
 type: stock
 ticker: ABNB
 draft: false

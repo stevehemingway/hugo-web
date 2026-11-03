@@ -1,7 +1,7 @@
 ---
 title: MGP Ingredients
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/sector food and beverage, sector/sector-food-and-beverage, short, thesis/fraud]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/food-and-beverage, short, thesis/fraud]
 type: stock
 ticker: MGPI
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Update: 2024-04-12'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/citron-research, analyst/culpeper-research, focus/security, market/united-states, potential/short, sector/sector, short, thesis/thesis, tracked]
+tags: [analyst/citron-research, analyst/culpeper-research, focus/security, market/united-states, potential/short, short]
 type: stock
 ticker: AAOI
 draft: false

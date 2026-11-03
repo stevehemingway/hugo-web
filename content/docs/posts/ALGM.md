@@ -1,7 +1,7 @@
 ---
 title: Allegro MicroSystems
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/edwin-dorsey, focus/security, market/united-states, potential/short, sector/energy, short, thesis/fraud, tracked]
+tags: [analyst/bear-cave, analyst/edwin-dorsey, focus/security, market/united-states, potential/short, sector/energy, short, thesis/fraud]
 type: stock
 ticker: ALGM
 draft: false

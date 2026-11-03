@@ -1,7 +1,7 @@
 ---
 title: AeroVironment
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/herb-greenberg, analyst/overlooked-alpha, focus/security, market/united-states, potential/short, tracked]
+tags: [analyst/herb-greenberg, analyst/overlooked-alpha, focus/security, market/united-states, potential/short]
 type: stock
 ticker: AVAV
 draft: false

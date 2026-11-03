@@ -1,7 +1,7 @@
 ---
 title: Qifu Technology Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, focus/security, potential/short, sector/china, short, thesis/thesis]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/china, short]
 type: stock
 ticker: QFIN
 draft: false

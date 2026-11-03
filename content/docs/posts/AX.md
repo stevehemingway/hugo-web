@@ -1,7 +1,7 @@
 ---
 title: AXOS
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, market/united-states, potential/short, sector/real estate, sector/real-estate, short, thesis/fraud, tracked]
+tags: [analyst/edwin-dorsey, focus/security, market/united-states, potential/short, sector/real-estate, short, thesis/fraud]
 type: stock
 ticker: AX
 draft: false

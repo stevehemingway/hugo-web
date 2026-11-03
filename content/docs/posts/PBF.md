@@ -1,7 +1,7 @@
 ---
 title: Pbf
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/stock-research-bot, focus/security, potential/long, thesis/growth, todo]
+tags: [analyst/stock-research-bot, focus/security, potential/long, thesis/growth]
 type: stock
 ticker: PBF
 draft: false

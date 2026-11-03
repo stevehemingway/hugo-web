@@ -1,7 +1,7 @@
 ---
 title: Affirm
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/diogenes, analyst/diogenes and kerrisdalecap, analyst/kerrisdale-capital, analyst/kerrisdalecap, focus/security, market/united-states, missed-boat, potential/short, sector/fintech, short, thesis/unprofitable-tech, tracked]
+tags: [analyst/diogenes, analyst/diogenes-and-kerrisdalecap, analyst/kerrisdale-capital, analyst/kerrisdalecap, focus/security, market/united-states, missed-boat, potential/short, sector/fintech, short, thesis/unprofitable-tech]
 type: stock
 ticker: AFRM
 draft: false

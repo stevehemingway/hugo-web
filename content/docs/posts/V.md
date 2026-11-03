@@ -1,7 +1,7 @@
 ---
 title: VISA inc.
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, sector/technology, todo]
+tags: [focus/security, potential/long, sector/technology]
 type: stock
 ticker: V
 draft: false

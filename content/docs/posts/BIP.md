@@ -1,7 +1,7 @@
 ---
 title: Brookfield Infrastructure Partners
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/df-research, focus/security, potential/short, sector/infrastructure, short, thesis/aggressive-accounting, tracked]
+tags: [analyst/df-research, focus/security, potential/short, sector/infrastructure, short, thesis/aggressive-accounting]
 type: stock
 ticker: BIP
 draft: false

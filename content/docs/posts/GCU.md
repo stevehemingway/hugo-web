@@ -1,7 +1,7 @@
 ---
 title: company_name
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, potential/long, potential/short, sector/sector, thesis/fraud]
+tags: [analyst/me, focus/security, potential/long, potential/short, thesis/fraud]
 type: stock
 ticker: GCU
 draft: false

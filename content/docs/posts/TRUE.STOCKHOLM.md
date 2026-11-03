@@ -1,7 +1,7 @@
 ---
 title: Truecaller
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/viceroy_research, focus/security, market/sweden, potential/short, sector/technology, short, thesis/fraud]
+tags: [analyst/viceroy-research, focus/security, market/sweden, potential/short, sector/technology, short, thesis/fraud]
 type: note
 draft: false
 ---

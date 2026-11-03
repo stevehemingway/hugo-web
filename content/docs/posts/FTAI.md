@@ -1,7 +1,7 @@
 ---
 title: FTAI Aviation
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters, analyst/muddy-waters and snowcap research, analyst/snowcap-research, focus/security, potential/short, sector/aviation, short, thesis/fraud]
+tags: [analyst/muddy-waters, analyst/muddy-waters-and-snowcap-research, analyst/snowcap-research, focus/security, potential/short, sector/aviation, short, thesis/fraud]
 type: stock
 ticker: FTAI
 draft: false

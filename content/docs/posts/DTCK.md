@@ -1,7 +1,7 @@
 ---
 title: Davis Commodities
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fugazi-research, focus/security, potential/short, short, thesis/fraud, tracked]
+tags: [analyst/fugazi-research, focus/security, potential/short, short, thesis/fraud]
 type: stock
 ticker: DTCK
 draft: false

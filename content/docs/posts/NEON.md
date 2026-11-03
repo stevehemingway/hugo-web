@@ -1,7 +1,7 @@
 ---
 title: Neonode
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/unemon1, focus/security, potential/short, sector/optical tech, sector/optical-tech, short, thesis/fraud]
+tags: [analyst/unemon1, focus/security, potential/short, sector/optical-tech, short, thesis/fraud]
 type: stock
 ticker: NEON
 draft: false

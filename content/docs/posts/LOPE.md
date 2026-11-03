@@ -1,7 +1,7 @@
 ---
 title: Grand Canyon Education Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/citron, focus/security, potential/short, sector/, sector/mining, short, thesis/fraud, ticker/lope]
+tags: [analyst/citron, focus/security, potential/short, sector/mining, short, thesis/fraud, ticker/lope]
 type: stock
 ticker: LOPE
 draft: false

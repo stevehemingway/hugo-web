@@ -1,7 +1,7 @@
 ---
 title: Fabrinet
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/restrinct, focus/security, potential/short, sector/tech, short, thesis/thesis]
+tags: [analyst/restrinct, focus/security, potential/short, sector/tech, short]
 type: stock
 ticker: FN
 draft: false

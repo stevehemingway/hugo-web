@@ -1,7 +1,7 @@
 ---
 title: Blackstone Mortgage Trust Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters-capital, focus/security, potential/short, sector/mortgage reit, sector/mortgage-reit, short, thesis/fraud, tracked]
+tags: [analyst/muddy-waters-capital, focus/security, potential/short, sector/mortgage-reit, short, thesis/fraud]
 type: stock
 ticker: BXMT
 draft: false

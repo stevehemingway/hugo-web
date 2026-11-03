@@ -1,7 +1,7 @@
 ---
 title: Applied Digital
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/guasty-winds, focus/security, market/united-states, potential/short, sector/technology, short, tracked]
+tags: [analyst/guasty-winds, focus/security, market/united-states, potential/short, sector/technology, short]
 type: stock
 ticker: APLD
 draft: false

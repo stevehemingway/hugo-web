@@ -1,7 +1,7 @@
 ---
 title: Dollar Tree
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/me, focus/security, potential/short, sector/retail, short, thesis/notsure, tracked]
+tags: [analyst/me, focus/security, potential/short, sector/retail, short, thesis/notsure]
 type: stock
 ticker: DLTR
 draft: false

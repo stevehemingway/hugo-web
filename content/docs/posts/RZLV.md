@@ -1,7 +1,7 @@
 ---
 title: Rezolve AI
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fuzzy-panda, analyst/grizzly-research, focus/security, potential/short, sector/AI, sector/ai, short, thesis/fraud]
+tags: [analyst/fuzzy-panda, analyst/grizzly-research, focus/security, potential/short, sector/ai, short, thesis/fraud]
 type: stock
 ticker: RZLV
 draft: false

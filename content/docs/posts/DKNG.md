@@ -1,7 +1,7 @@
 ---
 title: Draft Kings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/betting, short, thesis/fraud, tracked]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/betting, short, thesis/fraud]
 type: stock
 ticker: DKNG
 draft: false

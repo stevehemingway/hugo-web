@@ -1,7 +1,7 @@
 ---
 title: company name
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/kerrisdale-capital, focus/security, market/united-states, potential/short, sector/sector, short, thesis/thesis, tracked]
+tags: [analyst/kerrisdale-capital, focus/security, market/united-states, potential/short, short]
 type: stock
 ticker: ALT
 draft: false

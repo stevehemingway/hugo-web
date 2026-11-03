@@ -1,7 +1,7 @@
 ---
 title: Unity Software
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/IT, sector/it, thesis/economics]
+tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/it, thesis/economics]
 type: stock
 ticker: U
 draft: false

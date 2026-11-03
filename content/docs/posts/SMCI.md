@@ -1,7 +1,7 @@
 ---
 title: Super Micro
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg-research, focus/security, potential/short, sector/IT hardware, sector/IT-hardware, sector/it-hardware, short, thesis/fraud]
+tags: [analyst/hindenburg-research, focus/security, potential/short, sector/it-hardware, short, thesis/fraud]
 type: stock
 ticker: SMCI
 draft: false

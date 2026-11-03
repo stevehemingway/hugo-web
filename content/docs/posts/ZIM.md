@@ -1,7 +1,7 @@
 ---
 title: Zim
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, potential/short, sector/retail, technicals, thesis/growth]
+tags: [focus/security, potential/long, potential/short, sector/retail, thesis/growth]
 type: stock
 ticker: ZIM
 draft: false

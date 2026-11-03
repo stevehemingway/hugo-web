@@ -1,7 +1,7 @@
 ---
 title: Eurofins
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters, focus/security, market/france, potential/short, sector/drug testing, sector/drug-testing, short, thesis/fraud]
+tags: [analyst/muddy-waters, focus/security, market/france, potential/short, sector/drug-testing, short, thesis/fraud]
 type: stock
 ticker: ERF
 draft: false
