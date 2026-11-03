@@ -1,7 +1,7 @@
 ---
 title: Go Easy
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, market/canada, potential/short, sector/finance, thesis/fraud, analyst/jehosaphat-research]
+tags: [analyst/jehoshaphat-research, focus/security, market/canada, potential/short, sector/finance, thesis/fraud]
 type: stock
 ticker: GSY
 draft: false

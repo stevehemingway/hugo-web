@@ -1,7 +1,7 @@
 ---
 title: Creating a Hugo Website from trading.wiki
 date: '2026-10-21T16:27:59+01:00'
-tags: [potential/short, analyst/jehosaphat-research]
+tags: [potential/short, analyst/jehoshaphat-research]
 type: note
 draft: true
 ---

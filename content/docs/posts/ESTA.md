@@ -1,7 +1,7 @@
 ---
 title: 'Establishment Labs: A Financially Stretched Silicone Safety Charade'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg, analyst/hindenburg-research, focus/security, potential/short, sector/technology]
+tags: [analyst/hindenburg-research, focus/security, potential/short, sector/technology]
 type: stock
 ticker: ESTA
 draft: false

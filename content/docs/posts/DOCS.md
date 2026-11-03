@@ -1,7 +1,7 @@
 ---
 title: Doximity Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, potential/short, thesis/accounting-fraud, analyst/jehosaphat-research]
+tags: [analyst/jehoshaphat-research, focus/security, potential/short, thesis/accounting-fraud]
 type: stock
 ticker: DOCS
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Terawulf is a charade to enrich insiders
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, analyst/terawulf, focus/security, potential/short, sector/retail, thesis/fraud]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/retail, thesis/fraud]
 type: stock
 ticker: WULF
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: see below
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, thesis/fraud, sector/uranium-enrichment-corporation, analyst/spruce-point-research]
+tags: [focus/security, potential/short, thesis/fraud, sector/uranium-enrichment-corporation, analyst/spruce-point-capital]
 type: stock
 ticker: UEC
 draft: false

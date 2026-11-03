@@ -1,7 +1,7 @@
 ---
 title: Gorilla Technology Group
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/ai, thesis/fraud, analyst/edmund-dorsey]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/ai, thesis/fraud]
 type: stock
 ticker: GRRR
 draft: false

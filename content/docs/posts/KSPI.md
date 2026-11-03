@@ -1,7 +1,7 @@
 ---
 title: Kaspi
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/culper-research, focus/security, potential/short, sector/payments, thesis/fraud, analyst/culpeper-research]
+tags: [analyst/culper-research, focus/security, potential/short, sector/payments, thesis/fraud]
 type: stock
 ticker: KSPI
 draft: false

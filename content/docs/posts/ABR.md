@@ -1,7 +1,7 @@
 ---
 title: 'Arbor Realty Trust: the beginning of the end'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/ningi-research, focus/security, market/united-states, potential/short, sector/reit, thesis/fraud, sector/arbor-realty-trust, analyst/ningni-research]
+tags: [analyst/ningi-research, focus/security, market/united-states, potential/short, sector/reit, thesis/fraud, sector/arbor-realty-trust]
 type: stock
 ticker: ABR
 draft: false

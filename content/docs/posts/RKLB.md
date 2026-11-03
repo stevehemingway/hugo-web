@@ -1,7 +1,7 @@
 ---
 title: Rocket Lab
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bleecker-street-research, focus/security, potential/short, sector/space, thesis/fraud, analyst/bleekr-street-research]
+tags: [analyst/bleecker-street-research, focus/security, potential/short, sector/space, thesis/fraud]
 type: stock
 ticker: RKLB
 draft: false

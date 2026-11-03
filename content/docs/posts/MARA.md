@@ -1,7 +1,7 @@
 ---
 title: Marathon Digital Holdings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/j-capital-research, focus/security, market/united-states, potential/short, sector/finance, thesis/fraud, analyst/j-cap-research]
+tags: [analyst/j-capital-research, focus/security, market/united-states, potential/short, sector/finance, thesis/fraud]
 type: stock
 ticker: MARA
 draft: false

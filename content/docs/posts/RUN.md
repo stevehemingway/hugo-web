@@ -1,7 +1,7 @@
 ---
 title: Sunrun
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters-capital, focus/security, potential/long, potential/short, sector/finance, thesis/fraud, analyst/muddy-waters]
+tags: [analyst/muddy-waters-capital, focus/security, potential/long, potential/short, sector/finance, thesis/fraud]
 type: stock
 ticker: RUN
 draft: false

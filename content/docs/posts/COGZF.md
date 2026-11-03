@@ -1,7 +1,7 @@
 ---
 title: Cogzf
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/@negdiscountrt, focus/security, potential/long, sector/pharma, sector/technology, thesis/blockbuster-drug]
+tags: [analyst/negdiscountrt, focus/security, potential/long, sector/pharma, sector/technology, thesis/blockbuster-drug]
 type: stock
 ticker: COGZF
 draft: false

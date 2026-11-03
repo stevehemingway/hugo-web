@@ -1,7 +1,7 @@
 ---
 title: Premier Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/healthcare-purchasing, analyst/jehoshaphat]
+tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/healthcare-purchasing]
 type: stock
 ticker: PINC
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Dexcom
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/med-tech, thesis/product-defect, analyst/hunterbrook]
+tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/med-tech, thesis/product-defect]
 type: stock
 ticker: DXCM
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: company_name
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fuzzy-panda-research, analyst/kerrisdale-capital, focus/security, potential/short, analyst/fuzzy-panda]
+tags: [analyst/fuzzy-panda-research, analyst/kerrisdale-capital, focus/security, potential/short]
 type: stock
 ticker: RCAT
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: company name
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bristlemoon-capital, focus/security, potential/short, thesis/declining-revenue, analyst/bristle-moon-capital]
+tags: [analyst/bristlemoon-capital, focus/security, potential/short, thesis/declining-revenue]
 type: stock
 ticker: MTCH
 draft: false

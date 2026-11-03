@@ -1,7 +1,7 @@
 ---
 title: Fluence Energy Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/blue-orca-capital, focus/security, potential/short, sector/energy, thesis/fraud, analyst/blue-orca-capita]
+tags: [analyst/blue-orca-capital, focus/security, potential/short, sector/energy, thesis/fraud]
 type: stock
 ticker: FLNC
 draft: false

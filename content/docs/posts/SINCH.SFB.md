@@ -1,7 +1,7 @@
 ---
 title: SINCH AB
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, analyst/ningi-research, focus/security, market/sweden, potential/short, sector/cloud-computing, thesis/fraud, analyst/ningni]
+tags: [analyst/grizzly-research, analyst/ningi-research, focus/security, market/sweden, potential/short, sector/cloud-computing, thesis/fraud]
 type: stock
 ticker: SINCH
 draft: false

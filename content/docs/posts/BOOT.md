@@ -1,7 +1,7 @@
 ---
 title: Boot Barn Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/retail, thesis/fraud, analyst/spruce-point-research]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/retail, thesis/fraud]
 type: stock
 ticker: BOOT
 draft: false

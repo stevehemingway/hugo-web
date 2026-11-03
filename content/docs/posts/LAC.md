@@ -1,7 +1,7 @@
 ---
 title: Lithium Americas Corp
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bleecker-street-research, focus/security, potential/short, sector/mining, thesis/economics, analyst/bleeker-street]
+tags: [analyst/bleecker-street-research, focus/security, potential/short, sector/mining, thesis/economics]
 type: stock
 ticker: LAC
 draft: false
