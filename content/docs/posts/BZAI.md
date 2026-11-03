@@ -6,8 +6,6 @@ type: stock
 ticker: BZAI
 draft: false
 ---
-# Blaize AI -- short
-
 ## Blaize AI: Short Report on Artificially Boosted Share Price
 
 This research report from Pelican Way Research analyzes Blaize AI's (BZAI) financial situation and alleges that the company is artificially boosting its share price through fraudulent deals with fake counterparties.

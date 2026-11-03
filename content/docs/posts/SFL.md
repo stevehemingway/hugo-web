@@ -1,6 +1,5 @@
 ---
-title: https://seekingalpha.com/article/4572569-sfl-putting-to-rest-concern-about-large-container-fleet
-  https://seekingalpha.com/article/4572569-sfl-putting-to-rest-concern-about-large-container-fleet
+title: 'SFL: Putting To Rest Concern About Large Container Fleet'
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/tudor-invest-holdings, focus/security, potential/long, sector/technology, thesis/undervalued]
 type: stock
@@ -8,7 +7,8 @@ ticker: SFL
 draft: false
 updated: 2026-02-28
 ---
-# https://seekingalpha.com/article/4572569-sfl-putting-to-rest-concern-about-large-container-fleet (stocks/SFL)
+
+[SFL: Putting To Rest Concern About Large Container Fleet](https://seekingalpha.com/article/4572569-sfl-putting-to-rest-concern-about-large-container-fleet)
 
 <blockquote>
 <pre>

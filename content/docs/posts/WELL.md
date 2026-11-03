@@ -6,8 +6,6 @@ type: stock
 ticker: WELL
 draft: false
 ---
-# Welltower: Exposing The Shell Game
-
 ## Update: 2026-04-27
 
 Land & Buildings Investment Management published a critical white paper against Welltower (NYSE: WELL — $147 billion), a healthcare REIT, citing “egregiously management-friendly compensation structures” and overvaluation.

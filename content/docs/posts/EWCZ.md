@@ -18,5 +18,4 @@ TLDR:
 
     A real path exists to a sub-$10 share price and 30%-plus downside. Investors willing to short should be loo…
 
-
 <https://www.overlookedalpha.com/p/european-wax-center-a-cyclical-short>

@@ -10,7 +10,6 @@ theworks(fraud, bear-cave, XP Inc (NASDAQ: XP — .8 billion) is a Brazilian inv
 
 Founded in 2001, XP has grown rapidly into a Brazilian powerhouse that now serves over 4 million clients ranging from working families to multi-millionaires. Many lower-income clients self-administer financial plans through XP’s website while others use one of XP’s 13,000+ Independent Financial Advisors (IFAs).
 
-
 (Slide 5 of March 2023 investor presentation. The company appears to have a typo in the middle-left pane where “13,00+” IFAs should be “13,000+”)
 XP earns money through “management fees,” “commissions,” “rebates,” “spreads,” and other fees charged on the clients of XP’s Independent Financial Advisors. In its most recent annual 20-F filing, XP discloses its Independent Financial Advisors “are located in 2,558 offices in 242 cities across the country and form the largest independent financial advisor network in Brazil, which is a competitive advantage for XP.”
 

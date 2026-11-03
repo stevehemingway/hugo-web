@@ -5,8 +5,6 @@ tags: [potential/long]
 type: note
 draft: false
 ---
-# Surge Energy Inc (TSX: SGY)
-
 ## Overview
 
 **Founded:** 2013 (as private entity)  

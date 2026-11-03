@@ -6,8 +6,6 @@ type: stock
 ticker: SPOK
 draft: false
 ---
-# Spok Holdings
-
 ## **Intro**
 
 If we pull up a weekly chart of Spok Holdings, Inc. (NASDAQ:[SPOK](https://seekingalpha.com/symbol/SPOK?source=content_type%3Areact%7Csection%3Amain_content%7Cbutton%3Abody_link "Spok Holdings, Inc.")) (Healthcare Communications), we see that shares have been making lower lows for the best part of 6 years now. Although shares have risen almost $2 a share or 25%+ over the past 5+ months or so, we are always mindful of the long-term trend which in Spok's case continues to be bearish. In fact, shares recently broke below their 10-week moving average so the pattern of lower highs and lower lows could very easily repeat itself here in due course.

@@ -6,8 +6,6 @@ type: stock
 ticker: LDO
 draft: false
 ---
-# Leonardo
-
 ## Summary
 
 -   Leonardo announces the early repayment of the Term Loan of €500 million with an expected interest rate expenses saving of almost €25 million per year.

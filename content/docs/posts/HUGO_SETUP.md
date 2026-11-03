@@ -5,8 +5,6 @@ tags: [potential/short, analyst/jehoshaphat-research]
 type: note
 draft: true
 ---
-# Creating a Hugo Website from trading.wiki
-
 ## Overview
 
 Your trading.wiki has been normalized with 1496 markdown files, all with proper YAML front matter. This guide walks you through creating a Hugo static website from this content.

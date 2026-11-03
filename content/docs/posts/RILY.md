@@ -15,7 +15,6 @@ updated: 2026-06-02 (tidying)
       basis, it trades at a 110% premium compared to its peers whose assets
       are, in our opinion, much higher quality. We are short RILY."
 
-
 Follow-up (22 Feb 22): https://wolfpackresearch.com/research/rily2/
 
 Follow-up 22 Aug 23: Friendly Bear puts out a sell note: https://friendlybearresearch.com/2023/08/21/b-riley-bebe-dont-hurt-me-no-more/?subscribe=already#subscribe-blog-blog_subscription-8

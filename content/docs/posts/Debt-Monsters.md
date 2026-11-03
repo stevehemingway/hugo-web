@@ -45,9 +45,3 @@ draft: false
 - Wynn Macau [[$1128:HKD]],
 - YPF Energia Electrica (Argentina).
 
-
-
-
-
-
-

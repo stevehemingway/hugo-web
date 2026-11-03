@@ -7,7 +7,6 @@ draft: false
 ---
 # Blog collection
 
-
 This the latest Bear Cave newsletter.
 A bit different to the regular one, gives a list of dozens of useful, and often free, information 
 sources.
@@ -179,8 +178,6 @@ Pro tip: When researching a company, try this in Google: [COMPANY NAME] filetype
 
 5,369Likes745Retweets
 
-
-
 ](https://substack.com/redirect/06bde84a-2858-4686-a7e3-31ac4072d45f?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/06bde84a-2858-4686-a7e3-31ac4072d45f?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98")
 
 [
@@ -199,8 +196,6 @@ A GENTLEMAN’S PRIMER ON SHORTING INSOLVENT SHITCOS So you’ve found a ShitCo.
 
 6,294Likes1,269Retweets
 
-
-
 ](https://substack.com/redirect/65cce6b5-dc76-45b5-9695-17b1fb3d46f6?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/65cce6b5-dc76-45b5-9695-17b1fb3d46f6?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98")
 
 [
@@ -213,8 +208,6 @@ FinTwit Red Flag Checklist What else should be added?
 
 ![Image](https://substackcdn.com/image/fetch/w_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFQzhsYBXMA8uxZj.png)
 
-
-
 ](https://substack.com/redirect/d4897f64-b221-4aec-93e6-dd8eca11850f?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/d4897f64-b221-4aec-93e6-dd8eca11850f?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98")[
 
 5:45 PM ∙ Apr 20, 2022
@@ -223,8 +216,6 @@ FinTwit Red Flag Checklist What else should be added?
 
 525Likes78Retweets
 
-
-
 ](https://substack.com/redirect/d4897f64-b221-4aec-93e6-dd8eca11850f?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/d4897f64-b221-4aec-93e6-dd8eca11850f?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98")
 
 [
@@ -232,8 +223,6 @@ FinTwit Red Flag Checklist What else should be added?
 ![Twitter avatar for @DanielSLoeb1](https://substackcdn.com/image/twitter_name/w_96/DanielSLoeb1.jpg)
 
 Daniel S. Loeb @DanielSLoeb1
-
-
 
 ](https://substack.com/redirect/64d531b4-aaee-4d2d-a3f2-bfb508294e60?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/64d531b4-aaee-4d2d-a3f2-bfb508294e60?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98")
 
@@ -247,8 +236,6 @@ Daniel S. Loeb @DanielSLoeb1
 
 772Likes80Retweets
 
-
-
 ](https://substack.com/redirect/64d531b4-aaee-4d2d-a3f2-bfb508294e60?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/64d531b4-aaee-4d2d-a3f2-bfb508294e60?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98")
 
 [
@@ -261,8 +248,6 @@ The most useful SEC filings are: 1⃣ 10-K (Annual Report) 2⃣ DEF 14a (Proxy) 
 
 ![Image](https://substackcdn.com/image/fetch/w_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFa_9etLXkAAyNhj.jpg)
 
-
-
 ](https://substack.com/redirect/5308c9ab-a752-4d04-9825-a5b0eb10fe9e?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/5308c9ab-a752-4d04-9825-a5b0eb10fe9e?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98")[
 
 7:18 PM ∙ Aug 25, 2022
@@ -270,8 +255,6 @@ The most useful SEC filings are: 1⃣ 10-K (Annual Report) 2⃣ DEF 14a (Proxy) 
 ---
 
 357Likes64Retweets
-
-
 
 ](https://substack.com/redirect/5308c9ab-a752-4d04-9825-a5b0eb10fe9e?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/5308c9ab-a752-4d04-9825-a5b0eb10fe9e?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98")
 
@@ -290,8 +273,6 @@ Blake Burge @blakeaburge
 ---
 
 37,217Likes9,346Retweets
-
-
 
 ](https://substack.com/redirect/28e0d744-4a04-4934-98bc-f61423307e36?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/28e0d744-4a04-4934-98bc-f61423307e36?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98")
 

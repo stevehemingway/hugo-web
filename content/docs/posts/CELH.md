@@ -16,7 +16,6 @@ It has low debt, and has some very large exceptionals recently ($275mm in calend
 
 The bull case for the stock seems to be that it's growing sales rapidly, it's a 'fitness' drink (and so quite different from an ordinary soda), it may be a takeover target, and that it is easily confused with the 'crypto lender platform' of the same name. I'm not sure that the last is part of the bull case any longer, as the other Celsius has now filed for Chapter 11 bankruptcy protection.
 
-
 	
 
 # 2023-04-17

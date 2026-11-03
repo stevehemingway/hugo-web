@@ -26,7 +26,6 @@ shareholders quite often in order to sustain itself.
 - Q1 2026: $706K revenue (Euclid plant sales to DLA/DOE + 33 days of Blackbox subs), **$106.7M net loss** — but mostly non-cash: $81.8M stock-based comp, $9.2M preferred accretion, $6.4M impairment of Blackbox's EVTEC investment, $3.4M warrant remeasurement. FY2025 (restated): $0.8M revenue, $75.6M loss, mostly non-cash.
 - **Real cash burn is modest (~$3–16M/yr)**; the $100M June private placement (7.0M shares at **$14.25**) gives maybe 2–3 years' runway. But the stock now trades at **$8.78 — 38% below what institutions paid in June**. Those investors are underwater, and the resale registration they were promised is an overhang.:
 
-
 ## What's real behind the story
 
 The substance is thinner and stranger than the press releases suggest:
@@ -53,7 +52,6 @@ The management picture is a study in contrasts: **world-class credibility at the
 If you want exposure to the US rare-earth reshoring theme with more liquid, revenue-backed names, MP Materials is the obvious comparison (and it's also wildly expensive). ALOY is a high-risk, policy-driven lottery ticket dressed in flag-wrapping — fine as a small speculative position if you understand the structure, but I wouldn't confuse the narrative with the value.
 
 Sources: SEC filings (10-Q 3/31/26, 8-K/A, S-4), stockanalysis.com, company releases, Powdermet/SBIR records. All data as of 2 Aug 2026. Happy to pull the full S-4 bios, compare against MP/Ucore/NioCorp, or check what the Q2 numbers (Aug 19) show.
-
 
 ## Black Styx Performance
 

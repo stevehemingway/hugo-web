@@ -11,7 +11,6 @@ draft: false
 [Seeking Alpha](https://seekingalpha.com/article/4567245-herbalife-bleeding-may-not-stop-some-time-come?source=emailshare) had a piece on this co.
 It looks as though the market has finally decided that it's going down.
 
-
 ![HLF candle charg](Images/hlf.png)
 
 Its balance sheet looks very sick.

@@ -6,8 +6,6 @@ type: stock
 ticker: PACK
 draft: false
 ---
-# Ranpack
-
 ## Ranpak Holdings: The Case For A Busted Pandemic Winner
 
 ### A stunning round-trip might have gone a bit too far.

@@ -1,5 +1,5 @@
 ---
-title: company name
+title: 'Innodata'
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/wolfpack-research, focus/security, potential/short]
 type: stock

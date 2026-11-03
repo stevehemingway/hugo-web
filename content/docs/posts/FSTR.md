@@ -6,7 +6,6 @@ type: stock
 ticker: FSTR
 draft: false
 ---
-# L B Foster Co.
 ## 📍 TLDR:
 
 -   At more than 11x trailing twelve-month Adjusted EBITDA, and with a leveraged balance sheet, FSTR at first glance looks like an easy sell.

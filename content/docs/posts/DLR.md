@@ -8,7 +8,6 @@ draft: false
 ---
 # Digital Realty Trust
 
-
 | Index               | Values               |
 | ------------------- | -------------------- |
 | Company             | DLR                  |

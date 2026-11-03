@@ -1,5 +1,5 @@
 ---
-title: company name
+title: 'BankUnited'
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/me, focus/security, potential/long]
 type: stock

@@ -6,4 +6,3 @@ type: stock
 ticker: APRN
 draft: false
 ---
-# Blue Apron

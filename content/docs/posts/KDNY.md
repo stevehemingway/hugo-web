@@ -12,5 +12,3 @@ Muddy Waters is short Chinook Therapeutics Inc (NASDAQ:KDNY) because we believe 
 only Phase 3 trial, the ALIGN study.
 
 To download the Report (PDF format), go to our website at:
-
-# [Chinook Therapeutics Inc: Too Little, Too Late (KDNY US)](https://sable.godaddy.com/c/229849?id=795811.362.1.39d5992f5ed88b489c4815a68f350108 "Click to open https://sable.godaddy.com/c/229849?id=795811.362.1.39d5992f5ed88b489c4815a68f350108")

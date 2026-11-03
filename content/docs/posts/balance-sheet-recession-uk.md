@@ -6,8 +6,6 @@ tags: []
 type: note
 draft: false
 ---
-# Why the governments decision to bail out the banks in 2007/2008 was the definining government mistake of the twenty-first century
-
 ## Overview 
 
 This is a classic case study in financial crisis management, and the contrast between the UK and Iceland is stark. The UK’s decision to bail out *all* creditors, not just insured depositors, sowed the seeds for a very slow recovery through several interconnected mechanisms, while Iceland’s diametrically opposed approach, though brutal in the short term, allowed for a much faster economic reset.

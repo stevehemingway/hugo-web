@@ -7,8 +7,6 @@ ticker: POET
 draft: false
 updated: 2026-02-28
 ---
-# POET Technologies
-
 ## Update: 2026-05-17 
 
 POET: Marvell Isn’t The Only Dead Partnership. Foxconn, LITEON and More Are Too. Lumilens Next? Appears a Recycled and Hollow Incestuous Promotion

@@ -6,8 +6,6 @@ type: stock
 ticker: KNW
 draft: false
 ---
-# Know Labs
-
 ## We've just published a new bearish report on Know Labs (KNW).  
   
 **Know Labs Is An Obvious Medical Device Scam, We're Calling: “Theranos’ Retarded Cousin”**

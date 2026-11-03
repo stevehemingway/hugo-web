@@ -7,4 +7,3 @@ ticker: HOOD
 draft: false
 updated: 2026-02-28
 ---
-# Robin Hood Markets (stocks/HOOD)

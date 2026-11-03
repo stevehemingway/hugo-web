@@ -12,5 +12,4 @@ MMTEC is a holding company that, through its subsidiaries, operates a U.S.-regis
 
 [Fugazi report](https://open.substack.com/pub/fugaziresearch/p/mtc-from-delisting-risk-to-a-half?r=57a252&utm_campaign=post-expanded-share&utm_medium=web)
 
-
 Update: 2026-05-20 

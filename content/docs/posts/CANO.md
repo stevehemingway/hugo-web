@@ -6,7 +6,6 @@ type: stock
 ticker: CANO
 draft: false
 ---
-# Cano Health
 ## via Overlooked Alpha
 
 Cano Health [$CANO](https://substack.com/redirect/5b527dd4-ef19-4cc0-99dd-ca396937e4d5?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/5b527dd4-ef19-4cc0-99dd-ca396937e4d5?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98") was atypical for the time when, in November 2020, it announced its [plan to go public](https://substack.com/redirect/feec1911-46be-4780-9c66-95600314d2ee?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/feec1911-46be-4780-9c66-95600314d2ee?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98") via a merger with SPAC (special purpose acquisition company) Jaws Acquisition. In the frothy market of Q4 2020, in particular, most SPACs were targeting speculative, buzzy names with little or sometimes zero revenue. Cano, however, was an established provider of primary care services to seniors, with projected 2021 revenue of nearly $1.5 billion. 

@@ -12,5 +12,4 @@ See this interesting analysis.
 The thesis is that the customer data is worth the additional delivery cost.
 Not convinced.
 
-
 https://www.thediff.co/archive/instacart-is-the-best-and-worst-grocery-business-imaginable

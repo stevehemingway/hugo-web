@@ -6,8 +6,6 @@ type: stock
 ticker: MPT
 draft: false
 ---
-# Medical Properties Trust (MPW)
-
 ## Company Summary
 Medical Properties Trust (MPT) is a real estate investment trust (REIT) specializing in hospital and healthcare facility properties. The company owns and leases medical facilities to healthcare operators across the United States and internationally.
 

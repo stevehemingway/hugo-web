@@ -6,7 +6,6 @@ type: stock
 ticker: ARG
 draft: false
 ---
-# Amerigo Resources (Toronto Listed)
 ## Also trades as ARREF in the US
 ![candle chart](arg.to.png)
 Strong free cashflow.

@@ -1,5 +1,5 @@
 ---
-title: company name
+title: 'Renovaro Biosciences'
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/me, focus/security, potential/short]
 type: stock

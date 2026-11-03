@@ -1,5 +1,5 @@
 ---
-title: '[Overlooked Alpha](https://www.overlookedalpha.com)'
+title: 'Mitek Systems: Monopoly Business Under $10 A Share'
 date: '2026-10-08T16:11:55+01:00'
 tags: [analyst/vince-martin, focus/security, potential/long, sector/technology, thesis/market-power, thesis/monopoly]
 type: stock
@@ -10,9 +10,7 @@ https://www.overlookedalpha.com/p/mitek-systems-monopoly-business-under?utm_sour
 
 [![](https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb88-d790-4396-8cb4-7f28143bc251_600x600.png)](https://www.overlookedalpha.com)
 
-# [Overlooked Alpha](https://www.overlookedalpha.com)
-
-# Mitek Systems: Monopoly Business Under $10 A Share
+[Mitek Systems: Monopoly Business Under $10 A Share](https://www.overlookedalpha.com)
 
 ### Legal and regulatory concerns are weighing on MITK stock. Despite real challenges, market pessimism looks overdone.
 

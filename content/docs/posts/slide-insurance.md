@@ -14,5 +14,4 @@ In March 2024, Florida’s insurance regulator sent letters instructing Slide to
 Information obtained via our request indicated that Slide was still under investigation as of August 2025.
 Internet archives show that rather than remove these executives, Slide removed mention of St. Johns from its SVP of Operations’ biography and removed its SVP of Claims from its website entirely, though both executives continue to list Slide as their employer on LinkedIn.
 
-
 Manatee Research

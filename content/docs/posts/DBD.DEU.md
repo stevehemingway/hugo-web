@@ -6,4 +6,3 @@ type: stock
 ticker: DBD
 draft: false
 ---
-# Diebold Nixdorf

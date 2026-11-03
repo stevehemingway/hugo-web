@@ -12,8 +12,6 @@ Manufacturer of very expensive, high-tech BBQs which burn hardwood pellets, rece
 
 ## [Overlooked Alpha](https://www.overlookedalpha.com)
 
-# Traeger Is A Short Before — And After — Earnings
-
 ### Leverage, valuation, and macro factors mean COOK has further to fall, even at $4 a share.
 
 [![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F98ee4df8-9b81-413c-b839-51c26009042b_4032x3024.jpeg)](https://substack.com/profile/83251778-vince-martin?utm_source=author-byline-face)
@@ -43,8 +41,6 @@ There’s a reasonable argument to avoid a short here. The challenges facing the
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1378d819-ce95-4d6f-abee-f725ca255168_540x360.png)
 
-
-
 ](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1378d819-ce95-4d6f-abee-f725ca255168_540x360.png)
 
 Meanwhile, an ugly 2022 is being driven (at least in part) by factors beyond the company’s control. Lockdowns and government stimulus payments during the pandemic pulled demand forward. Input costs remain elevated. Consumer spending has pivoted toward experiences and away from products. There is some hope that pressure will ease in 2023 and beyond.
@@ -58,8 +54,6 @@ As well, COOK has rallied 52% in just three weeks. The catalyst appears to be ne
 [
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc17f0477-e216-4db9-ba2f-d474e184570b_1000x1000.jpeg)
-
-
 
 ](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc17f0477-e216-4db9-ba2f-d474e184570b_1000x1000.jpeg)
 

@@ -8,7 +8,6 @@ draft: false
 ---
 # Signature Bank (etc.)
 
-
 Dirty Media Bubble [has published](https://dirtybubblemedia.substack.com/p/signs-of-trouble-at-signature-bank) on Signature Bank, which they allege is similar to
 Silvergate Bank. See below for an extract from their website. (H/T Edwin Dorsey, AKA The Bear Cave.)
 
@@ -17,8 +16,6 @@ The crypto-friendly Silvergate Bank (SI) has had a rough couple of months. Ever 
 [
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78347163-2fc6-4bae-90c5-c320ab64a731_1242x377.png)
-
-
 
 ](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78347163-2fc6-4bae-90c5-c320ab64a731_1242x377.png)
 
@@ -31,8 +28,6 @@ While Silvergate has received most of the public wrath for its role in this frau
 [
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c1f600d-ae0a-48e8-914f-fa0fb602683f_887x211.png)
-
-
 
 ](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c1f600d-ae0a-48e8-914f-fa0fb602683f_887x211.png)
 

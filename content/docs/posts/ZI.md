@@ -6,5 +6,3 @@ type: stock
 ticker: ZI
 draft: false
 ---
-# Zillow
-

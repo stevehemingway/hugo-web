@@ -1,5 +1,5 @@
 ---
-title: see below
+title: 'Uranium Energy Corp'
 date: '2026-10-12T21:42:14+01:00'
 tags: [focus/security, potential/short, thesis/fraud, sector/uranium-enrichment-corporation, analyst/spruce-point-capital]
 type: stock

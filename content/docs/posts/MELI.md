@@ -6,8 +6,6 @@ type: stock
 ticker: MELI
 draft: false
 ---
-# MercardoLibre
-
 ## MercadoLibre Reports Record Profit, Continues to Scale its Fintech Businesses
 
 MercadoLibre (NASDAQ: [$MELI](https://substack.com/redirect/6488c7d2-1280-4351-9f61-d9e98f9c8c96?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/6488c7d2-1280-4351-9f61-d9e98f9c8c96?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98") ), the LatAm e-commerce and fintech giant, [reported](https://substack.com/redirect/238cfac1-8f09-4e32-ac57-3ced8e56b7cf?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/238cfac1-8f09-4e32-ac57-3ced8e56b7cf?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98") its Q4 2022 results on Thursday smashing analysts' estimates. In Q4 2022, Gross Merchandise Volume grew 20% YoY to $9.6 billion, driving **a 22% YoY increase in Commerce revenue to $1.66 billion**. Total Payment Volume grew 49% YoY to $36.0 billion and Credit Portfolio grew 68% YoY to $2.84 billion, driving **a 73% YoY increase in Fintech revenue to $1.34 billion**. The company posted a Net Income of $165 million on consolidated net revenue of $3.0 billion (compared to a Net Loss of $46.1 million on consolidated net revenue of $2.1 billion in Q4 2021).

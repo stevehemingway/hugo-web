@@ -8,5 +8,4 @@ draft: false
 ---
 # XYZ Corporation
 
-
 This is a test company.

@@ -6,8 +6,6 @@ type: stock
 ticker: SGY
 draft: false
 ---
-# Surge Energy
-
 ## Overview
 
 **Founded:** 2013 (as private entity)  

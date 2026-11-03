@@ -23,8 +23,6 @@ Expresses Concern That Zillow’s Aggressive Accounting Methods May Enable the C
 
 [More ...](https://www.sprucepointcap.com/research/zillow-group-inc)
 
-# Zillow
-
 ## 2024-3-10
 
 Spruce Point Capital published on Zillow (NASDAQ: Z — $13.4 billion), a leading online real estate platform. Spruce Point claimed that “new growth initiatives will come with significant near-term and long-term headwinds” and that the company’s “core business model is under pressure from declining web traffic and growing industry litigation poised to disrupt the real estate commission structure.”

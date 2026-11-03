@@ -6,8 +6,6 @@ type: stock
 ticker: SRAD
 draft: false
 ---
-# Sportradar
-
 ## positive
 
 [Positive note from Overlooked Alpha](https://www.overlookedalpha.com/p/sportradar-busted-ipo-looks-attractive). Basically, this is a data provider to sports betting companies. 
@@ -27,7 +25,6 @@ Sportradar stock fell ~20% following the reports. Sportradar said that the “re
 In November 2025, The Bear Cave also published on Sportradar Group and wrote:
 
 “The Bear Cave believes that investors overestimate Sportradar’s business quality and moat and underestimate its growing competition and headwind from prediction markets. In addition, today’s investigation explores allegations that Sportradar helps facilitate the crooked gambling it claims to police.”
-
 
 ## Muddy Waters Research: Sportradar AG and the World's Illegal Online Sportsbooks
 
@@ -72,7 +69,6 @@ The investigation reveals a fundamental conflict in SRAD's business model:
 - Maintains business relationships with sanctioned individuals and illegal operators
 
 The report concludes that SRAD's business model is structurally flawed, creating a "data wolf in sheep's integrity clothing" situation where the company's integrity services are inherently compromised by its revenue-generating activities.
-
 
 ---
 *Last updated: 2026-04-27 by steve*

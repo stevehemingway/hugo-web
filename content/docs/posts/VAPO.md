@@ -1,6 +1,5 @@
 ---
-title: '[VAPO Likely Facing Imminent Bankruptcy](https://whitediamondresearch.com/archive/vapo-likely-facing-imminent-bankruptcy/
-  "Permanent Link: VAPO Likely Facing Imminent Bankruptcy")'
+title: 'VAPO Likely Facing Imminent Bankruptcy'
 date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/white-diamond-research, focus/security, potential/long, potential/short]
 type: stock

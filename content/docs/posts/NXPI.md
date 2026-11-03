@@ -6,8 +6,6 @@ type: stock
 ticker: NXPI
 draft: false
 ---
-# NXP Semiconductors
-
 ## Citrini report: 
 
 Semis Memo: Supply Chain Inheritance

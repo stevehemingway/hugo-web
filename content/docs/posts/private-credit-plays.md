@@ -5,8 +5,6 @@ tags: [analyst/me, focus/theme, potential/short, sector/technology, thesis/priva
 type: note
 draft: false
 ---
-# Private Credit & AI Infrastructure Plays
-
 ## Core Private Credit Names
 
 **Direct Private Credit Plays:**

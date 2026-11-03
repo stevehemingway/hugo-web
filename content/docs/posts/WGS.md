@@ -17,8 +17,6 @@ see below
 
 [More ...](https://grizzlyreports.com/genedx-20250205/)
 
-# Insiders Attest That GeneDx (Nasdaq: WGS) Is Actively Committing Widespread Fraud
-
 ## By Grizzly Research February 5, 2025
 #
 GeneDx is a genetic testing company that specializes in advanced genomic testing, particularly for rare and ultra-rare genetic disorders.

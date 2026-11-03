@@ -5,8 +5,6 @@ tags: [potential/short]
 type: note
 draft: false
 ---
-# The Shortlist
-
 ## Shitco Tracker
 
 **Date:** April 29, 2026

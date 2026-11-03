@@ -15,8 +15,6 @@ updated: 2026-02-28
 </pre>
 </blockquote>
 
-# Unite Group PLC
-
 ## comment 2023-5-22 (P: ~901p)
 
 This largely is in the business of providing student housing.

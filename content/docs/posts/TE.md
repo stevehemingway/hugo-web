@@ -7,8 +7,6 @@ ticker: TE
 draft: false
 updated: 2026-02-28
 ---
-# T1 Energy (stocks/TE)
-
 ## update 25 May 26 
 
 Fuzzy Panda Research published on T1 Energy (NYSE: TE — $2.25 billion), a clean battery solutions company formerly known as FREYR Battery. Fuzzy Panda called the company “another China Hustle” and said the company “is further doomed to be non-FEOC compliant” given its extensive China ties.

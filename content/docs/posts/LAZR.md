@@ -30,8 +30,6 @@ To be fair, it's way down from it's high of $41 after the SPAC closed.
 
 98Likes18Retweets
 
-
-
 ](https://substack.com/redirect/07cd92e5-7bfe-4f5e-ae82-6d5165cf5c23?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/07cd92e5-7bfe-4f5e-ae82-6d5165cf5c23?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98")
 
 https://wallstreetonparade.com/the-obama-bubble-agenda/Citron Research also tweeted out [an article](https://substack.com/redirect/be449f60-572a-4a9f-83a8-0a6ebb17cdb4?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/be449f60-572a-4a9f-83a8-0a6ebb17cdb4?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98") reporting that Luminar’s 26-year-old CEO bought an $83 million house. Luminar is down ~60% since its December 2020 SPAC merger.
