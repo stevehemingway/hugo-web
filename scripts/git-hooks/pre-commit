@@ -1,0 +1,5 @@
+#!/bin/sh
+# pre-commit: validate front-matter tags in staged content files.
+# Hook lives in scripts/git-hooks/; enable with:
+#   git config core.hooksPath scripts/git-hooks
+exec python3 "$(git rev-parse --show-toplevel)/scripts/check-tags.py"
