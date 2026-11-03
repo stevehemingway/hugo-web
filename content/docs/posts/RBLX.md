@@ -1,7 +1,7 @@
 ---
 title: Roblox
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg-research, focus/security, market/united-states, potential/short, sector/gaming, short, thesis/reputation]
+tags: [analyst/hindenburg-research, focus/security, market/united-states, potential/short, sector/gaming, short, thesis/reputation, analyst/bleeker-street-resarch]
 type: stock
 ticker: RBLX
 draft: false
@@ -29,6 +29,6 @@ Ultimately, the 14-year-old girl was “found crying alone in the bathroom of a 
 
 <https://newsletter.hntrbrk.com/p/breaking-roblox-faces-undisclosed?r=nmbt&utm_campaign=post&utm_medium=web>
 
----
-tags: ["thesis/reputation", "sector/gaming", "analyst/hindenberg"]
----
+## 26-11-03 update 
+
+Bleecker Street Research published on Roblox (NYSE: RBLX — $30.7 billion), arguing that its safety overhaul has weakened growth without adequately protecting children. Bleecker says it purchased 100 accounts already verified as belonging to children and accessed them without having to go through another age check. Bleecker argues that Roblox’s restrictions on chat between age groups still impede legitimate users from sharing games with friends, which hurts growth without resolving the underlying safety problems. Its account sample showed roughly 50% fewer newly active users during July 1–September 24 than in the same period last year.

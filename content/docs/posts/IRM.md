@@ -27,6 +27,6 @@ Bull case:
 
 I can see why people like this stock, and I understand that it's doing some work to extend its market leading paper archiving into the digital world, but a company with expertise in collecting boxes of papers and storing them in warehouses is not likely to be that good at creating world-beating software (just to show my biases).
 
----
-tags: ["potential/short"]
----
+## 26-11-03 update 
+
+J Capital Research published on Iron Mountain (NYSE: IRM — $34.7 billion), arguing that the records-storage company’s data-center expansion is generating inadequate returns while adding debt. The firm says data centers absorbed about 81% of capital spending but generated around 13% of revenue as of the second quarter. Iron Mountain’s quarterly filing showed $17.3 billion of debt against $205 million in cash. J Capital also questions the treatment of maintenance and equipment replacement costs and argues that required REIT distributions constrain funding for construction.
