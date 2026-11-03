@@ -1,7 +1,7 @@
 ---
 title: Weatherford Precision Energy
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/bison-energy, focus/security, potential/long, sector/oil-services, thesis/offshore-oil-demand]
+tags: [analyst/bison-interests, focus/security, potential/long, sector/oil-services, thesis/offshore-oil-demand]
 type: stock
 ticker: WFRD
 draft: false
