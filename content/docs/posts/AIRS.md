@@ -12,8 +12,3 @@ updated: 2026-02-28
 [More ...](https://fuzzypandaresearch.com/airs/)
 
 2026-01-30 USD 2.97
-
-# Airsculpt (A/AIRS)
-[More ...](https://fuzzypandaresearch.com/airs/)
-
-2026-01-30 USD 2.97

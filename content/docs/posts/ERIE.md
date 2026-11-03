@@ -10,6 +10,3 @@ updated: 2026-02-28
 # Erie Indeminity Company (stocks/ERIE)
 
 [More ...](https://www.sprucepointcap.com/research/erie-indemnity-company )
-
-# Erie Indeminity Company (E/ERIE)
-[More ...](https://www.sprucepointcap.com/research/erie-indemnity-company )

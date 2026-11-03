@@ -22,12 +22,3 @@ company robots struggling with basic manoeuvers
 ---
 *updated: 2026-03-07 by automated standardization process*
 *updated: 2026-03-09 by steve.
-# Serve Robotics (SERV)
-
-<blockquote>
-<pre>
-company robots struggling with basic manoeuvers
-</pre>
-</blockquote>
-
-[More ...](https://www.bonitasresearch.com/wp-content/uploads/dlm_uploads/2024/12/Bonitas-Short-Serve_Robotics-SERV-Dec-5-2024.pdf)

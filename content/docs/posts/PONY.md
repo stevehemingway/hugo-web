@@ -19,12 +19,3 @@ see below
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# Pony AI (PONY)
-
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://grizzlyreports.com/pony/)

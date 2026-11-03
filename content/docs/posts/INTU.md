@@ -19,12 +19,3 @@ unwise acquisitions
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# Intuit Inc. (INTU)
-
-<blockquote>
-<pre>
-unwise acquisitions
-</pre>
-</blockquote>
-
-[More ...](https://www.sprucepointcap.com/research/intuit-inc)

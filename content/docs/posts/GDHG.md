@@ -16,13 +16,3 @@ another classic "China Hustle"
 </blockquote>
 
 [More ...](https://x.com/HindenburgRes/status/1724156604583415978?s=20)
-
-# Golden Heaven Group Holdings (G/GDHG)
-
-<blockquote>
-<pre>
-another classic "China Hustle"
-</pre>
-</blockquote>
-
-[More ...](https://x.com/HindenburgRes/status/1724156604583415978?s=20)

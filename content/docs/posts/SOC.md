@@ -23,12 +23,3 @@ Exxon spinoff Sable Offshore faces seven barriers to restart its pipeline, idled
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# Sable Offshore (SOC)
-
-<blockquote>
-<pre>
-Hunterbrook Media, a new media outlet that shares its stories in advance with an affiliated hedge fund, published on Sable Offshore (NYSE: SOC — $625 million), an oil and gas company focused on developing “the prolific Santa Ynez Unit in federal waters offshore California.” Hunterbrook wrote, in part,
-</pre>
-</blockquote>
-
-[More ...](https://hntrbrk.com/sable/)

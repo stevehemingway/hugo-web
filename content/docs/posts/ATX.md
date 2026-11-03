@@ -8,5 +8,3 @@ draft: false
 updated: 2026-02-28
 ---
 # ATX (stocks/ATX)
-
-# ATX (A/ATX)

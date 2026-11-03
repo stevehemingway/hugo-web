@@ -19,12 +19,3 @@ competition from Bud
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# Monster Beverage Corp (MNST)
-
-<blockquote>
-<pre>
-competition from Bud
-</pre>
-</blockquote>
-
-[More ...](https://www.sprucepointcap.com/research/monster-beverage-corp)

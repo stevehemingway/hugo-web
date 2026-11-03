@@ -14,10 +14,3 @@ updated: 2026-02-28
 2026-01-30 USD 5.6
 2026-01-30 USD 5.6
 2026-01-30 USD 5.6
-
-# company name (A/ALT)
-[More ...](https://x.com/KerrisdaleCap/status/1757414378213618032?s=20)
-
-2026-01-30 USD 5.6
-2026-01-30 USD 5.6
-2026-01-30 USD 5.6

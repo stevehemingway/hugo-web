@@ -39,14 +39,3 @@ Conclusion: The old "growth company" with "optional CapEx" narrative is dead. Fi
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# Willscot Inc. (WSC)
-
-<blockquote>
-<pre>
-Forwarded this email? Subscribe here for more
-Willscot's Overlevered Fleet with Unrentable Units Set to Become a Problem for McGrath Shareholders
-We have extensive photographic evidence showing that WSC's modular space fleet contains old, decrepit and otherwise unrentable units
-</pre>
-</blockquote>
-
-[More ...](https://open.substack.com/pub/dfresearch/p/willscots-overlevered-fleet-with?r=nmbt&utm_campaign=post&utm_medium=web)

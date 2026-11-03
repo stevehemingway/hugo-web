@@ -13,5 +13,3 @@ updated: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# PowerSchool Holdings (PWSC)
-[More ...](https://www.sprucepointcap.com/research/powerschool-holdings-inc)

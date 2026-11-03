@@ -19,12 +19,3 @@ see below
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# sound group (SOGP)
-
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://substack.com/home/post/p-173227995)

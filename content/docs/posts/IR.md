@@ -17,9 +17,3 @@ see below
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# IR (IR)
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>

@@ -14,10 +14,3 @@ updated: 2026-02-28
 see below
 </pre>
 </blockquote>
-
-# HFG (H/HFG)
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>

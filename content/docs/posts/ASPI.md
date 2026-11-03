@@ -30,13 +30,3 @@ https://fuzzypandaresearch.com/aspi-honig-stetson-paid-stock-promotion/)
 2026-01-30 USD 6.34
 ---
 ---
-
-# ASP Isotopes (ASPI)
-
-<blockquote>
-<pre>
-paid stock promotion by notorious microcap fraudsters
-</pre>
-</blockquote>
-
-[More ...](https://fuzzypandaresearch.com/aspi-honig-stetson-paid-stock-promotion/)

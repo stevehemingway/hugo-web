@@ -13,5 +13,3 @@ updated: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# Lion Electric Inc (LEV)
-[More ...](https://twitter.com/sunshine_rsrch/status/1780986419319644303)

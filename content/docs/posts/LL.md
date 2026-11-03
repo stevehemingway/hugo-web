@@ -19,12 +19,3 @@ updated: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# LL Flooring Holdings (LL)
-
-<blockquote>
-<pre>
-
-</pre>
-</blockquote>
-
-[More ...](LL Flooring Holdings)

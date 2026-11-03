@@ -14,11 +14,3 @@ updated: 2026-02-28
 see below
 </pre>
 </blockquote>
-
-# Fair-Isaac Corp. (F/FICO)
-
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>

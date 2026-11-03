@@ -14,11 +14,3 @@ updated: 2026-02-28
 CFO will no longer serve after seven months
 </pre>
 </blockquote>
-
-# Canoo (G/GOEV)
-
-<blockquote>
-<pre>
-CFO will no longer serve after seven months
-</pre>
-</blockquote>

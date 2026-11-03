@@ -19,12 +19,3 @@ see below
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# Vedanta (VEDL)
-
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://viceroyresearch.org/2025/07/15/vedanta-hidden-holdings-bjst-and-ptcc/)

@@ -19,12 +19,3 @@ updated: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
-# Lordstown Motors (RIDE)
-
-<blockquote>
-<pre>
-
-</pre>
-</blockquote>
-
-[More ...](https://twitter.com/WallStCynic/status/1404059445060059143)

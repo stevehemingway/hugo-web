@@ -17,14 +17,3 @@ updated: 2026-02-28
 
 2024-12-23 USD 36.02
 2024-12-23 USD 36.02
-
-# Avangrid (A/AGR)
-
-<blockquote>
-<pre>
-
-</pre>
-</blockquote>
-
-2024-12-23 USD 36.02
-2024-12-23 USD 36.02
