@@ -1,7 +1,7 @@
 ---
 title: Partners Group Holding AG
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/grizzly-research, focus/security, market/hong-kong, potential/short, thesis/fraud]
+tags: [analyst/grizzly-research, focus/security, market/switzerland, potential/short, thesis/fraud]
 type: stock
 ticker: PGHN
 draft: false

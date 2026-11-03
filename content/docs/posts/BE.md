@@ -1,7 +1,7 @@
 ---
 title: Be
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, market/hong-kong, potential/long]
+tags: [focus/security, market/united-states, potential/long]
 type: stock
 ticker: BE
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Brunello Cucinelli
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/morpheus-research, focus/security, market/spain, potential/short, sector/unknown, thesis/illegal-activity]
+tags: [analyst/morpheus-research, focus/security, market/italy, potential/short, sector/unknown, thesis/illegal-activity]
 type: stock
 ticker: MIL
 draft: false
