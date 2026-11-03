@@ -1,7 +1,7 @@
 ---
 title: 'Arlo Technologies (NYSE: ARLO) - Short Thesis Summary'
 date: '2026-10-21T16:27:59+01:00'
-tags: [focus/security, market/united-states, potential/short]
+tags: [focus/security, market/nyse, potential/short]
 type: stock
 ticker: ARLO
 draft: false

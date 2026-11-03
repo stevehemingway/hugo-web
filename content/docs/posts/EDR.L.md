@@ -1,7 +1,7 @@
 ---
 title: Egdon Resources
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, market/uk, potential/long, sector/energy, size/nano-cap, thesis/value]
+tags: [focus/security, market/london, potential/long, sector/energy, size/nano-cap, thesis/value]
 type: stock
 ticker: EDR
 draft: false

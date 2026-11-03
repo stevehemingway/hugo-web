@@ -1,7 +1,7 @@
 ---
 title: CUE Biopharma
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/fugazi-research, focus/security, market/united-states, potential/short, thesis/turnaround, thesis/vaporware]
+tags: [analyst/fugazi-research, focus/security, market/nasdaq, potential/short, thesis/turnaround, thesis/vaporware]
 type: stock
 ticker: CUE
 draft: false

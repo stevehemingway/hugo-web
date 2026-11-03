@@ -1,7 +1,7 @@
 ---
 title: DLong
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters-capital, focus/security, market/united-states, potential/short, thesis/fraud]
+tags: [analyst/muddy-waters-capital, focus/security, market/nasdaq, potential/short, thesis/fraud]
 type: stock
 ticker: DLO
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Akanda
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/fugazi-research, focus/security, market/united-states, potential/short, sector/cannabis, thesis/fraud]
+tags: [analyst/fugazi-research, focus/security, market/nasdaq, potential/short, sector/cannabis, thesis/fraud]
 type: stock
 ticker: AKAN
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: AAON
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, market/united-states, potential/short, sector/building, thesis/fraud]
+tags: [analyst/jehoshaphat-research, focus/security, market/nasdaq, potential/short, sector/building, thesis/fraud]
 type: stock
 ticker: AAON
 draft: false

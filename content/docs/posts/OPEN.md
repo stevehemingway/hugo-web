@@ -1,7 +1,7 @@
 ---
 title: Opendoor Technologies
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/citron-research, focus/security, market/united-states, potential/short, sector/reit, thesis/fraud, sector/resi-real-estate, analyst/citron]
+tags: [analyst/citron-research, focus/security, market/nasdaq, potential/short, sector/reit, thesis/fraud, sector/resi-real-estate, analyst/citron]
 type: stock
 ticker: OPEN
 draft: false

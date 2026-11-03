@@ -1,7 +1,7 @@
 ---
 title: AMC Entertainment
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, market/united-states, potential/short, sector/cinemas, thesis/everything]
+tags: [analyst/edwin-dorsey, focus/security, market/nyse, potential/short, sector/cinemas, thesis/everything]
 type: stock
 ticker: AMC
 draft: false

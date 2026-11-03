@@ -1,7 +1,7 @@
 ---
 title: Agilon Health
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/citron-research, focus/security, market/united-states, potential/short, sector/finance, thesis/legal]
+tags: [analyst/citron-research, focus/security, market/nyse, potential/short, sector/finance, thesis/legal]
 type: stock
 ticker: AGL
 draft: false

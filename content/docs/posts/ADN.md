@@ -1,7 +1,7 @@
 ---
 title: Advent Technologies
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fugazi-research, focus/security, market/united-states, potential/short, sector/hydrogen-fuel-cells, thesis/fraud]
+tags: [analyst/fugazi-research, focus/security, market/nasdaq, potential/short, sector/hydrogen-fuel-cells, thesis/fraud]
 type: stock
 ticker: ADN
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Palantir
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, focus/security, market/united-states, potential/short, sector/technology, thesis/hype, analyst/edwin-dorsey, sector/ai, sector/tech]
+tags: [analyst/bear-cave, focus/security, market/nyse, potential/short, sector/technology, thesis/hype, analyst/edwin-dorsey, sector/ai, sector/tech]
 type: stock
 ticker: PLTR
 draft: false

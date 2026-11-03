@@ -1,7 +1,7 @@
 ---
 title: Enwell Energy
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, market/uk, potential/long, sector/energy, thesis/special-situation, thesis/value]
+tags: [focus/security, market/london, potential/long, sector/energy, thesis/special-situation, thesis/value]
 type: stock
 ticker: ENW
 draft: false

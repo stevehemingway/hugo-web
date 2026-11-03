@@ -1,7 +1,7 @@
 ---
 title: AppLovin
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/culper-research, analyst/fuzzy-panda-research, analyst/lauren-balik, focus/security, market/united-states, potential/short, sector/internet, thesis/fraud]
+tags: [analyst/culper-research, analyst/fuzzy-panda-research, analyst/lauren-balik, focus/security, market/nasdaq, potential/short, sector/internet, thesis/fraud]
 type: stock
 ticker: APP
 draft: false
