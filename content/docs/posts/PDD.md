@@ -1,7 +1,7 @@
 ---
 title: PDD Holdings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, focus/security, potential/short, sector/chinese-listing, thesis/spyware]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/chinese-listing, thesis/spyware, analyst/grizzlyreports]
 type: stock
 ticker: PDD
 draft: false
@@ -51,7 +51,3 @@ A large number of shares are unaccounted for. Billions of USD worth of stock rep
 
 [More ...](https://grizzlyreports.com/we-believe-pdd-is-a-dying-fraudulent-company-and-its-shopping-app-temu-is-cleverly-hidden-spyware-that-poses-an-urgent-security-threat-to-u-s-national-interests/)
 latest change: 2026-02-28
-
----
-tags: ["thesis/spyware", "sector/Chinese listing", "analyst/grizzlyreports"]
----

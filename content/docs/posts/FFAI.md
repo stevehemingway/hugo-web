@@ -24,7 +24,3 @@ Wolfpack Research published on Faraday Future (NASDAQ: FFAI — $253 million), a
 In response to Wolfpack’s report, Faraday Future said it “will promptly initiate the necessary internal procedures to file a lawsuit against Wolfpack Research and make a formal submission to the U.S. Securities and Exchange Commission (SEC).” The company also referenced its “Anti-Illegal Short-Selling Counterattack” and wrote, in part,
 
 “The company has recently observed unusual volatility in its stock price and the company intends to investigate whether malicious actors are engaged in improper manipulation of the stock including through naked short selling or other stock manipulation schemes.”
-
----
-tags: ["thesis/fraud", "sector/EV", "analyst/wolfpack-research"]
----

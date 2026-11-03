@@ -11,7 +11,3 @@ Grizzly Research [published](https://substack.com/redirect/146956e3-0394-4f53-98
 > “After adjusting for ZTO’s artificially inflated margins and applying generous trading multiples, we believe the company is trading far above its fair value. Our analysis implies at least a 50% downside.”
 
 (The Bear Cave has no affiliation with Grizzly Research.)
-
----
-tags: ["analyst/grizzly-research", "thesis/fraud", "potential/short"]
----

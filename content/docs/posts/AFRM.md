@@ -1,7 +1,7 @@
 ---
 title: Affirm
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/diogenes, analyst/diogenes-and-kerrisdalecap, analyst/kerrisdale-capital, focus/security, market/united-states, missed-boat, potential/short, sector/fintech, thesis/unprofitable-tech]
+tags: [analyst/diogenes, analyst/kerrisdale-capital, focus/security, market/united-states, thesis/missed-boat, potential/short, sector/fintech, thesis/unprofitable-tech, analyst/diogenes-research]
 type: stock
 ticker: AFRM
 draft: false
@@ -56,7 +56,3 @@ latest change: 2025-10-29
 
 ## 2022 Nov 15
 Some decent results caused the stock price to leap by 8%. Maybe now is the time to open a short position. It's down 82% on the year though ...
-
----
-tags: ["thesis/unprofitable-tech", "sector/fintech", "analyst/diogenes and kerrisdalecap"]
----

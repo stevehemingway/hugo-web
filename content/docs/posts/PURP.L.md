@@ -7,7 +7,3 @@ ticker: PURP
 draft: false
 ---
 this is the actual post.
-
----
-tags: ["analyst/me", "thesis/macro"]
----

@@ -6,7 +6,7 @@ type: stock
 ticker: BLDR
 draft: false
 ---
-tags: [potential/long]
+
 ---
 
 [Yahoo summary](https://finance.yahoo.com/quote/BLDR/key-statistics?p=BLDR)

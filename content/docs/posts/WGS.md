@@ -54,7 +54,3 @@ Former employees testify that the company’s previous healthcare data platform,
 Clinical geneticists and industry experts have expressed concerns that GeneDx’s tests do not offer superior accuracy compared to competitors, and the company lacks any sustainable competitive advantage in the marketplace.
 
 GeneDx is facing internal morale issues after Katherine Stueland laid off more than half of the company’s staff. Many former employees cite nepotism and favoritism towards ex-Invitae employees.
-
----
-tags: ["thesis/fraud", "sector/biotech", "analyst/grizzly-research"]
----

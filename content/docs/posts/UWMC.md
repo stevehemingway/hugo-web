@@ -18,7 +18,3 @@ Hunterbrook Media, a new media outlet that shares its stories in advance with an
 
 [More ...](https://hntrbrk.com/uwm/)
 latest change: 2026-02-28
-
----
-tags: ["thesis/fraud", "sector/retail-finance", "analyst/hunterbrook-media"]
----

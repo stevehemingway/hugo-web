@@ -20,7 +20,3 @@ TLDR:
 
 
 <https://www.overlookedalpha.com/p/european-wax-center-a-cyclical-short>
-
----
-tags: ["potential/short", "analyst/vince-martin"]
----

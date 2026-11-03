@@ -1,7 +1,7 @@
 ---
 title: Interesting?
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/overlooked-alpha, focus/security, further-work-required, potential/long, sector/fintech, sector/technology]
+tags: [analyst/overlooked-alpha, focus/security, potential/long, sector/fintech, sector/technology]
 type: stock
 ticker: CDLX
 draft: false

@@ -18,7 +18,3 @@ draft: false
 > 
 > A copy of the report can be downloaded here.
 >
-
----
-tags: ["analyst/blue-orca-capital"]
----

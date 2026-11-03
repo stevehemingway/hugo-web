@@ -17,7 +17,3 @@ H/T Kuppy (kedm.com).
 The full report is [here](https://static1.squarespace.com/static/5a81b554be42d6b09e19fc09/t/6346b1258ad5f2402cf6ad66/1665577256589/Blue+Orca+Short+Enviva+Inc+%28NYSE+EVA%29.pdf).
 
 [The Bear Cave has covered this too.](https://thebearcave.substack.com/p/the-bear-cave-139-fce?utm_source=post-email-title&publication_id=26828&post_id=78756173&isFreemail=true&utm_medium=email)
-
----
-tags: ["potential/short"]
----

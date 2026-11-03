@@ -1,7 +1,7 @@
 ---
 title: Premier Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/healthcare-purchasing]
+tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/healthcare-purchasing, analyst/jehoshaphat]
 type: stock
 ticker: PINC
 draft: false
@@ -18,7 +18,3 @@ Jehoshaphat Research published on Premier Inc (NASDAQ: PINC — $2.01 billion), 
 
 [More ...](https://jehoshaphatresearch.com/wp-content/uploads/2025/01/PINC-Research-Opinion-by-Jehoshaphat-Research-Jan-2025.pdf?)
 latest change: 2026-02-28
-
----
-tags: ["sector/healthcare-purchasing", "analyst/Jehoshaphat"]
----

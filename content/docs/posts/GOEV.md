@@ -29,7 +29,3 @@ CFO will no longer serve after seven months
 
 [More ...]()
 latest change: 2026-02-08
-
----
-tags: ["thesis/fraud", "sector/EV", "analyst/dorsey"]
----

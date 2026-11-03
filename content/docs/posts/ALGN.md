@@ -16,7 +16,3 @@ Stock collapsed in Dec 21.
 
 # Align Technology
 2026-01-30 USD 163.03
-
----
-tags: ["potential/short"]
----

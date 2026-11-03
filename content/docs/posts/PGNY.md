@@ -13,7 +13,3 @@ Jehoshaphat Research [published](https://twitter.com/JehoshaphatRsch/status/1600
 Progeny fell ~9% this week and is up ~100% since its October 2019 IPO.
 
 AGM today (2023-5-24). Price has not collapsed since the tweet in Dec 2022.
-
----
-tags: ["potential/short", "analyst/jehoshaphat-research", "thesis/fraud"]
----

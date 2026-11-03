@@ -21,10 +21,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/economics-fraud-legal", "sector/education", "analyst/spruce-point-capital"]
----
-
 # PowerSchool Holdings (PWSC)
 
 <blockquote>

@@ -39,7 +39,3 @@ In reality, The Bear Cave believes Oddity is a glorified Instagram and Facebook 
 latest change: 2026-02-28
 
 [Update](https://ningiresearch.com/2024/05/21/research-report-oddity-tech-limited-nasdaq-odd/).
-
----
-tags: ["thesis/misrepresentation", "sector/advertising", "analyst/edwin-dorsey"]
----

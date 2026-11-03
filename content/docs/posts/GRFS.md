@@ -24,7 +24,3 @@ latest change: 2026-02-28
 > Gotham City Research published an update on Grifols (NASDAQ: GRFS — $5.77 billion), a Spanish pharmaceutical company. The update focuses on a roughly $300 million loan between Grifols and a related party classified vaguely as “other financial assets with other related parties.”
 
 [Link.](https://www.gothamcityresearch.com/post/grifols-sa-how-an-advance-payment-becomes-a-loan-part-i)
-
----
-tags: ["thesis/fraud", "sector/pharma", "analyst/gotham-city-research"]
----

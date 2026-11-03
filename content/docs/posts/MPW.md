@@ -58,7 +58,3 @@ Viceroy Research published an update on Medical Properties Trust (NYSE: MPW — 
 New research, April 2024: https://viceroyresearch.org/2024/04/02/mpw-cerberus-letter-to-congress/.
 
 Further research, 15 Oct 2024, https://viceroyresearch.org/2024/10/15/mpw-tacit-admission-of-securities-fraud/.
-
----
-tags: ["thesis/fraud", "sector/REIT", "analyst/viceroy-research"]
----

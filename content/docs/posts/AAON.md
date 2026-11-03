@@ -20,7 +20,3 @@ see below
 latest change: 2026-02-28
 Jehoshaphat Research published on AAON (NASDAQ: AAON — $8.60 billion), an HVAC company. Jehoshaphat alleged AAON’s data center division revenue “is currently overstated by ~30-40%” and predicted its data center revenue margin will be well below street estimates. Jehoshaphat said the company’s accounting misconduct “appears to have started with a revenue recognition change made in Q424” and noted that the CEO and Chief Accounting Officer responsible have both departed after selling down their stock holdings.
 2026-01-30 USD 91.06
-
----
-tags: ["thesis/fraud", "sector/building", "analyst/jehoshaphat-research"]
----

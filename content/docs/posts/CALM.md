@@ -1,7 +1,7 @@
 ---
 title: Cal-Maine
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/food, thesis/insider-action]
+tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/food, thesis/insider-action, sector/wholesale-food, analyst/hunterbrook]
 type: stock
 ticker: CALM
 draft: false
@@ -20,7 +20,3 @@ quote
 latest change: 2026-02-28
 
 2026-01-30 USD 83.53
-
----
-tags: ["thesis/insider action", "sector/wholesale food", "analyst/hunterbrook"]
----

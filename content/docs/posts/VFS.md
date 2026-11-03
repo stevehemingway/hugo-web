@@ -18,7 +18,3 @@ Hardly anyone is buying the company’s electric vehicles — at home or abroad 
 
 [More ...](https://newsletter.hntrbrk.com/p/whats-going-on-with-vinfast?publication_id=2442504&post_id=143814186&isFreemail=true&r=nmbt&triedRedirect=true)
 latest change: 2026-02-28
-
----
-tags: ["thesis/poor product", "sector/automotive", "analyst/hunterbrook media"]
----

@@ -7,7 +7,3 @@ ticker: ETSY
 draft: false
 ---
 https://citronresearch.com/wp-content/uploads/2023/02/Citron-Exposes-the-Dirty-Secrets-of-Etsy.pdf
-
----
-tags: ["potential/short", "analyst/citron-research", "thesis/regulatory"]
----

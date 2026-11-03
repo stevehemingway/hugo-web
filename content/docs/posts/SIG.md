@@ -18,7 +18,3 @@ Signet Jewelers (NYSE: SIG — $2.56 billion) is the world’s largest retailer 
 
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-signet-jewelers-sig?r=nmbt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 latest change: 2026-02-28
-
----
-tags: ["thesis/market", "sector/retail", "analyst/dorsey"]
----

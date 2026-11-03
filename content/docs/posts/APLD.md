@@ -1,7 +1,7 @@
 ---
 title: Applied Digital
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/guasty-winds, focus/security, market/united-states, potential/short, sector/technology]
+tags: [analyst/guasty-winds, focus/security, market/united-states, potential/short, sector/technology, thesis/fraud]
 type: stock
 ticker: APLD
 draft: false
@@ -12,7 +12,3 @@ Guasty Winds published a follow-up article on Applied Digital (NASDAQ: APLD — 
 2026-01-30 USD 33.88
 2026-01-30 USD 33.88
 2026-01-30 USD 33.88
-
----
-tags: ["analyst/guasty-winds", "thesis/fraud"]
----

@@ -23,7 +23,3 @@ Spruce Point Capital [published](https://substack.com/redirect/979c331f-51cd-406
 > “Understand that the founders will stop at nothing to succeed and that means lying to press, vendors, employees and Glassdoor.”
 > 
 > “I would say that if there is a number where there's an opportunity to kind of be aggressive with something, they probably will be.”
-
----
-tags: ["analyst/Spruce-Point", "source/bear-cave", "potential/short"]
----

@@ -1,7 +1,7 @@
 ---
 title: Quadratic Interest Rate Volatility and Inflation Hedge ETF
 date: '2026-10-08T16:11:55+01:00'
-tags: [asset-class/fixed-income, focus/security, potential/long, thesis/steepening]
+tags: [sector/fixed-income, focus/security, potential/long, thesis/steepening]
 type: stock
 ticker: IVOL
 draft: false

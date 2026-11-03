@@ -20,7 +20,3 @@ Thesis: fraud, analyst: jehoshaphat-research, sector: health-admin.
 latest change: 2026-02-28
 
 Lastly, we believe that RCM’s business model is dangerously reflexive and requires a high stock price for the business to work: the company continually issues stock to win/retain customers, but needs to win and retain customers to keep the stock price high.”
-
----
-tags: ["thesis/fraud", "sector/health-admin", "analyst/jehoshaphat-research"]
----

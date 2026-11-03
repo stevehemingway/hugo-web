@@ -23,7 +23,3 @@ Believes That CLEAR’s Valuation Is Miscalculated and Its Shares Trade at an Ir
 
 [More ...](https://www.sprucepointcap.com/research/clear-secure-inc)
 latest change: 2026-02-28
-
----
-tags: ["thesis/fraud", "sector/support services", "analyst/spruce-point"]
----

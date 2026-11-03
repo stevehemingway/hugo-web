@@ -12,7 +12,3 @@ draft: false
 2026-01-30 USD 38.84
 2026-01-30 USD 38.84
 2026-01-30 USD 38.84
-
----
-tags: ["source/bear-cave", "potential/short"]
----

@@ -23,7 +23,3 @@ Grindr Inc. (NYSE: GRND): Undisclosed SEC Investigation, Revolting User Base, Va
 We are short Grindr Inc. (NYSE: GRND). In our opinion, Grindr’s management has pursued aggressive monetization at the expense of its own users. This short-term extraction strategy is juicing near-term revenues, but it is eroding the platform’s long-term viability.
 
 Based on our analysis and extensive interviews with former executives and employees, we believe Grindr’s paying user numbers are inflated, its product is deteriorating, its user base is increasingly alienated, and its long-term prospects are deeply compromised. The result is an existential risk that markets have largely overlooked: Grindr’s business model is already eroding significantly, while the fundamentals have yet to reflect it. Meanwhile, insiders appear to understand this dynamic all too well—dumping over $230 million in stock in the past twelve months.
-
----
-tags: ["thesis/economics", "sector/dating", "analyst/ningi-research"]
----

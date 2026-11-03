@@ -1,7 +1,7 @@
 ---
 title: FTAI Aviation
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters-capital, analyst/muddy-waters-and-snowcap-research, analyst/snowcap-research, focus/security, potential/short, sector/aviation, thesis/fraud]
+tags: [analyst/muddy-waters-capital, analyst/snowcap-research, focus/security, potential/short, sector/aviation, thesis/fraud, analyst/muddy-waters]
 type: stock
 ticker: FTAI
 draft: false
@@ -42,7 +42,3 @@ latest change: 2026-02-08
 
 Also, Snowcap Research has produced a note: 
 https://static1.squarespace.com/static/5fb304fb74a5527435ec0d68/t/679a5150818e7f63a08a46eb/1738166610809/Short+FTAI+Aviation+Final+v1+29012025.pdf
-
----
-tags: ["thesis/fraud", "sector/aviation", "analyst/muddy-waters and snowcap research"]
----

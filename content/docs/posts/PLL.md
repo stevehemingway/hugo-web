@@ -20,7 +20,3 @@ Ultimately, the premise of Piedmont’s valuation is the Company’s claim that 
   
 
 **A copy of the report can be downloaded [here](https://blueorcacapital.us17.list-manage.com/track/click?u=4c863a1e0ae8bd65774e07cc9&id=9967a535f2&e=a4ca2830bd "Click to open https://blueorcacapital.us17.list-manage.com/track/click?u=4c863a1e0ae8bd65774e07cc9&id=9967a535f2&e=a4ca2830bd").**
-
----
-tags: ["potential/short", "analyst/blue-orca-capital"]
----

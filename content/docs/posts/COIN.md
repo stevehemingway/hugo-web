@@ -19,7 +19,3 @@ This creates added stress for crypto exchanges.
 This could be the time that $COIN finally falls to earth.
 2026-01-30 USD 194.74
 2026-01-30 USD 194.74
-
----
-tags: ["potential/short", "thesis/crypto"]
----

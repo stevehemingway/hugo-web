@@ -1,7 +1,7 @@
 ---
 title: '$MTC: From Delisting Risk to a Half-Billion-Dollar Fantasy'
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/fugazi-research, focus/security, potential/short, risk/china, sector/financial-services, thesis/chinese-microcap-fraud]
+tags: [analyst/fugazi-research, focus/security, potential/short, thesis/china-risk, sector/financial-services, thesis/chinese-microcap-fraud]
 type: stock
 ticker: MTC
 draft: false

@@ -9,7 +9,3 @@ draft: false
 Terrible governance. Excessive dilution.
 
 [seeking alpha](https://seekingalpha.com/symbol/TOPS)
-
----
-tags: ["thesis/shitco", "potential/short"]
----

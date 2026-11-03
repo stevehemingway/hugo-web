@@ -23,7 +23,3 @@ DraftKings (NASDAQ: DKNG — $21.2 billion) is on a mission “to make life more
 2026-01-30 USD 27.51
 2026-01-30 USD 27.51
 2026-01-30 USD 27.51
-
----
-tags: ["thesis/fraud", "sector/betting", "analyst/edwin-dorsey"]
----

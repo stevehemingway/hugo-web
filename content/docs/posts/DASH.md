@@ -1,7 +1,7 @@
 ---
 title: DoorDash
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/blind-squirrel-and-culper-research, focus/security, potential/short, sector/communication-services, thesis/economics]
+tags: [analyst/blind-squirrel, analyst/culper-research, focus/security, potential/short, sector/communication-services, thesis/economics, analyst/blind-squirrel-research]
 type: stock
 ticker: DASH
 draft: false
@@ -33,7 +33,3 @@ latest change: 2026-02-08
 
 Culper Research published on DoorDash (NASDAQ: DASH — $110 billion), a popular food delivery platform. Culper alleged that DoorDash would onboard dashers with less stringent ID vetting than peers and often without proper background checks. For example, Culper cited litigation in which a Dasher killed a mother while drunk driving, despite four prior DUIs, and a case in which DoorDash onboarded a Dasher who “had an aggravated assault with a deadly weapon charge” and later “attempted to rape an 18-year-old [DoorDash] customer after delivering an order to her home.”
 2026-01-30 USD 204.62
-
----
-tags: ["thesis/economics", "sector/Communication Services", "analyst/blind-squirrel and culper-research"]
----

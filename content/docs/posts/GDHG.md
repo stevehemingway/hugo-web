@@ -29,7 +29,3 @@ another classic "China Hustle"
 
 [More ...](https://x.com/HindenburgRes/status/1724156604583415978?s=20)
 latest change: 2026-02-08
-
----
-tags: ["thesis/fraud", "sector/leisure", "analyst/Hindenberg"]
----

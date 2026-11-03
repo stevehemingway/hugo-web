@@ -18,7 +18,3 @@ Founded in 2001, San Ramon-based Five9 is one of many “Contact Center as a Ser
 
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-five9-fivn)
 latest change: 2026-02-28
-
----
-tags: []
----

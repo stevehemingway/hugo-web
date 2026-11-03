@@ -22,10 +22,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: []
----
-
 theworks(fraud,
 fuzzy-panda-research,
 {paid stock promotion by notorious microcap fraudsters},
@@ -34,7 +30,6 @@ mining,
 https://fuzzypandaresearch.com/aspi-honig-stetson-paid-stock-promotion/)
 2026-01-30 USD 6.34
 ---
-tags: ["thesis/fraud", "sector/mining", "analyst/fuzzy-panda-research"]
 ---
 
 # ASP Isotopes (ASPI)

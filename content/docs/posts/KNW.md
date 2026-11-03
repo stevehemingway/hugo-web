@@ -23,7 +23,3 @@ draft: false
 -   KNW conducted NFT sales in Q421 and Bosua richly profited from it, using his personal Coinbase account. Additionally, over $1M worth of Ethereum was transferred to an unnamed “consultant.”
 -   KNW has another 60M shares that can be diluted from options, warrants, preferred shares and convertible bonds - some just got registered yesterday. The preferred shares and convertible debt have exercise prices as low as 25c per share and are now able to be exercised.
 -   KNW and its related companies have wasted over $100M of investors’ money, failing all of its inventions and products for over 20 years.
-
----
-tags: ["analyst/white-diamond-research", "potential/short", "thesis/fraud"]
----

@@ -10,7 +10,3 @@ draft: false
 
 This is basically a shoe brand, sold through dedicated retail outlets.
 It has gone down a lot, and has started buybacks, so it probably was a sell, but it may be too late to short.
-
----
-tags: ["potential/short", "potential/long"]
----

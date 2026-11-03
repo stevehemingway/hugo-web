@@ -11,7 +11,3 @@ draft: false
 It shows that Lyft's model simply does not make any sense for drivers.
 The chunk of money it takes out of the fare is far too high to make 
 it an attractive job for anyone who can work as a taxi-driver (which is, presumably, everyone who can work for Lyft).
-
----
-tags: ["potential/short"]
----

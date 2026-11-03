@@ -1,7 +1,7 @@
 ---
 title: auto-manufacture
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/culper-research, focus/security, potential/short, sector/https://substack.com/redirect/67983652-8ce3-4505-b524-c7a1a80e91db?j=eyj1ijoibm1idcj9.okn8snuata-fkdvvxvf40ijrk4j2kadlakvdpe7bh98, thesis/fraud]
+tags: [analyst/culper-research, focus/security, potential/short, thesis/fraud, analyst/bear-cave]
 type: stock
 ticker: XPEL
 draft: false
@@ -24,10 +24,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/fraud", "sector/https://substack.com/redirect/67983652-8ce3-4505-b524-c7a1a80e91db?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98", "analyst/Culper-research"]
----
-
 # auto-manufacture (XPEL)
 
 <blockquote>

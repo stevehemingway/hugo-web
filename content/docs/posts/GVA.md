@@ -24,7 +24,3 @@ recent statements.
 
 [More ...](https://www.glasshouseresearch.com/uploads/8/9/6/9/89690703/gva_final.pdf)
 latest change: 2026-02-28
-
----
-tags: ["thesis/fraud", "sector/construction", "analyst/glasshouse-research"]
----

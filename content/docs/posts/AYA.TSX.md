@@ -1,7 +1,7 @@
 ---
 title: Aya Gold and Silver
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/blue-orca-capital, focus/security, market/canada, potential/short, sector/mining, thesis/fraud]
+tags: [analyst/blue-orca-capital, focus/security, market/canada, potential/short, sector/mining, thesis/fraud, analyst/blue-orca]
 type: stock
 ticker: AYA
 draft: false
@@ -29,7 +29,3 @@ see below
 
 [More ...](https://report-url)
 latest change: 2026-02-08
-
----
-tags: ["thesis/fraud", "sector/mining", "analyst/blue orca"]
----

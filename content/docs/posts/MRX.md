@@ -1,7 +1,7 @@
 ---
 title: Marex Group plc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/ningi-research, focus/security, potential/short, sector/financial, thesis/fraud]
+tags: [analyst/ningi-research, focus/security, potential/short, sector/financial, thesis/fraud, analyst/ningni-research]
 type: stock
 ticker: MRX
 draft: false
@@ -32,7 +32,3 @@ A Self-Dealing Loophole to Manufacture Profit: In our opinion, Marex is exploiti
 Fictitious Cash Flow and Billion-Dollar Discrepancies: Marex claims strong operating cash flow (OCF), but it is a sham. Marex’s accounting includes debt issuance (senior unsecured notes)—a financing activity—in OCF. Competitors like BGC and StoneX don’t do that. Adjusting for the billions in debt reported in OCF, Marex’s OCF was negative ~$150 million in 2024 and negative ~$258 million in 2023. Worse, we discovered Marex’s SEC prospectus reports debt levels of both $2.1bn and $2.6bn for the same period. This is compounded by a history of repeated, significant financial restatements—pointing to a systemic failure of internal controls.
 
 Lehman’s Ghosts - A Legacy of Deception: The questionable accounting surrounding Marex's debt—including its use to create fictitious cash flow and over $550 million in reporting discrepancies—is especially alarming given the leadership's history. According to bankruptcy filings, current CEO Ian Lowitt was embroiled in Lehman Brothers’ infamous “Repo 105” scandal—an accounting scheme used to temporarily hide leverage in the lead-up to the firm’s collapse. Paolo Tonucci, Lehman’s then-treasurer and now head of Marex Capital Markets, allegedly played a role in concealing the scheme from analysts at the time.
-
----
-tags: ["thesis/fraud", "sector/financial", "analyst/Ningni research"]
----

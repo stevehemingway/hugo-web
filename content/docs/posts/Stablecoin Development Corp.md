@@ -5,30 +5,7 @@ tags: [analyst/fugazi-research, potential/short]
 type: note
 draft: false
 ---
----
-tags: ["analyst/fugazi"]
----
----
-tags: ["analyst/fugazi"]
----
----
-tags: ["analyst/fugazi"]
----
----
-tags: ["analyst/fugazi"]
----
----
-tags: ["analyst/fugazi"]
----
----
-tags: ["analyst/fugazi"]
----
----
-tags: ["analyst/fugazi"]
----
----
-tags: ['analyst']
----
+
 Forwarded this email? Subscribe here for more
 SDEV: A Dilution Timebomb Wearing a Stablecoin Costume
 A former fake pharmaceutical company, now riding on crypto hype, which replaced the old business with a token balance sheet.

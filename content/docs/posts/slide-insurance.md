@@ -16,7 +16,3 @@ Internet archives show that rather than remove these executives, Slide removed m
 
 
 Manatee Research
-
----
-tags: []
----

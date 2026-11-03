@@ -1,7 +1,7 @@
 ---
 title: Vita Coco Company
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/ningi-research, focus/security, potential/short, sector/food]
+tags: [analyst/ningi-research, focus/security, potential/short, sector/food, sector/food-manufacturing]
 type: stock
 ticker: COCO
 draft: false
@@ -57,7 +57,3 @@ Its CEO swiftly liquidated $20.6 million in stock after Vita Coco raised its rev
 Talking a good game, Vita Coco likes to give the impression that it has a growth plan based on an unbeatable supply chain advantage and a stable of strong products able to win races in a variety of markets. In our opinion, however, Vita Coco is a one-trick pony – one that now can’t even perform its trademark crowd-pleaser.
 Read The Report Here
 2026-01-30 USD 53.35
-
----
-tags: ["sector/food manufacturing", "analyst/Ningi-research"]
----

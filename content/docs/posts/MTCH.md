@@ -1,7 +1,7 @@
 ---
 title: company name
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bristlemoon-capital, focus/security, potential/short, thesis/declining-revenue]
+tags: [analyst/bristlemoon-capital, focus/security, potential/short, thesis/declining-revenue, analyst/bristle-moon-capital]
 type: stock
 ticker: MTCH
 draft: false
@@ -21,10 +21,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/declining revenue", "analyst/bristle moon capital"]
----
-
 # company name (MTCH)
 
 <blockquote>

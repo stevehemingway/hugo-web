@@ -9,7 +9,3 @@ draft: false
 # Ionic Rare Earths
 
 https://seekingalpha.com/symbol/IXRRF?hasComeFromMpArticle=false
-
----
-tags: []
----

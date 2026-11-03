@@ -18,7 +18,3 @@ CEO of Lanvin Group Holdings (NYSE: LANV — $392 million) “decided to step do
 
 [More ...](bear-cave-199)
 latest change: 2026-02-28
-
----
-tags: ["thesis/resignation", "sector/unknown", "analyst/edwin-dorsey"]
----

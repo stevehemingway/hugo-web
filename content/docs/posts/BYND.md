@@ -10,7 +10,3 @@ draft: false
 
 Obvious reasons.
 2026-01-30 USD 0.7632
-
----
-tags: ["potential/short"]
----

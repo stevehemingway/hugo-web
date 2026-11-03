@@ -23,7 +23,3 @@ draft: false
 > While he was correct in the short term, Mr. Bettinger’s statement hints at the longer-term problems that Schwab now faces. Schwab has profited on the spread between near-zero interest deposits and higher interest securities, a strategy that accounted for nearly 25% of net revenues at the end of 2022. However, Schwab has been bleeding the low-interest deposits that made their current business model viable. As Schwab races to replace these funds with higher-interest alternatives, the company is dismantling one of the key foundations of its business model. While the future is uncertain, it seems likely that Schwab is going to have a pretty rough 2023…
 > 
 >
-
----
-tags: ["potential/short", "thesis/bank-vulnerability", "analyst/dirty-double-media"]
----

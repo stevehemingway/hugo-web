@@ -1,7 +1,7 @@
 ---
 title: Temenos
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg-research, focus/security, potential/short, sector/software, thesis/fraud]
+tags: [analyst/hindenburg-research, focus/security, potential/short, sector/software, thesis/fraud, analyst/hindeberg-research]
 type: stock
 ticker: TEMN
 draft: false
@@ -27,7 +27,3 @@ Note: not tradeable on IG.
 ## Update 2024-4-19
 #
 <https://hindenburgresearch.com/temenos-response/>
-
----
-tags: ["thesis/fraud", "sector/software", "analyst/hindeberg-research"]
----

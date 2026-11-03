@@ -1,7 +1,7 @@
 ---
 title: MercardoLibre
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, sector/retail, source/jevgenijs-kazanins, thesis/growth]
+tags: [focus/security, potential/long, sector/retail, analyst/jevgenijs-kazanins, thesis/growth]
 type: stock
 ticker: MELI
 draft: false

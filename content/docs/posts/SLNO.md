@@ -44,7 +44,3 @@ scientific standards, casting doubt on the validity of SLNO’s trials, publicat
 We intend to shortly submit an emergency Citizen Petition asking the FDA to request Soleno to conduct a voluntary recall
 of VYKAT XR from the market. If you are a parent or physician aware of serious adverse events which we can include as
 supplementary evidence, please email contact@scorpioncapital.com or anonymously via the contact form on our site.
-
----
-tags: ["thesis/fraud", "sector/pharma", "analyst/scorpion-capital"]
----

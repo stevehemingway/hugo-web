@@ -1,7 +1,7 @@
 ---
 title: Apellis Pharmaceuticals
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/citron-research, focus/security, market/united-states, potential/short, sector/drugs, thesis/product]
+tags: [analyst/citron-research, focus/security, market/united-states, potential/short, sector/drugs, thesis/product, analyst/citron]
 type: stock
 ticker: APLS
 draft: false
@@ -19,7 +19,3 @@ Citron Research published on Apellis Pharmaceuticals (NASDAQ: APLS — $5.57 bil
 [More ...](https://citronresearch.com/wp-content/uploads/2023/11/Citron-Reports-on-Apellis-Pharmaceuticals.pdf)
 latest change: 2026-02-28
 2026-01-30 USD 22.58
-
----
-tags: ["thesis/product", "sector/drugs", "analyst/citron"]
----

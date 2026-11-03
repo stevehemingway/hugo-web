@@ -1,7 +1,7 @@
 ---
 title: The Toro Company
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/consumer-discretionary, thesis/economics]
+tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/consumer-discretionary, thesis/economics, analyst/jehospaphat-research]
 type: stock
 ticker: TTC
 draft: false
@@ -18,7 +18,3 @@ Jehoshaphat Research published on The Toro Company (NYSE: TTC — $8.69 billion)
 
 [More ...](https://x.com/JehoshaphatRsch/status/1792914581666349413)
 latest change: 2026-02-28
-
----
-tags: ["thesis/economics", "sector/consumer-discretionary", "analyst/Jehospaphat-research"]
----

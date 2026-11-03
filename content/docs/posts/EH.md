@@ -30,7 +30,3 @@ latest change: 2026-02-28
     EHang’s much-touted, recently granted certification comes with numerous flight restrictions that it has failed to fully disclose to investors. The restrictions invalidate the bulk of its potential commercial use cases, including restrictions against flying in densely populated areas, in shared airspace, and out of sight of a ground crew.
     EHang claims restrictions will be progressively lifted, but according to China-based eVTOL experts, EHang’s flagship aircraft would need a billion-dollar redesign and an entirely different class of certification to avoid the limitations.
 </pre>
-
----
-tags: ["thesis/fraud", "sector/aviation", "analyst/hindenberg"]
----

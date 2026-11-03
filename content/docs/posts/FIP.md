@@ -33,7 +33,3 @@ see below
 latest change: 2026-02-08
 
 The URL is generic, via [a mailchip link](https://snowcapresearch.us22.list-manage.com/track/click?u=915fa501799e55f4127580ec8&id=27c98fa756&e=881b188b80)
-
----
-tags: ["thesis/fraud", "sector/infrastructure", "analyst/snowcap-research"]
----

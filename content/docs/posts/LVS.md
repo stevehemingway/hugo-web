@@ -9,7 +9,3 @@ draft: false
 # Las Vegas Sands
 
 No compelling thesis, really.
-
----
-tags: ["thesis/legal-crackdown"]
----

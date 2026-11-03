@@ -29,7 +29,3 @@ quote
 
 [More ...](https://report-url)
 latest change: 2026-02-08
-
----
-tags: ["thesis/market", "sector/fintech", "analyst/me"]
----

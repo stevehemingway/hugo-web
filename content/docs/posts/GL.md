@@ -36,7 +36,3 @@ Viceroy Research:
 ## Update 2024-08-04
 
 Dorsey mentioned them again. Viceroy is still short. The chart looks ripe for another fall, but the stock did recover from 40 to 90, so it's a treacherous trade.
-
----
-tags: ["thesis/fraud", "sector/insurance", "analyst/fuzzy-panda-research, friendly-bear, viceroy-research"]
----

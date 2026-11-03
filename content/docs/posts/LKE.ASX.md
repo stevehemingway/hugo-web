@@ -12,7 +12,3 @@ draft: false
 > In July, J Capital Research [highlighted](https://substack.com/redirect/a14e2293-60a1-49fb-a570-a046ef975901?r=nmbt) more problems including high insider selling, a sudden CEO departure, and potential environmental damage from the company’s Lithium mining methods.
 
 Lake Resources is not shortable!
-
----
-tags: ["analyst/j-capital-research", "potential/short", "source/bear-cave"]
----

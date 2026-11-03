@@ -7,7 +7,3 @@ ticker: QS
 draft: false
 ---
 QuantumScape (QS): In April 2021, Scorpion Capital released a report accusing QuantumScape of being a "pump-and-dump SPAC scam" with technology that allegedly does not work as claimed.
-
----
-tags: []
----

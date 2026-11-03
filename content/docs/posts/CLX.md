@@ -11,7 +11,3 @@ draft: false
 
 2026-01-30 USD 112.79
 2026-01-30 USD 112.79
-
----
-tags: ["thesis/expensive"]
----

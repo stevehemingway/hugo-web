@@ -18,7 +18,3 @@ For example, the company appears to use its copyright registration numbers as "P
 
 [More ...](https://twitter.com/CapybaraShort/status/1716946652475593121)
 latest change: 2026-02-28
-
----
-tags: ["thesis/stock-promotion", "sector/phone-data", "analyst/capybara-research"]
----

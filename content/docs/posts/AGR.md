@@ -33,7 +33,3 @@ latest change: 2026-02-28
 latest change: 2026-02-08
 2024-12-23 USD 36.02
 2024-12-23 USD 36.02
-
----
-tags: ["thesis/resignations", "sector/electricity", "analyst/bear-cave"]
----

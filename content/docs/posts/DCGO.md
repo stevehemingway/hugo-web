@@ -1,7 +1,7 @@
 ---
 title: DocGo
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fuzzy-panda-research, focus/security, potential/short, sector/health-and-transportation(), thesis/fraud]
+tags: [analyst/fuzzy-panda-research, focus/security, potential/short, sector/health-and-transportation(), thesis/fraud, sector/health-and-transportation(!)]
 type: stock
 ticker: DCGO
 draft: false
@@ -28,7 +28,3 @@ Leadership at DocGo has a long history of lies and connections to fraudulent sch
 latest change: 2026-02-08
 2026-01-30 USD 0.7666
 2026-01-30 USD 0.7666
-
----
-tags: ["thesis/fraud", "sector/health and transportation(!)", "analyst/fuzzy-panda-research"]
----

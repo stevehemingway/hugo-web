@@ -17,7 +17,3 @@ Bonitas Research [published](https://twitter.com/BonitasResearch/status/16012161
 # 2023-04-17 Mon 11:53 AM
 
 Still probably a fraud, basically stock went right up after the report, but has come back down again.
-
----
-tags: ["potential/short", "thesis/fraud", "analyst/bonitas-research"]
----

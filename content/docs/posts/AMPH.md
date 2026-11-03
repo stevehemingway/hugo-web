@@ -20,7 +20,3 @@ New activist Black Mamba Research published on Amphastar Pharmaceuticals (NASDAQ
 latest change: 2026-02-28
 2026-01-30 USD 26.49
 2026-01-30 USD 26.49
-
----
-tags: ["thesis/competition", "sector/pharma", "analyst/black-mamba-research"]
----

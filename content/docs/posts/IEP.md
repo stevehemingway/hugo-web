@@ -1,7 +1,7 @@
 ---
 title: Icahn Enterprises
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg, focus/security, potential/short, potential/short-thesis/overextended-analyst/hindenberg-research-thesis/dilution, sector/technology, thesis/overextended, thesis/turnaround]
+tags: [analyst/hindenburg, focus/security, potential/short, analyst/hindenburg-research, thesis/overextended, thesis/dilution, sector/technology, thesis/turnaround]
 type: stock
 ticker: IEP
 draft: false
@@ -250,7 +250,3 @@ on too much leverage in the face of sustained
 losses: a combination that rarely ends well.
 
 [Read More](https://hindenburgresearch.com/icahn/)
-
----
-tags: []
----

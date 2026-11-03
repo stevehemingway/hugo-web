@@ -18,7 +18,3 @@ Fiat Lux Partners, an anonymous group that “calls out weak short activism,” 
 >
 2024-12-18 USD 63.48
 2024-12-18 USD 63.48
-
----
-tags: ["potential/short", "analyst/fiat-lux-partners", "analyst/glasshouse-research"]
----

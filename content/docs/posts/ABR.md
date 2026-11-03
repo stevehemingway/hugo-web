@@ -1,7 +1,7 @@
 ---
 title: 'Arbor Realty Trust: the beginning of the end'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/ningi-research, focus/security, market/united-states, potential/short, sector/reit, thesis/fraud]
+tags: [analyst/ningi-research, focus/security, market/united-states, potential/short, sector/reit, thesis/fraud, sector/arbor-realty-trust, analyst/ningni-research]
 type: stock
 ticker: ABR
 draft: false
@@ -67,7 +67,3 @@ https://viceroyresearch.org/2024/02/21/arbor-realty-trust-baloney-with-a-side-of
 
 <https://viceroyresearch.org/wp-content/uploads/2024/12/Arbor-December-2024-CLO-Update.pdf>
 2026-01-30 USD 7.7
-
----
-tags: ["thesis/fraud", "sector/Arbor Realty Trust", "analyst/ningni-research"]
----

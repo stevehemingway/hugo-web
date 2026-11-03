@@ -32,7 +32,3 @@ I am short AURC (Aurora Acquisition Corp)
 [More ...](mortgages)
 latest change: 2026-02-08
 2023-08-23 USD 17.4425
-
----
-tags: ["thesis/dilution", "sector/Aurora Acquisition Corp", "analyst/guasty-winds"]
----

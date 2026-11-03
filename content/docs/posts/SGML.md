@@ -1,7 +1,7 @@
 ---
 title: Sigma Lithium Corp
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, focus/security, potential/short, sector/finance, thesis/fraud]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/finance, thesis/fraud, analyst/grizzly-reports]
 type: stock
 ticker: SGML
 draft: false
@@ -57,7 +57,3 @@ For all media inquiries, please contact Blue Orca directly at media@blueorcacapi
 NOT AVAILABLE FOR SHORT SALE
 
 >>>>>>> b13a364 (few m4 files.):stocks/SGML.m4
-
----
-tags: ["potential/short", "analyst/grizzly-reports", "thesis/fraud"]
----

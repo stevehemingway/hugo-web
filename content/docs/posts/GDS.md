@@ -20,7 +20,3 @@ We believe the company’s growth is largely an illusion, driven by fraudulent s
 
 [More ...](https://grizzlyreports.com/genedx-20250205/)
 latest change: 2026-02-28
-
----
-tags: ["thesis/fraud", "sector/pharma", "analyst/grizzly-research"]
----

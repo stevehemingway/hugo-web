@@ -10,7 +10,3 @@ Bonitas Research [published](https://substack.com/redirect/917f0bce-744f-4d62-9f
 
 > “With significant liabilities managed by bad actors willing to enrich themselves at the expense of minority HROW shareholders, we are short Harrow and think its stock is going lower.”
 >
-
----
-tags: ["analyst/bonitas-research", "potential/short"]
----

@@ -1,7 +1,7 @@
 ---
 title: WSP Global Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, thesis/fraud]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, thesis/fraud, sector/not-sure]
 type: stock
 ticker: WSP
 draft: false
@@ -20,7 +20,3 @@ Also, on the day we issued our report, WSP filed its Management Information Circ
 
 [More ...](https://www.sprucepointcap.com/research/wsp-global)
 latest change: 2026-02-28
-
----
-tags: ["thesis/fraud", "sector/not sure", "analyst/spruce-point-capital"]
----

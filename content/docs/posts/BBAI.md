@@ -15,7 +15,3 @@ Iceberg Research [published][]
 
 [1]<https://substack.com/redirect/65a386d2-b0a4-4ce2-85ce-7fe6049b070b?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98> "Substack post"
 2026-01-30 USD 5.04
-
----
-tags: ["thesis/fraud", "analyst/iceberg-research", "potential/short"]
----

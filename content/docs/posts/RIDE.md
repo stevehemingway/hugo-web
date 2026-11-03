@@ -21,10 +21,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/unprofitable", "sector/automotive", "analyst/mckenna"]
----
-
 # Lordstown Motors (RIDE)
 
 <blockquote>
@@ -35,4 +31,3 @@ tags: ["thesis/unprofitable", "sector/automotive", "analyst/mckenna"]
 
 [More ...](https://twitter.com/WallStCynic/status/1404059445060059143)
 latest change: 2025-10-29
-

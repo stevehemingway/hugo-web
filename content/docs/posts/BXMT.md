@@ -1,7 +1,7 @@
 ---
 title: Blackstone Mortgage Trust Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters-capital, focus/security, potential/short, sector/reit, thesis/fraud]
+tags: [analyst/muddy-waters-capital, focus/security, potential/short, sector/reit, thesis/fraud, sector/mortgage-reit]
 type: stock
 ticker: BXMT
 draft: false
@@ -26,7 +26,3 @@ Old Time REITster published a follow-up article on Blackstone Mortgage Trust (NY
 Note that Ariel Cohen has strongly rebutted the short sellers in his tweets (https://twitter.com/arielcohenteam). Maybe dangerous to short still.
 2026-01-30 USD 19.25
 2026-01-30 USD 19.25
-
----
-tags: ["thesis/fraud", "sector/mortgage reit", "analyst/muddy-waters-capital"]
----

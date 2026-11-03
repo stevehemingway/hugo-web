@@ -11,7 +11,3 @@ draft: false
 Had a great run, but has come down to earth as of 20 Apr 2023.
 
 ![chart]( images/Wayfair Inc_20230420_17.21.png)
-
----
-tags: ["potential/short"]
----

@@ -20,7 +20,3 @@ Nine days later, on June 16, the U.S. Department of State’s Rewards for Justic
 latest change: 2026-02-28
 
 Progress Software (NASDAQ: PRGS — $2.23 billion) produces enterprise software products used by over 100,000 businesses for services like chatbots, content management, and app development. Progress Software also offers a secure file transfer service, MOVEit, that accounts for ~4% of revenue and recently was part of a large data breach. The Bear Cave believes the MOVEit hack is a national scandal hidden in plain sight affecting the privacy of tens of millions of Americans and compromising some of our most important government agencies.
-
----
-tags: ["thesis/product", "sector/IT", "analyst/dorsey"]
----

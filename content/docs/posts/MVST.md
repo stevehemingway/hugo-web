@@ -24,7 +24,3 @@ MVST's House of Lies: The German Factory Stands Idle, the Chinese One Runs at Ha
 We extensively observed MVST since 2021 with on-site visits, satellite observations, and a deep-dive into Chinese filings. We found that MVST's German factory in Ludwigsfelde/Berlin appears to have never really started production. The Chinese plant operates at only half of the capacity presented, and contrary to MVST's own denials, the Chinese Communist Party owns MVST’s main Chinese subsidiary.
 
 You can access the report with this link: Click Here
-
----
-tags: ["thesis/fraud", "sector/batteries", "analyst/grizzly-research"]
----

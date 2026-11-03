@@ -1,7 +1,7 @@
 ---
 title: PacWest (and others)
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/marc-rubenstein, focus/security, potential/short, sector/finance]
+tags: [analyst/marc-rubenstein, focus/security, potential/short, sector/finance, thesis/roll-up]
 type: stock
 ticker: PACW
 draft: false
@@ -12,7 +12,3 @@ draft: false
 that have experienced rapid growth over the last few decades. 
 
 [1]: <https://www.netinterest.co/p/doom-loop?publication_id=43559&post_id=119490414&isFreemail=true> (Net Interest blog)
-
----
-tags: ["analyst/marc-rubenstein", "thesis/roll-up", "potential/short"]
----

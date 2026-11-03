@@ -10,7 +10,3 @@ draft: false
 
 
 This is a test company.
-
----
-tags: []
----

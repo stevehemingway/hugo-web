@@ -1,7 +1,7 @@
 ---
 title: Lazr
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/citron-research, analyst/spruce-point-capital, focus/security, potential/short, sector/finance, thesis/fraud]
+tags: [analyst/citron-research, analyst/spruce-point-capital, focus/security, potential/short, sector/finance, thesis/fraud, analyst/citron]
 type: stock
 ticker: LAZR
 draft: false
@@ -39,7 +39,3 @@ https://wallstreetonparade.com/the-obama-bubble-agenda/Citron Research also twee
 Fiat Lux Partners published a [rebuttal](https://substack.com/redirect/f0ebc8e1-31fe-4d0f-9401-b7e84c5eb36b?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/f0ebc8e1-31fe-4d0f-9401-b7e84c5eb36b?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98") to Spruce Point Capital on **Saputo Inc** (Toronto: SAP — CAD$14.3 billion), a Canadian dairy and cheese roll-up. Fiat Lux wrote, “Spruce Point’s report contains numerous critical errors which mischaracterize the financial state of the company.” Specifically, Fiat Lux said the company’s “new potential fraud warning” highlighted by Spruce Point is a standard disclosure under new U.K. auditing standards. Fiat Lux also said Spruce Point’s arguments of an underfunded pension liability were based on “unreasonably aggressive inflation assumptions” outside of standard economic forecasts.
 
 Fiat Lux Partners is a new group that describes themselves as “short activists calling out weak short activism.” They are [@FiatLuxPartners](https://substack.com/redirect/a38cf461-1b44-44ea-9b35-795e399f6b21?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/a38cf461-1b44-44ea-9b35-795e399f6b21?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98") on Twitter.
-
----
-tags: ["analyst/citron", "thesis/fraud", "potential/short"]
----

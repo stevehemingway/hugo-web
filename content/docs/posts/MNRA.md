@@ -11,7 +11,3 @@ Based on exit of a couple of CFOs, not an actual analysis.
 Very uncertain short, but prob. overvalued.
 
 This is the content of MNRA.m4
-
----
-tags: ["source/bear-cave", "potential/short"]
----

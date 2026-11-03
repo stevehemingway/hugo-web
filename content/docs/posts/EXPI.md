@@ -1,7 +1,7 @@
 ---
 title: eXp World Holdings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/real-estate-services, thesis/economics]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/real-estate-services, thesis/economics, sector/real-estate-brokerages]
 type: stock
 ticker: EXPI
 draft: false
@@ -26,7 +26,3 @@ eXp World Holdings (NASDAQ: EXPI — $1.65 billion) is the world’s largest clo
 eXp’s agent base is important because practically all of the company’s income comes from fees directly charged to its agents (e.g., an $85/month “cloud brokerage fee”) and commission splits on home sales (generally 80% for the agent and 20% for eXp).
 
 Since its founding in 2009, eXp has grown rapidly with fourteen straight years of agent growth, peaking at 89,156 agents in Q3 2023. Since then, eXp has posted its first-ever agent count declines. The company ended Q4 2023 with 87,515 agents, a decrease of 1,641 agents that quarter, and ended Q1 2024 with 85,780 agents, for a decrease of 1,735 agents in Q1 2024.
-
----
-tags: ["thesis/economics", "sector/real-estate-brokerages", "analyst/edwin-dorsey"]
----

@@ -1,7 +1,7 @@
 ---
 title: Shopify Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, market/united-states, potential/long, potential/short, sector/retail]
+tags: [focus/security, market/united-states, potential/long, potential/short, sector/retail, thesis/crowded-sector, sector/technology]
 type: stock
 ticker: SHOP
 draft: false
@@ -15,7 +15,3 @@ practically unchanged from last quarter, when the company at least cleared a pro
 
 
 The stock has had a good year, more than doubling from six months ago. What is not to like?
-
----
-tags: ["potential/short", "thesis/crowded-sector", "sector/technology"]
----

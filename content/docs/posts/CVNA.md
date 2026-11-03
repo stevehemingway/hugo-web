@@ -95,7 +95,3 @@ Kerrisdale Capital published a follow-up report on Carvana (NYSE: CVNA — $16.8
 latest change: 2026-02-08
 2026-01-30 USD 401.11
 2026-01-30 USD 401.11
-
----
-tags: ["thesis/economics", "sector/retail", "analyst/kerrisdale-capital"]
----

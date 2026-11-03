@@ -10,7 +10,3 @@ draft: false
 CEO of Hello Group (NASDAQ: MOMO — $925 million) resigned “because of health reasons, effective immediately” after two years. In September a board member departed “due to personal reasons” and in June the company’s CFO retired.
 
 China crap, heavily loss-making. Too late to short.
-
----
-tags: ["potential/short", "source/bear-cave", "thesis/resignations"]
----

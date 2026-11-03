@@ -1,7 +1,7 @@
 ---
 title: Philip Morris International
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, potential/long, risk/esg, sector/tobacco, thesis/value]
+tags: [analyst/me, focus/security, potential/long, thesis/esg-risk, sector/tobacco, thesis/value]
 type: stock
 ticker: PM
 draft: false

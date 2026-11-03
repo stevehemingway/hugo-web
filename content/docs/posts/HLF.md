@@ -49,7 +49,3 @@ Definitely a short candidate, but it has a habit of defying short sellers.
 | Accumulated Other Comprehensive Income     | -211800000.0  | -182200000.0 | -212500000.0 |
 | Total Stockholders' Equity                 | -1391500000.0 | -856100000.0 | -390000000.0 |
 | Total Liabilities And Stockholders' Equity | 2819800000.0  | 3076100000.0 | 2678600000.0 |
-
----
-tags: ["potential/short", "thesis/fraud"]
----

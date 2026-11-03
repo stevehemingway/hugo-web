@@ -8,8 +8,4 @@ draft: false
 ---
 # Cornerstone Building Products
 ---
-tags: [potential/long]
----
-
----
 *Last updated: 2026-03-07 by automated standardization process*

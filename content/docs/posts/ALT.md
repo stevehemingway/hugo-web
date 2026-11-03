@@ -1,7 +1,7 @@
 ---
 title: company name
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/kerrisdale-capital, focus/security, market/united-states, potential/short]
+tags: [analyst/kerrisdale-capital, focus/security, market/united-states, potential/short, analyst/kerrisdale-cap]
 type: stock
 ticker: ALT
 draft: false
@@ -37,7 +37,3 @@ latest change: 2026-02-08
 2026-01-30 USD 5.6
 2026-01-30 USD 5.6
 2026-01-30 USD 5.6
-
----
-tags: ["analyst/kerrisdale-cap"]
----

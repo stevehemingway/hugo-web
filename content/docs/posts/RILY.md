@@ -21,7 +21,3 @@ Follow-up (22 Feb 22): https://wolfpackresearch.com/research/rily2/
 Follow-up 22 Aug 23: Friendly Bear puts out a sell note: https://friendlybearresearch.com/2023/08/21/b-riley-bebe-dont-hurt-me-no-more/?subscribe=already#subscribe-blog-blog_subscription-8
 
 [Follow-up](https://friendlybearresearch.com/2024/05/22/it-appears-b-riley-needs-to-consolidate-franchise-group-under-gaap/)
-
----
-tags: ["analyst/wolfpack-research", "potential/short", "thesis/bad-lending", "analyst/friendly-bear"]
----

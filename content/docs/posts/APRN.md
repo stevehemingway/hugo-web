@@ -7,7 +7,3 @@ ticker: APRN
 draft: false
 ---
 # Blue Apron
-
----
-tags: ["thesis/shitco", "potential/short"]
----

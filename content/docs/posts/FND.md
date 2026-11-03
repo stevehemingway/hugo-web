@@ -22,7 +22,3 @@ Provides Evidence That Floor & Decor Recently Made Revisions to Key Revenue Clai
 
 [More ...]( https://madmimi.com/p/ac28f91?pact=505556-182132803-13184480810-912b0425c416f6bc0d17714863f70130bdfe00c0)
 latest change: 2026-02-28
-
----
-tags: ["thesis/economics", "sector/retail", "analyst/spruce-point-capital"]
----

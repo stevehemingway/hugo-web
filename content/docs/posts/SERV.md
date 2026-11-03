@@ -24,11 +24,6 @@ latest change: 2026-02-28
 ---
 *updated: 2026-03-07 by automated standardization process*
 *updated: 2026-03-09 by steve.
-
----
-tags: ["thesis/product", "sector/tech", "analyst/bonitas-research"]
----
-
 # Serve Robotics (SERV)
 
 <blockquote>

@@ -10,7 +10,3 @@ Kerrisdale Capital [published](https://twitter.com/KerrisdaleCap/status/16327544
 
 In February 2022, Spruce Point also [published](https://thebearcave.substack.com/p/the-bear-cave-105) on C3 and noted the company “has a pattern of exaggerated business claims and is using multiple strategic partnerships… to project an aura as a successful enterprise.”2026-01-30 USD 11.01
 2026-01-30 USD 11.01
-
----
-tags: ["potential/short", "thesis/fraud", "analyst/spruce-point", "analyst/kerrisdale-capital"]
----

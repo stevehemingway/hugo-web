@@ -27,7 +27,3 @@ Bull case:
 Conclusion:
 
 It's probably a crap company, but one that would be dangerous to short.
-
----
-tags: ["potential/short", "thesis/fraud"]
----

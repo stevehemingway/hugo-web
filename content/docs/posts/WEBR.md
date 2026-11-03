@@ -10,7 +10,3 @@ draft: false
 Maker of BBQ grills.
 Losing money.
 Possibly about to be taken private.
-
----
-tags: ["source/bear-cave", "potential/short", "analyst/edwin-dorsey"]
----

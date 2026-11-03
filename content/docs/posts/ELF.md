@@ -24,7 +24,3 @@ latest change: 2026-02-28
 
 Also Muddy Waters is short ELF
 https://muddywatersresearch.com/research/elf/mw-is-short-elf/
-
----
-tags: ["thesis/fraud", "sector/cosmetics", "analyst/spruce-point"]
----

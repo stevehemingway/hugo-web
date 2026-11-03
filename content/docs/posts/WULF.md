@@ -28,10 +28,6 @@ Also picked up by Hunterbrook:
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/fraud", "analyst/TeraWulf"]
----
-
 # https://grizzlyreports.com/beware-of-terawulf-we-believe-the-company-is-a-charade-to-enrich-insiders-at-the-cost-of-investors-and-backed-by-notorious-pump-and-dump-artists/ (WULF)
 
 <blockquote>

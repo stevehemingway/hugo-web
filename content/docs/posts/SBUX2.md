@@ -21,7 +21,3 @@ It's hard to see their market share, or the total market for takeaway coffee goi
 Why would you pay 25 times for the stock?
 
 [This article outlines a bull case. I remain unconvinced.](https://seekingalpha.com/article/4535388-starbucks-heading-to-stardom). To be honest, I forgot how exposed the company is to China. To me, that's all part of the larger bear case.
-
----
-tags: ["potential/short", "thesis/china-exposure"]
----

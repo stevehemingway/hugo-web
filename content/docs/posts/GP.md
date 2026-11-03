@@ -1,7 +1,7 @@
 ---
 title: GreenPower Motors
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/finance, thesis/fraud]
+tags: [focus/security, potential/short, sector/finance, thesis/fraud, analyst/white-diamond-research, sector/green]
 type: stock
 ticker: GP
 draft: false
@@ -18,7 +18,3 @@ GP also could be in hot water with California’s HVIP (Hybrid and Zero-Emission
 Furthermore, GP is currently broke and needs to raise money to keep the lights on.
 
 See full lawsuit here.
-
----
-tags: ["thesis/fraud", "analyst/white-diamond-research", "sector/green", "potential/short"]
----

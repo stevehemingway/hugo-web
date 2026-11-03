@@ -21,7 +21,3 @@ Blue Orca’s founder, Soren Aandahl, also did a [Zer0esTv interview](https://su
 2023-04-17 Mon 12:21 PM
 
 Stockprice has shot up recently, but has weakened in last week.
-
----
-tags: ["potential/short", "thesis/fraud", "analyst/blue-orca-capital"]
----

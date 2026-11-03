@@ -89,7 +89,3 @@ draft: false
 
 as of 21 June 2023.
 2026-01-30 USD 165.95
-
----
-tags: ["thesis/expensive", "analyst/me"]
----

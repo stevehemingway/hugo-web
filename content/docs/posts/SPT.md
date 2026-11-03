@@ -13,7 +13,3 @@ draft: false
 Akram’s Razor also raised additional concerns that Sprout Social’s software has become “commoditized” and that competitor Sprinklr (NYSE: CXM) is poised to take share going forward. Akram’s Razor concluded,
 
 “The short offers 40%-60% downside over the next six months and is in my opinion the best risk/reward short in the entire SaaS sector.”
-
----
-tags: ["analyst/ackrams-razor", "potential/short", "thesis/valuation"]
----

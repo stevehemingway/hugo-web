@@ -18,7 +18,3 @@ Kerrisdale Capital published on Oklo (NYSE: OKLO — $3.08 billion), a nuclear e
 
 [More ...](kerrisdale-capital)
 latest change: 2026-02-28
-
----
-tags: ["thesis/regulator-approval", "sector/energy", "analyst/kerrisdale-capital"]
----

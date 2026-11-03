@@ -32,7 +32,3 @@ Key findings include:
     Narrative Pivot: The company has abruptly transitioned from a social-justice soccer story to a Solana-based crypto treasury narrative, catalyzing extreme stock volatility.
 
     Minimal Operational Substance: Italian sports holdings (Brera Milano, Juve Stabia, UYBA Volley) provide publicity but contribute minimal revenue, functioning primarily as a narrative engine for capital market activities.
-
----
-tags: ["thesis/fraud", "sector/sport", "analyst/fugazi-research"]
----

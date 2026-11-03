@@ -18,7 +18,3 @@ Culper Research published on The Bancorp Inc (NASDAQ: TBBK — $1.65 billion), a
 
 [More ...](https://report-url)
 latest change: 2026-02-28
-
----
-tags: ["thesis/economics", "sector/finance", "analyst/culper-research"]
----

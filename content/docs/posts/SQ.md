@@ -9,7 +9,3 @@ draft: false
 # Block Inc.
 
 [Hindenberg Report](https://hindenburgresearch.com/block/)
-
----
-tags: ["potential/short", "analyst/hindenberg-research", "thesis/fraud", "thesis/insider-enrichment"]
----

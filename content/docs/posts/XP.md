@@ -15,7 +15,3 @@ Founded in 2001, XP has grown rapidly into a Brazilian powerhouse that now serve
 XP earns money through “management fees,” “commissions,” “rebates,” “spreads,” and other fees charged on the clients of XP’s Independent Financial Advisors. In its most recent annual 20-F filing, XP discloses its Independent Financial Advisors “are located in 2,558 offices in 242 cities across the country and form the largest independent financial advisor network in Brazil, which is a competitive advantage for XP.”
 
 That retail segment is crucial to XP and accounts for nearly three-fourths of the company’s revenue., XP, investment-services, unknown)
-
----
-tags: []
----

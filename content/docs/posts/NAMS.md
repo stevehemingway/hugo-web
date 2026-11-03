@@ -7,7 +7,3 @@ ticker: NAMS
 draft: false
 ---
 New Amsterdam Pharma, on NASDAQ, nothing obvious for shorting.
-
----
-tags: []
----

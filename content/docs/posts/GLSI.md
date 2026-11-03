@@ -1,7 +1,7 @@
 ---
 title: Greenwich LifeSciences
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/white-diamond-research, focus/security, potential/short, sector/technology, thesis/fraud]
+tags: [analyst/white-diamond-research, focus/security, potential/short, sector/technology, thesis/fraud, analyst/white-diamond]
 type: stock
 ticker: GLSI
 draft: false
@@ -26,7 +26,3 @@ We assign a $3 price target on GLSI.
 
 2023-04-17 Mon 11:58 AM: 
 stockprice has gone down a bit, not cratered, with latest revelation. Maybe worth a punt.
-
----
-tags: ["analyst/white-diamond", "thesis/fraud", "potential/short"]
----

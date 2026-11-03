@@ -22,7 +22,3 @@ Russia’s invasion of Ukraine in February 2022 triggered a mass exodus of forei
 
 [More ...](https://hindenburgresearch.com/lpp/)
 latest change: 2026-02-28
-
----
-tags: ["thesis/fraud", "sector/retail", "analyst/hindenberg"]
----

@@ -1,7 +1,7 @@
 ---
 title: AppLovin
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/culper-research, analyst/fuzzy-panda-research, analyst/lauren-balik, focus/security, market/united-states, potential/short, sector/internet, thesis/fraud]
+tags: [analyst/culper-research, analyst/fuzzy-panda-research, analyst/lauren-balik, focus/security, market/united-states, potential/short, sector/internet, thesis/fraud, analyst/fuzzy-panda]
 type: stock
 ticker: APP
 draft: false
@@ -20,7 +20,3 @@ Independent researcher Lauren Balik published on AppLovin (NASDAQ: APP — $107 
 latest change: 2026-02-28
 2026-01-30 USD 473.11
 2026-01-30 USD 473.11
-
----
-tags: ["thesis/fraud", "sector/internet", "analyst/lauren-balik, culper-research, fuzzy-panda"]
----

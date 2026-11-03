@@ -18,7 +18,3 @@ Believes That Zebra Is Downplaying Competitive Pressures Across Its Core Hardwar
 
 [More ...](https://www.sprucepointcap.com/research/zebra-technologies-corp)
 latest change: 2026-02-28
-
----
-tags: ["thesis/competition", "sector/SaaS", "analyst/spruce-point-capital"]
----

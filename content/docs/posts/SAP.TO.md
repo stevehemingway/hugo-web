@@ -13,7 +13,3 @@ draft: false
 
 
 https://twitter.com/sprucepointcap/status/1597646059203092480
-
----
-tags: ["potential/short", "analyst/spruce-point-capital", "thesis/pension-liabilities"]
----

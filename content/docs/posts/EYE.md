@@ -18,7 +18,3 @@ Bristlemoon Capital published on National Vision Holdings (NASDAQ: EYE — $1.62
 
 [More ...](https://www.bristlemoonresearch.com/p/a-short-we-like-edition-1)
 latest change: 2026-02-28
-
----
-tags: ["thesis/demand and supply", "sector/retail", "analyst/bristlemoon-capital"]
----

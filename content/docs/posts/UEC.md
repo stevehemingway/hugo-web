@@ -1,7 +1,7 @@
 ---
 title: see below
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short]
+tags: [focus/security, potential/short, thesis/fraud, sector/uranium-enrichment-corporation, analyst/spruce-point-research]
 type: stock
 ticker: UEC
 draft: false
@@ -74,10 +74,6 @@ At ~$9.83, the market is capitalising this at ~$5B for a company that produces ~
 - **Q4 FY2026 results** (expected ~Sep 2026) — production ramp still unproven
 - **Further dilution at lower prices** — death spiral as ATM gets drawn during weakness
 - **enCore Energy relative value trade** — institutional rotation from UEC to actually-contracted peers
----
-tags: ["thesis/fraud", "sector/Uranium Enrichment Corporation", "analyst/spruce-point-research"]
----
-
 # see below (UEC)
 
 <blockquote>

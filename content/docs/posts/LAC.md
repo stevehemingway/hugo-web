@@ -1,7 +1,7 @@
 ---
 title: Lithium Americas Corp
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bleecker-street-research, focus/security, potential/short, sector/mining, thesis/economics]
+tags: [analyst/bleecker-street-research, focus/security, potential/short, sector/mining, thesis/economics, analyst/bleeker-street]
 type: stock
 ticker: LAC
 draft: false
@@ -18,7 +18,3 @@ Bleecker Street Research published on Lithium Americas Corp (NYSE: LAC — $634 
 
 [More ...](https://report-url)
 latest change: 2026-02-28
-
----
-tags: ["thesis/economics", "sector/mining", "analyst/bleeker-street"]
----

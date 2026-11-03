@@ -1,7 +1,7 @@
 ---
 title: Marqueta
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/restrinct, focus/security, potential/short, sector/fintech, thesis/aml-failure]
+tags: [analyst/restrinct, focus/security, potential/short, sector/fintech, thesis/aml-failure, analyst/bear-cave]
 type: stock
 ticker: MQ
 draft: false
@@ -57,6 +57,5 @@ This is not the first. Spruce Point released an updated report on them in April 
 latest change: 2025-10-29
 
 ---
-tags: [potential/short, source/bear-cave, analyst/restrinct]
 - short
 ---

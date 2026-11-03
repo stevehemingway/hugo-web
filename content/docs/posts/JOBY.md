@@ -1,7 +1,7 @@
 ---
 title: Joby Aviation
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bleecker-street-research, analyst/bleeker-street-research-and-kerrisdale-capital, analyst/kerrisdale-capital, focus/security, market/united-states, potential/short, sector/aviation, thesis/optimism]
+tags: [analyst/bleecker-street-research, analyst/kerrisdale-capital, focus/security, market/united-states, potential/short, sector/aviation, thesis/optimism]
 type: stock
 ticker: JOBY
 draft: false
@@ -24,7 +24,3 @@ But what about [this]("https://open.substack.com/pub/hntrbrk/p/exclusive-joby-hy
 
 Basically, JOBY might be a great investment, or a shit one. 
 Probably safest to stand well back, or buy a straddle.
-
----
-tags: ["thesis/optimism", "sector/aviation", "analyst/bleeker-street-research and kerrisdale-capital"]
----

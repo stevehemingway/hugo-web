@@ -1,7 +1,7 @@
 ---
 title: Perion Network Ltd.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/it, thesis/fraud]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/it, thesis/fraud, analyst/spruce-point-management]
 type: stock
 ticker: PERI
 draft: false
@@ -42,7 +42,3 @@ time. Warning: Despite $436m of │ cash on hand and no debt, PERI is
 asking shareholders at its annual meeting next month to authorize │ an
 additional 20m of shares and cited, “in order to preserve and increase
 our market │ competitiveness and expand our business.”
-
----
-tags: ["thesis/fraud", "sector/IT", "analyst/spruce-point-management"]
----

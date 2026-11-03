@@ -16,7 +16,3 @@ For a sense of the peculiarities surrounding Allegro MicroSystems, investors can
 2026-01-30 USD 36.91
 2026-01-30 USD 36.91
 2026-01-30 USD 36.91
-
----
-tags: ["thesis/fraud", "analyst/edwin-dorsey"]
----

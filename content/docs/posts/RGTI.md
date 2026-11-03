@@ -23,7 +23,3 @@ RGTI Revenues:
 Okie dokie.
  
 I get it. Quantum computing is dope. The point is simply that pure momentum trades work in both directions. RGTI was off 15% yesterday on no news and looks tired, finally.
-
----
-tags: []
----

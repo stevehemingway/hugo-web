@@ -1,7 +1,7 @@
 ---
 title: Richtech Robotics
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fugazi-research, focus/security, potential/short, sector/china-hype, thesis/fraud]
+tags: [analyst/fugazi-research, focus/security, potential/short, sector/china-hype, thesis/fraud, analyst/fugaziresearch]
 type: stock
 ticker: RR
 draft: false
@@ -31,7 +31,3 @@ Reliability problems limit scale. Mechanical failures, support burdens, and laws
 Cash from stock, not sales. Revenue stagnates while losses widen and share count climbs.
 Insiders win, holders dilute. Super-voting stock and low-cost insider awards transfer value upward.
 Reality check. RR operates as a reseller of imported systems—a financial instrument masquerading as robotics innovation.
-
----
-tags: ["thesis/fraud", "sector/china-hype", "analyst/fugaziresearch"]
----

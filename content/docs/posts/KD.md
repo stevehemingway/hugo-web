@@ -25,7 +25,3 @@ quote
 
 [More ...](https://www.gothamcityresearch.com/post/kyndryl-like-the-old-ibm-except-with-an-undisclosed-cost-problem-part-i)
 latest change: 2026-02-28
-
----
-tags: ["thesis/fraud", "sector/IT"]
----

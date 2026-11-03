@@ -1,7 +1,7 @@
 ---
 title: Sunrun
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters-capital, focus/security, potential/long, potential/short, sector/finance, thesis/fraud]
+tags: [analyst/muddy-waters-capital, focus/security, potential/long, potential/short, sector/finance, thesis/fraud, analyst/muddy-waters]
 type: stock
 ticker: RUN
 draft: false
@@ -28,7 +28,3 @@ latest change: 2026-02-28
 Sunrun: The Case of the Phantom Subscribers (RUN US)
 
 MW is again short Sunrun. We weren't cynical enough when we first published our initial short thesis on Sunrun in July 2022. We now believe that Sunrun has greatly exaggerated its (non-GAAP) Subscriber numbers for years, with the current overstatement seemingly close to five quarters of reported deployments. It appears that Sunrun has been claiming and selling tax credits on these inflated numbers as well. The amount of possible excess tax credits for 2022 alone could be ~$200 million.
-
----
-tags: ["thesis/fraud", "analyst/muddy-waters"]
----

@@ -1,7 +1,7 @@
 ---
 title: Doximity Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, potential/short, thesis/accounting-fraud]
+tags: [analyst/jehoshaphat-research, focus/security, potential/short, thesis/accounting-fraud, analyst/jehosaphat-research]
 type: stock
 ticker: DOCS
 draft: false
@@ -20,7 +20,3 @@ Jehoshaphat also noted that the company’s Chief Revenue Officer, Co-Founder, a
 latest change: 2026-02-08
 2026-01-30 USD 37.47
 2026-01-30 USD 37.47
-
----
-tags: ["thesis/accounting-fraud", "analyst/jehosaphat-research"]
----

@@ -11,7 +11,3 @@ Indian, self-driving, battery management etc. IT systems for EV cars.
 
 Expensive: P/E is 61.
 But does have sales and profits!
-
----
-tags: [todo, "potential/short"]
----

@@ -1,7 +1,7 @@
 ---
 title: Nanu Nuclear
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/energy, thesis/economics]
+tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/energy, thesis/economics, analyst/hunterbrook]
 type: stock
 ticker: NNE
 draft: false
@@ -30,7 +30,3 @@ Despite reportedly saying approvals were “pretty much complete” for a uraniu
 
 [More ...](https://open.substack.com/pub/hntrbrk/p/fission-impossible-nano-nuclear-nne?r=nmbt&utm_campaign=post&utm_medium=email)
 latest change: 2026-02-28
-
----
-tags: ["thesis/economics", "sector/energy", "analyst/hunterbrook"]
----

@@ -1,7 +1,7 @@
 ---
 title: Boot Barn Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/retail, thesis/fraud]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/retail, thesis/fraud, analyst/spruce-point-research]
 type: stock
 ticker: BOOT
 draft: false
@@ -22,7 +22,3 @@ Questions if Management Has Misportrayed its New Store Appearances with Evidence
 
 [More ...](https://www.sprucepointcap.com/research/boot-barn-holdings-inc)
 latest change: 2026-02-28
-
----
-tags: ["thesis/fraud", "sector/retail", "analyst/spruce-point-research"]
----

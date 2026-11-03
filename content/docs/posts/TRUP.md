@@ -11,7 +11,3 @@ draft: false
 Pet insurance seller.
 
 [Tweet](https://twitter.com/ParrotCapital/status/1665410107352444929?s=20).
-
----
-tags: ["potential/short"]
----

@@ -7,7 +7,3 @@ ticker: GSHD
 draft: false
 ---
 https://wolfpackresearch.com/research/goosehead/
-
----
-tags: ["analyst/wolfpack-research", "thesis/fraud", "potential/short"]
----

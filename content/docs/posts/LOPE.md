@@ -21,10 +21,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/fraud", "sector/https://twitter.com/CitronResearch/status/1714277628914569539", "analyst/citron-research"]
----
-
 # education (LOPE)
 
 <blockquote>

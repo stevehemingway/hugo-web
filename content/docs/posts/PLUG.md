@@ -1,7 +1,7 @@
 ---
 title: Plug Power Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hunterbrook-media, focus/security, market/united-states, potential/short, sector/green-energy, thesis/economics]
+tags: [analyst/hunterbrook-media, focus/security, market/united-states, potential/short, sector/green-energy, thesis/economics, analyst/hunterbrook]
 type: stock
 ticker: PLUG
 draft: false
@@ -20,7 +20,3 @@ A Hunterbrook investigation finds potential major roadblocks to getting the loan
 
 [More ...](https://newsletter.hntrbrk.com/p/plug-power-failure-part-i-critical?r=nmbt&utm_campaign=post&utm_medium=web)
 latest change: 2026-02-28
-
----
-tags: ["thesis/economics", "sector/green energy", "analyst/hunterbrook"]
----

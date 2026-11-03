@@ -1,7 +1,7 @@
 ---
 title: Sportradar
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/bear-cave, analyst/muddy-waters-capital, analyst/vince-martin, division-of-opinion, focus/security, potential/long, potential/short, sector/technology, thesis/moat, triple-flag]
+tags: [analyst/bear-cave, analyst/muddy-waters-capital, analyst/vince-martin, focus/security, potential/long, potential/short, sector/technology, thesis/moat]
 type: stock
 ticker: SRAD
 draft: false

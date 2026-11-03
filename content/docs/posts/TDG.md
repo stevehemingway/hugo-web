@@ -18,7 +18,3 @@ TransDigm (NYSE: TDG — $72.7 billion) describes itself as “a leading global 
 
 [More ...](https://thebearcave.substack.com/p/problems-at-transdigm-tdg)
 latest change: 2026-02-28
-
----
-tags: ["thesis/politics", "sector/manufacturing", "analyst/dorsey"]
----

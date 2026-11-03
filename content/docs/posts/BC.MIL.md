@@ -34,7 +34,3 @@ Hardly possible to keep a complete secret, so insiders probably well aware
 of what is going on.
 
 I am sceptical of fashion as a sector, but this is probably looking cheap.
-
----
-tags: ["thesis/sanctions busting", "sector/luxury fashion", "analyst/morpheus-research"]
----

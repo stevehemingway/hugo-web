@@ -1,7 +1,7 @@
 ---
 title: 'Chinook Therapeutics Inc: Too Little, Too Late (KDNY US)'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters-capital, focus/security, potential/short, sector/healthcare, sector/pharma, thesis/fraud]
+tags: [analyst/muddy-waters-capital, focus/security, potential/short, sector/healthcare, sector/pharma, thesis/fraud, analyst/muddy-waters]
 type: stock
 ticker: KDNY
 draft: false
@@ -14,7 +14,3 @@ only Phase 3 trial, the ALIGN study.
 To download the Report (PDF format), go to our website at:
 
 # [Chinook Therapeutics Inc: Too Little, Too Late (KDNY US)](https://sable.godaddy.com/c/229849?id=795811.362.1.39d5992f5ed88b489c4815a68f350108 "Click to open https://sable.godaddy.com/c/229849?id=795811.362.1.39d5992f5ed88b489c4815a68f350108")
-
----
-tags: ["analyst/muddy-waters", "thesis/fraud", "sector/pharma"]
----

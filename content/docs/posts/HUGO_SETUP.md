@@ -1,7 +1,7 @@
 ---
 title: Creating a Hugo Website from trading.wiki
 date: '2026-10-21T16:27:59+01:00'
-tags: [potential/short]
+tags: [potential/short, analyst/jehosaphat-research]
 type: note
 draft: true
 ---
@@ -135,10 +135,6 @@ hugo server
 Your normalized markdown files have this structure:
 
 ```markdown
----
-tags: ["potential/short", "analyst/jehosaphat-research"]
----
-
 # Techtronic Industries
 
 Jehoshaphat Research published on Techtronic Industries...

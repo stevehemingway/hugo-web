@@ -1,7 +1,7 @@
 ---
 title: Go Easy
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, market/canada, potential/short, sector/finance, thesis/fraud]
+tags: [analyst/jehoshaphat-research, focus/security, market/canada, potential/short, sector/finance, thesis/fraud, analyst/jehosaphat-research]
 type: stock
 ticker: GSY
 draft: false
@@ -23,7 +23,3 @@ This seems to be a sub-prime lender, the stock price of which has cratered this 
 and whose CEO has departed.
 
 The share price may have stablised to a point where it's too dangerous to short.
-
----
-tags: ["thesis/fraud", "sector/finance", "analyst/jehosaphat-research"]
----

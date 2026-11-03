@@ -1,7 +1,7 @@
 ---
 title: 'Welltower: Exposing The Shell Game'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg, analyst/hindenburg-research, analyst/land-n-building-im, double-hit, focus/security, potential/short, sector/reit, sector/technology, thesis/fraud]
+tags: [analyst/hindenburg, analyst/hindenburg-research, analyst/land-n-building-im, focus/security, potential/short, sector/reit, sector/technology, thesis/fraud]
 type: stock
 ticker: WELL
 draft: false
@@ -60,7 +60,3 @@ Initial Disclosure: After extensive research, we have taken a short position in 
 
 Want to change how you receive these emails?
 You can update your preferences or unsubscribe from this list.
-
----
-tags: ["analyst/hindenberg-research", "thesis/fraud", "sector/reit", "potential/short"]
----

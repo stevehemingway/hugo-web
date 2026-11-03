@@ -18,7 +18,3 @@ KinderCare Learning Companies (NYSE: KLC — $1.51 billion) operates ~1,500 dayc
 
 [More ...](https://thebearcave.substack.com/p/problems-at-kindercare-learning-companies)
 latest change: 2026-02-28
-
----
-tags: ["thesis/badly run", "sector/education", "analyst/edwin dorsey"]
----

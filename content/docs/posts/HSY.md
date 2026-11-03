@@ -18,7 +18,3 @@ High Levels of Banned PFAS Detected in Hershey’s (NYSE: HSY) Packaging. Indepe
 
 [More ...](https://grizzlyreports.com/hsy)
 latest change: 2026-02-28
-
----
-tags: []
----

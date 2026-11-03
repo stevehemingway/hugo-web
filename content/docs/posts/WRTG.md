@@ -1,7 +1,7 @@
 ---
 title: $WRTG
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/technology, thesis/fraud]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/technology, thesis/fraud, analyst/sprucepoint-capital]
 type: stock
 ticker: WRTG
 draft: false
@@ -21,7 +21,3 @@ Expresses Concerns That the Company’s Audit Chairman Once Advised an Alleged F
 Sees 35% to 50% Downside Risk to WTRG’s Share Price and Urges Investors to Visit [www.SprucePointCap.com](https://email.cloud2.secureclick.net/c/2598?id=21623.22.1.31ef8b25076aa5f97cd9809c5e1819d4 "Click to open https://email.cloud2.secureclick.net/c/2598?id=21623.22.1.31ef8b25076aa5f97cd9809c5e1819d4") and Follow [@SprucePointCap](https://email.cloud2.secureclick.net/c/2598?id=21623.23.1.97c90584f699445e18ff01ee4ceaedef "Click to open https://email.cloud2.secureclick.net/c/2598?id=21623.23.1.97c90584f699445e18ff01ee4ceaedef")on Twitter for the Latest on $WTRG
 
 Spruce Point Capital [published](https://www.sprucepointcap.com/essential-utilities-inc/) on **Essential Utilities Inc** (NYSE: WTRG — $11.0 billion), a roll-up of water and natural gas assets. Spruce Point said the company is in a “declining phase of its growth story as its aggressive price increases and numerous snafus in billing, service, and water quality have created an environment of public outrage.” Spruce Point also raised concerns about the company’s financial reporting and recent debt-laden acquisition of a natural gas company.
-
----
-tags: ["potential/short", "analyst/sprucepoint-capital", "thesis/fraud"]
----

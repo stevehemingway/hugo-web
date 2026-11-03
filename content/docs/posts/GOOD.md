@@ -18,7 +18,3 @@ Old Time REITster published on Gladstone Commercial Corporation (NASDAQ: GOOD â€
 
 [More ...](https://x.com/muddywatersre/status/1770498426179928355?s=20)
 latest change: 2026-02-28
-
----
-tags: ["thesis/economics", "sector/REIT", "analyst/Old Time REITster"]
----

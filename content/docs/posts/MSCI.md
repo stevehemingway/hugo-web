@@ -1,7 +1,7 @@
 ---
 title: MSCI Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/financial-services, thesis/management]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/financial-services, thesis/management, analyst/spruce-point-research]
 type: stock
 ticker: MSCI
 draft: false
@@ -30,7 +30,3 @@ relative to any large cap global equity index. Our fair value target is 55% - 65
 latest change: 2026-02-28
 
 [Page at Spruce Point website.](https://www.sprucepointcap.com/research/msci)
-
----
-tags: ["thesis/management", "sector/financial services", "analyst/spruce-point-research"]
----

@@ -1,7 +1,7 @@
 ---
 title: AXOS
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, market/united-states, potential/short, sector/reit, thesis/fraud]
+tags: [analyst/edwin-dorsey, focus/security, market/united-states, potential/short, sector/reit, thesis/fraud, sector/real-estate]
 type: stock
 ticker: AX
 draft: false
@@ -20,7 +20,3 @@ Our research, including industry analysis, interviews with 21 former employees, 
 latest change: 2026-02-28
 
 2026-01-30 USD 98.99
-
----
-tags: ["thesis/fraud", "sector/real estate", "analyst/dorsey"]
----

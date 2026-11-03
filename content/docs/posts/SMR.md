@@ -34,7 +34,3 @@ NuScale, however, has not yet commercialized any reactors. In its first quarter 
 ## IG situation
 
 SMR cannot be sold short on IG.
-
----
-tags: ["thesis/fraud", "sector/generation", "analyst/iceberg-research"]
----

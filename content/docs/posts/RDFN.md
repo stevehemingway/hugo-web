@@ -8,7 +8,3 @@ draft: false
 ---
 # Redfin
 Somewhat like [[ZI]]
-
----
-tags: ["potential/short"]
----

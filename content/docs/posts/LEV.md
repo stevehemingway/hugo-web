@@ -1,7 +1,7 @@
 ---
 title: Lion Electric Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/sunshine-research, focus/security, potential/short, sector/ev, thesis/safety]
+tags: [analyst/sunshine-research, focus/security, potential/short, sector/ev, thesis/safety, sector/electric-vehicles]
 type: stock
 ticker: LEV
 draft: false
@@ -21,10 +21,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/safety", "sector/electric vehicles", "analyst/Sunshine Research"]
----
-
 # Lion Electric Inc (LEV)
 
 <blockquote>
@@ -35,5 +31,3 @@ quote
 
 [More ...](https://twitter.com/sunshine_rsrch/status/1780986419319644303)
 latest change: 2025-10-29
-
-

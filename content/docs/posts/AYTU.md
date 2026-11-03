@@ -21,7 +21,3 @@ latest change: 2026-02-28
 
 White Diamond Research published on Aytu Biopharma (NASDAQ: AYTU — $13 million), a pharmaceutical company focused on ADHD treatments. White Diamond alleged that starting in September 2025, the company’s ADHD portfolio “will be completely replaced by generics from Teva.”
 2026-01-30 USD 2.6
-
----
-tags: ["thesis/competition", "sector/pharma", "analyst/white-diamond-research"]
----

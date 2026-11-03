@@ -32,7 +32,3 @@ simply do not exist. We believe that these consent farms have driven almost the 
 past 2+ years and now represent 56% of reported Adj. EBITDA. We think the Company faces potentially
 devastating regulatory action, as these practices look to us nearly identical to the ones that landed both Fluent
 (FLNT) and MediaAlpha (MAX) in the FTC’s crosshairs.
-
----
-tags: ["thesis/fraud", "sector/tech", "analyst/culper-research"]
----

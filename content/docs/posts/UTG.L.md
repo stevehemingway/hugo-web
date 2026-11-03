@@ -34,7 +34,3 @@ My best guess is that it will eventually fail, but the price action is not too b
 ## comment 2023-11-28 (P: ~962p)
 
 Price action has been all over the place since May. Sawtooth price history, going up rather rapidly, followed by a slow, steady descent. Something to be avoided, I think.
-
----
-tags: ["thesis/macro", "sector/REIT", "analyst/me"]
----

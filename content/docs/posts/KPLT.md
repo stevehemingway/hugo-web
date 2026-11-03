@@ -10,7 +10,3 @@ draft: false
 
 Bombed out e-commerce company with a buy-now pay-later operation.
 Trading at $0.5. Has traded at $1 for a long time.
-
----
-tags: []
----

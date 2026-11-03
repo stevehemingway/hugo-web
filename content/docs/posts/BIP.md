@@ -29,7 +29,3 @@ https://open.substack.com/pub/dfresearch/p/bip-the-quiet-collapse?r=nmbt&utm_cam
 thesis: aggressive-accounting
 analyst: df-research
 sector: infrastructure
-
----
-tags: []
----

@@ -1,7 +1,7 @@
 ---
 title: Napco Security Technologies
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fuzzy-panda-research, focus/security, potential/short, sector/it, thesis/fraud]
+tags: [analyst/fuzzy-panda-research, focus/security, potential/short, sector/it, thesis/fraud, analyst/fuzzy-panda]
 type: stock
 ticker: NSSC
 draft: false
@@ -22,7 +22,3 @@ Explosive new lawsuit by former employees alleges accounting fraud and financial
 
 [More ...](https://report-url)
 latest change: 2026-02-28
-
----
-tags: ["thesis/fraud", "sector/IT", "analyst/fuzzy-panda"]
----

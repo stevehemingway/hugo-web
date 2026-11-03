@@ -1,7 +1,7 @@
 ---
 title: Sun Communities Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/blue-orca-capital, focus/security, potential/short, sector/rv-and-mobile-home-sites, thesis/fraud]
+tags: [analyst/blue-orca-capital, focus/security, potential/short, sector/rv-and-mobile-home-sites, thesis/fraud, analyst/blue-orca]
 type: stock
 ticker: SUI
 draft: false
@@ -18,7 +18,3 @@ Our diligence reveals that SUI’s CEO received an undisclosed $4 million loan f
 
 [More ...](https://mailchi.mp/f342f1ff18bb/blue-orca-is-short-sy-nasdaq-5202764)
 latest change: 2026-02-28
-
----
-tags: ["thesis/fraud", "sector/RV and mobile home sites", "analyst/blue-orca"]
----

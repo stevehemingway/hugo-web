@@ -24,10 +24,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/politics", "sector/employees", "analyst/dorsey"]
----
-
 # Elon Musk and Starlink have gained a powerful new ally in competing against Viasat. Based on the collective reviews of customers (VSAT)
 
 <blockquote>

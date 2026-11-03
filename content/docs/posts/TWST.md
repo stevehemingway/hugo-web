@@ -7,7 +7,3 @@ ticker: TWST
 draft: false
 ---
 # Twist Biologics(?)
-
----
-tags: ["potential/short", "thesis/fraud", "analyst/scorpion-capital"]
----

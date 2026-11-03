@@ -26,7 +26,3 @@ Bull case:
 Conclusion:
 
 It's probably a crap company, but one that would be dangerous to short.
-
----
-tags: ["source/bear-cave", "potential/short", "analyst/edwin-dorsey"]
----

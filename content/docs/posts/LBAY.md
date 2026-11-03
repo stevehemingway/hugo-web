@@ -34,7 +34,3 @@ Shorts include (or recently included):
 - YETI Holdings Inc
 
 The sorts of stocks, well many, that you'd short if the market wasn't so cruel.
-
----
-tags: ["potential/short"]
----

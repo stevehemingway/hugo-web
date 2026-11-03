@@ -9,7 +9,3 @@ draft: false
 D-Wave (quantum computing)
 
 Martin Shrkeli.
-
----
-tags: []
----

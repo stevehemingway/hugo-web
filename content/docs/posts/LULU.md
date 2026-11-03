@@ -34,7 +34,3 @@ really designed to be worn by chunkier girls?
 Of course, the stock might get to the point when Amazon, or Walmart, decides they want to own it, 
 in which case shorting it will turn out to be a mistake.
 And, as we all know, shorting anything in a weak market is usually a mistake.
-
----
-tags: ["thesis/economics", "sector/retail", "analyst/me"]
----

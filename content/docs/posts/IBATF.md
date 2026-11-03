@@ -1,7 +1,7 @@
 ---
 title: International Battery Metals
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/night-market-research, country/canada, focus/security, potential/short, sector/mining]
+tags: [analyst/night-market-research, market/canada, focus/security, potential/short, sector/mining]
 type: stock
 ticker: IBATF
 draft: false
@@ -16,7 +16,3 @@ Summary
     IBAT has less than two quarters of cash, $20m in debt and negative working capital of $16m.
     IBAT is  tempting a highly dilutive equity for debt transaction indicating a low-value technology reliant on usurious capital.
     IBAT’s two largest shareholders with 40% of outstanding shares have sold nearly 30% of their stakes this year in private transactions.
-
----
-tags: ["potential/short", "analyst/night-market-research", "country/canada"]
----

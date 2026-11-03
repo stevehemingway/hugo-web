@@ -1,7 +1,7 @@
 ---
 title: Amerigo Resources (Toronto Listed)
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, market-depth/shallow, market/canada, potential/long, sector/finance]
+tags: [focus/security, thesis/illiquid, market/canada, potential/long, sector/finance]
 type: stock
 ticker: ARG
 draft: false

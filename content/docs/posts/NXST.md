@@ -1,7 +1,7 @@
 ---
 title: Nextstar Media Group Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, focus/security, potential/short, sector/media, thesis/management]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/media, thesis/management, analyst/grizzly-reports]
 type: stock
 ticker: NXST
 draft: false
@@ -49,7 +49,3 @@ Nexstar Media Group, Inc. (Nasdaq: NXST) is a media company that produces and di
 
 [More ...](https://grizzlyreports.com/nexstar/)
 latest change: 2026-02-28
-
----
-tags: ["thesis/management", "sector/media", "analyst/grizzly-reports"]
----

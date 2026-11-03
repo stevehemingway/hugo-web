@@ -1,7 +1,7 @@
 ---
 title: Traeger
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/overlooked-alpha, analyst/vince-martin, focus/security, missed-boat, potential/short, sector/technology]
+tags: [analyst/overlooked-alpha, analyst/vince-martin, focus/security, thesis/missed-boat, potential/short, sector/technology]
 type: stock
 ticker: COOK
 draft: false
@@ -64,7 +64,3 @@ As well, COOK has rallied 52% in just three weeks. The catalyst appears to be ne
 ](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc17f0477-e216-4db9-ba2f-d474e184570b_1000x1000.jpeg)
 
 2026-01-30 USD 1.1
-
----
-tags: ["potential/short", "analyst/overlooked-alpha", "analyst/vince-martin"]
----

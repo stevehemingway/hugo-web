@@ -10,7 +10,3 @@ draft: false
 Chronically lossmaking.
 https://seekingalpha.com/symbol/AMRS
 2023-08-18 USD 0.05
-
----
-tags: ["potential/short"]
----

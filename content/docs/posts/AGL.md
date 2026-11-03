@@ -14,7 +14,3 @@ Citron Research [published](https://twitter.com/CitronResearch/status/1599824059
 - 2023-01-30: $20.61
 - 
 2026-01-30 USD 0.8322
-
----
-tags: ["potential/short", "thesis/legal"]
----

@@ -1,18 +1,11 @@
 ---
 title: Tingo Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short]
+tags: [analyst/hindenburg-research, focus/security, potential/short, sector/semiconductors, thesis/fraud]
 type: stock
 ticker: TIO
 draft: false
 ---
----
-tags:
-  - thesis/fraud
-  - sector/semiconductors
-  - analyst/hindenberg-research
-...
-
 # Tingo Inc.
 
 <blockquote>

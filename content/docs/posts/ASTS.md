@@ -28,13 +28,3 @@ It’s been nerve-wracking in recent years to bet against these kinds of stocks 
 
 But there are some potential opportunities in call spreads, and this is a stock that can give way in a hurry. This was a great short idea from Kerrisdale at $10, and it still looks like a good idea above $6.
 =======
-
----
-tags:
-- short
-tags:
-- short
- - potential/short
- - kerrisdale-capital
- - overlooked-alpha
----

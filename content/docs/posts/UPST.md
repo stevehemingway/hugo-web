@@ -18,7 +18,3 @@ an “AI-powered” consumer lending platform. Bleecker Street Research said tha
 
 [More ...](https://twitter.com/Bleecker__St/status/1707395821837128085)
 latest change: 2026-02-28
-
----
-tags: ["thesis/legal-threats", "sector/finance", "analyst/bleeker-street-research"]
----

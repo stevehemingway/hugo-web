@@ -39,7 +39,3 @@ Compounding these scientific and commercial challenges is a corporate culture th
 Looking ahead, investor enthusiasm appears tethered to speculative catalysts—most notably, the proposed MCED legislation. However, even under optimistic interpretations, the MCED bill would enable only limited reimbursement for a narrow Medicare subset, and only if CMS deems the test appropriate. We think that is a tenuous foundation for a company with high capital intensity and persistent regulatory risk.
 
 In our opinion, GRAIL’s fair value should be anchored to its projected cash reserves—approximately $14.28 per share—reflecting a business with no viable reimbursement path, eroding scientific credibility, and limited strategic runway.
-
----
-tags: ["thesis/fraud", "sector/pharmaceuticals and biotechnology", "analyst/ningi-research"]
----

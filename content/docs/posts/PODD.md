@@ -1,7 +1,7 @@
 ---
 title: Insulet Corp.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/blue-orca-capital, focus/security, potential/long, potential/short, sector/medical-technology, thesis/legal, thesis/moat, thesis/monopoly]
+tags: [analyst/blue-orca-capital, focus/security, potential/long, potential/short, sector/medical-technology, thesis/legal, thesis/moat, thesis/monopoly, sector/medical-devices]
 type: stock
 ticker: PODD
 draft: false
@@ -25,7 +25,3 @@ This presents a massive asymmetric opportunity for investors.  As to Insulet, we
 
 [More ...](https://www.blueorcacapital.com/report/blue-orca-is-short-insulet-corporation-and-long-eoflow-co-ltd/)
 latest change: 2026-02-28
-
----
-tags: ["thesis/legal", "sector/medical devices", "analyst/blue-orca-capital"]
----

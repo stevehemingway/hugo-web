@@ -25,7 +25,3 @@ NEW YORK, March 11, 2025 /BusinessWire/ -- Spruce Point Capital Management, LLC 
 Spruce Point Report Overview:
 Remitly Global, Inc. is a Seattle, WA-based provider of cross-border remittance services through its mobile app and website. The Company has historically served immigrants and its global network spans 5,100 corridors. Its relationships provide customers with the choice of disbursement and enable them to send funds within minutes, or even seconds, to over five billion bank accounts and mobile wallets, as well as approximately 470,000 cash pick-up options (including retail outlets and banks). As of the last 12 months ended December 31, 2024, the Company reported approximately $1,264 million and $134 million of revenues and Adjusted EBITDA, respectively. Remittances to Mexico, India and the Philippines represented 49% of revenue in 2024.
 The concerns we analyze in our report include:
-
----
-tags: []
----

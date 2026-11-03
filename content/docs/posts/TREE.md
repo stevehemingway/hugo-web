@@ -1,7 +1,7 @@
 ---
 title: LendingTree
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short]
+tags: [focus/security, potential/short, thesis/fraud, analyst/culper-research]
 type: stock
 ticker: TREE
 draft: false
@@ -32,10 +32,6 @@ sector/the-court-ruled-to-certify-the-plaintiff-class - thesis/fraud ---
 [More...](https://culperresearch.com/wp-content/uploads/2025/10/Culper_TREE_12-5-2024.pdf)
 
 --- *Last updated: 2026-05-07 by Steve*
----
-tags: ["thesis/fraud", "sector/the court ruled to certify the Plaintiff class", "analyst/culper-research"]
----
-
 # all the while never disclosing its existence to investors. We think the litigation
 has now grown into an existential risk. In August 2024 (TREE)
 

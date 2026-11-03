@@ -1,7 +1,7 @@
 ---
 title: Gorilla Technology Group
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/ai, thesis/fraud]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/ai, thesis/fraud, analyst/edmund-dorsey]
 type: stock
 ticker: GRRR
 draft: false
@@ -24,7 +24,3 @@ Gorilla Technology Group (NASDAQ: GRRR — $774 million) describes itself as “
 Originally founded in 2001 as a video analytics company, today Gorilla has pivoted aggressively to AI-powered technology under its CEO and Chairman, Mr. Jay Chandan, who led the SPAC that took Gorilla public in July 2022.
 
 Mr. Chandan, pictured below, spoke at Intel’s 2024 AI summit in Bangkok. Gorilla uploaded a copy of Mr. Chandan’s speech to YouTube and wrote,
-
----
-tags: ["thesis/fraud", "sector/AI", "analyst/edmund-dorsey"]
----

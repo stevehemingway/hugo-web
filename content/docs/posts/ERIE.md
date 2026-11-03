@@ -1,7 +1,7 @@
 ---
 title: Erie Indeminity Company
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, analyst/spruce-point-management]
 type: stock
 ticker: ERIE
 draft: false
@@ -29,7 +29,3 @@ quote
 
 [More ...](https://www.sprucepointcap.com/research/erie-indemnity-company )
 latest change: 2026-02-08
-
----
-tags: ["analyst/spruce-point-management"]
----

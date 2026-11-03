@@ -22,7 +22,3 @@ latest change: 2026-02-28
 ## Grizzly report
 
 [Grizzly Research thinks the same.](https://grizzlyreports.com/gigacloud-technology-inc-another-china-hustle-inflating-key-metrics-using-undisclosed-related-party-shell-companies/)
-
----
-tags: ["thesis/fraud", "sector/IT", "analyst/culper-research"]
----

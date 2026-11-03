@@ -18,7 +18,3 @@ Headquartered in Montreal, Quebec, Canada, WSP Global Inc. is an engineering and
 
 [More ...](https://www.sprucepointcap.com/research/wsp-global)
 latest change: 2026-02-28
-
----
-tags: ["thesis/accounting-fraud", "sector/consulting", "analyst/spruce-point-capital"]
----

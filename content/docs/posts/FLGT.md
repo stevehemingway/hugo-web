@@ -14,7 +14,3 @@ draft: false
 > Last quarter, Fulgent disclosed it “became aware that the SEC is conducting a non-public investigation when we received a subpoena requesting information regarding certain of our Exchange Act reports for 2018 through the first quarter of 2020.” In addition, Fulgent “received a [Civil Investigative Demand] issued by the U.S. Department of Justice pursuant to the False Claims Act related to its investigation of allegations of medically unnecessary laboratory testing, improper billing for laboratory testing, and remuneration received or provided in violation of the Anti-Kickback Statute and the Stark Law.”
 > 
 > Today, Fulgent Genetics has only three board members. One is Michael Nohaile, who joined in August. Another is Linda Marsh, a Senior Executive Vice President of AHMC Healthcare, a for-profit hospital that does business with Fulgent. The third is Ming Hsieh, the company’s founder and CEO.
-
----
-tags: ["potential/short", "source/bear-cave"]
----

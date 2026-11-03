@@ -26,7 +26,3 @@ Still loss making.
 Worth watching for a catalyst.
 2026-01-30 USD 52.48
 2026-01-30 USD 52.48
-
----
-tags: ["potential/short", "thesis/value"]
----

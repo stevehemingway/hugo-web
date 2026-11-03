@@ -11,7 +11,3 @@ draft: false
 EV battery co., engages in fraud/fake tech.
 
 https://twitter.com/ResearchGrizzly/status/1600513611402575872?s=20&t=zbGoAr6T5FJriExBfwNiiA
-
----
-tags: ["analyst/grizzly-research", "thesis/fraud", "potential/short"]
----

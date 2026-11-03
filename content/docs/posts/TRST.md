@@ -1,7 +1,7 @@
 ---
 title: Trustpilot
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hithawk-research, focus/security, potential/short, sector/media, thesis/fraud]
+tags: [analyst/hithawk-research, focus/security, potential/short, sector/media, thesis/fraud, analyst/hithawk]
 type: stock
 ticker: TRST
 draft: false
@@ -37,7 +37,3 @@ The stock’s surge after an unaudited, incomplete H1/25 report is, in our view,
  
  
 We are Short Trustpilot plc ($TRST)
-
----
-tags: ["thesis/fraud", "sector/media", "analyst/hithawk"]
----

@@ -18,7 +18,3 @@ see link
 latest change: 2026-02-08
 2025-05-09 USD 3.9835
 2025-05-09 USD 3.9835
-
----
-tags: ["thesis/fraud", "sector/crypto", "analyst/dorsey"]
----

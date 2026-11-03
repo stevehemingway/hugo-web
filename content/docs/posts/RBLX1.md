@@ -24,7 +24,3 @@ In April of this year, FOX2Detroit reported that 21-year-old Danil Baker met a 1
 Ultimately, the 14-year-old girl was “found crying alone in the bathroom of a Kroger.”
 
 <https://open.substack.com/pub/thebearcave/p/problems-at-roblox-rblx-4?r=nmbt&utm_campaign=post&utm_medium=email>
-
----
-tags: ["thesis/reputation", "sector/gaming", "analyst/hindenberg"]
----

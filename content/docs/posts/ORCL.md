@@ -21,10 +21,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/manipulation", "sector/cloud", "analyst/rob s pierre"]
----
-
 # Oracle (ORCL)
 
 <blockquote>

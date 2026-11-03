@@ -1,7 +1,7 @@
 ---
 title: Marine Products Corporation
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, macroeconomics, potential/short, sector/retail]
+tags: [focus/security, thesis/macroeconomics, potential/short, sector/retail]
 type: stock
 ticker: MPX
 draft: false
@@ -11,7 +11,3 @@ draft: false
 Marine Products Corporation designs, manufactures, and sells recreational fiberglass powerboats for the sportboat, sport fishing boat markets worldwide. The company offers Chaparral sterndrive pleasure boats, including SSi Sport Boats, SSX Sport Boats, and the Surf Series; Chaparral outboard pleasure boats, which include OSX Luxury Sportboats and SSi outboard models; and Robalo outboard sport fishing boats. It also provides center and dual consoles, and Cayman Bay Boats under the Robalo brand name. The company sells its products to a network of domestic and international independent authorized dealers. Marine Products Corporation was founded in 1965 and is based in Atlanta, Georgia.
 
 More about Marine Products Corporation
-
----
-tags: [macroeconomics]
----

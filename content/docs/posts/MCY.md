@@ -18,7 +18,3 @@ Wolfpack Research published on Mercury General (NYSE: MCY — $2.76 billion), a 
 
 [More ...](https://www.wolfpackresearch.com/items/california-wildfire-events-a-gamechanger-for-mercury-(mcy)-as-we-estimate-more-than-%242-billion-in-losses-using-zip-code-data)
 latest change: 2026-02-28
-
----
-tags: ["thesis/risks", "sector/insurance", "analyst/wolfpack-research"]
----

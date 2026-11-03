@@ -40,10 +40,6 @@ Conclusion: The old "growth company" with "optional CapEx" narrative is dead. Fi
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/fraud", "sector/b-to-b", "analyst/df-research"]
----
-
 # Willscot Inc. (WSC)
 
 <blockquote>

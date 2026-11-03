@@ -19,7 +19,3 @@ We believe Teladoc is engaging in questionable accounting maneuvers to inflate i
 Ultimately, we think that Teladoc is far less profitable and generates far less cash than investors are led to believe, and that accounting maneuvers have concealed that the business is failing to scale.  Against this backdrop, we expect the BetterHelp business to continue its downward trajectory as more patients come forward with evidence that their therapists secretly used AI.  After all, why would a patient who needs help keep paying $400 a month to talk to ChatGPT?
  
 A copy of the report can be downloaded here.
-
----
-tags: []
----

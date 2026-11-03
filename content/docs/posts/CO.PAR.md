@@ -9,7 +9,3 @@ draft: false
 # Casino Guichard Perrachon
 2026-01-30 USD 0.23
 2026-01-30 USD 0.23
-
----
-tags: ["potential/short", "thesis/overleveraged"]
----

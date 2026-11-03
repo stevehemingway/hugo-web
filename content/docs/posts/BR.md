@@ -18,7 +18,3 @@ draft: false
 **Sees 65% To 75% Downside Risk to Broadridge's Share Price and Urges Investors to Visit [www.SprucePointCap.com](https://sable.madmimi.com/c/21782?id=1358479.2568.1.d4e005cb591bca41bc5f1a876f3439ec "https://sable.madmimi.com/c/21782?id=1358479.2568.1.d4e005cb591bca41bc5f1a876f3439ec") and Follow [@SprucePointCap](https://sable.madmimi.com/c/21782?id=1358479.2569.1.1808ea0d65a7a966eca2b7b751ea00a3 "https://sable.madmimi.com/c/21782?id=1358479.2569.1.1808ea0d65a7a966eca2b7b751ea00a3") on Twitter for the Latest on $BR**
 
 2026-01-30 USD 197.11
-
----
-tags: ["analyst/spruce-point", "potential/short"]
----

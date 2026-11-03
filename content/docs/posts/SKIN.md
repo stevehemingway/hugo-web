@@ -7,7 +7,3 @@ ticker: SKIN
 draft: false
 ---
 https://thebearcave.substack.com/p/problems-at-the-beauty-health-co
-
----
-tags: ["potential/short", "analyst/edwin-dorsey"]
----

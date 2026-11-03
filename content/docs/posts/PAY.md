@@ -11,7 +11,3 @@ Cloud provider of payment services.
 Up against some strong players.
 Stockprice down from $35 to $12, still trading at a P/E of 370.
 Not the most compelling short ... but pretty bombed.
-
----
-tags: ["potential/short", "source/bear-cave"]
----

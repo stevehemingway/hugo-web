@@ -10,7 +10,3 @@ draft: false
 Another EV bandwagon passenger. 
 Burning through $134M pa, shareholders' equity is around $370M.
 NGMI?
-
----
-tags: ["potential/short", "source/bear-cave"]
----

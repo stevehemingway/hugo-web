@@ -26,7 +26,3 @@ Kerrisdale Capital published on MicroStrategy (NASDAQ: MSTR — $28.9 billion), 
 Kerrisdale suggested the pair trade could offer a ~50% return if MicroStrategy reverts to its historical average Bitcoin premium.
 
 The Diff wrote a piece about $MSTR which explains the nature of the beast and gives a few sensible warnings about how, although the stock is hugely overpriced, it could get hugely more overpriced before it settles down to its natural level.
-
----
-tags: ["thesis/arbitrage", "sector/crypto", "analyst/kerrisdale-capital"]
----

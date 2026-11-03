@@ -1,7 +1,7 @@
 ---
 title: POET Technologies
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, analyst/night-market-research, focus/security, potential/short, sector/electronics, sector/technology, thesis/fraud]
+tags: [analyst/edwin-dorsey, analyst/night-market-research, focus/security, potential/short, sector/electronics, sector/technology, thesis/fraud, analyst/bear-cave]
 type: stock
 ticker: POET
 draft: false
@@ -29,10 +29,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-05-17 by Steve*
----
-tags: ["thesis/fraud", "sector/https://open.substack.com/pub/thebearcave/p/problems-at-poet-technologies-poet?r=nmbt&utm_campaign=post&utm_medium=email", "analyst/edwin-dorsey"]
----
-
 # electronics (POET)
 
 <blockquote>

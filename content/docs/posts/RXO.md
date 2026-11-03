@@ -22,10 +22,6 @@ New line to test makefile.
 
 ---
 *Last updated: 2026-05-07 by Steve*
----
-tags: ["thesis/fraud"]
----
-
 # company_name (RXO)
 
 <blockquote>

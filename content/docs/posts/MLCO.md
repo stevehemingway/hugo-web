@@ -1,7 +1,7 @@
 ---
 title: Melco
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/mule, focus/security, geography/china, potential/long, sector/consumer-discretionary, sector/retail, thesis/re-opening]
+tags: [analyst/mule, focus/security, market/china, potential/long, sector/consumer-discretionary, sector/retail, thesis/re-opening]
 type: stock
 ticker: MLCO
 draft: false

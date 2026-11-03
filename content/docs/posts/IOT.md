@@ -1,7 +1,7 @@
 ---
 title: Samsara Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/it, thesis/fraud]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/it, thesis/fraud, sector/it-hardware]
 type: stock
 ticker: IOT
 draft: false
@@ -18,7 +18,3 @@ Reveals That Samsara’s Aggressive Accounting Policies Defer Expenses into Futu
 
 [More ...](https://www.sprucepointcap.com/samsara-inc/)
 latest change: 2026-02-28
-
----
-tags: ["thesis/fraud", "sector/IT-hardware", "analyst/spruce-point-capital"]
----

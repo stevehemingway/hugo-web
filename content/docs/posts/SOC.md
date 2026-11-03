@@ -1,7 +1,7 @@
 ---
 title: Sable Offshore
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/oil-and-gas-exploration, thesis/economics]
+tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/oil-and-gas-exploration, thesis/economics, sector/oil-and-gas]
 type: stock
 ticker: SOC
 draft: false
@@ -25,10 +25,6 @@ Exxon spinoff Sable Offshore faces seven barriers to restart its pipeline, idled
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/economics", "sector/oil-and-gas", "analyst/Hunterbrook Media"]
----
-
 # Sable Offshore (SOC)
 
 <blockquote>

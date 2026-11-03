@@ -22,7 +22,3 @@ Pinterest even pays for search traffic to window-dress key performance indicator
 
 [More ...](https://grizzlyreports.com/we-believe-pinterest-inc-nyse-pins-is-in-a-death-spiral-but-misleadingly-doctors-its-terrible-performance-statistics/)
 latest change: 2026-02-28
-
----
-tags: ["thesis/economics", "sector/cmt", "analyst/grizzly-research"]
----

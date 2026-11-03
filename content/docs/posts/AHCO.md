@@ -16,7 +16,3 @@ The problem is that it's cashflow positive and not sufficiently highly geared to
 It has an earnings report tomorrow, but I don't have enough conviction to recommend any action. My best guess is that it will have another earnings miss and the share price will drop.2026-01-30 USD 10.05
 
 This is the content of AHCO.m4
-
----
-tags: ["potential/short", "sector/healthcare"]
----

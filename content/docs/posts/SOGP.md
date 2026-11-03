@@ -1,7 +1,7 @@
 ---
 title: sound group
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fugazi-research, focus/security, potential/short, sector/chinese-listing, thesis/fraud]
+tags: [analyst/fugazi-research, focus/security, potential/short, sector/chinese-listing, thesis/fraud, sector/chinese-scam]
 type: stock
 ticker: SOGP
 draft: false
@@ -21,10 +21,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/fraud", "sector/chinese scam", "analyst/fugazi-research"]
----
-
 # sound group (SOGP)
 
 <blockquote>

@@ -1,7 +1,7 @@
 ---
 title: JPM Short Bond fund
 date: '2026-10-08T16:11:55+01:00'
-tags: [asset-class/fixed-income, focus/security, potential/long, potential/short]
+tags: [sector/fixed-income, focus/security, potential/long, potential/short]
 type: stock
 ticker: JPST
 draft: false

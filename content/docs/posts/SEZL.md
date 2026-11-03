@@ -1,7 +1,7 @@
 ---
 title: personal-finance
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg-research, focus/security, potential/short, sector/finance, sector/personal-finance, thesis/economics-and-fraud]
+tags: [analyst/hindenburg-research, focus/security, potential/short, sector/finance, sector/personal-finance]
 type: stock
 ticker: SEZL
 draft: false
@@ -23,10 +23,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/economics and fraud", "sector/https://hindenburgresearch.com/sezzle/", "analyst/hindenberg-research"]
----
-
 # personal-finance (SEZL)
 
 <blockquote>

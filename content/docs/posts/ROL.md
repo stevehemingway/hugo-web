@@ -24,7 +24,3 @@ latest change: 2026-02-28
 
 Spruce Point wants to provide our readers a critical update on Rollins (NYSE: ROL). This morning, Rentokil (NYSE/LON: RTO) issued its Q3 Trading Update.
 Rentokil is the #1 player in the North American insect and pest control market, and we believe its warning results are a clear message to Rollins' investors that significant growth and margin challenges are present. At the time of writing, Rentokil's share price is down 20%. We will explain why we believe that Rollins' share price is even more exposed than Rentokil's and we reiterate our 30%-40% downside risk to ROL's share price.
-
----
-tags: ["thesis/pe-rollup", "sector/pest-control", "analyst/spruce-point-capital"]
----

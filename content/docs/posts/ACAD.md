@@ -33,7 +33,3 @@ quote
 latest change: 2026-02-08
 2026-01-30 USD 25.13
 2026-01-30 USD 25.13
-
----
-tags: ["analyst/culper-research"]
----

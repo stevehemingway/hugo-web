@@ -19,7 +19,3 @@ Chegg’s primary business is selling students monthly subscriptions for homewor
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-chegg-chgg?r=nmbt&utm_campaign=post&utm_medium=email)
 latest change: 2026-02-28
 2026-01-30 USD 0.769
-
----
-tags: ["thesis/competition", "sector/tech", "analyst/dorsey"]
----

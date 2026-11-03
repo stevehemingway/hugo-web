@@ -15,7 +15,3 @@ Nearly every publicly traded alternative asset manager has been hit hard this cy
 I am bearish on complexity. It is the recurring theme across everything I have published — Cliffwater, Athene, and the insurance capital structure. Complexity is where risk hides, and Brookfield has more of it than anything I have seen: six holding companies spanning three continents, two offshore reinsurers, 85,120 controlling shares, and a trillion dollars under management. The Financial Times spent six months investigating and concluded it was “not so much a company as a giant circular flow of cash.”
 
 From [Mispriced Assets](https://open.substack.com/pub/mispricedassets/p/the-empire-of-marks?utm_campaign=post&utm_medium=email)
-
----
-tags: ["sector/private-equity", todo, "thesis/mark-to-fantasy", "potential/short"]
----

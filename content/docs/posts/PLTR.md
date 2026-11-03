@@ -1,7 +1,7 @@
 ---
 title: Palantir
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, focus/security, market/united-states, potential/short, sector/technology, thesis/hype]
+tags: [analyst/bear-cave, focus/security, market/united-states, potential/short, sector/technology, thesis/hype, analyst/edwin-dorsey, sector/ai, sector/tech]
 type: stock
 ticker: PLTR
 draft: false
@@ -17,7 +17,3 @@ draft: false
 
 Palantir is picking up a lot of business from governments that are terminally hopeless at IT development, so I am not sure this is safe to short.
 I think that the political alignment of Thiel might compromise the ability of Palantir to get contracts with mainstream governments.
-
----
-tags: ["thesis/hype", "analyst/edwin-dorsey", "sector/AI", "sector/tech"]
----

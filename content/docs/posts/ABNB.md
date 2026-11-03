@@ -10,7 +10,3 @@ draft: false
 
 [Bear Cave](https://thebearcave.substack.com/p/problems-at-airbnb-abnb)
 2026-01-30 USD 129.37
-
----
-tags: ["potential/short"]
----

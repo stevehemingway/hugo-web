@@ -47,7 +47,3 @@ https://www.instagram.com/
 https://mailchimp.com
 2026-01-30 USD 29.05
 2026-01-30 USD 29.05
-
----
-tags: ["thesis/economics", "sector/REIT", "analyst/viceroy-research"]
----

@@ -1,7 +1,7 @@
 ---
 title: company_name
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/anonymous, analyst/anonymous-and-hunterbrook, analyst/hunterbrook-media, focus/security, potential/short]
+tags: [analyst/anonymous, analyst/hunterbrook-media, focus/security, potential/short, analyst/hunterbrook-research]
 type: stock
 ticker: SYM
 draft: false
@@ -23,7 +23,3 @@ latest change: 2026-02-28
 #
 #
 <https://newsletter.hntrbrk.com/p/breaking-symbotic-delayed-10-k-reveals?r=nmbt&utm_campaign=post&utm_medium=web>
-
----
-tags: ["analyst/anonymous and hunterbrook"]
----

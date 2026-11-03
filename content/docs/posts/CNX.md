@@ -7,9 +7,6 @@ ticker: CNX
 draft: false
 ---
 # CNX corp
----
-tags: [potential/long]
----
 [YAVB bull case](https://yetanothervalueblog.substack.com/p/tegus-sponsored-deep-dive-4-natural-198?utm_source=email)
 [Yet Another Value Blog](https://yetanothervalueblog.substack.com)
 

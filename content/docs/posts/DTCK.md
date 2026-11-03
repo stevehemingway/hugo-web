@@ -27,7 +27,3 @@ You should stay away.
 
 2026-01-30 USD 0.2345
 2026-01-30 USD 0.2345
-
----
-tags: ["thesis/fraud", "analyst/fugazi-research"]
----

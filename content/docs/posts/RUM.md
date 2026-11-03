@@ -1,7 +1,7 @@
 ---
 title: Rumble Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/culper-research, focus/security, potential/short, problem/unborrowable, sector/technology]
+tags: [analyst/bear-cave, analyst/culper-research, focus/security, potential/short, thesis/unborrowable, sector/technology]
 type: stock
 ticker: RUM
 draft: false
@@ -32,7 +32,3 @@ Rumble (NASDAQ: RUM — $1.46 billion) describes itself as “a high-growth neut
 ## Update 2023-10-24
 
 Mentioned by Bear Cave.
-
----
-tags: ["potential/short", "source/Bear-Cave", "analyst/culper-research", "problem/unborrowable"]
----

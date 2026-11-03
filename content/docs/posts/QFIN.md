@@ -18,7 +18,3 @@ China hustle
 
 [More ...](https://grizzlyreports.com/we-believe-qifu-technology-inc-nasdaq-qfin-is-a-china-hustle-stock-with-outright-fake-financials-fraudulent-backers-and-an-imploding-business/)
 latest change: 2026-02-28
-
----
-tags: ["sector/china", "analyst/grizzly-research"]
----

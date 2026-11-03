@@ -21,7 +21,3 @@ Colossal Failure Get Shoveled Into Yet Another Garbage SPAC.
 latest change: 2026-02-08
 2026-01-30 USD 8.97
 2026-01-30 USD 8.97
-
----
-tags: ["thesis/economics", "sector/biotech", "analyst/scorpion-capital"]
----

@@ -13,7 +13,3 @@ draft: false
 Overlooked Alpha. A short candidate.
 2026-01-30 USD 278.39
 2026-01-30 USD 278.39
-
----
-tags: ["potential/short", "analyst/overlooked-alpha"]
----

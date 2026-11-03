@@ -21,10 +21,6 @@ latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/stock pump via fake offer", "sector/flooring", "analyst/bleeker-street-research"]
----
-
 # LL Flooring Holdings (LL)
 
 <blockquote>
@@ -35,4 +31,3 @@ tags: ["thesis/stock pump via fake offer", "sector/flooring", "analyst/bleeker-s
 
 [More ...](LL Flooring Holdings)
 latest change: 2025-10-29
-

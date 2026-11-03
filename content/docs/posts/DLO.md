@@ -1,7 +1,7 @@
 ---
 title: DLong
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters-capital, focus/security, market/united-states, potential/short, thesis/fraud]
+tags: [analyst/muddy-waters-capital, focus/security, market/united-states, potential/short, thesis/fraud, analyst/muddy-waters]
 type: stock
 ticker: DLO
 draft: false
@@ -20,7 +20,3 @@ https://www.muddywatersresearch.com/research/dlo/mw-is-short-dlo/
 
 I can't find this stock on Interactive Brokers.
 2026-01-30 USD 13.46
-
----
-tags: ["analyst/muddy-waters", "potential/short", "thesis/fraud"]
----

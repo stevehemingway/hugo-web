@@ -1,7 +1,7 @@
 ---
 title: Restoration Hardware Holdings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/herb-greenberg, analyst/hunterbrook-media, focus/security, potential/short, sector/furniture, thesis/fraud]
+tags: [analyst/herb-greenberg, analyst/hunterbrook-media, focus/security, potential/short, sector/furniture, thesis/fraud, analyst/hunterbrook]
 type: stock
 ticker: RH
 draft: false
@@ -22,10 +22,6 @@ Also, [Herb](https://open.substack.com/pub/herbgreenberg/p/the-wrap-jump-the-sha
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
----
-tags: ["thesis/fraud", "sector/furniture", "analyst/hunterbrook"]
----
-
 # Restoration Hardware Holdings (RH)
 
 <blockquote>

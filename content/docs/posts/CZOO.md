@@ -25,7 +25,3 @@ The following is from [Overlooked Alpha](https://www.overlookedalpha.com):
 > 
 > But in this market, the question isn’t necessarily when or even if CZOO hits zero. It’s what happens on the way there.
 >
-
----
-tags: ["potential/short"]
----

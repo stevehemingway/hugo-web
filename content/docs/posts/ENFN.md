@@ -1,7 +1,7 @@
 ---
 title: Enfusion
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/inc., thesis/quality]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, thesis/quality]
 type: stock
 ticker: ENFN
 draft: false
@@ -20,7 +20,3 @@ After conducting a forensic review of Enfusion, Inc. (NYSE: ENFN or “the Compa
 latest change: 2026-02-28
 
 Spruce Point Capital Management, LLC (“Spruce Point” or “we” or “us”), a New York-based investment management firm that focuses on forensic research and short-selling, today issued a detailed report entitled “Route, Order, Sell” that outlines why we believe shares of Enfusion, Inc. (NYSE: ENFN) ("Enfusion" or the "Company") face up to 40% to 60% long-term downside risk, or approximately $3.70 – $5.60 per share. Download or view the report by visiting www.sprucepointcap.com for additional information and exclusive updates.
-
----
-tags: ["thesis/quality", "sector/Inc.", "analyst/spruce-point"]
----

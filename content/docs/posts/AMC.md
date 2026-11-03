@@ -22,7 +22,3 @@ latest change: 2026-02-28
 
 2026-01-30 USD 1.39
 2026-01-30 USD 1.39
-
----
-tags: ["thesis/everything", "sector/cinemas", "analyst/dorsey"]
----
