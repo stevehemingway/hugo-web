@@ -1,7 +1,7 @@
 ---
 title: auto-manufacture
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/culpeper-research, focus/security, potential/short, sector/https://substack.com/redirect/67983652-8ce3-4505-b524-c7a1a80e91db?j=eyj1ijoibm1idcj9.okn8snuata-fkdvvxvf40ijrk4j2kadlakvdpe7bh98, short, thesis/fraud]
+tags: [analyst/culper-research, focus/security, potential/short, sector/https://substack.com/redirect/67983652-8ce3-4505-b524-c7a1a80e91db?j=eyj1ijoibm1idcj9.okn8snuata-fkdvvxvf40ijrk4j2kadlakvdpe7bh98, thesis/fraud]
 type: stock
 ticker: XPEL
 draft: false

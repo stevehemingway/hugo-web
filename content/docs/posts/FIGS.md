@@ -1,7 +1,7 @@
 ---
 title: Figs Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point, analyst/spruce-point-capital, focus/security, potential/short, sector/finance, short, source/bear-cave]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/finance, analyst/bear-cave]
 type: stock
 ticker: FIGS
 draft: false

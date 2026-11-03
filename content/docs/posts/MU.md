@@ -1,7 +1,7 @@
 ---
 title: Micron
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, short, source/fleckenstein]
+tags: [focus/security, potential/short, source/fleckenstein]
 type: stock
 ticker: MU
 draft: false

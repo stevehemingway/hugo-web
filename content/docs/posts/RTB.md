@@ -1,7 +1,7 @@
 ---
 title: RTB Digital
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/white, focus/security, potential/short, short]
+tags: [analyst/white-diamond-research, focus/security, potential/short]
 type: stock
 ticker: RTB
 draft: false
@@ -20,5 +20,3 @@ draft: false
 > – RTB touts that 200 publishers it has a platform that allows media companies to pay their journalists in USDC. But doesn’t quote metrics that show how much revenues does this service actually bring RTB? We think very little.
 > – There’s lots of potential dilution of RTB, 1.26M shares of warrants and preferred stock, to be converted at about $14 per share.
 
-#analyst/white-diamond-research
-#short

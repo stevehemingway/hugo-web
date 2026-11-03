@@ -1,7 +1,7 @@
 ---
 title: Oracle
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/rob-s-pierre, focus/security, market/united-states, potential/short, sector/cloud, short, thesis/manipulation]
+tags: [analyst/rob-s-pierre, focus/security, market/united-states, potential/short, sector/cloud, thesis/manipulation]
 type: stock
 ticker: ORCL
 draft: false

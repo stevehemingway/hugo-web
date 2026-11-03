@@ -1,7 +1,7 @@
 ---
 title: Vornado Reality Trust
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, potential/long, sector/real-estate, thesis/fairly-valued]
+tags: [analyst/me, focus/security, potential/long, sector/reit, thesis/fairly-valued]
 type: stock
 ticker: VNO
 draft: false

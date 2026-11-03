@@ -1,7 +1,7 @@
 ---
 title: Cal-Maine
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hunterbrook, focus/security, potential/short, sector/wholesale-food, short, thesis/insider-action]
+tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/food, thesis/insider-action]
 type: stock
 ticker: CALM
 draft: false

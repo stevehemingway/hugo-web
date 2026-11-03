@@ -1,7 +1,7 @@
 ---
 title: Hlne
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/hunterbrook, focus/security, potential/long, short, thesis/fraud]
+tags: [analyst/hunterbrook-media, focus/security, potential/long, potential/short, thesis/fraud, private-equity]
 type: stock
 ticker: HLNE
 draft: false
@@ -170,9 +170,4 @@ And if Hamilton Lane starts seeing redemptions, it might take a long time to res
 “I don’t think memories are going to be short,” Dawn Fitzpatrick, the chief investment officer of Soros Fund Management, said in a recent interview about some of the practices she sees across the industry. “There’s going to be a culling of the alternative asset managers.”
 
 Whether Pandora’s Box can be closed before the culling begins remains perhaps the industry’s most expensive question.
-
-#short 
-#private-equity 
-#thesis/fraud 
-#analyst/hunterbrook-media 
 

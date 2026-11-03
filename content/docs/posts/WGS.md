@@ -1,7 +1,7 @@
 ---
 title: GeneDx
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, focus/security, potential/short, sector/biotech, short, thesis/fraud]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/biotech, thesis/fraud]
 type: stock
 ticker: WGS
 draft: false

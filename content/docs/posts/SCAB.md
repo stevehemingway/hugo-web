@@ -1,7 +1,7 @@
 ---
 title: Svenska Cellulosa
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/ningi-research;-viceroy-research, focus/security, potential/short, sector/forestry, short, thesis/fraud]
+tags: [analyst/ningi-research;-viceroy-research, focus/security, potential/short, sector/forestry, thesis/fraud]
 type: stock
 ticker: SCAB
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Fair-Isaac Corp.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bristlemoon-capital, focus/security, potential/short, short, thesis/fraud]
+tags: [analyst/bristlemoon-capital, focus/security, potential/short, thesis/fraud]
 type: stock
 ticker: FICO
 draft: false

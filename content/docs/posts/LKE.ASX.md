@@ -1,7 +1,7 @@
 ---
 title: Lake Resources
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/j-capital-research, focus/security, market/australia, potential/short, sector/finance, short, source/bear-cave]
+tags: [analyst/bear-cave, analyst/j-capital-research, focus/security, market/australia, potential/short, sector/finance]
 type: stock
 ticker: LKE
 draft: false

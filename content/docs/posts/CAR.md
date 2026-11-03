@@ -1,7 +1,7 @@
 ---
 title: Avis Budget Group
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/fugazi-research, focus/security, potential/short, short]
+tags: [analyst/fugazi-research, focus/security, potential/short]
 type: stock
 ticker: CAR
 draft: false

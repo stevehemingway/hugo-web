@@ -1,7 +1,7 @@
 ---
 title: Twilio Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/technology, short]
+tags: [focus/security, potential/short, sector/technology]
 type: stock
 ticker: TWLO
 draft: false

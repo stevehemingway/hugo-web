@@ -1,7 +1,7 @@
 ---
 title: Bitdeer Technologies
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/callisto-research, focus/security, potential/short, sector/crypto, short]
+tags: [analyst/callisto-research, focus/security, potential/short, sector/crypto]
 type: stock
 ticker: BTDR
 draft: false

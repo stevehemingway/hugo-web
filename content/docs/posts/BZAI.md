@@ -1,7 +1,7 @@
 ---
 title: Blaize AI -- short
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/pelican, focus/security, potential/short, sector/ai, short, thesis/fraud]
+tags: [analyst/pelican-bay-research, focus/security, potential/short, sector/ai, thesis/fraud]
 type: stock
 ticker: BZAI
 draft: false
@@ -54,9 +54,4 @@ This research report from Pelican Way Research analyzes Blaize AI's (BZAI) finan
 
 **Conclusion:**
 Pelican Way Research concludes that Blaize AI is operating as a "China hustle" that has consistently failed to generate meaningful revenue while burning cash, using fraudulent deals to artificially inflate its stock price and extract profits from retail investors.
-
-#sector/AI 
-#analyst/pelican-bay-research 
-#thesis/fraud
-#short 
 

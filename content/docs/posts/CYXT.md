@@ -1,7 +1,7 @@
 ---
 title: Cyxtera Technologies
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/keith-dalrymple, focus/security, potential/short, sector/technology, short, source/bear-cave]
+tags: [analyst/bear-cave, analyst/keith-dalrymple, focus/security, potential/short, sector/technology]
 type: stock
 ticker: CYXT
 draft: false

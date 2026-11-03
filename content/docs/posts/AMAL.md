@@ -1,7 +1,7 @@
 ---
 title: Amalgamated Bank
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, focus/security, market/united-states, potential/short, sector/finance, short, source/bear-cave]
+tags: [analyst/bear-cave, focus/security, market/united-states, potential/short, sector/finance]
 type: stock
 ticker: AMAL
 draft: false

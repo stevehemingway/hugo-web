@@ -1,7 +1,7 @@
 ---
 title: Four
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/blue-orca, focus/security, potential/short, sector/finance, short]
+tags: [analyst/blue-orca-capital, focus/security, potential/short, sector/finance]
 type: stock
 ticker: FOUR
 draft: false

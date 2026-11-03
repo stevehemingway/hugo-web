@@ -1,7 +1,7 @@
 ---
 title: Himalaya Shipping
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, long, potential/long, sector/mining, sector/shipping]
+tags: [analyst/me, focus/security, potential/long, sector/mining, sector/shipping]
 type: stock
 ticker: HSHP
 draft: false

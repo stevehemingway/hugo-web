@@ -1,7 +1,7 @@
 ---
 title: Mohawk Industries
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/peek-behind-the-numbers, focus/security, potential/short, sector/retail, short]
+tags: [analyst/peek-behind-the-numbers, focus/security, potential/short, sector/retail]
 type: stock
 ticker: MHK
 draft: false

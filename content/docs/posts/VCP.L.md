@@ -1,7 +1,7 @@
 ---
 title: Victoria Carpet PLC
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/iceberg-research, focus/security, market/london, market/uk, potential/short, sector/retail, short, source/bear-cave, thesis/fraud]
+tags: [analyst/bear-cave, analyst/iceberg-research, focus/security, market/london, market/uk, potential/short, sector/retail, thesis/fraud]
 type: stock
 ticker: VCP
 draft: false

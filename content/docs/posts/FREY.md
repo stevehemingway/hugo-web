@@ -1,7 +1,7 @@
 ---
 title: FREYR Battery
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bonitas-research, focus/security, potential/short, sector/spac, short, thesis/fraud]
+tags: [analyst/bonitas-research, focus/security, potential/short, sector/spac, thesis/fraud]
 type: stock
 ticker: FREY
 draft: false

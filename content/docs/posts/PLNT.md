@@ -1,7 +1,7 @@
 ---
 title: Planet Fitness
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/leisure, short, thesis/fraud]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/leisure, thesis/fraud]
 type: stock
 ticker: PLNT
 draft: false

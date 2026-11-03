@@ -1,7 +1,7 @@
 ---
 title: company_name
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point, focus/security, potential/long, potential/short, sector/retail, short]
+tags: [analyst/spruce-point-capital, focus/security, potential/long, potential/short, sector/retail]
 type: stock
 ticker: RELY
 draft: false

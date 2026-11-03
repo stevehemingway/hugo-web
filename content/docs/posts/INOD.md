@@ -1,7 +1,7 @@
 ---
 title: company name
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/wolfpack-research, focus/security, potential/short, short]
+tags: [analyst/wolfpack-research, focus/security, potential/short]
 type: stock
 ticker: INOD
 draft: false

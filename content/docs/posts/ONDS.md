@@ -1,7 +1,7 @@
 ---
 title: Ondas Holdings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/night-market-research, focus/security, potential/short, sector/transportation, short, source/bear-cave]
+tags: [analyst/bear-cave, analyst/night-market-research, focus/security, potential/short, sector/transportation]
 type: stock
 ticker: ONDS
 draft: false

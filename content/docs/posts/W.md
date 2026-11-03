@@ -1,7 +1,7 @@
 ---
 title: Wayfair Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/food-beverage, short]
+tags: [focus/security, potential/short, sector/food]
 type: stock
 ticker: W
 draft: false

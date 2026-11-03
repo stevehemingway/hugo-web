@@ -1,7 +1,7 @@
 ---
 title: Integral Ad Science
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/spruce-point, analyst/spruce-point-capital, focus/security, potential/long, sector/finance]
+tags: [analyst/spruce-point-capital, focus/security, potential/long, sector/finance]
 type: stock
 ticker: IAS
 draft: false

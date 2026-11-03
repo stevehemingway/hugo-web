@@ -1,7 +1,7 @@
 ---
 title: Zeta Global Holdings Corp
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/culpeper-research, focus/security, potential/short, sector/tech, short, thesis/fraud]
+tags: [analyst/culper-research, focus/security, potential/short, sector/tech, thesis/fraud]
 type: stock
 ticker: ZETA
 draft: false

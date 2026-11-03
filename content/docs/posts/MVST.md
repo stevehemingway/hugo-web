@@ -1,7 +1,7 @@
 ---
 title: microvast holdings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, focus/security, potential/short, sector/batteries, short, thesis/fraud]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/batteries, thesis/fraud]
 type: stock
 ticker: MVST
 draft: false

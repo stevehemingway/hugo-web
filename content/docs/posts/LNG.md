@@ -1,7 +1,7 @@
 ---
 title: LNG
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/massif-capital, focus/security, potential/long, sector/energy, thesis/commodity]
+tags: [analyst/massif-capital-partners, focus/security, potential/long, sector/energy, thesis/commodity]
 type: stock
 ticker: LNG
 draft: false

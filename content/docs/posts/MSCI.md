@@ -1,7 +1,7 @@
 ---
 title: MSCI Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/financial-services, short, thesis/management]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/financial-services, thesis/management]
 type: stock
 ticker: MSCI
 draft: false

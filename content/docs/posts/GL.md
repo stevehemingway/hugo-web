@@ -1,7 +1,7 @@
 ---
 title: Globe Life
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/friendly-bear, analyst/fuzzy-panda-research, friendly-bear, viceroy-research, analyst/viceroy-research, focus/security, potential/short, sector/insurance, short, thesis/fraud]
+tags: [analyst/friendly-bear, analyst/fuzzy-panda-research, analyst/viceroy-research, focus/security, potential/short, sector/insurance, thesis/fraud]
 type: stock
 ticker: GL
 draft: false

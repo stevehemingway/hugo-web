@@ -1,7 +1,7 @@
 ---
 title: Bireme
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/bireme, potential/short, short]
+tags: [analyst/bireme-capital, potential/short]
 type: note
 draft: false
 ---
@@ -46,5 +46,3 @@ draft: false
 > $QBTS
 >  etc.
 > 
-#short
-#analyst/bireme-capital

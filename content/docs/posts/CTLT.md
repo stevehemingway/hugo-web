@@ -1,7 +1,7 @@
 ---
 title: Catalent Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fiat-lux-partners, analyst/glasshouse-research, focus/security, potential/short, sector/retail, short]
+tags: [analyst/fiat-lux-partners, analyst/glasshouse-research, focus/security, potential/short, sector/retail]
 type: stock
 ticker: CTLT
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Shotspotter Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/edwin-dorsey, focus/security, potential/short, sector/mining, short, source/bear-cave]
+tags: [analyst/bear-cave, analyst/edwin-dorsey, focus/security, potential/short, sector/mining]
 type: note
 draft: false
 ---

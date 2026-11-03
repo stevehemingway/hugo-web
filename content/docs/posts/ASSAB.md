@@ -1,7 +1,7 @@
 ---
 title: Assa Abloy
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, potential/long, sector/builing-and-security-systems, thesis/dominant-position]
+tags: [analyst/me, focus/security, potential/long, sector/building-and-security-systems, thesis/dominant-position]
 type: stock
 ticker: ASSAB
 draft: false

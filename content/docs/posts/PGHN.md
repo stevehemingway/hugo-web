@@ -1,7 +1,7 @@
 ---
 title: Partners Group Holding AG
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/grizzly, focus/security, market/hong-kong, potential/short, short, thesis/fraud]
+tags: [analyst/grizzly-research, focus/security, market/hong-kong, potential/short, thesis/fraud]
 type: stock
 ticker: PGHN
 draft: false
@@ -21,9 +21,5 @@ When we were able to back out valuation multiples relatively reliably, we arrive
 Across the Master Fund’s direct-debt book, reported principal balances moved in ways inconsistent with standard accounting. In many instances, principal value and fair value metrices moved not only by hundreds of percent and in different directions, which is very untypical for a senior loan.
 Partners Group tells investors its private-credit software exposure is “less than half the industry average.” We estimate its actual exposure in the available sample at 32%, which is above the industry average and more than heavily-criticized peers such as Blue Owl Capital.
 Importantly, we do not see the same irregular valuation patterns we saw in Partners Group in the filings of its largest US and European peers. We see attention to Partners Group’s evergreen funds and their valuation marks as a severe risk to the company’s fund-raising ability and long-term financial health.
-
-#analyst/grizzly-reports
-#short 
-#thesis/fraud 
 
 Updated by Steve, 2026-04-29

@@ -1,7 +1,7 @@
 ---
 title: Gogo Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bleeker-street, analyst/bleeker-street-research, focus/security, potential/short, sector/tmt, short, thesis/competition]
+tags: [analyst/bleecker-street-research, focus/security, potential/short, sector/tmt, thesis/competition]
 type: stock
 ticker: GOGO
 draft: false

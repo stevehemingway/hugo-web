@@ -1,7 +1,7 @@
 ---
 title: Broadridge
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point, analyst/spruce-point-capital, focus/security, potential/short, sector/technology, short]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/technology]
 type: stock
 ticker: BR
 draft: false

@@ -61,7 +61,5 @@ Constellation rarely makes large public company acquisitions — they prefer sma
 - One of the best-performing Canadian stocks of the last 20 years
 - Rarely dilutes shareholders; finances growth organically and through debt
 
-#long
-
 ---
 *Last updated: 2026-03-07 by automated standardization process*

@@ -1,12 +1,11 @@
 ---
 title: Net
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/short, short]
+tags: [focus/security, potential/short]
 type: stock
 ticker: NET
 draft: false
 ---
-#short
 
 ## Cloudflare (NET) — Short Thesis
 

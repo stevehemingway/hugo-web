@@ -1,7 +1,7 @@
 ---
 title: MicroStrategy
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/crypto, short, thesis/arbitrage]
+tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/crypto, thesis/arbitrage]
 type: stock
 ticker: MSTR
 draft: false

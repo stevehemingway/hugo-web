@@ -1,7 +1,7 @@
 ---
 title: Katapult
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/long, sector/retail, short]
+tags: [focus/security, potential/long, sector/retail, potential/short]
 type: stock
 ticker: KPLT
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Target
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/retail, short, thesis/overvalued]
+tags: [focus/security, potential/short, sector/retail, thesis/overvalued]
 type: stock
 ticker: TGT
 draft: false

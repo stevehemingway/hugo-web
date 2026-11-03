@@ -1,7 +1,7 @@
 ---
 title: Optical
 date: '2026-10-21T16:27:59+01:00'
-tags: [analyst/citrini, potential/long, theme/optical-electronics]
+tags: [analyst/citron-research, potential/long, theme/optical-electronics, analyst/citrini-research]
 type: note
 draft: false
 ---
@@ -9,15 +9,12 @@ draft: false
 
 (Citrini wrote why optical electronics was a big thing.)[https://open.substack.com/pub/citrini/p/let-there-be-light?utm_campaign=post&utm_medium=email]
 
-
 Himax: Stealth Supplier for NVIDIA's Optics Revolution
 $HIMX appears to be manufacturing critical optical components for NVIDIA's AI data center supply chain. Clues indicate it may be supplying Apple's new smart glasses, too.
 HUNTERBROOK
 MAR 12
 
  
-
-
 
 READ IN APP
  
@@ -33,4 +30,3 @@ Until that moment, it had been a sleepy earnings call.
 
 After detailing the inventory levels of car dashboards and the “seasonal softness” of tablet displays, Himax CEO Jordan Wu sprinkled breadcrumbs that lead straight to the center of the AI revolution.
 
-#analyst/citrini-research 

@@ -1,7 +1,7 @@
 ---
 title: Stablecoin Development Corp
 date: '2026-10-21T16:27:59+01:00'
-tags: [analyst/fugazi, potential/short]
+tags: [analyst/fugazi-research, potential/short]
 type: note
 draft: false
 ---
@@ -32,7 +32,6 @@ tags: ['analyst']
 Forwarded this email? Subscribe here for more
 SDEV: A Dilution Timebomb Wearing a Stablecoin Costume
 A former fake pharmaceutical company, now riding on crypto hype, which replaced the old business with a token balance sheet.
-#analyst/fugazi-research 
 Oct 5 2026
  
  

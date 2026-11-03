@@ -1,7 +1,7 @@
 ---
 title: Rego Payment Architectures Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/white-diamond-research, focus/security, potential/short, problem/micro-cap, sector/finance, short, thesis/uncompetitive]
+tags: [analyst/white-diamond-research, focus/security, potential/short, problem/micro-cap, sector/finance, thesis/uncompetitive]
 type: stock
 ticker: RPMT
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: NextGen Energy
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/culpeper-research, focus/security, potential/long, potential/short, sector/technology]
+tags: [analyst/culper-research, focus/security, potential/long, potential/short, sector/technology]
 type: stock
 ticker: NXE
 draft: false

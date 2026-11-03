@@ -1,7 +1,7 @@
 ---
 title: IonQ, Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/scorpion, focus/security, market/united-states, potential/short, sector/technology, short]
+tags: [analyst/scorpion-capital, focus/security, market/united-states, potential/short, sector/technology]
 type: stock
 ticker: IONQ
 draft: false

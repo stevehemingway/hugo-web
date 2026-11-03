@@ -1,7 +1,7 @@
 ---
 title: DeFI Technologies
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/dorsey, focus/security, potential/short, sector/crypto, short, thesis/fraud]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/crypto, thesis/fraud]
 type: stock
 ticker: DEFTF
 draft: false

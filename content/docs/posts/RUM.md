@@ -1,7 +1,7 @@
 ---
 title: Rumble Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/culpeper-research, focus/security, potential/short, problem/unborrowable, sector/technology, short, source/bear-cave]
+tags: [analyst/bear-cave, analyst/culper-research, focus/security, potential/short, problem/unborrowable, sector/technology]
 type: stock
 ticker: RUM
 draft: false

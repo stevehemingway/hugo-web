@@ -1,7 +1,7 @@
 ---
 title: Brunello Cucinelli
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/morpheus-research, focus/security, market/italy, potential/long, potential/short, sector/luxury-fashion, short, thesis/sanctions-busting]
+tags: [analyst/morpheus-research, focus/security, market/italy, potential/long, potential/short, sector/luxury-fashion, thesis/sanctions-busting]
 type: stock
 ticker: BC
 draft: false

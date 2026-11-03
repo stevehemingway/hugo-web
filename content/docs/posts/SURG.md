@@ -1,7 +1,7 @@
 ---
 title: Surg
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bird-dog-research, focus/security, potential/short, sector/retail, short, thesis/fraud]
+tags: [analyst/bird-dog-research, focus/security, potential/short, sector/retail, thesis/fraud]
 type: stock
 ticker: SURG
 draft: false

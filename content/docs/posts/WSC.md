@@ -1,7 +1,7 @@
 ---
 title: Willscot Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/df-research, focus/security, potential/short, sector/b-to-b, short, thesis/fraud]
+tags: [analyst/df-research, focus/security, potential/short, sector/b-to-b, thesis/fraud]
 type: stock
 ticker: WSC
 draft: false
@@ -37,8 +37,6 @@ Competition from United Rentals. URI opened 60 new locations in 2025 for product
 ABL lenders extended the due date 3 years to 2030 from 2027. Had the due date remained 2027, the company would likely default. The extension suggests the NPV of the fleet is below the value of the debt.
 
 Conclusion: The old "growth company" with "optional CapEx" narrative is dead. Financial erosion will continue, and equity value is increasingly at risk.
-
-#short
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

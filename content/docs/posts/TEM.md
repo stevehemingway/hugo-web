@@ -1,7 +1,7 @@
 ---
 title: Tempus AI Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/ai, short, thesis/fraud]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/ai, thesis/fraud]
 type: stock
 ticker: TEM
 draft: false

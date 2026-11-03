@@ -1,7 +1,7 @@
 ---
 title: 'York Space Systems (NYSE: YSS — $3.07 billion)'
 date: '2026-10-21T16:27:59+01:00'
-tags: [analyst/wolfpack, focus/security, potential/short, sector/space, thesis/economics]
+tags: [analyst/wolfpack-research, focus/security, potential/short, sector/space, thesis/economics]
 type: stock
 ticker: YSS
 draft: false

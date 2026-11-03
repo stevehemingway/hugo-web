@@ -1,7 +1,7 @@
 ---
 title: Greenwich LifeSciences
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/white-diamond, focus/security, potential/short, sector/technology, short, thesis/fraud]
+tags: [analyst/white-diamond-research, focus/security, potential/short, sector/technology, thesis/fraud]
 type: stock
 ticker: GLSI
 draft: false

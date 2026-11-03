@@ -1,7 +1,7 @@
 ---
 title: Vintage Wine Estates
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/vince-martin, focus/security, potential/long, sector/food-beverage, thesis/growth, thesis/turnaround]
+tags: [analyst/vince-martin, focus/security, potential/long, sector/food, thesis/growth, thesis/turnaround]
 type: stock
 ticker: VWE
 draft: false

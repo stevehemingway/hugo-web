@@ -1,7 +1,7 @@
 ---
 title: Fisker
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fuzzy-panda, focus/security, potential/short, sector/finance, short, thesis/fraud]
+tags: [analyst/fuzzy-panda-research, focus/security, potential/short, sector/finance, thesis/fraud]
 type: stock
 ticker: FSR
 draft: false

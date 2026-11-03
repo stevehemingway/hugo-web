@@ -1,7 +1,7 @@
 ---
 title: Dayforce
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/blue-orca-capital, focus/security, potential/short, sector/human-capital-management, short, thesis/fraud]
+tags: [analyst/blue-orca-capital, focus/security, potential/short, sector/human-capital-management, thesis/fraud]
 type: stock
 ticker: DAY
 draft: false

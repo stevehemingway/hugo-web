@@ -1,7 +1,7 @@
 ---
 title: Herbalife Nutrition Ltd.
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/real-estate, short, thesis/fraud]
+tags: [focus/security, potential/short, sector/reit, thesis/fraud]
 type: stock
 ticker: HLF
 draft: false

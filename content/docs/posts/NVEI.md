@@ -1,7 +1,7 @@
 ---
 title: Spruce Point Capital Management Will Release A Unique And Special New Investigative Report Tomorrow
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/spruce-point, focus/security, potential/short, sector/technology]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/technology]
 type: stock
 ticker: NVEI
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: POET Technologies
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, analyst/night-market-research, focus/security, potential/short, sector/electronics, sector/technology, short, thesis/fraud]
+tags: [analyst/edwin-dorsey, analyst/night-market-research, focus/security, potential/short, sector/electronics, sector/technology, thesis/fraud]
 type: stock
 ticker: POET
 draft: false

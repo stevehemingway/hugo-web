@@ -1,7 +1,7 @@
 ---
 title: Vita Coco Company
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/ningi-research, focus/security, potential/short, sector/food-manufacturing, short]
+tags: [analyst/ningi-research, focus/security, potential/short, sector/food]
 type: stock
 ticker: COCO
 draft: false

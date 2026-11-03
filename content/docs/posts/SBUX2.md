@@ -1,7 +1,7 @@
 ---
 title: Starbucks
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/retail, short, thesis/china-exposure]
+tags: [focus/security, potential/short, sector/retail, thesis/china-exposure]
 type: note
 draft: false
 ---

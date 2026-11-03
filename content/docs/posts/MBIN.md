@@ -1,7 +1,7 @@
 ---
 title: company_name
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/ningi-research, focus/security, potential/short, short]
+tags: [analyst/ningi-research, focus/security, potential/short]
 type: stock
 ticker: MBIN
 draft: false

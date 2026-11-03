@@ -1,7 +1,7 @@
 ---
 title: Pure Storage
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/tech-hardware, short, thesis/technology]
+tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/tech-hardware, thesis/technology]
 type: stock
 ticker: PSTG
 draft: false

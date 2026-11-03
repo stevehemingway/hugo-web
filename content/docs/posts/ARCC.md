@@ -1,27 +1,20 @@
 ---
 title: Ares Capital
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/nick, focus/security, market/united-states, potential/short, sector/private, short, thesis/fraud]
+tags: [analyst/nick-nemeth, focus/security, market/united-states, potential/short, sector/private, thesis/fraud, sector/private-credit]
 type: stock
 ticker: ARCC
 draft: false
 ---
 # Ares Capital
 
-
-
-
  
-
-
-
 
 READ IN APP
  
 My day job is increasingly BDC analysis for clients. Clients don’t love seeing their bids move away from their ask, which means publishing this probably costs me revenue. I am doing it anyway.
 
 I have no access to loan docs, balance sheets, or cash flow statements. The methodology I run on those filings is, I’d argue, closer to economic reality than the marks the funds publish. Even if you don’t buy that — take this one: I run the same methodology on every BDC. My skin does not crawl equally.
-
 
 I hate what these guys are doing like a fat kid hates celery. I cannot tell you how aggravating it is to hear the bullshit they spew. Alas — let’s begin.
 
@@ -30,7 +23,6 @@ I hate what these guys are doing like a fat kid hates celery. I cannot tell you 
 Ares Capital has two loans to Pluralsight marked 94 cents apart.
 
 Same borrower. Same date. Same maturity. Same label. One trades at par. One trades at 6 cents. Both are on page 13 of the Q1 2026 10-Q, filed April 28, 2026:
-
 
 Pluralsight, LLC and Pluralsight Holdings, LLC and Paradigmatic Holdco LLC. First lien senior secured loan, 6.67% SOFR+3.00, acquired 08/2024, matures 08/2029. Principal $21.8M. Cost $21.7M. Fair Value $21.8M.
 
@@ -142,18 +134,13 @@ Kellermeyer Bergensons, 95-cent gap. Janitorial roll-up where Cerberus equity is
 
 Eagle Football Holdings, sports section. Two pairs (83-cent and 67-cent gaps). Cork Gully appointed administrator March 27, 2026 under Ares’ qualifying floating charge.
 
-
 VPROP / V SandCo. Two pairs (83-cent gaps). Already emerged from Vista Proppants Chapter 11 case 20-42002, N.D. Tex., June 9, 2020, plan effective November 6, 2020. The 2024 “rescue” 1L is at SOFR+950 PIK.
-
 
 AllClear Aerospace & Defense. Two pairs (60-cent and 58.8-cent gaps). June 9, 2025 “comprehensive recapitalization” — senior lenders took majority ownership; CEO demoted; prior sponsor’s residual equity extinguished.
 
-
 Florida Food Products. 50-cent gap. October 2025 amend-and-extend — $92M new 1L plus extension of >$750M, 100% existing-lender support, Paul Hastings on the lender side, Weil on the company side.
 
-
 Plus Visual Edge Technology, page 38, where there’s a four-deep ladder: 8.85% cash → 10.85% partial PIK → 15.85% full PIK → 15.85% PIK, all maturing 01/2029, all labeled “First lien.” Four tiers of internal subordination, one disclosure label.
-
 
 Plus the Bain pattern — token cash 1L plus giant PIK preferred at par — across AthenaHealth, Himalaya / BCPE Hyperlink, Highstreet Insurance Partners (the cleanest of the four; insurance brokerage is sticky), and Cornerstone OnDemand.
 
@@ -274,9 +261,4 @@ What kind of public bond trades at 6 cents while its same-borrower, same-lien, s
 None.
 
 The 10-Q says so on page 13.
-
-#analyst/nick-nemeth 
-#thesis/fraud 
-#sector/private-credit 
-#short 
 

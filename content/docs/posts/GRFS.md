@@ -1,7 +1,7 @@
 ---
 title: Grifols
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/gotham-city-research, focus/security, potential/short, sector/pharma, short, thesis/fraud]
+tags: [analyst/gotham-city-research, focus/security, potential/short, sector/pharma, thesis/fraud]
 type: stock
 ticker: GRFS
 draft: false

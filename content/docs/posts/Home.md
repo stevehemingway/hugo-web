@@ -1,7 +1,7 @@
 ---
 title: Home
 date: '2026-10-21T16:27:59+01:00'
-tags: [analyst/blue, potential, potential/long, thesis/fraud]
+tags: [analyst/blue-orca-capital, potential, potential/long, thesis/fraud]
 type: note
 draft: false
 ---

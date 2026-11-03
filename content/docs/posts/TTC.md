@@ -1,7 +1,7 @@
 ---
 title: The Toro Company
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehospaphat-research, focus/security, potential/short, sector/consumer-discretionary, short, thesis/economics]
+tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/consumer-discretionary, thesis/economics]
 type: stock
 ticker: TTC
 draft: false

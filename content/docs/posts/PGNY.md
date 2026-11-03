@@ -1,7 +1,7 @@
 ---
 title: Progyny
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/finance, short, thesis/fraud]
+tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/finance, thesis/fraud]
 type: stock
 ticker: PGNY
 draft: false

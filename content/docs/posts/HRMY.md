@@ -1,7 +1,7 @@
 ---
 title: Hrmy
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/scorpion, analyst/scorpion-capital, focus/security, potential/short, sector/healthcare, short, thesis/fraud]
+tags: [analyst/scorpion-capital, focus/security, potential/short, sector/healthcare, thesis/fraud]
 type: stock
 ticker: HRMY
 draft: false

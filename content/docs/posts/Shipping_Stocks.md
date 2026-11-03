@@ -1,7 +1,7 @@
 ---
 title: Time to overweight shipping?
 date: '2026-10-21T16:27:59+01:00'
-tags: [analyst/mintzmeyer, potential/long]
+tags: [analyst/j-mintzmyer, potential/long]
 type: note
 draft: false
 ---

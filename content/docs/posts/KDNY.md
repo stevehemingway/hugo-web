@@ -1,7 +1,7 @@
 ---
 title: 'Chinook Therapeutics Inc: Too Little, Too Late (KDNY US)'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters, focus/security, potential/short, sector/healthcare, sector/pharma, short, thesis/fraud]
+tags: [analyst/muddy-waters-capital, focus/security, potential/short, sector/healthcare, sector/pharma, thesis/fraud]
 type: stock
 ticker: KDNY
 draft: false

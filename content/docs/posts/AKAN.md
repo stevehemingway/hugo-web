@@ -1,21 +1,16 @@
 ---
 title: Akanda
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/fugazi, focus/security, market/united-states, potential/short, sector/cannabis, short, thesis/fraud]
+tags: [analyst/fugazi-research, focus/security, market/united-states, potential/short, sector/cannabis, thesis/fraud]
 type: stock
 ticker: AKAN
 draft: false
 ---
 # Akanda
 
-
 $AKAN (AKANDA CORP.): $AKAN: A Half-Baked Cannabis Company Where Shareholders Get Smoked
 6.7 million resale shares sit behind a 500,000-share count.
 MAY 4
-
-
-
-
 
 READ IN APP
 
@@ -66,25 +61,19 @@ The Setup
 
 In the most recent development, AKAN notified Nasdaq that it will not be able to file its Form 20-F on time. The company cited an inability to compile the required disclosures, offering no further explanation. Besides the fact that these types of developments are true red flags, the most important development is that the company itself is now recognizing only $258,075 in revenue for the twelve months ended December 2025. This all stems from the First Tower fiber-optic contract and confirms our thesis that their cannabis business is practically dead. To confirm that the company is pivoting away from marijuana, one just needs to look at their latest filing and their most recent NT-20F. There is no single revenue source from their purported cannabis-related business. This is all disclosed by the company in plain sight. The company did not even make $1 in the weed industry since February 2025, with no hint of resuming weed operations in the future.
 
-
 Source: Akanda Corp. Form NT-20F, Filed May 1, 2026.
-
 
 Source: Akanda Corp. Form NT-20F, Filed May 1, 2026.
 
 The run-up of AKAN began on April 22, 2026, when breaking news about the Trump administration’s expected reclassification of marijuana as a less dangerous drug. On Thursday, April 23, the US policy change went through. However, AKAN isn’t even focused on marijuana anymore. The company’s social media posts feature outdated stock images of marijuana and have not been updated since 2022. Their last paid promotions didn’t even mention anything about marijuana. The paid promotion mentioned a new large fiber network in central Mexico related to telecommunications infrastructure. (A zero relationship with the marijuana business.) This is misleading to potential momentum traders who are buying on the Trump marijuana headline. Retail investors are not looking deeper into the company and realizing it has pivoted to something completely different from the marijuana industry. AKAN is focusing marginally more on its fiber business in Latin America, which has nothing to do with weed and is also a minimal-scale revenue stream at best. As for a company that burned almost $5 million in operating expenses in FY2025, $258K in revenue is meaningless to cushion the already enormous and increasing deficit. If the company were focused on marijuana, they would likely have mentioned it in their paid promotions, which they have spent more on than the company's market cap.
 
-
 Source: Akanda Corp. Form NT-20F, Filed May 1, 2026.
 
-
 The Non-Existent Business
-
 
 On their social media, Akanda has not updated any new information since November 2022; in that same post, they are promoting their indoor grow facility in Sintra, Portugal. However, it is important to note the fact that the Portugal facility has been sold since the beginning of 2024.
 
 Back in 2022, AKAN was actually involved in the marijuana industry, as they had $2.6 million in revenue from cultivation and distribution. In 2023, they had $2.1 million, followed by $836,000. The pattern is clear: their weed business was declining and not working out, and to remain solvent, they would have to come up with anything they could to stay listed on the public markets. The miracle solution: fiber optic towers in Mexico doing $200k a year, while their shareholders get diluted as they desperately hold on to the idea that their investment is in the future of marijuana. As they are getting diluted in perpetuity, the market cap of AKAN keeps shrinking, down to a minuscule $1.5 million by April 23rd, 2026, during the run-up on Trump administration weed news.
-
 
 While the company describes itself as a “leading integrated medical cannabis company,” it’s clear that Akanda is not a cannabis company; it has not been one for over a year, and now its own investor page and social media accounts have not acknowledged this.
 
@@ -108,13 +97,11 @@ That matters more than it seems. Reverse splits don’t create value — they co
 
 That disconnect between perceived float, visible price, and actual supply is the core of the trade.
 
-
 Source: https://app.askedgar.io/ticker/AKAN/dilution
 
 Promotion and Distribution
 
 During the events of the paid promotions, it is important to mention that the company has spent 4x its market cap at the time, considering that at the time of their latest reverse split, their market cap was around $1.5 million (market cap April 12, 2026), against $6.7 million spent in paid promotions in the past two years to the IR Agency alone. Nobody can argue that AKAN has spent more on paid promotions than what their company is worth. This is a fact that is not only clear in all the disclaimers of the paid promotions, but it is also clearly mentioned in the filings.
-
 
 Source: Akanda Corp. Form F-1/A3, Filed March 20, 2026.
 
@@ -126,14 +113,11 @@ In structures like this, promotions are likely engineered events created by top 
 
 The pattern is consistent. Capital is raised, attention increases, and the stock finds unsuspecting buyers. The mechanics behind it do not change, while history shows the rest.
 
-
-
 Source: IR Agency LLC “Secret Stock” (AKAN) .
 
 The Structure
 
 To date, the company has completed 10 offerings totaling approximately $46 million USD, equivalent to 30x its standard market cap. Its IPO and subsequent offerings have all been done by lower-tier investment banks and underwriters. Just as with companies with a history of paid promotions, it is no secret that lower-tier underwriters are associated with shady companies. The archetype of this is AKAN. A company that, unaware, investors and hobbyist traders think is a weed company, when in fact it is a fiber optic tower company on the outskirts of Mexico for lower-end cell phone services. This shows that the company is not in the business of producing, distributing, or improving operational efficiency. But in complete capital market dependency.
-
 
 Source: Dilution Tracker AKAN Completed Offerings
 
@@ -161,7 +145,3 @@ The filings still show the same picture: the legacy cannabis business is gone, t
 
 At these levels, this ranks among the more fragile long-term investments in the market, reliant on continued momentum rather than underlying support. We consider AKAN’s shares to be uninvestable and to have zero fundamental value.
 
-#short
-#analyst/fugazi-research 
-#sector/cannabis
-#thesis/fraud

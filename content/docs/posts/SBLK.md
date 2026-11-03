@@ -1,7 +1,7 @@
 ---
 title: Star Bulk Carriers
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/j-mintzmyer, focus/security, long, potential/long, sector/shipping, sector/technology, thesis/economics]
+tags: [analyst/j-mintzmyer, focus/security, potential/long, sector/shipping, sector/technology, thesis/economics]
 type: stock
 ticker: SBLK
 draft: false

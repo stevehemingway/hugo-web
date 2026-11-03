@@ -1,7 +1,7 @@
 ---
 title: Noble Absolute Return ETF
 date: '2026-10-08T16:11:55+01:00'
-tags: [etf, focus/security, potential/long, thesis/value]
+tags: [sector/etf, focus/security, potential/long, thesis/value]
 type: stock
 ticker: NOPE
 draft: false

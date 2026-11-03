@@ -1,7 +1,7 @@
 ---
 title: Serve Robotics
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bonitas-research, analyst/edwin-dorsey, focus/security, potential/short, sector/tech, short, thesis/product]
+tags: [analyst/bonitas-research, analyst/edwin-dorsey, focus/security, potential/short, sector/tech, thesis/product]
 type: stock
 ticker: SERV
 draft: false

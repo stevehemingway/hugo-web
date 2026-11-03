@@ -1,7 +1,7 @@
 ---
 title: What Lennar Owes
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/hunterbrook, focus/security, potential/short, short]
+tags: [analyst/hunterbrook-media, focus/security, potential/short]
 type: stock
 ticker: LEN
 draft: false

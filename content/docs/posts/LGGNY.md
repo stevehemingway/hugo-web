@@ -1,7 +1,7 @@
 ---
 title: Legal and General
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/tudor-invest, focus/security, potential/long, sector/finance, sector/insurance, thesis/dividend-growth]
+tags: [analyst/tudor-invest-holdings, focus/security, potential/long, sector/finance, sector/insurance, thesis/dividend-growth]
 type: stock
 ticker: LGGNY
 draft: false

@@ -1,14 +1,12 @@
 ---
 title: 'ZSTK: Fake Cannabis Utopia to Worthless Meme Coin Buffoonery'
 date: '2026-10-21T16:27:59+01:00'
-tags: [focus/security, potential/short, short]
+tags: [focus/security, potential/short]
 type: stock
 ticker: ZSTK
 draft: false
 ---
 # ZSTK: Fake Cannabis Utopia to Worthless Meme Coin Buffoonery
-
-#short 
 
 <https://open.substack.com/pub/fugaziresearch/p/zstk-fake-cannabis-utopia-to-worthless>
 
@@ -23,7 +21,6 @@ Aug 31, 2026
 ## **Executive Summary**
 
 This is not the first time this entity has been examined this closely, and the earlier record dates to August 2021, when White Diamond Research [published a short report](https://whitediamondresearch.com/research/flora-growth-a-cannabis-company-of-deception-unprofessionalism-and-stock-pump-and-dumps-2-price-target/) on this same public company (then Flora Growth Corp.) after sending a seasoned trader and investigator, David Capablanca, to physically inspect the flagship asset the company’s entire public narrative rested on in person: a cannabis cultivation facility outside of Bucaramanga, Colombia. Upon arrival, Capablanca found a site reachable only by motorcycle over unpaved mountain terrain plagued with Colombian cartels. He was twice denied a promised tour of the public company’s physical site and discovered that the company’s SEC filed Colombian office address did not correspond to an actual office. The company’s on site manager on the investigator’s second visit, spotted his recording equipment and attempted to seize his phone before the investigator escaped the property on his motorcycle.
-
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

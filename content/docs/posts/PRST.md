@@ -1,7 +1,7 @@
 ---
 title: Prst
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/white-diamond-research, focus/security, potential/short, problem/unborrowable, sector/food-beverage, short, thesis/fraud]
+tags: [analyst/white-diamond-research, focus/security, potential/short, problem/unborrowable, sector/food, thesis/fraud]
 type: stock
 ticker: PRST
 draft: false

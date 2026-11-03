@@ -1,7 +1,7 @@
 ---
 title: Clear Secure, Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/support-services, short, thesis/fraud]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/support-services, thesis/fraud]
 type: stock
 ticker: YOU
 draft: false

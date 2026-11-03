@@ -1,7 +1,7 @@
 ---
 title: Brera Holdings PLC
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/fugazi-research, focus/security, potential/short, sector/sport, short, thesis/fraud]
+tags: [analyst/fugazi-research, focus/security, potential/short, sector/sport, thesis/fraud]
 type: stock
 ticker: BREA
 draft: false

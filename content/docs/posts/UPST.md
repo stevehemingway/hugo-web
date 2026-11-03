@@ -1,7 +1,7 @@
 ---
 title: Upstart Holdings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bleeker-street-research, focus/security, market/united-states, potential/short, sector/finance, short, thesis/legal-threats]
+tags: [analyst/bleecker-street-research, focus/security, market/united-states, potential/short, sector/finance, thesis/legal-threats]
 type: stock
 ticker: UPST
 draft: false

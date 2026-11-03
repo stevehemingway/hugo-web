@@ -1,7 +1,7 @@
 ---
 title: TransDigm
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/manufacturing, short, thesis/politics]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/manufacturing, thesis/politics]
 type: stock
 ticker: TDG
 draft: false

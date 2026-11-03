@@ -1,7 +1,7 @@
 ---
 title: Spt
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/ackrams-razor, focus/security, potential/short, sector/technology, short, thesis/valuation]
+tags: [analyst/ackrams-razor, focus/security, potential/short, sector/technology, thesis/valuation]
 type: stock
 ticker: SPT
 draft: false

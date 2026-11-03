@@ -1,7 +1,7 @@
 ---
 title: Update
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/fugazi-research, focus/security, potential/short, sector/space, short, thesis/fraud]
+tags: [analyst/fugazi-research, focus/security, potential/short, sector/space, thesis/fraud]
 type: stock
 ticker: SIDU
 draft: false

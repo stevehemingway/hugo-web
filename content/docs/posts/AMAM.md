@@ -1,7 +1,7 @@
 ---
 title: Ambrx Biopharma
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/kryptonite-value, focus/security, potential/short, sector/healthcare, short, thesis/fraud]
+tags: [analyst/kryptonite-value, focus/security, potential/short, sector/healthcare, thesis/fraud]
 type: stock
 ticker: AMAM
 draft: false

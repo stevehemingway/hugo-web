@@ -1,7 +1,7 @@
 ---
 title: Lazr
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/citron, analyst/spruce-point, focus/security, potential/short, sector/finance, short, thesis/fraud]
+tags: [analyst/citron-research, analyst/spruce-point-capital, focus/security, potential/short, sector/finance, thesis/fraud]
 type: stock
 ticker: LAZR
 draft: false

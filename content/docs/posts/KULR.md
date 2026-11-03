@@ -1,7 +1,7 @@
 ---
 title: KULR Technology Group
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, focus/security, potential/short, sector/batteries, short, thesis/accounting-fraud]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/batteries, thesis/accounting-fraud]
 type: stock
 ticker: KULR
 draft: false

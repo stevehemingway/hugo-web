@@ -1,7 +1,7 @@
 ---
 title: Mlnk
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/overlooked-alpha, focus/security, potential/short, sector/mining, short]
+tags: [analyst/overlooked-alpha, focus/security, potential/short, sector/mining]
 type: stock
 ticker: MLNK
 draft: false

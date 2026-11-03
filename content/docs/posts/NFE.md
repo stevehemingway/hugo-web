@@ -1,7 +1,7 @@
 ---
 title: New Fortress Energy
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/me, focus/security, potential/short, short]
+tags: [analyst/me, focus/security, potential/short]
 type: stock
 ticker: NFE
 draft: false

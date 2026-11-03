@@ -1,7 +1,7 @@
 ---
 title: company_name
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/culpeper-research, focus/security, market/united-states, potential/short, short, thesis/fraud]
+tags: [analyst/culper-research, focus/security, market/united-states, potential/short, thesis/fraud]
 type: stock
 ticker: AXSM
 draft: false

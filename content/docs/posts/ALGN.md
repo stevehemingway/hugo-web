@@ -1,7 +1,7 @@
 ---
 title: Align Technology
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, market/united-states, potential/short, short]
+tags: [focus/security, market/united-states, potential/short]
 type: stock
 ticker: ALGN
 draft: false

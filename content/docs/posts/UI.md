@@ -1,7 +1,7 @@
 ---
 title: Ubiquity Inc
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/hunterbrook, focus/security, potential/long, sector/technology, thesis/moat]
+tags: [analyst/hunterbrook-media, focus/security, potential/long, sector/technology, thesis/moat]
 type: stock
 ticker: UI
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: CHEMRING
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/massif-capital, focus/security, market/uk, potential/long, sector/defence, thesis/moat]
+tags: [analyst/massif-capital-partners, focus/security, market/uk, potential/long, sector/defence, thesis/moat]
 type: stock
 ticker: CHG
 draft: false

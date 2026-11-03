@@ -1,7 +1,7 @@
 ---
 title: NuScale Power
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/iceberg-research, focus/security, potential/short, sector/generation, short, thesis/fraud]
+tags: [analyst/iceberg-research, focus/security, potential/short, sector/generation, thesis/fraud]
 type: stock
 ticker: SMR
 draft: false

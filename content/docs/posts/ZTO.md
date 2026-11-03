@@ -1,7 +1,7 @@
 ---
 title: Zto
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/grizzly-research, focus/security, potential/short, sector/finance, short, thesis/fraud]
+tags: [analyst/bear-cave, analyst/grizzly-research, focus/security, potential/short, sector/finance, thesis/fraud]
 type: stock
 ticker: ZTO
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Microstrategy Treasury
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/me, focus/security, potential/short, sector/ponzi, short, thesis/economics]
+tags: [analyst/me, focus/security, potential/short, sector/ponzi, thesis/economics]
 type: stock
 ticker: MSTY
 draft: false

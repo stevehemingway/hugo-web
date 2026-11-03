@@ -1,16 +1,14 @@
 ---
 title: Playstudio
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, long, potential/long, thesis/balance, thesis/buybacks, thesis/turnaround]
+tags: [focus/security, potential/long, thesis/balance, thesis/buybacks, thesis/turnaround, thesis/balance-sheet]
 type: stock
 ticker: MYPS
 draft: false
 ---
 # Playstudio 
 
-
 (link)[https://elmerspud.substack.com/p/frontrunning-the-biggest-little-buyback]
-
 
 Frontrunning the Biggest Little Buyback in History
 
@@ -54,9 +52,5 @@ If enough shares are retired at a low enough price it may become secondarily int
 For now, I’ve backed up the truck and, assuming management keeps their word, will be happy to sell them back their shares at 75 cents or $1 over the coming weeks/months.
 
 Disclosure: Long, microcap, and never investing advice.
-
-#long 
-#thesis/buybacks 
-#thesis/balance-sheet 
 
 *date 2026-05-30*

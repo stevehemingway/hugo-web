@@ -1,7 +1,7 @@
 ---
 title: White Castle
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/capybara-research, analyst/culpeper-research, analyst/culper-research, analyst/culper-research-and-capybara-research, focus/security, potential/short, sector/ai, sector/technology, short, thesis/none, thesis/fraud]
+tags: [analyst/capybara-research, analyst/culper-research, analyst/culper-research-and-capybara-research, focus/security, potential/short, sector/ai, sector/technology, thesis/notsure, thesis/fraud]
 type: stock
 ticker: SOUN
 draft: false

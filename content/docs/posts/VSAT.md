@@ -1,7 +1,7 @@
 ---
 title: Starlink
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/employees, short, thesis/politics]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/employees, thesis/politics]
 type: stock
 ticker: VSAT
 draft: false

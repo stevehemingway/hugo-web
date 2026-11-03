@@ -1,7 +1,7 @@
 ---
 title: The Tattooed Chef
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/blueskymngmt, focus/security, potential/short, sector/technology, short]
+tags: [analyst/blueskymngmt, focus/security, potential/short, sector/technology]
 type: stock
 ticker: TTCF
 draft: false

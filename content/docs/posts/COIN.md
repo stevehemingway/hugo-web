@@ -1,7 +1,7 @@
 ---
 title: Coinbase
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/finance, short, thesis/crypto]
+tags: [focus/security, potential/short, sector/finance, thesis/crypto]
 type: stock
 ticker: COIN
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: GigaCloud Technology
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/culpeper-research, focus/security, potential/short, sector/it, short, thesis/fraud]
+tags: [analyst/culper-research, focus/security, potential/short, sector/it, thesis/fraud]
 type: stock
 ticker: GCT
 draft: false

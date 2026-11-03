@@ -1,7 +1,7 @@
 ---
 title: Ottobock
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/grizzly, focus/security, market/germany, potential/short, short, thesis/risk]
+tags: [analyst/grizzly-research, focus/security, market/germany, potential/short, thesis/risk]
 type: stock
 ticker: OBCK
 draft: false
@@ -9,11 +9,6 @@ draft: false
 # Ottobock
 
 https://grizzlyreports.com/ottobock/
-
-#short 
-#analyst/grizzly-reports
-#thesis/risk 
-
 
 Ottobock SE & Co. KGaA (“Ottobock”) is a German-based, international market leader in orthopedic and prosthetic/orthotic technology that went public in Frankfurt in October 2025 at a total €3.8 billion equity valuation and about €808 million in IPO shares sold.
 Ottobock’s majority owner Hans Georg Näder (“Näder”) inherited the company from his family and reportedly attempted to IPO Ottobock since 2015. He has been leading the company since the 1990s and currently owns approximately 81% of Ottobock’s shares. Näder has an excessively lavish lifestyle and cash-consuming site projects, which caused him to extract more money from the company annually than it earned since at least 2011.

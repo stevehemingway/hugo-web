@@ -1,7 +1,7 @@
 ---
 title: Suareste Airports
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/ian, focus/security, market/united-states]
+tags: [analyst/ian-bezek, focus/security, market/united-states]
 type: stock
 ticker: ASR
 draft: false
@@ -11,8 +11,6 @@ draft: false
 Mexican airport group. 
 
 <https://open.substack.com/pub/ianbezek/p/asr-sureste-airports-soaring-to-50?r=57a252&utm_campaign=post-expanded-share&utm_medium=web>
-
-#analyst/ian-bezek  
 
 Summary: well-run group, new assets, gains at expense of nationalised airports. 
 

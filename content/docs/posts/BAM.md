@@ -1,7 +1,7 @@
 ---
 title: Brookfield Asset Management
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/private-equity, short, thesis/mark-to-fantasy]
+tags: [focus/security, potential/short, sector/private-equity, thesis/mark-to-fantasy]
 type: stock
 ticker: BAM
 draft: false

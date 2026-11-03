@@ -1,7 +1,7 @@
 ---
 title: Icahn Enterprises
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg, focus/security, potential/short, potential/short-thesis/overextended-analyst/hindenberg-research-thesis/dilution, sector/technology, short, thesis/overextended, thesis/turnaround]
+tags: [analyst/hindenburg, focus/security, potential/short, potential/short-thesis/overextended-analyst/hindenberg-research-thesis/dilution, sector/technology, thesis/overextended, thesis/turnaround]
 type: stock
 ticker: IEP
 draft: false

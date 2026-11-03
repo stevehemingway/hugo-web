@@ -1,7 +1,7 @@
 ---
 title: Golden Heaven Group Holdings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg-research, focus/security, potential/short, sector/leisure, short, thesis/fraud]
+tags: [analyst/hindenburg-research, focus/security, potential/short, sector/leisure, thesis/fraud]
 type: stock
 ticker: GDHG
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Free
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/retail, short, thesis/resignations]
+tags: [focus/security, potential/short, sector/retail, thesis/resignations]
 type: stock
 ticker: FREE
 draft: false

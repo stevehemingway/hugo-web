@@ -1,7 +1,7 @@
 ---
 title: Avwn
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/glasshouse-research, focus/security, market/usa, potential/short, short]
+tags: [analyst/glasshouse-research, focus/security, market/usa, potential/short]
 type: stock
 ticker: AVWN
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Trustpilot
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hithawk, focus/security, potential/short, sector/media, short, thesis/fraud]
+tags: [analyst/hithawk-research, focus/security, potential/short, sector/media, thesis/fraud]
 type: stock
 ticker: TRST
 draft: false

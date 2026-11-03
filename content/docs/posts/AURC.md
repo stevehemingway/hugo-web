@@ -1,7 +1,7 @@
 ---
 title: 'Aurora Acquisition Corp: death by dilution'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/guasty-winds, focus/security, market/united-states, potential/short, sector/aurora-acquisition-corp, short, thesis/dilution]
+tags: [analyst/guasty-winds, focus/security, market/united-states, potential/short, sector/aurora-acquisition-corp, thesis/dilution]
 type: stock
 ticker: AURC
 draft: false

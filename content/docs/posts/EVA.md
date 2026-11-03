@@ -1,7 +1,7 @@
 ---
 title: Eva
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/blue-orca, focus/security, potential/short, sector/finance, short, source/bear-cave]
+tags: [analyst/bear-cave, analyst/blue-orca-capital, focus/security, potential/short, sector/finance]
 type: stock
 ticker: EVA
 draft: false

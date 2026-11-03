@@ -1,7 +1,7 @@
 ---
 title: Waitr
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/restrinct, focus/security, potential/short, sector/transportation, short, thesis/moribund]
+tags: [analyst/restrinct, focus/security, potential/short, sector/transportation, thesis/moribund]
 type: stock
 ticker: WTRH
 draft: false

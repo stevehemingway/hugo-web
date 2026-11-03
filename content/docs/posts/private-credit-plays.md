@@ -1,7 +1,7 @@
 ---
 title: Private Credit & AI Infrastructure Plays
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/theme, potential/short, sector/technology, theme, thesis/private-credit-is-toast]
+tags: [analyst/me, focus/theme, potential/short, sector/technology, thesis/private-credit-is-toast]
 type: note
 draft: false
 ---

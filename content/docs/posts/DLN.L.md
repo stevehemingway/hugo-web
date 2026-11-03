@@ -1,7 +1,7 @@
 ---
 title: Derwent London PLC
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, market/london, market/uk, potential/long, sector/real-estate, sector/technology, thesis/value]
+tags: [focus/security, market/london, market/uk, potential/long, sector/reit, sector/technology, thesis/value]
 type: stock
 ticker: DLN
 draft: false

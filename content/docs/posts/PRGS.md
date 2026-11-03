@@ -1,7 +1,7 @@
 ---
 title: Progress Software
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/it, short, thesis/product]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/it, thesis/product]
 type: stock
 ticker: PRGS
 draft: false

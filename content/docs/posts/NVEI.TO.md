@@ -1,7 +1,7 @@
 ---
 title: Nuvei Corp.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point, analyst/spruce-point-capital, focus/security, market/canada, potential/short, sector/finance, short, thesis/fraud]
+tags: [analyst/spruce-point-capital, focus/security, market/canada, potential/short, sector/finance, thesis/fraud]
 type: stock
 ticker: NVEI
 draft: false

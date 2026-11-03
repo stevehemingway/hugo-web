@@ -1,7 +1,7 @@
 ---
 title: WSP Global Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, market/canada, potential/short, sector/consulting, short, thesis/accounting-fraud]
+tags: [analyst/spruce-point-capital, focus/security, market/canada, potential/short, sector/consulting, thesis/accounting-fraud]
 type: stock
 ticker: WSP
 draft: false

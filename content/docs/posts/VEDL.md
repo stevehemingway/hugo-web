@@ -1,7 +1,7 @@
 ---
 title: Vedanta
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/viceroy-research, focus/security, potential/short, sector/conglomerate, short, thesis/fraud]
+tags: [analyst/viceroy-research, focus/security, potential/short, sector/conglomerate, thesis/fraud]
 type: stock
 ticker: VEDL
 draft: false

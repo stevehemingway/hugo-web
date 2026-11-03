@@ -1,7 +1,7 @@
 ---
 title: Enovis 
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/medical-technology, short, thesis/economics]
+tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/medical-technology, thesis/economics]
 type: stock
 ticker: ENOV
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Adaptive Health
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, market/united-states, potential/short, sector/healthcare, short]
+tags: [focus/security, market/united-states, potential/short, sector/healthcare]
 type: stock
 ticker: AHCO
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Real Estate Stocks
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, potential/short, sector/real-estate]
+tags: [focus/security, potential/long, potential/short, sector/reit]
 type: stock
 ticker: REAL
 draft: false

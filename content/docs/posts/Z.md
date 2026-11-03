@@ -1,7 +1,7 @@
 ---
 title: Zillow Group
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/services, short, thesis/economics]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/services, thesis/economics]
 type: stock
 ticker: Z
 draft: false

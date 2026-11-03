@@ -1,7 +1,7 @@
 ---
 title: Qs
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/scorpion, focus/security, potential/short, sector/spac, short]
+tags: [analyst/scorpion-capital, focus/security, potential/short, sector/spac]
 type: stock
 ticker: QS
 draft: false

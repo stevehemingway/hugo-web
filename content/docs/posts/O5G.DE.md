@@ -1,7 +1,7 @@
 ---
 title: CPI Property Group
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters, market/germany, potential/short, sector/real-estate, thesis/fraud]
+tags: [analyst/muddy-waters-capital, market/germany, potential/short, sector/reit, thesis/fraud]
 type: note
 draft: false
 ---

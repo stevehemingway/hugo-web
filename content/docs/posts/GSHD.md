@@ -1,7 +1,7 @@
 ---
 title: Gshd
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/wolfpack, analyst/wolfpack-research, focus/security, potential/short, short, thesis/fraud]
+tags: [analyst/wolfpack-research, focus/security, potential/short, thesis/fraud]
 type: stock
 ticker: GSHD
 draft: false

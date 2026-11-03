@@ -1,7 +1,7 @@
 ---
 title: R1 RCM
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/health-admin, short, thesis/fraud]
+tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/health-admin, thesis/fraud]
 type: stock
 ticker: RCM
 draft: false

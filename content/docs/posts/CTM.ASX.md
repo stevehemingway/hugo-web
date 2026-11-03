@@ -1,7 +1,7 @@
 ---
 title: Centaurus Metals
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/massif-capital, focus/security, market/australia, potential/long, sector/materials, thesis/nickel]
+tags: [analyst/massif-capital-partners, focus/security, market/australia, potential/long, sector/materials, thesis/nickel]
 type: stock
 ticker: CTM
 draft: false

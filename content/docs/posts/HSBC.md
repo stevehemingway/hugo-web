@@ -1,7 +1,7 @@
 ---
 title: Hong Kong and Shanghai Bank
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, market/hong-kong, potential/long, sector/technology, short]
+tags: [focus/security, market/hong-kong, potential/long, sector/technology, potential/short]
 type: stock
 ticker: HSBC
 draft: false

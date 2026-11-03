@@ -1,7 +1,7 @@
 ---
 title: Hercules Capital
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/edwin-dorsey, focus/security, potential/short, problem/unborrowable, sector/finance, short, thesis/fraud]
+tags: [analyst/bear-cave, analyst/edwin-dorsey, focus/security, potential/short, problem/unborrowable, sector/finance, thesis/fraud]
 type: stock
 ticker: HTGC
 draft: false

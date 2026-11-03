@@ -1,7 +1,7 @@
 ---
 title: Enovix
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/pig-farmer-capital, focus/security, potential/short, sector/finance, short]
+tags: [analyst/pig-farmer-capital, focus/security, potential/short, sector/finance]
 type: stock
 ticker: ENVX
 draft: false

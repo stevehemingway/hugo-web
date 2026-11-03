@@ -1,7 +1,7 @@
 ---
 title: Marine Products Corporation
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, macroeconomics, potential/short, sector/retail, short]
+tags: [focus/security, macroeconomics, potential/short, sector/retail]
 type: stock
 ticker: MPX
 draft: false

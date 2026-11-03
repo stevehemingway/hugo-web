@@ -1,7 +1,7 @@
 ---
 title: Main Street Capital
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/shadow-banking, short, thesis/fraud]
+tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/shadow-banking, thesis/fraud]
 type: stock
 ticker: MAIN
 draft: false

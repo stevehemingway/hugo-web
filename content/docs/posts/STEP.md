@@ -1,7 +1,7 @@
 ---
 title: Stepstone ($STEP)
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/hunterbrook, focus/security, short]
+tags: [analyst/hunterbrook-media, focus/security, potential/short]
 type: stock
 ticker: STEP
 draft: false
@@ -23,8 +23,5 @@ The gains underpinning those fees are mostly paper and largely unverifiable. In 
 To pay the bill, StepStone seemingly must dilute shareholders, issue debt, or both — with an SPW liability that has already pushed the book value below zero. Management has said the deal will be paid for “largely” in stock, likely devaluing existing shares by about a fifth, with the rest owed in cash it says it may raise in debt. StepStone told Hunterbrook in its statement that it “will be able to meet the cash requirements,” funding the cash portion through “cash on the balance sheet, future operating cash flow, capacity on our revolving credit facility, and flexibility to raise capital.” It also noted: “We remain in continuous dialogue with CH Equity Partners LLC, and we believe that we will be able to meet the cash requirements for settlement of the liability, should they decide to exercise the put option.”
 
 StepStone defended the transaction in a detailed response to Hunterbrook. The company says the buyout is priced at a discount to StepStone’s own trading multiple, that SPRING’s marks are reviewed by external auditors and a third-party valuation agent under an independent board, and that the economics are held by an entity — CH Equity Partners LLC — whose ownership is aligned with the interests of the overall company. On its marks, StepStone has said gains may be “unrealized,” but “that does not make it unreal.”
-
-#analyst/hunterbrook-media
-#short
 
 date: 2026-07

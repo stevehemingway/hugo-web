@@ -1,7 +1,7 @@
 ---
 title: Mercedes Benz Group
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/ben-graham, date/2023-04-14, focus/security, market/germany, potential/long, sector/retail, thesis/ev-transition, thesis/luxury]
+tags: [analyst/ben-graham, focus/security, market/germany, potential/long, sector/retail, thesis/ev-transition, thesis/luxury]
 type: stock
 ticker: MBG
 draft: false

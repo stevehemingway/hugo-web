@@ -1,7 +1,7 @@
 ---
 title: Amprius Technologies
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/manatee, focus/security, market/united-states, potential/short, short]
+tags: [analyst/manatee-research, focus/security, market/united-states, potential/short]
 type: stock
 ticker: AMTX
 draft: false
@@ -14,5 +14,3 @@ Manatee Research published on Amprius Technologies (NYSE: AMPX — $2.31 billion
 
 [Manatee web report](https://manateeresearch.com/2026/05/20/amprius-technologies-exaggerated-orders-hollow-manufacturing/)
 
-#short 
-#analyst/manatee-research

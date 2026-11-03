@@ -1,7 +1,7 @@
 ---
 title: FTAI Infrastructure
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/snowcap-research, focus/security, potential/short, sector/infrastructure, short, thesis/fraud]
+tags: [analyst/snowcap-research, focus/security, potential/short, sector/infrastructure, thesis/fraud]
 type: stock
 ticker: FIP
 draft: false

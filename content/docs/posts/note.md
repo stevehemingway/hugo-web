@@ -1,7 +1,7 @@
 ---
 title: Note
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/wolfpack, focus/security, focus/theme, potential/short, sector/finance, short]
+tags: [analyst/wolfpack-research, focus/security, focus/theme, potential/short, sector/finance]
 type: note
 draft: false
 ---

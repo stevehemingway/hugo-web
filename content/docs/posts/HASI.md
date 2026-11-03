@@ -1,7 +1,7 @@
 ---
 title: Hannon Armstrong Sustainable Infrastructure Capital
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/muddy-waters, focus/security, potential/short, sector/finance, short]
+tags: [analyst/muddy-waters-capital, focus/security, potential/short, sector/finance]
 type: stock
 ticker: HASI
 draft: false

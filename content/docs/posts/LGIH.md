@@ -1,7 +1,7 @@
 ---
 title: LGI Homes
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/hunterbrook, focus/security, potential/long, sector/homebuilding, thesis/short-thesis]
+tags: [analyst/hunterbrook-media, focus/security, potential/long, sector/homebuilding, thesis/short-thesis]
 type: stock
 ticker: LGIH
 draft: false

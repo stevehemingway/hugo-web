@@ -1,7 +1,7 @@
 ---
 title: Plug Power Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hunterbrook, focus/security, market/united-states, potential/short, sector/green-energy, short, thesis/economics]
+tags: [analyst/hunterbrook-media, focus/security, market/united-states, potential/short, sector/green-energy, thesis/economics]
 type: stock
 ticker: PLUG
 draft: false

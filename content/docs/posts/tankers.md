@@ -1,7 +1,7 @@
 ---
 title: Tanker Operators - Overview
 date: '2026-10-08T16:11:55+01:00'
-tags: [long, potential/long]
+tags: [potential/long]
 type: note
 draft: false
 ---
@@ -43,4 +43,3 @@ Main publicly traded tanker operators, organized by vessel type and primary list
 - Most companies are incorporated in **Bermuda or Monaco** for tax reasons but trade on US exchanges
 - Many operate on **spot markets** (volatile earnings) + **time charters** (predictable cash flow)
 
-#long

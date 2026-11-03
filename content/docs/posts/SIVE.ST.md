@@ -1,7 +1,7 @@
 ---
 title: Sivers Semiconductors
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/ningni, focus/security, potential/short, short, thesis/fraud]
+tags: [analyst/ningi-research, focus/security, potential/short, thesis/fraud]
 type: stock
 ticker: SIVE
 draft: false
@@ -14,9 +14,5 @@ We are short Sivers Semiconductors (SIVE.ST), because, in our opinion, a retail-
 We think the accounting restatements show that Sivers’ management is willing to make claims that collapse under scrutiny. Even after the restatement, at least SEK 97M (31%) of Sivers’ 2025 revenue is dubious; propped up only by a completely rewritten accounting policy and IFRS violations. The company is recognizing revenue on products it hasn't even produced yet, or from government R&D subsidies.
 
 In the end, Sivers has a long history of cranking out announcements that go nowhere. The same script played out with its touted US listing. After restating three years of financials allegedly for that purpose, Sivers management has since delayed a US listing due to “market timing.”
-
-#short 
-#thesis/fraud 
-#analyst/ningni-research
 
 date: 2026-05-02 

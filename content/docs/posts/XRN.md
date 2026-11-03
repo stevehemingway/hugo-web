@@ -1,7 +1,7 @@
 ---
 title: Xrn
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/orphan, focus/security, long, potential/long]
+tags: [analyst/orphan-reits, focus/security, potential/long]
 type: stock
 ticker: XRN
 draft: false
@@ -39,9 +39,5 @@ Here's the overview of **Chiron Real Estate Inc. (NYSE: XRN)** — formerly Glob
 - Execution risk on the seniors-housing pivot: Riviera is still in lease-up (26% occupied at end of July), so the SHOP portfolio is a couple of years from stabilization.
 - The $43 conversion price on the preferred is a useful marker — it's ~19% above the current share price.
 
-
 <https://orphanreits.substack.com/p/chiron-published-its-own-discount>
-
-#long 
-#analyst/orphan-reits  
 

@@ -1,7 +1,7 @@
 ---
 title: $WRTG
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point, analyst/sprucepoint-capital, focus/security, potential/short, sector/technology, short, thesis/fraud]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/technology, thesis/fraud]
 type: stock
 ticker: WRTG
 draft: false

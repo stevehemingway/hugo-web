@@ -1,7 +1,7 @@
 ---
 title: Hele
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/cohodes, focus/security, potential/short, sector/retail, short, thesis/fraud, thesis/roll-up]
+tags: [analyst/cohodes, focus/security, potential/short, sector/retail, thesis/fraud, thesis/roll-up]
 type: stock
 ticker: HELE
 draft: false

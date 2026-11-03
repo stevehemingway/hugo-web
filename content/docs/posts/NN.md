@@ -1,7 +1,7 @@
 ---
 title: NextNav
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bleeker-street-research, analyst/bleeker-street-research-and-night-market-research, analyst/night-market-research, focus/security, potential/short, sector/tech, short, thesis/competition]
+tags: [analyst/bleecker-street-research, analyst/bleeker-street-research-and-night-market-research, analyst/night-market-research, focus/security, potential/short, sector/tech, thesis/competition]
 type: stock
 ticker: NN
 draft: false

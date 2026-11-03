@@ -1,7 +1,7 @@
 ---
 title: SVRN, Inc. (formerly OceanPal Inc.) — Fugazi Research Note Summary
 date: '2026-10-13T09:58:58+01:00'
-tags: [focus/security, potential/short]
+tags: [focus/security, potential/short, analyst/fugazi-research]
 type: stock
 ticker: SVRN
 draft: false
@@ -60,6 +60,4 @@ SVRN isn't an AI infrastructure or digital-asset company — it's a small shippi
 Fugazi's argument: common holders are paying full value for a wrapper controlled by insiders and the token issuer, with an unfinished audit, a 27 Oct 2026 delisting cliff, and a largest-holder resale path that opens the moment the audit lands. Ends with a standard "not investment advice; we may hold positions" disclaimer.
 
 One note: this is a **single short-biased newsletter's opinion**, not an audited document — worth treating as an argument to verify against the underlying SEC filings rather than settled fact.
-
-#analyst/fugazi-research
 

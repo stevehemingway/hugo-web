@@ -1,7 +1,7 @@
 ---
 title: Home L
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/boatman-capital, analyst/viceroy-research, focus/security, market/london, market/uk, potential/short, sector/real-estate, short, thesis/fraud]
+tags: [analyst/boatman-capital, analyst/viceroy-research, focus/security, market/london, market/uk, potential/short, sector/reit, thesis/fraud]
 type: stock
 ticker: HOME
 draft: false

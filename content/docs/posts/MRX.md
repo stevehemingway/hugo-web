@@ -1,7 +1,7 @@
 ---
 title: Marex Group plc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/ningni-research, focus/security, potential/short, sector/financial, short, thesis/fraud]
+tags: [analyst/ningi-research, focus/security, potential/short, sector/financial, thesis/fraud]
 type: stock
 ticker: MRX
 draft: false

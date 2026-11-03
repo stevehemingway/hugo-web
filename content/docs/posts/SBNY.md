@@ -1,7 +1,7 @@
 ---
 title: Signature Bank
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/dirty-media-bubble, focus/security, potential/short, result/winner, sector/finance, short]
+tags: [analyst/bear-cave, analyst/dirty-media-bubble, focus/security, potential/short, result/winner, sector/finance]
 type: stock
 ticker: SBNY
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Ai
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/kerrisdale-capital, analyst/spruce-point, analyst/spruce-point-capital, focus/security, market/united-states, potential/short, sector/technology, short, thesis/fraud]
+tags: [analyst/kerrisdale-capital, analyst/spruce-point-capital, focus/security, market/united-states, potential/short, sector/technology, thesis/fraud]
 type: stock
 ticker: AI
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Everspin Technologies
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/kerrisdale, focus/security, potential/short, short]
+tags: [analyst/kerrisdale-capital, focus/security, potential/short]
 type: stock
 ticker: MRAM
 draft: false
@@ -12,5 +12,3 @@ Kerrisdale Capital published on Everspin Technologies (NASDAQ: MRAM — $790 mil
 
 “Despite lacking the growth, scale, and strategic positioning of real AI memory beneficiaries, MRAM now trades at an absurd ~10x ’27E sales and ~38x ’27E EBITDA. Meanwhile, actual AI memory winners trade at lower multiples despite dramatically faster growth.”
 
-#short 
-#analyst/kerrisdale-capital

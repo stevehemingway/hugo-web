@@ -1,7 +1,7 @@
 ---
 title: International Seaways
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/mintzmeyer, focus/security, potential/long, sector/mining, sector/shipping, thesis/cheap]
+tags: [analyst/j-mintzmyer, focus/security, potential/long, sector/mining, sector/shipping, thesis/cheap]
 type: stock
 ticker: INSW
 draft: false
