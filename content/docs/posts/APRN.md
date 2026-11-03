@@ -6,3 +6,5 @@ type: stock
 ticker: APRN
 draft: false
 ---
+
+Blue Apron Holdings was a US meal-kit company that shipped pre-portioned recipe ingredients directly to subscribers, one of the first to take the model public in 2017. It never escaped the structural problem of the sector: heavy customer acquisition spend, high churn, and per-order economics that stayed negative or near zero even at scale. The company sold its infrastructure and operations to Wonder Group in 2023 for a fraction of its peak valuation, leaving shareholders with effectively nothing.

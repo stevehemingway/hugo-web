@@ -1,7 +1,7 @@
 ---
 title: Leonardo
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/mare-labs, focus/security, market/italy, market/milan, potential/long, sector/retail, thesis/defence]
+tags: [analyst/mare-research, focus/security, market/italy, market/milan, potential/long, sector/retail, thesis/defence]
 type: stock
 ticker: LDO
 draft: false
