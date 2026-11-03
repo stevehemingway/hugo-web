@@ -5,7 +5,6 @@ tags: [focus/security]
 type: note
 draft: false
 ---
-thesis: european defence spending.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

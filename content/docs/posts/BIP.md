@@ -24,6 +24,5 @@ https://open.substack.com/pub/dfresearch/p/bip-the-quiet-collapse?r=nmbt&utm_cam
 
 2026-01-30 USD 36.15
 
-thesis: aggressive-accounting
 analyst: df-research
 sector: infrastructure

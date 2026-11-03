@@ -31,7 +31,6 @@ Keith Dalrymple of DF Research published on RXO Inc (NYSE: RXO — $2.87 billion
 =======
 
 ---
-thesis: economics
 analyst: keith-dalryple
 sector: freight-forwarding
 ---

@@ -5,7 +5,6 @@ draft: false
 tags: [potential/short, analyst/pelican-bay-research, thesis/special-situation, sector/solar]
 categories: ["stocks"]
 tickers: ["SHLS"]
-thesis: short
 analyst: pelican-way-research
 sector: solar
 latest_change: 2026-10-28
