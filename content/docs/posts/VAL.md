@@ -1,7 +1,7 @@
 ---
 title: Val
 date: '2026-10-21T16:27:59+01:00'
-tags: [analyst/praetorian-capital, focus/security, potential/long, potential/short, thesis/spx-inclusion]
+tags: [analyst/praetorian-capital, focus/security, potential/long, potential/short, thesis/special-situation]
 type: stock
 ticker: VAL
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Pershing Square Holdings
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, thesis/sad-ackerman]
+tags: [focus/security, potential/long, thesis/management]
 type: stock
 ticker: PSH
 draft: false

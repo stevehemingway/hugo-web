@@ -1,7 +1,7 @@
 ---
 title: Thermo Fisher Scientific Inc.
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, sector/biotech, sector/technology, thesis/platform, thesis/undervalued]
+tags: [focus/security, potential/long, sector/biotech, sector/technology, thesis/moat, thesis/cheap]
 type: stock
 ticker: TMO
 draft: false

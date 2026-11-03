@@ -1,7 +1,7 @@
 ---
 title: Ammo Inc.
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, sector/healthcare, thesis/civil-unrest]
+tags: [focus/security, potential/long, sector/healthcare, thesis/politics]
 type: stock
 ticker: POWW
 draft: false

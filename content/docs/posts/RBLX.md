@@ -1,7 +1,7 @@
 ---
 title: Roblox
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg-research, focus/security, market/nyse, potential/short, sector/gaming, thesis/reputation, analyst/bleecker-street-research]
+tags: [analyst/hindenburg-research, focus/security, market/nyse, potential/short, sector/gaming, thesis/management, analyst/bleecker-street-research]
 type: stock
 ticker: RBLX
 draft: false

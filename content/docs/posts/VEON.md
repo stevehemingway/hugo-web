@@ -1,7 +1,7 @@
 ---
 title: VEON Ltd.
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/nutstuff, focus/security, potential/long, sector/retail, thesis/value]
+tags: [analyst/nutstuff, focus/security, potential/long, sector/retail, thesis/cheap]
 type: stock
 ticker: VEON
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Stride
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, thesis/overvalued]
+tags: [focus/security, potential/short, thesis/value]
 type: stock
 ticker: LRN
 draft: false

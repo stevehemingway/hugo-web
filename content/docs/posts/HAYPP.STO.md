@@ -1,7 +1,7 @@
 ---
 title: HAYPP Group
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/rogue-funds, focus/security, market/sweden, potential/long, sector/retailing, thesis/economics]
+tags: [analyst/rogue-funds, focus/security, market/sweden, potential/long, sector/retailing, thesis/macro]
 type: stock
 ticker: HAYPP
 draft: false

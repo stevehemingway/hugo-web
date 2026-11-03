@@ -1,7 +1,7 @@
 ---
 title: Vertiv Holdings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, focus/security, potential/short, sector/technology, thesis/fraud, thesis/optimism]
+tags: [analyst/bear-cave, focus/security, potential/short, sector/technology, thesis/fraud, thesis/sentiment]
 type: stock
 ticker: VRT
 draft: false

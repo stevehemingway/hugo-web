@@ -1,7 +1,7 @@
 ---
 title: Uk Housebuilders
 date: '2026-10-08T16:11:55+01:00'
-tags: [potential/long, thesis/cyclical]
+tags: [potential/long, thesis/growth]
 type: note
 draft: false
 ---

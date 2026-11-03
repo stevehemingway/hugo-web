@@ -1,7 +1,7 @@
 ---
 title: Hello Group
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, focus/security, potential/short, sector/healthcare, thesis/resignations]
+tags: [analyst/bear-cave, focus/security, potential/short, sector/healthcare, thesis/management]
 type: stock
 ticker: MOMO
 draft: false

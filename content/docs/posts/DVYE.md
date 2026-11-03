@@ -1,7 +1,7 @@
 ---
 title: iShares Emerging Markets Dividend ETF
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/jared-dillian, sector/etf, focus/security, potential/long, sector/mining, thesis/commodities]
+tags: [analyst/jared-dillian, sector/etf, focus/security, potential/long, sector/mining, thesis/commodity]
 type: stock
 ticker: DVYE
 draft: false

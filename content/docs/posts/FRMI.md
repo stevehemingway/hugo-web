@@ -1,7 +1,7 @@
 ---
 title: Fermi
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/fuzzy-panda-research, focus/security, thesis/economics]
+tags: [analyst/fuzzy-panda-research, focus/security, thesis/macro]
 type: stock
 ticker: FRMI
 draft: false

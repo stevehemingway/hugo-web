@@ -1,7 +1,7 @@
 ---
 title: ProPetro Holding Corp
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/guasty-winds, focus/security, potential/long, sector/oilfield-services, thesis/asymmetric]
+tags: [analyst/guasty-winds, focus/security, potential/long, sector/oilfield-services, thesis/value]
 type: stock
 ticker: PUMP-US
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Daqo New Energy Corp
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/wasteland-capital, focus/security, potential/long, sector/solar, thesis/solar]
+tags: [analyst/wasteland-capital, focus/security, potential/long, sector/solar, thesis/energy]
 type: stock
 ticker: DQ
 draft: false

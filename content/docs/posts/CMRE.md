@@ -1,7 +1,7 @@
 ---
 title: Costamare Inc.
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/rogue-funds, focus/security, potential/long, sector/bulk-shipping, thesis/cyclical, thesis/value]
+tags: [analyst/rogue-funds, focus/security, potential/long, sector/bulk-shipping, thesis/growth, thesis/cheap]
 type: stock
 ticker: CMRE
 draft: false

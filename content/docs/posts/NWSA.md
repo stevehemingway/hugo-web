@@ -1,7 +1,7 @@
 ---
 title: News Corp
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/scrooge-capital, focus/security, potential/long, sector/media, thesis/undervalued]
+tags: [analyst/scrooge-capital, focus/security, potential/long, sector/media, thesis/cheap]
 type: stock
 ticker: NWSA
 draft: false

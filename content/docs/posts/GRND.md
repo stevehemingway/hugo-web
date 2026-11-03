@@ -1,7 +1,7 @@
 ---
 title: Grindr Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/ningi-research, focus/security, potential/long, potential/short, sector/dating, thesis/economics, thesis/moat]
+tags: [analyst/ningi-research, focus/security, potential/long, potential/short, sector/dating, thesis/macro, thesis/moat]
 type: stock
 ticker: GRND
 draft: false

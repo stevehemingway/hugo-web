@@ -1,7 +1,7 @@
 ---
 title: Rimini Street
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/rogue-funds, focus/security, potential/long, sector/technology, thesis/misunderstood, thesis/undervalued]
+tags: [analyst/rogue-funds, focus/security, potential/long, sector/technology, thesis/management, thesis/cheap]
 type: stock
 ticker: RMNI
 draft: false

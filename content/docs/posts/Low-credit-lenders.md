@@ -1,7 +1,7 @@
 ---
 title: 'Thesis: lending to people who have no money is bad business'
 date: '2026-10-21T16:27:59+01:00'
-tags: [potential/short, thesis/bad-loans]
+tags: [potential/short, thesis/debt]
 type: note
 draft: false
 ---

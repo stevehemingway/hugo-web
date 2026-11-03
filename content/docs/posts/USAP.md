@@ -1,7 +1,7 @@
 ---
 title: Universal Stainless
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/manufacturing, thesis/legal-claims]
+tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/manufacturing, thesis/legal]
 type: stock
 ticker: USAP
 draft: false

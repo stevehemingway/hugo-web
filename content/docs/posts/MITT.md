@@ -1,7 +1,7 @@
 ---
 title: AG Mortage Investment Trust
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/reit, thesis/rising-rates]
+tags: [focus/security, potential/short, sector/reit, thesis/macro]
 type: stock
 ticker: MITT
 draft: false

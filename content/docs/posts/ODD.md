@@ -1,7 +1,7 @@
 ---
 title: Oddity
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/advertising, thesis/misrepresentation]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/advertising, thesis/fraud]
 type: stock
 ticker: ODD
 draft: false

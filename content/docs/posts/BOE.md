@@ -1,7 +1,7 @@
 ---
 title: Boss Resources Ltd.
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, potential/long, sector/miners, thesis/uranium]
+tags: [analyst/me, focus/security, potential/long, sector/miners, thesis/commodity]
 type: stock
 ticker: BOE
 draft: false

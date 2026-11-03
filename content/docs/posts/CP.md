@@ -1,7 +1,7 @@
 ---
 title: Canadian Pacific
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, sector/finance, thesis/market-power, thesis/monopoly]
+tags: [focus/security, potential/long, sector/finance, thesis/moat]
 type: stock
 ticker: CP
 draft: false

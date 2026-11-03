@@ -1,7 +1,7 @@
 ---
 title: Monster Beverage Corp
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/fmcg, thesis/economics]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/fmcg, thesis/macro]
 type: stock
 ticker: MNST
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Blog collection
 date: '2026-10-21T16:27:59+01:00'
-tags: [potential/short, thesis/monopoly, focus/research-aggregation]
+tags: [potential/short, thesis/moat, focus/research-aggregation]
 type: note
 draft: false
 ---

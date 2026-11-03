@@ -1,7 +1,7 @@
 ---
 title: PacWest (and others)
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/marc-rubenstein, focus/security, potential/short, sector/finance, thesis/roll-up]
+tags: [analyst/marc-rubenstein, focus/security, potential/short, sector/finance, thesis/special-situation]
 type: stock
 ticker: PACW
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Meta might be going down
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, market/united-states, potential/long, sector/energy, potential/short, thesis/monopoly]
+tags: [focus/security, market/united-states, potential/long, sector/energy, potential/short, thesis/moat]
 type: stock
 ticker: META
 draft: false

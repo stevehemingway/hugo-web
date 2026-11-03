@@ -1,7 +1,7 @@
 ---
 title: Driven Brands
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/daily-shot, focus/security, potential/long, sector/retail, thesis/tariffs]
+tags: [analyst/daily-shot, focus/security, potential/long, sector/retail, thesis/macro]
 type: stock
 ticker: DRVN
 draft: false

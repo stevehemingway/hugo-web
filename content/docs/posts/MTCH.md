@@ -1,7 +1,7 @@
 ---
 title: 'Match Group'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bristlemoon-capital, focus/security, potential/short, thesis/declining-revenue]
+tags: [analyst/bristlemoon-capital, focus/security, potential/short, thesis/decline]
 type: stock
 ticker: MTCH
 draft: false

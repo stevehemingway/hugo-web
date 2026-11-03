@@ -1,7 +1,7 @@
 ---
 title: Sandridge
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, sector/energy, sector/oil, thesis/coiled-spring]
+tags: [focus/security, potential/long, sector/energy, sector/oil, thesis/special-situation]
 type: stock
 ticker: SD
 draft: false

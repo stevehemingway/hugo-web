@@ -1,7 +1,7 @@
 ---
 title: Norway
 date: '2026-10-21T16:27:59+01:00'
-tags: [analyst/microinvestor, potential/long, thesis/fish]
+tags: [analyst/microinvestor, potential/long, thesis/commodity]
 type: note
 draft: false
 ---

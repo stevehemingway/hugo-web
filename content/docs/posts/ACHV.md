@@ -1,7 +1,7 @@
 ---
 title: Achieve Life Sciences
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/keith-dalrymple, focus/security, potential/long, sector/pharma, thesis/undervalued]
+tags: [analyst/keith-dalrymple, focus/security, potential/long, sector/pharma, thesis/cheap]
 type: stock
 ticker: ACHV
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Shark Ninja
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, focus/security, potential/short, sector/chinese-it, thesis/ramp, sector/china-it]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/chinese-it, thesis/special-situation, sector/china-it]
 type: stock
 ticker: SN
 draft: false

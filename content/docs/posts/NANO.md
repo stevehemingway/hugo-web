@@ -1,7 +1,7 @@
 ---
 title: Nano One Materials Corp.
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/blind-squirrel-research, focus/security, potential/long, sector/technology, thesis/ev-transition]
+tags: [analyst/blind-squirrel-research, focus/security, potential/long, sector/technology, thesis/energy]
 type: stock
 ticker: NANO
 draft: false

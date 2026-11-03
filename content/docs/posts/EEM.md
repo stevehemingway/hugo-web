@@ -1,7 +1,7 @@
 ---
 title: EEM emerging markets equity etf
 date: '2026-10-08T16:11:55+01:00'
-tags: [thesis/inflation, focus/security, potential/long, analyst/som-macro-strategies]
+tags: [thesis/macro, focus/security, potential/long, analyst/som-macro-strategies]
 type: stock
 ticker: EEM
 draft: false

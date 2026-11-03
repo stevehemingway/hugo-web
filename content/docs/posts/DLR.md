@@ -1,7 +1,7 @@
 ---
 title: Digital Realty Trust
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/me, focus/security, potential/short, thesis/expensive]
+tags: [analyst/me, focus/security, potential/short, thesis/value]
 type: stock
 ticker: DLR
 draft: false

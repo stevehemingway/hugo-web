@@ -1,7 +1,7 @@
 ---
 title: Flywire
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/long, potential/short, sector/technology, thesis/valuation]
+tags: [analyst/edwin-dorsey, focus/security, potential/long, potential/short, sector/technology, thesis/value]
 type: stock
 ticker: FLYW
 draft: false

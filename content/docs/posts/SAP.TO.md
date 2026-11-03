@@ -1,7 +1,7 @@
 ---
 title: Saputo
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, market/canada, potential/short, thesis/pension-liabilities]
+tags: [analyst/spruce-point-capital, focus/security, market/canada, potential/short, thesis/debt]
 type: stock
 ticker: SAP
 draft: false

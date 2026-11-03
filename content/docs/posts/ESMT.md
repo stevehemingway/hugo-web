@@ -1,7 +1,7 @@
 ---
 title: Esmt
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/vince-martin, focus/security, potential/long, sector/cloud, sector/technology, thesis/value]
+tags: [analyst/vince-martin, focus/security, potential/long, sector/cloud, sector/technology, thesis/cheap]
 type: stock
 ticker: ESMT
 draft: false

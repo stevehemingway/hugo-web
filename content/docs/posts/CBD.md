@@ -1,7 +1,7 @@
 ---
 title: Companhia Brasileira De Distribuição
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/clark-square-capital, focus/security, potential/long, sector/retail, thesis/sum-of-parts, thesis/undervalued]
+tags: [analyst/clark-square-capital, focus/security, potential/long, sector/retail, thesis/special-situation, thesis/cheap]
 type: stock
 ticker: CBD
 draft: false

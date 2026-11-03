@@ -1,7 +1,7 @@
 ---
 title: DoorDash
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/blind-squirrel-research, analyst/culper-research, focus/security, potential/short, sector/communication-services, thesis/economics]
+tags: [analyst/blind-squirrel-research, analyst/culper-research, focus/security, potential/short, sector/communication-services, thesis/macro]
 type: stock
 ticker: DASH
 draft: false

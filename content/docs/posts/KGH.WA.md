@@ -1,7 +1,7 @@
 ---
 title: KGHM
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, market/poland, potential/long, sector/mining, thesis/economics]
+tags: [analyst/me, focus/security, market/poland, potential/long, sector/mining, thesis/macro]
 type: stock
 ticker: KGH
 draft: false

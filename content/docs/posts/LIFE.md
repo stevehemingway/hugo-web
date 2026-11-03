@@ -1,7 +1,7 @@
 ---
 title: Ethos Technologies
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/insurance, thesis/moat, thesis/scam]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/insurance, thesis/moat, thesis/fraud]
 type: stock
 ticker: LIFE
 draft: false

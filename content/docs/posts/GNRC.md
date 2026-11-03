@@ -1,7 +1,7 @@
 ---
 title: Generac
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/healthcare, thesis/green-fraud]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/healthcare, thesis/fraud]
 type: stock
 ticker: GNRC
 draft: false

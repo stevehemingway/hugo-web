@@ -1,7 +1,7 @@
 ---
 title: Las Vegas Sands
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/energy, thesis/legal-crackdown]
+tags: [focus/security, potential/short, sector/energy, thesis/legal]
 type: stock
 ticker: LVS
 draft: false

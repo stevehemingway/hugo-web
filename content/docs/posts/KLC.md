@@ -1,7 +1,7 @@
 ---
 title: KinderCare Learning Companies
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/education, thesis/badly-run]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/education, thesis/management]
 type: stock
 ticker: KLC
 draft: false

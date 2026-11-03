@@ -1,7 +1,7 @@
 ---
 title: Alphatech
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, market/united-states, potential/short, sector/healthcare, thesis/technicals, thesis/value]
+tags: [focus/security, market/united-states, potential/short, sector/healthcare, thesis/special-situation, thesis/cheap]
 type: stock
 ticker: ATEC
 draft: false

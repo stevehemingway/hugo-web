@@ -1,7 +1,7 @@
 ---
 title: Strategy Stretch Preferred
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, potential/long, sector/preferred-stock, thesis/preferreds]
+tags: [analyst/me, focus/security, potential/long, sector/preferred-stock, thesis/debt]
 type: stock
 ticker: STRC
 draft: false

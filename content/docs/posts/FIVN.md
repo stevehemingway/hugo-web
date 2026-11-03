@@ -1,7 +1,7 @@
 ---
 title: Five9
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/it, thesis/economics]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/it, thesis/macro]
 type: stock
 ticker: FIVN
 draft: false

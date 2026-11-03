@@ -1,7 +1,7 @@
 ---
 title: Whitecap
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, sector/energy, thesis/oil, thesis/undervalued]
+tags: [focus/security, potential/long, sector/energy, thesis/energy, thesis/cheap]
 type: stock
 ticker: WCP
 draft: false

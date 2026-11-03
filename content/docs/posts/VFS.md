@@ -1,7 +1,7 @@
 ---
 title: VinFast
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/automotive, thesis/poor-product]
+tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/automotive, thesis/product]
 type: stock
 ticker: VFS
 draft: false

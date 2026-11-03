@@ -1,7 +1,7 @@
 ---
 title: Mdv
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/valuezoomer, thesis/high-conviction, focus/security, potential/long, sector/reit, thesis/economics]
+tags: [analyst/valuezoomer, thesis/value, focus/security, potential/long, sector/reit, thesis/macro]
 type: stock
 ticker: MDV
 draft: false

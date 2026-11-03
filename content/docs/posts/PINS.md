@@ -1,7 +1,7 @@
 ---
 title: Pinterest
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, focus/security, potential/short, sector/cmt, thesis/economics]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/cmt, thesis/macro]
 type: stock
 ticker: PINS
 draft: false

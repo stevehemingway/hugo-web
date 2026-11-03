@@ -1,7 +1,7 @@
 ---
 title: Shopify Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, market/united-states, potential/long, potential/short, sector/retail, thesis/crowded-sector, sector/technology]
+tags: [focus/security, market/united-states, potential/long, potential/short, sector/retail, thesis/competition, sector/technology]
 type: stock
 ticker: SHOP
 draft: false

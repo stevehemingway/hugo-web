@@ -1,7 +1,7 @@
 ---
 title: Nvidia Corp
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/me, focus/security, market/united-states, potential/short, sector/crypto, thesis/over-owned]
+tags: [analyst/me, focus/security, market/united-states, potential/short, sector/crypto, thesis/competition]
 type: stock
 ticker: NVDA
 draft: false

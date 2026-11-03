@@ -1,7 +1,7 @@
 ---
 title: Tmhc
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, thesis/cfo-departure]
+tags: [focus/security, potential/short, thesis/management]
 type: stock
 ticker: TMHC
 draft: false

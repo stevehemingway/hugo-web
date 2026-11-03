@@ -1,7 +1,7 @@
 ---
 title: Mercury General
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/wolfpack-research, focus/security, potential/short, sector/insurance, thesis/risks]
+tags: [analyst/wolfpack-research, focus/security, potential/short, sector/insurance, thesis/risk]
 type: stock
 ticker: MCY
 draft: false

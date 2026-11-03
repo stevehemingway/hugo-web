@@ -1,7 +1,7 @@
 ---
 title: Alphabet
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/bristlemoon-capital, focus/security, market/united-states, potential/long, sector/ai, thesis/underrated]
+tags: [analyst/bristlemoon-capital, focus/security, market/united-states, potential/long, sector/ai, thesis/management]
 type: stock
 ticker: GOOGL
 draft: false

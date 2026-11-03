@@ -1,7 +1,7 @@
 ---
 title: Oklo Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/energy, thesis/regulator-approval]
+tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/energy, thesis/legal]
 type: stock
 ticker: OKLO
 draft: false

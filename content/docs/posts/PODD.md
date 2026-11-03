@@ -1,7 +1,7 @@
 ---
 title: Insulet Corp.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/blue-orca-capital, focus/security, potential/long, potential/short, sector/medical-technology, thesis/legal, thesis/moat, thesis/monopoly, sector/medical-devices]
+tags: [analyst/blue-orca-capital, focus/security, potential/long, potential/short, sector/medical-technology, thesis/legal, thesis/moat, sector/medical-devices]
 type: stock
 ticker: PODD
 draft: false

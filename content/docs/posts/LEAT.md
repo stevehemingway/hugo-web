@@ -1,7 +1,7 @@
 ---
 title: Leat
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/guasty-winds, focus/security, potential/long, sector/consumer-discretionary, thesis/cyclical, thesis/monopoly, thesis/undervalued]
+tags: [analyst/guasty-winds, focus/security, potential/long, sector/consumer-discretionary, thesis/growth, thesis/moat, thesis/cheap]
 type: stock
 ticker: LEAT
 draft: false

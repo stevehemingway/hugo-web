@@ -1,7 +1,7 @@
 ---
 title: Nesn Sw
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, market/switzerland, potential/long, sector/energy, thesis/market-power]
+tags: [analyst/me, focus/security, market/switzerland, potential/long, sector/energy, thesis/moat]
 type: stock
 ticker: NESN
 draft: false

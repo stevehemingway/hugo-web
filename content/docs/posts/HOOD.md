@@ -1,7 +1,7 @@
 ---
 title: 'Robin Hood Markets'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/me, focus/security, market/united-states, potential/short, sector/fintech, thesis/market]
+tags: [analyst/me, focus/security, market/united-states, potential/short, sector/fintech, thesis/risk]
 type: stock
 ticker: HOOD
 draft: false

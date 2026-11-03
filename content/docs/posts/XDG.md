@@ -1,7 +1,7 @@
 ---
 title: SPX 50
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, potential/long, sector/etf, thesis/biggest-companies]
+tags: [analyst/me, focus/security, potential/long, sector/etf, thesis/value]
 type: stock
 ticker: XDG
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Lion Electric Inc
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/sunshine-research, focus/security, potential/short, sector/ev, thesis/safety, sector/electric-vehicles]
+tags: [analyst/sunshine-research, focus/security, potential/short, sector/ev, thesis/legal, sector/electric-vehicles]
 type: stock
 ticker: LEV
 draft: false

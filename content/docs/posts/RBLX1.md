@@ -1,7 +1,7 @@
 ---
 title: Roblox
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hindenburg-research, focus/security, potential/short, sector/gaming, thesis/reputation]
+tags: [analyst/hindenburg-research, focus/security, potential/short, sector/gaming, thesis/management]
 type: note
 draft: false
 updated: 2024-10-08

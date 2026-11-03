@@ -1,7 +1,7 @@
 ---
 title: Pine Cliff Energy Ltd.
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/unknown, focus/security, market/canada, potential/long, sector/energy, thesis/value]
+tags: [analyst/unknown, focus/security, market/canada, potential/long, sector/energy, thesis/cheap]
 type: stock
 ticker: PNE
 draft: false

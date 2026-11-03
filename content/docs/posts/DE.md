@@ -1,7 +1,7 @@
 ---
 title: John Deere and Company
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, sector/retail, thesis/softs]
+tags: [focus/security, potential/long, sector/retail, thesis/commodity]
 type: stock
 ticker: DE
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Vital Energy
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/bison-interests, focus/security, potential/long, sector/energy, sector/retail, thesis/undervalued]
+tags: [analyst/bison-interests, focus/security, potential/long, sector/energy, sector/retail, thesis/cheap]
 type: stock
 ticker: VTLE
 draft: false

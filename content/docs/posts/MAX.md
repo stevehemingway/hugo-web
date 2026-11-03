@@ -1,7 +1,7 @@
 ---
 title: 'MediaAlpha Stock: Absurdly Expensive'
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/finance, thesis/cyclical, analyst/vince-martin, thesis/value]
+tags: [focus/security, potential/short, sector/finance, thesis/growth, analyst/vince-martin, thesis/cheap]
 type: stock
 ticker: MAX
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Groupon Inc.
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/lauren-balik, focus/security, potential/short, sector/web-marketing, thesis/dubious-practice]
+tags: [analyst/lauren-balik, focus/security, potential/short, sector/web-marketing, thesis/fraud]
 type: stock
 ticker: GRPN
 draft: false

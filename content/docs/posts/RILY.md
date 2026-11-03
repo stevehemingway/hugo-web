@@ -1,7 +1,7 @@
 ---
 title: Riley Financial
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/friendly-bear, analyst/wolfpack-research, focus/security, potential/short, sector/finance, thesis/bad-lending]
+tags: [analyst/friendly-bear, analyst/wolfpack-research, focus/security, potential/short, sector/finance, thesis/debt]
 type: stock
 ticker: RILY
 draft: false

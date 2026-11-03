@@ -1,7 +1,7 @@
 ---
 title: 'European Wax Center: A Cyclical Short Even At The Lows'
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/vince-martin, focus/security, potential/short, thesis/cyclical]
+tags: [analyst/vince-martin, focus/security, potential/short, thesis/growth]
 type: stock
 ticker: EWCZ
 draft: false

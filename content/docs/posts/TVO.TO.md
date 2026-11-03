@@ -1,7 +1,7 @@
 ---
 title: Tamarack Valley Energy
 date: '2026-10-08T16:11:55+01:00'
-tags: [thesis/high-risk, focus/security, market/canada, potential/long, sector/finance, sector/oil]
+tags: [thesis/risk, focus/security, market/canada, potential/long, sector/finance, sector/oil]
 type: stock
 ticker: TVO
 draft: false

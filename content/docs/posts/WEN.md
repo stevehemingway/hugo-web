@@ -1,7 +1,7 @@
 ---
 title: The Wendy's Company
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, sector/consumer-cyclical, sector/retail, thesis/cyclical]
+tags: [focus/security, potential/long, sector/consumer-cyclical, sector/retail, thesis/growth]
 type: stock
 ticker: WEN
 draft: false

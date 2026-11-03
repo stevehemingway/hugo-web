@@ -2,7 +2,7 @@
 title: "Shoals Technologies Group Inc (SHLS)"
 date: 2026-10-28T13:51:53+00:00
 draft: false
-tags: [potential/short, analyst/pelican-bay-research, thesis/deals, sector/solar]
+tags: [potential/short, analyst/pelican-bay-research, thesis/special-situation, sector/solar]
 categories: ["stocks"]
 tickers: ["SHLS"]
 thesis: short

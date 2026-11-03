@@ -1,7 +1,7 @@
 ---
 title: AerCap
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/bristlemoon-capital, focus/security, market/united-states, potential/long, sector/aircraft-leasing, thesis/economics]
+tags: [analyst/bristlemoon-capital, focus/security, market/united-states, potential/long, sector/aircraft-leasing, thesis/macro]
 type: stock
 ticker: AER
 draft: false

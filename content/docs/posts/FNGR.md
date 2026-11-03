@@ -1,7 +1,7 @@
 ---
 title: FingerMotion
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/capybara-research, focus/security, potential/short, sector/phone-data, thesis/stock-promotion]
+tags: [analyst/capybara-research, focus/security, potential/short, sector/phone-data, thesis/fraud]
 type: stock
 ticker: FNGR
 draft: false

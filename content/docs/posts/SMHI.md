@@ -1,7 +1,7 @@
 ---
 title: Seacore Marine
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/ed-fin, focus/security, potential/long, sector/shipping, thesis/undervalued]
+tags: [analyst/ed-fin, focus/security, potential/long, sector/shipping, thesis/cheap]
 type: stock
 ticker: SMHI
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Zedcor Inc
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/left-field-investing, focus/security, market/canada, potential/long, sector/infrastructure, thesis/economics]
+tags: [analyst/left-field-investing, focus/security, market/canada, potential/long, sector/infrastructure, thesis/macro]
 type: stock
 ticker: ZDC
 draft: false

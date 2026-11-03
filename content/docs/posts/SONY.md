@@ -1,7 +1,7 @@
 ---
 title: Sony Corp
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, sector/technology, thesis/cyclical, thesis/undervalued]
+tags: [focus/security, potential/long, sector/technology, thesis/growth, thesis/cheap]
 type: stock
 ticker: SONY
 draft: false

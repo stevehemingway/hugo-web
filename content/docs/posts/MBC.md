@@ -1,7 +1,7 @@
 ---
 title: Mbc
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, thesis/cyclical, analyst/bristlemoon-capital]
+tags: [focus/security, thesis/growth, analyst/bristlemoon-capital]
 type: stock
 ticker: MBC
 draft: false

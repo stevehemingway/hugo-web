@@ -1,7 +1,7 @@
 ---
 title: Marqueta
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/restrinct, focus/security, potential/short, sector/fintech, thesis/aml-failure, analyst/bear-cave]
+tags: [analyst/restrinct, focus/security, potential/short, sector/fintech, thesis/legal, analyst/bear-cave]
 type: stock
 ticker: MQ
 draft: false

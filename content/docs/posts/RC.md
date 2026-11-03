@@ -1,7 +1,7 @@
 ---
 title: Ready Capital ($RC)
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/old-time-reitster, focus/security, potential/short, sector/reit, thesis/credit]
+tags: [analyst/old-time-reitster, focus/security, potential/short, sector/reit, thesis/debt]
 type: stock
 ticker: RC
 draft: false

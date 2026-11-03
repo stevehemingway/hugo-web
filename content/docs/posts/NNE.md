@@ -1,7 +1,7 @@
 ---
 title: Nanu Nuclear
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/energy, thesis/economics]
+tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/energy, thesis/macro]
 type: stock
 ticker: NNE
 draft: false

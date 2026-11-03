@@ -1,7 +1,7 @@
 ---
 title: Amerco
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, sector/retail, thesis/value]
+tags: [focus/security, potential/long, sector/retail, thesis/cheap]
 type: stock
 ticker: UHAL
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Clearfield
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/vince-martin, focus/security, potential/long, thesis/undervalued]
+tags: [analyst/vince-martin, focus/security, potential/long, thesis/cheap]
 type: stock
 ticker: CLFD
 draft: false

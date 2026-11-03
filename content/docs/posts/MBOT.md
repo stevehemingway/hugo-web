@@ -1,7 +1,7 @@
 ---
 title: Microbot Medical ($MBOT)
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/white-diamond-research, focus/security, sector/medical, thesis/economics]
+tags: [analyst/white-diamond-research, focus/security, sector/medical, thesis/macro]
 type: stock
 ticker: MBOT
 draft: false

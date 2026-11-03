@@ -1,7 +1,7 @@
 ---
 title: A-Mark Precious Metas
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/kuppy, focus/security, market/united-states, potential/long, potential/short, sector/mints, thesis/gold-play]
+tags: [analyst/kuppy, focus/security, market/united-states, potential/long, potential/short, sector/mints, thesis/commodity]
 type: stock
 ticker: AMRK
 draft: false

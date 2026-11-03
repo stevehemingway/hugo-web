@@ -1,7 +1,7 @@
 ---
 title: etf
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/ben-carlson, focus/security, potential/long, sector/mining, thesis/cashflow]
+tags: [analyst/ben-carlson, focus/security, potential/long, sector/mining, thesis/debt]
 type: stock
 ticker: SYLD
 draft: false

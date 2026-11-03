@@ -1,7 +1,7 @@
 ---
 title: Caesarstone Corp
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/overlooked-alpha, focus/security, potential/long, sector/consumer-cyclical, sector/retail, thesis/cyclical, thesis/value]
+tags: [analyst/overlooked-alpha, focus/security, potential/long, sector/consumer-cyclical, sector/retail, thesis/growth, thesis/cheap]
 type: stock
 ticker: CSTE
 draft: false

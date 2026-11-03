@@ -1,7 +1,7 @@
 ---
 title: Intesa Sanpaolo SpA
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/som-macro-strategies, focus/security, market/italy, potential/long, sector/finance, thesis/macro, thesis/undervalued]
+tags: [analyst/som-macro-strategies, focus/security, market/italy, potential/long, sector/finance, thesis/macro, thesis/cheap]
 type: stock
 ticker: ISP
 draft: false

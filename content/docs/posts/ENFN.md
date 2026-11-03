@@ -1,7 +1,7 @@
 ---
 title: Enfusion
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, thesis/quality]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, thesis/value]
 type: stock
 ticker: ENFN
 draft: false

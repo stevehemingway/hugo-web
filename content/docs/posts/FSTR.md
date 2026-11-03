@@ -1,7 +1,7 @@
 ---
 title: L B Foster Co.
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/vince-martin, focus/security, potential/long, sector/energy, thesis/undervalued]
+tags: [analyst/vince-martin, focus/security, potential/long, sector/energy, thesis/cheap]
 type: stock
 ticker: FSTR
 draft: false

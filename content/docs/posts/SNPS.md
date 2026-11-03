@@ -1,7 +1,7 @@
 ---
 title: synopsys
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/chips, thesis/monopoly]
+tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/chips, thesis/moat]
 type: stock
 ticker: SNPS
 draft: false

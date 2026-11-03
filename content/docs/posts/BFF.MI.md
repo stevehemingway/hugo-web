@@ -1,7 +1,7 @@
 ---
 title: BFF Bank SpA (Also called Banca Farmafactoring, confusingly)
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, market/italy, potential/long, sector/finance, thesis/italian-bank, thesis/undervalued]
+tags: [focus/security, market/italy, potential/long, sector/finance, thesis/debt, thesis/cheap]
 type: stock
 ticker: BFF
 draft: false

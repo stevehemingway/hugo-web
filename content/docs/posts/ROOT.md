@@ -1,7 +1,7 @@
 ---
 title: Root
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/edwin-dorsey, focus/security, thesis/oil-price-opportunity, potential/short, thesis/departures]
+tags: [analyst/bear-cave, analyst/edwin-dorsey, focus/security, thesis/energy, potential/short, thesis/management]
 type: stock
 ticker: ROOT
 draft: false

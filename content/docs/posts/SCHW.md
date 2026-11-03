@@ -1,7 +1,7 @@
 ---
 title: Schwab
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/dirty-double-media, focus/security, potential/short, sector/retail, thesis/bank-vulnerability]
+tags: [analyst/dirty-double-media, focus/security, potential/short, sector/retail, thesis/debt]
 type: stock
 ticker: SCHW
 draft: false

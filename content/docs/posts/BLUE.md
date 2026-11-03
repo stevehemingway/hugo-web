@@ -1,7 +1,7 @@
 ---
 title: Bluebird Bio
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, focus/security, potential/short, sector/retail, thesis/dilution, thesis/fraud]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/retail, thesis/debt, thesis/fraud]
 type: stock
 ticker: BLUE
 draft: false

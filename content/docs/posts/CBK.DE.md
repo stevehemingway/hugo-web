@@ -1,7 +1,7 @@
 ---
 title: Commerzbank
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, market/germany, potential/long, sector/retail, thesis/buybacks]
+tags: [focus/security, market/germany, potential/long, sector/retail, thesis/value]
 type: stock
 ticker: CBK
 draft: false

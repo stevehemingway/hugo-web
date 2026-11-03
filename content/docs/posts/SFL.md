@@ -1,7 +1,7 @@
 ---
 title: 'SFL: Putting To Rest Concern About Large Container Fleet'
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/tudor-invest-holdings, focus/security, potential/long, sector/technology, thesis/undervalued]
+tags: [analyst/tudor-invest-holdings, focus/security, potential/long, sector/technology, thesis/cheap]
 type: stock
 ticker: SFL
 draft: false

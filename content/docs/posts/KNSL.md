@@ -1,7 +1,7 @@
 ---
 title: Kinsale Capital Group
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/edwin-dorsey, focus/security, potential/short, thesis/economics, thesis/moat]
+tags: [analyst/edwin-dorsey, focus/security, potential/short, thesis/macro, thesis/moat]
 type: stock
 ticker: KNSL
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Mondee Holdings
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/night-market-research, focus/security, sector/travel, thesis/debt-burden]
+tags: [analyst/night-market-research, focus/security, sector/travel, thesis/debt]
 type: stock
 ticker: MOND
 draft: false

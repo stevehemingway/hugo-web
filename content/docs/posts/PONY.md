@@ -1,7 +1,7 @@
 ---
 title: Pony AI
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/grizzly-research, focus/security, potential/short, sector/ai, thesis/weak-tech]
+tags: [analyst/grizzly-research, focus/security, potential/short, sector/ai, thesis/decline]
 type: stock
 ticker: PONY
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Hall of Fame Resort and Entertainment
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bear-cave, analyst/bleecker-street-research, focus/security, potential/short, sector/finance, thesis/economics]
+tags: [analyst/bear-cave, analyst/bleecker-street-research, focus/security, potential/short, sector/finance, thesis/macro]
 type: stock
 ticker: HOFV
 draft: false

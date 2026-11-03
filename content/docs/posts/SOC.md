@@ -1,7 +1,7 @@
 ---
 title: Sable Offshore
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/oil-and-gas-exploration, thesis/economics, sector/oil-and-gas]
+tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/oil-and-gas-exploration, thesis/macro, sector/oil-and-gas]
 type: stock
 ticker: SOC
 draft: false

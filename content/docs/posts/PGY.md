@@ -1,7 +1,7 @@
 ---
 title: Pagaya
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/convequity, focus/security, potential/long, sector/ai, thesis/economics]
+tags: [analyst/convequity, focus/security, potential/long, sector/ai, thesis/macro]
 type: stock
 ticker: PGY
 draft: false

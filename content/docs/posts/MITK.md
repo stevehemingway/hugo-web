@@ -1,7 +1,7 @@
 ---
 title: 'Mitek Systems: Monopoly Business Under $10 A Share'
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/vince-martin, focus/security, potential/long, sector/technology, thesis/market-power, thesis/monopoly]
+tags: [analyst/vince-martin, focus/security, potential/long, sector/technology, thesis/moat]
 type: stock
 ticker: MITK
 draft: false

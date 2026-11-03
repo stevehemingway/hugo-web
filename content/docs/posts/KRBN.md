@@ -1,7 +1,7 @@
 ---
 title: Kraneshares Global Carbon Strategy ETF
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/paul-krake, focus/security, potential/long, thesis/esg]
+tags: [analyst/paul-krake, focus/security, potential/long, thesis/legal]
 type: stock
 ticker: KRBN
 draft: false

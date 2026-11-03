@@ -1,7 +1,7 @@
 ---
 title: Floor and Decor
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/retail, thesis/cyclical, thesis/economics]
+tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/retail, thesis/growth, thesis/macro]
 type: stock
 ticker: FND
 draft: false

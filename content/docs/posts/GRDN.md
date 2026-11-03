@@ -1,7 +1,7 @@
 ---
 title: Guardian Pharmacy Services - LTC Analysis
 date: '2026-10-08T16:11:55+01:00'
-tags: [analyst/me, focus/security, potential/long, sector/healthcare, sector/pharmacy, thesis/alf, thesis/ltc, thesis/mergers-and-acquisitions, thesis/defensive, thesis/demographics, thesis/growth]
+tags: [analyst/me, focus/security, potential/long, sector/healthcare, sector/pharmacy, thesis/management, thesis/commodity, thesis/special-situation, thesis/risk, thesis/macro, thesis/growth]
 type: stock
 ticker: GRDN
 draft: false

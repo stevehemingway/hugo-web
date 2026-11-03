@@ -1,7 +1,7 @@
 ---
 title: Playstudio
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security, potential/long, thesis/balance, thesis/buybacks, thesis/turnaround, thesis/balance-sheet]
+tags: [focus/security, potential/long, thesis/debt, thesis/value, thesis/turnaround]
 type: stock
 ticker: MYPS
 draft: false

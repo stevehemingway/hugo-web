@@ -1,7 +1,7 @@
 ---
 title: Joby Aviation
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/bleecker-street-research, analyst/kerrisdale-capital, focus/security, market/united-states, potential/short, sector/aviation, thesis/optimism]
+tags: [analyst/bleecker-street-research, analyst/kerrisdale-capital, focus/security, market/united-states, potential/short, sector/aviation, thesis/sentiment]
 type: stock
 ticker: JOBY
 draft: false

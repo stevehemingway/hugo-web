@@ -1,7 +1,7 @@
 ---
 title: the trade desk
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/me, focus/security, market/united-states, sector/ad-tech, thesis/weak-economics]
+tags: [analyst/me, focus/security, market/united-states, sector/ad-tech, thesis/decline]
 type: stock
 ticker: TTD
 draft: false

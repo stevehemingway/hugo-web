@@ -1,7 +1,7 @@
 ---
 title: Traeger
 date: '2026-10-12T21:42:14+01:00'
-tags: [analyst/overlooked-alpha, analyst/vince-martin, focus/security, thesis/missed-boat, potential/short, sector/technology]
+tags: [analyst/overlooked-alpha, analyst/vince-martin, focus/security, thesis/risk, potential/short, sector/technology]
 type: stock
 ticker: COOK
 draft: false
