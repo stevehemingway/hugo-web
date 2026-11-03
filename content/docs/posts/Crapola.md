@@ -6,11 +6,11 @@ type: note
 draft: false
 ---
 [AFRM](../afrm/)
-[[TSLA]]
-[[PTON]]
-[[CCL]]
+TSLA
+PTON
+CCL
 [CVNA](../cvna/)
-[[MP]]
+MP
 [SAVA](../sava/)
 [AMC](../amc/)
 

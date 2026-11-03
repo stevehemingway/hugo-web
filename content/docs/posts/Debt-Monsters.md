@@ -9,7 +9,7 @@ draft: false
 
 <https://www.ft.com/content/e5a807a5-a65f-4885-ab5f-871d545e36a3>
 
-- Adler Group, [[$ADJ:DEU]]
+- Adler Group, ADJ.DEU
 - Allen Media (private),
 - AMC Media [AMC](../amc/),
 - Bed Bath & Beyond[BBBY](../bbby/),
@@ -42,6 +42,6 @@ draft: false
 - Very (UK),
 - WeWork,
 - Pizza Express,
-- Wynn Macau [[$1128:HKD]],
+- Wynn Macau 1128.HKD,
 - YPF Energia Electrica (Argentina).
 

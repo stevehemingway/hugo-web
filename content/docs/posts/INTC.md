@@ -7,5 +7,5 @@ ticker: INTC
 draft: false
 ---
 Fabricated Knowled trashes Intel [here](https://www.fabricatedknowledge.com/p/intel-is-the-antithesis-of-smart?utm_source=post-email-title&publication_id=22108&post_id=98973326&isFreemail=true&utm_medium=email).
-It seems very tempting to go long [[AMD]], short [INTC](../intc/).
+It seems very tempting to go long AMD, short [INTC](../intc/).
 Crowded trade?

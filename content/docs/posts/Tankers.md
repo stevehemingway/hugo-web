@@ -9,13 +9,13 @@ draft: false
 
 Interesting tanker stocks:
 
-- [[EURN]]
+- EURN
 - [INSW](../insw/)
-- [[FRO]]
-- [[NAT]]
-- [[NMM]]
+- FRO
+- NAT
+- NMM
 - [OET](../oet/)
-- [[ASC]]
-- [[TNP]]
-- [[TRMD]]
+- ASC
+- TNP
+- TRMD
 - [DHT](../dht/)

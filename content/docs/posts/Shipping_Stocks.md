@@ -46,13 +46,13 @@ draft: false
 > 
 > Back in August 2020, I was proclaiming the upside of the overall shipping segment, and I shared a basket of five picks:
 > 
->     Dorian LPG [[LPG]] at $8.99
->     Euronav [[EURN]] at $10.31
->     FLEX LNG [[FLNG]] at $5.88
+>     Dorian LPG LPG at $8.99
+>     Euronav EURN at $10.31
+>     FLEX LNG FLNG at $5.88
 >     Global Ship Lease [GSL](../gsl/) at $5.20
 >     Star Bulk Carriers [SBLK](../sblk/) $7.44
 > 
-> All five of these stocks have performed enormously well over the past two years and have also paid enormous dividends as a basket. The combined return of these stocks, even after the carnage of this summer, is 224% in 25 months. Meanwhile the S&P 500 [[SPY]] has returned less than 3% and the S&P 500 Total Return Index has returned 12.8%.
+> All five of these stocks have performed enormously well over the past two years and have also paid enormous dividends as a basket. The combined return of these stocks, even after the carnage of this summer, is 224% in 25 months. Meanwhile the S&P 500 SPY has returned less than 3% and the S&P 500 Total Return Index has returned 12.8%.
 > 
 > chart of stock returns
 > 
@@ -62,10 +62,10 @@ draft: false
 > 
 > In September 2020, our team at Value Investor's Edge highlighted the massive disconnect between surging freight rates and lagging share prices. This update highlighted six stocks poised to benefit:
 > 
->     Atlas Corp [[ATCO]] at $8.70
->     Capital Partners [[CPLP]] at $6.28
+>     Atlas Corp ATCO at $8.70
+>     Capital Partners CPLP at $6.28
 >     Costamare [CMRE](../cmre/) at $5.19
->     Danaos Corp [[DAC]] at $6.11
+>     Danaos Corp DAC at $6.11
 >     Global Ship Lease [GSL](../gsl/) at $5.79
 >     Navios Maritime Containers ("NMCI", now NMM at 0.39x) at $0.97
 > 
@@ -93,9 +93,9 @@ draft: false
 > 
 > Our associate researcher, Climent Molins, also issued a public table-pounding alert on the product tanker sector in April 2022, which he previously shared on Value Investor's Edge. His three highlighted top picks included:
 > 
->     Ardmore Shipping [[ASC]] at $5.21
+>     Ardmore Shipping ASC at $5.21
 >     Scorpio Tankers [STNG](../stng/) at $21.65
->     Torm plc [[TRMD]] at $9.21
+>     Torm plc TRMD at $9.21
 > 
 > All three of these names have performed exceptionally well and have returned an average of 90% in 5 months while the S&P 500 has lost nearly 16%!
 > 
@@ -117,7 +117,7 @@ draft: false
 > 
 > Global Ship Lease [GSL](../gsl/) is a massively discounted and misunderstood stock, which trades below the value of their contract backlog alone. GSL stock has plummeted over the past 5-6 months even as they have completed a comprehensive refinancing and recently added massive new contract deals, some of which extend as far as 2029!
 > 
-> I expect GSL to ramp up repurchases later this year and they are also likely to raise their dividend in early-2023. GSL already yields near 10% and this current payout is more than 4x covered by expected cash flows in 2023-2025. Our research associate, Climent Molins, recently published a comprehensive review of GSL and I included them, along with peer Danaos Corp [[DAC]] in a 'career conviction' update a few weeks ago.
+> I expect GSL to ramp up repurchases later this year and they are also likely to raise their dividend in early-2023. GSL already yields near 10% and this current payout is more than 4x covered by expected cash flows in 2023-2025. Our research associate, Climent Molins, recently published a comprehensive review of GSL and I included them, along with peer Danaos Corp DAC in a 'career conviction' update a few weeks ago.
 > 
 > International Seaways: 'Fair Value Estimate' of $40.00 (19% Upside)
 > 

@@ -5,9 +5,9 @@ tags: []
 type: note
 draft: false
 ---
-[[SIX]]
-[[SCHU]]
-[[CSU]]
+SIX
+SCHU
+CSU
 
 See [this article](https://macroops.substack.com/p/q3-2022-hedge-fund-letter-recaps?utm_source=post-email-title&publication_id=358343&post_id=79796471&isFreemail=true&utm_medium=email) from Macro Ops.
 

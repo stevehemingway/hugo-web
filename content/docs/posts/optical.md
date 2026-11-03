@@ -5,7 +5,7 @@ tags: [analyst/citron-research, potential/long, theme/optical-electronics, analy
 type: note
 draft: false
 ---
-[[HIMX]]
+HIMX
 
 (Citrini wrote why optical electronics was a big thing.)[https://open.substack.com/pub/citrini/p/let-there-be-light?utm_campaign=post&utm_medium=email]
 
