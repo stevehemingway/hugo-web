@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # Anbio (stocks/NNNN)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://hithawk.com/campaign/anbio/)
-
 Key Issues
 Evidence of a constructed fraud shell: Anbio’s structure, addresses, products, and filings consistently fail basic verification.
 Market manipulation indicators: Share inflation, fake investors, and dramatic stock swings point to an orchestrated pump-and-dump cycle.

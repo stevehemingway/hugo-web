@@ -12,14 +12,6 @@ updated: 2026-02-28
 Fuzzy Panda Research published on T1 Energy (NYSE: TE — $2.25 billion), a clean battery solutions company formerly known as FREYR Battery. Fuzzy Panda called the company “another China Hustle” and said the company “is further doomed to be non-FEOC compliant” given its extensive China ties.
 <https://fuzzypandaresearch.com/short-te-us-china-solar-feoc-restatements/>
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://culperresearch.com/wp-content/uploads/2026/01/Culper_TE_1-21-2026.pdf)
-
 2
 T1 Energy (TE): The “American Made” Charade Masking Chinese Supply and
 Control Built to Reap 45X Credits and Evade Tariffs at U.S. Taxpayers’ Expense

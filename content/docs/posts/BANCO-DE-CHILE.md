@@ -8,12 +8,6 @@ updated: 2026-02-28
 ---
 # BANCO-DE-CHILE (stocks/BANCO-DE-CHILE)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 added by openclaw on 2026-02-21
 
 ---

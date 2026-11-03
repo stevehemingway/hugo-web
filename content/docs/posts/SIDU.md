@@ -83,14 +83,6 @@ Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZnVnYXppcmVz
 
 # SIDU (stocks/SIDU), SIDU
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://open.substack.com/pub/fugaziresearch/p/the-black-hole-at-sidu-where-massive?utm_campaign=post-expanded-share&utm_medium=web)
-
 In recent quarters, most of SIDU’s revenue has originated from Craig Technologies, a company controlled by SIDU’s CEO, Carol Craig. While this relationship is disclosed in the company’s filings, it raises a structural concern: it calls into question the quality of reported revenue, the independence of demand, and whether reported sales reflect genuine commercial traction. This risk is compounded by the fact that a significant portion of this revenue does not convert into cash and remains recorded as accounts receivable, maintaining ongoing liquidity pressure.
 
     SIDU: Industry Expert (IE) Perspective on a Structurally Unviable Business:

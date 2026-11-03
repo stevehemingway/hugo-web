@@ -9,12 +9,6 @@ updated: 2026-02-28
 ---
 # Better Collective (stocks/BETCO.SK)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 WSC: https://open.substack.com/pub/dfresearch/p/wsc-2026-estimates-likely-need-to. Dalrymple
 [2025-10-16T15:48:42+01:00] Stockholm:BETCO. Dorsey is a bear.
 

@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # Brunello Cucinelli (stocks/MIL.BC)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](missing)
-
 1.Brunello Cucinelli, MIL:BC. Violating EU sanctions on Russia. Morpheus Research.
 
 ---

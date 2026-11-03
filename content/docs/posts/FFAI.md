@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # Faraday Future (stocks/FFAI)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://www.wolfpackresearch.com/items/ffai%3A-this-house-of-cards-is-falling-apart-as-yt-jia%E2%80%99s-latest-pump-is-built-on-fake-orders-and-a-tsunami-of-lies)
-
 Wolfpack Research published on Faraday Future (NASDAQ: FFAI — $253 million), an early-stage electric car company. Wolfpack alleged the company “based its latest pump on fake orders, a rebadged Chinese minivan, and a tsunami of lies meant to induce retail to buy right before a massive flood of new shares are authorized.” Wolfpack highlighted the company’s “track record of abysmal failure ($4.4b spent with 17 cars delivered)” and alleged its claims of 10,000+ preorders for its minivan lack economic substance. For example, Wolfpack highlighted that Faraday disclosed 1,000 preorders from a microcap company that has “less than $10,000 in cash” and that other orders are from “paid co-creation partners.”
 
 In response to Wolfpack’s report, Faraday Future said it “will promptly initiate the necessary internal procedures to file a lawsuit against Wolfpack Research and make a formal submission to the U.S. Securities and Exchange Commission (SEC).” The company also referenced its “Anti-Illegal Short-Selling Counterattack” and wrote, in part,

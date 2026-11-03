@@ -9,13 +9,5 @@ updated: 2026-02-28
 ---
 # sound group (stocks/SOGP)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://substack.com/home/post/p-173227995)
-
 ---
 *Last updated: 2026-03-07 by automated standardization process*

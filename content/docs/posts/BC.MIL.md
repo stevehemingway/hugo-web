@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # Brunello Cucinelli (stocks/BC.MIL)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://www.morpheus-research.com/cucinelli/)
-
 Basically, a high-end fashion outlet with stores in Moscow etc.
 
 Case:

@@ -9,12 +9,6 @@ updated: 2026-02-28
 ---
 # Car Parts (stocks/PRTS)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 Deep Value? Dumpster Diving? Strategic Turnaround? Welcome to Carparts.com (PRTS)
 PRTS strategic review resulted in a multi-pronged investment from three parties rather than a sale. With valuation remaining at sub-basement levels, I'll stick around to see if management can execute.
 ELMER SPUD

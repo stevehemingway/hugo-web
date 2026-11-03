@@ -9,8 +9,3 @@ updated: 2026-02-28
 ---
 # HFG (stocks/HFG)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>

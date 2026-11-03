@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # Zeta Global Holdings Corp (stocks/ZETA)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://img1.wsimg.com/blobby/go/cc91fda7-4669-4d1b-81ce-a0b8d77f25ab/downloads/0819f0d2-64be-46af-8977-6762c6dae944/Culper_ZETA_11-13-24.pdf?ver=1740592221068)
-
 # Zeta Global Holdings Corp (ZETA): Shams, Scams, and Spam
 
 We are short Zeta Global Holdings Corp (“ZETA”, “the Company”) for two distinct, but related reasons, each of

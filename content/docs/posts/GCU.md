@@ -9,12 +9,6 @@ updated: 2026-02-28
 ---
 # GCU (stocks/GCU)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 17 - Gunnison Copper, GCU, see https://open.substack.com/pub/robertsinn/p/the-charts-of-the-week-new-fed-chair?utm_camp+
 
 ---

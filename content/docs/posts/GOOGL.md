@@ -9,12 +9,6 @@ updated: 2026-02-28
 ---
 # Alphabet (stocks/GOOGL)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 Highly rated by Bristlemoon.
 
 added by openclaw on 2026-02-21

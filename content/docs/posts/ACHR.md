@@ -9,12 +9,6 @@ updated: 2026-02-28
 ---
 # Archer Aviation Inc. (stocks/ACHR)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 # Grizzly 
 
 Scarce Flight Activity; Recycled Video material; Misleading DoD Contract; Partners bought with cheap Warrants

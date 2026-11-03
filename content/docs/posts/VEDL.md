@@ -9,13 +9,5 @@ updated: 2026-02-28
 ---
 # Vedanta (stocks/VEDL)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://viceroyresearch.org/2025/07/15/vedanta-hidden-holdings-bjst-and-ptcc/)
-
 ---
 *Last updated: 2026-03-07 by automated standardization process*

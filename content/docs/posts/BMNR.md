@@ -9,12 +9,6 @@ updated: 2026-02-28
 ---
 # Bitmine Immersion Technologies (stocks/BMNR)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 Kerrisdale Capital published on Bitmine Immersion Technologies (NYSE: BMNR — $14.9 billion), a Bitcoin mining company that recently launched an Ethereum digital asset treasury model. Kerrisdale said the model of digital asset treasuries, selling inflated stock to buy cryptocurrency, “is on its way to extinction” as more companies replicate the model and more investors choose to buy cryptocurrency directly. Kerrisdale predicted the company’s ~40% premium to holdings would diminish over time.
 
 2026-01-30 USD 25.1

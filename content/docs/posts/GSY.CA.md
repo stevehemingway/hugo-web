@@ -9,12 +9,6 @@ updated: 2026-02-28
 ---
 # Go Easy (stocks/GSY.CA)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 This seems to be a sub-prime lender, the stock price of which has cratered this year (2025),
 and whose CEO has departed.
 

@@ -9,12 +9,6 @@ updated: 2026-02-28
 ---
 # Arbor Realty Trust Inc. (stocks/ARB)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 Arbor Realty – Earnings Preview & CLO Update
 
 February 21, 2025 - Despite Arbor’s best efforts of window dressing (and there was a lot of effort), Arbor’s CLO delinquencies are up 33% month-on-month in January 2025 to $1.1billion. Substantially all delinquencies have already been modified, many as recently as Q4 2024.

@@ -9,11 +9,5 @@ updated: 2026-02-28
 ---
 # Aurora Innovation (stocks/AUR)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 Bleecker Street Research published on Aurora Innovation (NASDAQ: AUR — $11.9 billion), a self-driving truck software company. Bleecker Street alleged that Aurora’s key partners are “unready for commercialization” and wrote that its “business case seems to exist in PowerPoint slides rather than reality.” Bleecker Street also raised concerns about high levels of insider selling and recent executive departures.
 2026-01-30 USD 4.2

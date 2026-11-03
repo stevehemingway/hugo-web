@@ -9,13 +9,5 @@ updated: 2026-02-28
 ---
 # Global Atomic (stocks/GLO.CA)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](seeking alpha)
-
 ---
 *Last updated: 2026-03-07 by automated standardization process*

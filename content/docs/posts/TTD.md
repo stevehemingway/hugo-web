@@ -9,8 +9,3 @@ updated: 2026-01-20
 ---
 # the trade desk (TTD)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>

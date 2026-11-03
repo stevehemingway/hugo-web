@@ -9,10 +9,4 @@ updated: 2026-02-28
 ---
 # MGP Ingredients (stocks/MGPI)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Very pleased to issue a unique Strong Sell report on MGP Ingredients <a href="https://twitter.com/search?q=%24MGPI&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$MGPI</a> - the final phase of the liquor transformation is here + overwhelming evidence shows it&#39;s failing + signs of financial misstatements to cash flow now appear, 35%-55% downside risk <a href="https://t.co/eNRBYuWSL7">https://t.co/eNRBYuWSL7</a></p>&mdash; Spruce Point Capital (@sprucepointcap) <a href="https://twitter.com/sprucepointcap/status/1580181935951056896?ref_src=twsrc%5Etfw">October 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> #

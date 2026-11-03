@@ -9,10 +9,4 @@ updated: 2026-02-28
 ---
 # Sharplink Gaming (stocks/SBET)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 New activist Fugazi Research published on Sharplink Gaming (NASDAQ: SBET — $2.46 billion), a gaming marketing company that recently pivoted to buying Ethereum. Fugazi raised concerns about the validity of the company’s Ethereum holdings and highlighted that “no Ethereum assets appear on the company’s balance sheet, no wallet address has been disclosed, and no independent auditor or custodian has verified [the company’s claims].”

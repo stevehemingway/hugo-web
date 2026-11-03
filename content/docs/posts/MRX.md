@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # Marex Group plc (stocks/MRX)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://ningiresearch.com/2025/08/05/marex-group-plc-nasdaq-mrx-a-financial-house-of-cards/})
-
 Marex Group plc (NASDAQ: MRX): A Financial House of Cards
 
 We are short Marex Group plc (NASDAQ: MRX), because, in our opinion, Marex has engaged in a multi-year accounting scheme involving a web of opaque off-balance-sheet entities, fictitious intercompany transactions, and misleading disclosures to conceal significant losses, inflate profits, and mask its true risk exposure. We have uncovered evidence suggesting Marex is a financial house of cards, with a balance sheet riddled with holes and financials that we believe are unreliable.

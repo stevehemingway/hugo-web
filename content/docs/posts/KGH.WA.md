@@ -9,11 +9,5 @@ updated: 2026-02-28
 ---
 # KGHM (stocks/KGH.WA)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 ---
 *Last updated: 2026-03-07 by automated standardization process*

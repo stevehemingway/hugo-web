@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # QMMM Holdings (stocks/QMMM)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://thebearcave.substack.com/p/problems-at-qmmm-holdings-qmmm)
-
 The Bear Cave believes the stock of QMMM Holdings (NASDAQ: QMMM — $296 million) is being manipulated by overseas stock manipulation groups and is at risk of a near-term, severe stock collapse.
 
 QMMM Holdings is a Cayman Islands holding company that owns “a digital media advertising service and virtual avatar & virtual apparel technology service company” operating in Hong Kong. QMMM has 28 employees and has disclosed four years of declining revenue from $3.56 million in 2021 to $3.40 million in 2022, $2.81 million in 2023, and $2.70 million in 2024. The company disclosed a net loss of $1.58 million last year and its auditor, WWC P.C., expressed “substantial doubt as to [the company’s] ability to continue as a going concern.”

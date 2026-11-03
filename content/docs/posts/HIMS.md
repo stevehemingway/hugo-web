@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # Hims and Hers (stocks/HIMS)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://www.herbgreenberg.com/p/weekly-wrap-when-the-music-stops?r=57a252&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
-
 # Hims and Hers Health
 
 From The Bear Cave

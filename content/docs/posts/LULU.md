@@ -9,12 +9,6 @@ updated: 2026-02-28
 ---
 # Lululemon Athletica (stocks/LULU)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 This is just me thinking: how can a shop selling leggings be valued like Google?
 
 I saw an article in the FT saying that the board was being changed by the founder 

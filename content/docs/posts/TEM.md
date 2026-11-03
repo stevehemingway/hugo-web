@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # Tempus AI Inc. (stocks/TEM)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://www.sprucepointcap.com/research/tempus-ai-inc)
-
 Warns That Tempus Management and Board Members Have a History Together of Promoting Disruptive Technology Companies Which Have Frequently Resulted in Financial Restatements and Shareholder Losses
 Expresses Concerns About Tempus’ Artificial Intelligence Capabilities Given Minimal Revenues and Product Demonstrations, Which Appear to Show Irreconcilable Inputs
 Questions the Quality of Revenues and Adjusted EBITDA Based on Related Party Dealings, Investments That Become Revenue Generating Customers, and Accounting Choices Related to Debt That Flatter Operating Income

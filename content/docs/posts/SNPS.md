@@ -9,12 +9,6 @@ updated: 2026-02-28
 ---
 # synopsys (stocks/SNPS)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
 Synopsys Inc
 Synopsys (SNPS) is the leading vendor of electronic design automation (EDA) software tools used for
 integrated circuit design, and the #2 licensor of chip design IP. EDA tools are mission critical for

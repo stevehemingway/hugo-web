@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # GRAIL Inc. (stocks/GRAL)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://ningiresearch.com/research/)
-
 GRAIL (NASDAQ: GRAL): Why Galleri Will Fail the Real Test: Regulatory Approval and Widespread Commercialization All But Impossible
 We are short GRAIL, Inc. (NASDAQ: GRAL), because, in our opinion, the company’s overly ambitious approach to cancer screening has created insurmountable regulatory roadblocks. Additionally, leadership's persistent disregard for expert advice and a dysfunctional corporate culture have led to significant operational missteps, disappointing sales, and looming financial distress.
 

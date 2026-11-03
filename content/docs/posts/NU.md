@@ -9,13 +9,5 @@ updated: 2026-02-28
 ---
 # Nu Holdings Inc. (stocks/NU)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://open.substack.com/pub/ianbezek/p/why-i-a-former-nubank-skeptic-am)
-
 ---
 *Last updated: 2026-03-07 by automated standardization process*

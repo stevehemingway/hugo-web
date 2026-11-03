@@ -9,13 +9,5 @@ updated: 2026-02-28
 ---
 # Pony AI (stocks/PONY)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://grizzlyreports.com/pony/)
-
 ---
 *Last updated: 2026-03-07 by automated standardization process*

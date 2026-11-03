@@ -9,8 +9,3 @@ updated: 2026-02-28
 ---
 # Fair-Isaac Corp. (stocks/FICO)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>

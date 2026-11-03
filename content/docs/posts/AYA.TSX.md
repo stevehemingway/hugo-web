@@ -9,8 +9,3 @@ updated: 2026-02-28
 ---
 # Aya Gold and Silver (stocks/AYA.TSX)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>

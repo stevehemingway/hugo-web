@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # Baldwin Insurance Group (stocks/BWIN)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://www.blueorcacapital.com/report/blue-orca-is-short-baldwin-insurance-group-inc/)
-
 Blue Orca is Short Baldwin Insurance Group, Inc. (NASDAQ: BWIN)
 
 We are short Baldwin Insurance Group, Inc. (“Baldwin” or the “Company”), a chronically unprofitable rollup of insurance distributors which we believe engages in questionable financial engineering to hide costs from its income statement and inflate adjusted EBITDA and operating cash flow.

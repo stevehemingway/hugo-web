@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # microvast holdings (stocks/MVST)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://grizzlyreports.com/mvst/)
-
 MVST's House of Lies: The German Factory Stands Idle, the Chinese One Runs at Half Capacity, and the CCP Owns the Shop
 
 We extensively observed MVST since 2021 with on-site visits, satellite observations, and a deep-dive into Chinese filings. We found that MVST's German factory in Ludwigsfelde/Berlin appears to have never really started production. The Chinese plant operates at only half of the capacity presented, and contrary to MVST's own denials, the Chinese Communist Party owns MVST’s main Chinese subsidiary.

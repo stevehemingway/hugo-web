@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # Soleno Therapeutics (stocks/SLNO)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...](https://scorpionreports.s3.us-east-2.amazonaws.com/SLNO1.pdf)
-
 August 15, 2025 | Investigative report by Scorpion Capital | www.scorpioncapital.com
 
 SOLENO THERAPEUTICS (NASDAQ: SLNO)

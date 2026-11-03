@@ -9,14 +9,6 @@ updated: 2026-02-28
 ---
 # Starbucks Corp (stocks/SBUX)
 
-<blockquote>
-<pre>
-see below
-</pre>
-</blockquote>
-
-[More ...]("")
-
 # Starbucks
 
 Starbucks makes a modest profit from selling coffee from shops.
