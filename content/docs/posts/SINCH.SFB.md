@@ -5,10 +5,9 @@ tags: [analyst/grizzly-research, analyst/ningi-research, focus/security, market/
 type: stock
 ticker: SINCH
 draft: false
+updated: 2026-02-28
 ---
 # SINCH AB (stocks/SINCH.SFB)
-
-Thesis: fraud, analyst: NINGNI, sector: cloud computing.
 
 <blockquote>
 <pre>
@@ -18,4 +17,3 @@ NINGI Research is short Sinch AB (Ticker: SINCH.ST) because, in our opinion, the
 
 [Fraud report, Grizzly](https://grizzlyreports.com/sinch/)
 
-latest change: 2026-02-28

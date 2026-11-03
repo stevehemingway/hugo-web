@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, market/canada, potential/sh
 type: stock
 ticker: WSP
 draft: false
+updated: 2026-02-28
 ---
 # WSP Global Inc. (stocks/WSP.TSX)
-
-Thesis: accounting-fraud, analyst: spruce-point-capital, sector: consulting.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Headquartered in Montreal, Quebec, Canada, WSP Global Inc. is an engineering and
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/wsp-global)
-latest change: 2026-02-28

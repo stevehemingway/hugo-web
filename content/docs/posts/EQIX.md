@@ -5,10 +5,9 @@ tags: [analyst/hindenburg-research, focus/security, potential/short, sector/reit
 type: stock
 ticker: EQIX
 draft: false
+updated: 2026-02-28
 ---
 # Equinix (stocks/EQIX)
-
-Thesis: fraud, analyst: Hindenberg-research, sector: REIT.
 
 <blockquote>
 <pre>
@@ -19,4 +18,3 @@ Our investigation, which included a review of financial and litigation records a
 </blockquote>
 
 [More ...](https://hindenburgresearch.com/equinix/)
-latest change: 2026-02-28

@@ -5,10 +5,9 @@ tags: [analyst/citron-research, focus/security, potential/long, sector/etf, thes
 type: stock
 ticker: VIS
 draft: false
+updated: 2026-02-28
 ---
 # Vanguard Industrials ETF (stocks/VIS)
-
-Thesis: commodities, analyst: citrini, sector: ETF.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Vanguard Industrials ETF (or similar physical assets type ETF). Citrini note on 
 </blockquote>
 
 [More ...](https://citrini.substack.com/)
-latest change: 2026-02-28
 
 Vanguard Industrials ETF (or similar physical assets type ETF). Citrini note.
 

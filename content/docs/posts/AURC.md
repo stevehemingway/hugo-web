@@ -5,11 +5,9 @@ tags: [analyst/guasty-winds, focus/security, market/united-states, potential/sho
 type: stock
 ticker: AURC
 draft: false
+updated: 2026-02-28
 ---
 # Aurora Acquisition Corp: death by dilution
-
-
-Thesis: dilution, analyst: guasty-winds, sector: Aurora Acquisition Corp.
 
 <blockquote>
 <pre>
@@ -18,7 +16,7 @@ I am short AURC (Aurora Acquisition Corp)
 </blockquote>
 
 [More ...](mortgages)
-latest change: 2026-02-28
+
 2023-08-23 USD 17.4425
 
 # the SPAC that will be bringing Better.com to market next week. I think the fair value of the company is ~81 cents - it is currently trading at . (A/AURC)
@@ -30,5 +28,5 @@ I am short AURC (Aurora Acquisition Corp)
 </blockquote>
 
 [More ...](mortgages)
-latest change: 2026-02-08
+
 2023-08-23 USD 17.4425

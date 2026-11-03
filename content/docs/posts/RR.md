@@ -5,10 +5,9 @@ tags: [analyst/fugazi-research, focus/security, potential/short, sector/china-hy
 type: stock
 ticker: RR
 draft: false
+updated: 2026-02-28
 ---
 # Richtech Robotics (stocks/RR)
-
-Thesis: fraud, analyst: fugaziresearch, sector: china-hype.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://www.fugaziresearch.com/p/richtech-robotics-nasdaq-rr-the-illusion)
-latest change: 2026-02-28
 
 Richtech Robotics markets itself as a U.S. AI-robotics innovator. Public filings and third-party evidence tell a different story: an import-distribution chain routed through Shenzhen, wrapped in patriotic branding, and sustained by continuous publicity and equity issuance.
 The company’s real engine isn’t technology or manufacturing—it’s narrative monetization, where attention becomes liquidity and liquidity sustains more attention.

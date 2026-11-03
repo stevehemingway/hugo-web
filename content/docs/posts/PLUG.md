@@ -5,10 +5,9 @@ tags: [analyst/hunterbrook-media, focus/security, market/united-states, potentia
 type: stock
 ticker: PLUG
 draft: false
+updated: 2026-02-28
 ---
 # Plug Power Inc (stocks/PLUG)
-
-Thesis: economics, analyst: hunterbrook, sector: green energy.
 
 <blockquote>
 <pre>
@@ -19,4 +18,3 @@ A Hunterbrook investigation finds potential major roadblocks to getting the loan
 </blockquote>
 
 [More ...](https://newsletter.hntrbrk.com/p/plug-power-failure-part-i-critical?r=nmbt&utm_campaign=post&utm_medium=web)
-latest change: 2026-02-28

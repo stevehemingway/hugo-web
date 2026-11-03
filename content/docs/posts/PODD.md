@@ -5,10 +5,9 @@ tags: [analyst/blue-orca-capital, focus/security, potential/long, potential/shor
 type: stock
 ticker: PODD
 draft: false
+updated: 2026-02-28
 ---
 # Insulet Corp. (stocks/PODD)
-
-Thesis: legal, analyst: blue-orca, sector: medical devices.
 
 <blockquote>
 <pre>
@@ -24,4 +23,3 @@ This presents a massive asymmetric opportunity for investors.  As to Insulet, we
 </blockquote>
 
 [More ...](https://www.blueorcacapital.com/report/blue-orca-is-short-insulet-corporation-and-long-eoflow-co-ltd/)
-latest change: 2026-02-28

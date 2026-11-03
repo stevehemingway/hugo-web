@@ -5,6 +5,7 @@ tags: [analyst/j-mintzmyer, focus/security, potential/long, sector/shipping, sec
 type: stock
 ticker: SBLK
 draft: false
+updated: 2025-01-23
 ---
 # Star Bulk Carriers (SBLK)
 
@@ -15,7 +16,6 @@ Mintzmyer views Star Bulk as well-positioned to benefit from ongoing demand in t
 </blockquote>
 
 [More ...](https://www.perplexity.ai/search/what-does-j-mintzmyer-say-abou-gperhcHmR6a3EpJ9TAmJvA)
-latest change: 2025-01-23
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

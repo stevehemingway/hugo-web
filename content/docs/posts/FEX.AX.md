@@ -5,17 +5,15 @@ tags: [analyst/macro-ops, focus/security, market/australia, potential/long, sect
 type: stock
 ticker: FEX
 draft: false
+updated: 2026-02-28
 ---
 # Fenix Resources (stocks/FEX.AX)
-
-Thesis: undervalued port assets, analyst: macro-ops, sector: mining and logistics.
 
 <blockquote>
 <pre>
 
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 > 
 > Subject: My Latest 900%+ Upside Idea

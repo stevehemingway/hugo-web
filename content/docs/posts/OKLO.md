@@ -5,10 +5,9 @@ tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/energ
 type: stock
 ticker: OKLO
 draft: false
+updated: 2026-02-28
 ---
 # Oklo Inc (stocks/OKLO)
-
-Thesis: regulator-approval, analyst: kerrisdale-capital, sector: energy.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Kerrisdale Capital published on Oklo (NYSE: OKLO — $3.08 billion), a nuclear e
 </blockquote>
 
 [More ...](kerrisdale-capital)
-latest change: 2026-02-28

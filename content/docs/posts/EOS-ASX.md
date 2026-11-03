@@ -5,17 +5,15 @@ tags: [analyst/crash-capital, focus/security, potential/long, sector/defence, th
 type: stock
 ticker: EOS-ASX
 draft: false
+updated: 2026-02-28
 ---
 # Electro-Optic Systems (stocks/EOS-ASX)
-
-Thesis: technology, analyst: crash capital, sector: defence.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 Electro Optic Systems Holdings Limited is an Australia-based company engaged in designing, manufacturing, and exporting advanced technology systems. The Company operates in two segments: Defence Systems and Space Systems. The Defence Systems segment specializes in technology for weapon systems optimization and integration,
 

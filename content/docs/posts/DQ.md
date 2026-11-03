@@ -5,10 +5,9 @@ tags: [analyst/wasteland-capital, focus/security, potential/long, sector/solar, 
 type: stock
 ticker: DQ
 draft: false
+updated: 2026-02-28
 ---
 # Daqo New Energy Corp (stocks/DQ)
-
-Thesis: solar, analyst: wasteland-capital, sector: solar.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Daqo New Energy -- polysilicon producer for solar industry. In Wasteland Capital
 </blockquote>
 
 [More ...](https://wastelandcapital.com/)
-latest change: 2026-02-28
 
 DQ Daqo New Energy -- in Wasteland Capital's portfolio.
 

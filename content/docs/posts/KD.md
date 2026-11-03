@@ -5,10 +5,9 @@ tags: [analyst/me, focus/security, potential/short, sector/it, thesis/fraud]
 type: stock
 ticker: KD
 draft: false
+updated: 2026-02-28
 ---
 # Kyndryl (stocks/KD)
-
-Thesis: fraud, analyst: analyst, sector: IT.
 
 <blockquote>
 <pre>
@@ -24,4 +23,3 @@ quote
 </blockquote>
 
 [More ...](https://www.gothamcityresearch.com/post/kyndryl-like-the-old-ibm-except-with-an-undisclosed-cost-problem-part-i)
-latest change: 2026-02-28

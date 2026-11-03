@@ -5,17 +5,15 @@ tags: [analyst/me, focus/security, potential/long, sector/building-and-security-
 type: stock
 ticker: ASSAB
 draft: false
+updated: 2026-02-28
 ---
 # Assa Abloy (stocks/ASSAB)
-
-Thesis: dominant position, analyst: me, sector: builing and security systems.
 
 <blockquote>
 <pre>
 like $BLDR but less expensive
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/it,
 type: stock
 ticker: PERI
 draft: false
+updated: 2026-02-28
 ---
 # Perion Network Ltd. (stocks/PERI)
-
-Thesis: fraud, analyst: spruce-point-management, sector: IT.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Thesis: fraud, analyst: spruce-point-management, sector: IT.
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/perion-network-ltd/)
-latest change: 2026-02-28
 
 After conducting a forensic financial review of
 Perion Network, Ltd. (Nasdaq / TASE: PERI), we have

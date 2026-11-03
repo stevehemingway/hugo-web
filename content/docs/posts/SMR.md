@@ -5,17 +5,15 @@ tags: [analyst/iceberg-research, focus/security, potential/short, sector/generat
 type: stock
 ticker: SMR
 draft: false
+updated: 2026-02-28
 ---
 # NuScale Power (stocks/SMR)
-
-Thesis: fraud, analyst: iceberg-research, sector: generation.
 
 <blockquote>
 <pre>
 
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 ## Hunterbrook update (2024-6-11)
 

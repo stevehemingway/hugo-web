@@ -5,19 +5,17 @@ tags: [analyst/grizzly-research, focus/security, potential/short, sector/retail,
 type: stock
 ticker: WULF
 draft: false
+updated: 2026-02-28
 ---
 # Terawulf is a charade to enrich insiders
 
 https://grizzlyreports.com/beware-of-terawulf-we-believe-the-company-is-a-charade-to-enrich-insiders-at-the-cost-of-investors-and-backed-by-notorious-pump-and-dump-artists/ (stocks/WULF), https://grizzlyreports.com/beware-of-terawulf-we-believe-the-company-is-a-charade-to-enrich-insiders-at-the-cost-of-investors-and-backed-by-notorious-pump-and-dump-artists/
-
-Thesis: fraud, analyst: TeraWulf, sector: .
 
 <blockquote>
 <pre>
 crypto
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 Also picked up by Hunterbrook: 
 <https://newsletter.hntrbrk.com/p/coal-crypto-and-false-branding-inside?utm_source=post-email-title&publication_id=2442504&post_id=147365578&utm_campaign=email-post-title&isFreemail=true&r=nmbt&triedRedirect=true&utm_medium=emailj>
@@ -31,7 +29,6 @@ Also picked up by Hunterbrook:
 crypto
 </pre>
 </blockquote>
-latest change: 2025-10-29
 
 Also picked up by Hunterbrook: 
 <https://newsletter.hntrbrk.com/p/coal-crypto-and-false-branding-inside?utm_source=post-email-title&publication_id=2442504&post_id=147365578&utm_campaign=email-post-title&isFreemail=true&r=nmbt&triedRedirect=true&utm_medium=emailj>

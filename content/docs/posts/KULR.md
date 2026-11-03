@@ -5,10 +5,9 @@ tags: [analyst/grizzly-research, focus/security, potential/short, sector/batteri
 type: stock
 ticker: KULR
 draft: false
+updated: 2026-02-28
 ---
 # KULR Technology Group (stocks/KULR)
-
-Thesis: accounting-fraud, analyst: grizzly-research, sector: batteries.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ We believe KULR is just a fancy PR machine trying to impress gullible investors
 </blockquote>
 
 [More ...](https://grizzlyreports.com/kulr/)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
@@ -30,4 +28,3 @@ We believe KULR is just a fancy PR machine trying to impress gullible investors
 </blockquote>
 
 [More ...](https://grizzlyreports.com/kulr/)
-latest change: 2025-10-29

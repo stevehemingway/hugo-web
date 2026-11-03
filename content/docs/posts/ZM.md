@@ -11,7 +11,6 @@ draft: false
 $ZM 
 
 ## Zoom comms Inc
-Thesis: Zoom has a stake in  OpenAI (or similar).
 
 [More..](https://www.sprucepointcap.com/research/zoom-communications-inc)
 

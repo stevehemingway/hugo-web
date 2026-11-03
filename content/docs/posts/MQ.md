@@ -5,10 +5,9 @@ tags: [analyst/restrinct, focus/security, potential/short, sector/fintech, thesi
 type: stock
 ticker: MQ
 draft: false
+updated: 2026-02-28
 ---
 # Marqueta (stocks/MQ)
-
-Thesis: aml-failure, analyst: restrinct, sector: fintech.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Thesis: aml-failure, analyst: restrinct, sector: fintech.
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-marqeta-mq?publication_id=26828&post_id=143262128&isFreemail=true&r=nmbt&triedRedirect=true)
-latest change: 2026-02-28
 
 # Marqueta
 Anonymous Twitter user [@restrinct](https://substack.com/redirect/e0573b99-a20e-45c4-8d26-35581983ee2d?r=nmbt "https://substack.com/redirect/e0573b99-a20e-45c4-8d26-35581983ee2d?r=nmbt") [published](https://substack.com/redirect/98262d12-6b3c-4cba-986c-42c9db8af09f?r=nmbt "https://substack.com/redirect/98262d12-6b3c-4cba-986c-42c9db8af09f?r=nmbt") on **Marqeta** (NASDAQ: MQ — $4.43 billion), a card issuing and payment solutions company. Restrinct said that “the current business model is unsustainable” and aided by one-time pandemic tailwinds. Restrinct predicted that the company’s exposure to growth-oriented consumer startups would “now drag them down as [venture capital] dries up” and competition from other fintech companies like Stripe will continue to intensify.
@@ -54,7 +52,6 @@ This is not the first. Spruce Point released an updated report on them in April 
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-marqeta-mq?publication_id=26828&post_id=143262128&isFreemail=true&r=nmbt&triedRedirect=true)
-latest change: 2025-10-29
 
 ---
 - short

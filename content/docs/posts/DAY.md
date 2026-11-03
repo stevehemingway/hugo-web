@@ -5,6 +5,7 @@ tags: [analyst/blue-orca-capital, focus/security, potential/short, sector/human-
 type: stock
 ticker: DAY
 draft: false
+updated: 2025-07-07
 ---
 # Dayforce (DAY)
 
@@ -24,4 +25,3 @@ But even this is likely conservative, as Dayforce is a governance mess beset by 
 </blockquote>
 
 [More ...](https://static1.squarespace.com/static/5a81b554be42d6b09e19fc09/t/660eaa348a750f7a93ed83bc/1712237110099/Blue+Orca+Short+Dayforce+Inc+%28NYSE+DAY%29.pdf)
-latest change: 2025-07-07

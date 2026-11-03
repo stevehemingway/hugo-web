@@ -5,9 +5,8 @@ tags: [analyst/me, focus/security, market/united-states, potential/short]
 type: stock
 ticker: ATX
 draft: false
+updated: 2026-02-28
 ---
 # ATX (stocks/ATX)
-latest change: 2026-02-28
 
 # ATX (A/ATX)
-latest change: 2026-02-08

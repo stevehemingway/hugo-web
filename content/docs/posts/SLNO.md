@@ -5,10 +5,9 @@ tags: [analyst/scorpion-capital, focus/security, potential/short, sector/pharma,
 type: stock
 ticker: SLNO
 draft: false
+updated: 2026-02-28
 ---
 # Soleno Therapeutics (stocks/SLNO)
-
-Thesis: fraud, analyst: scorpion-capital, sector: pharma.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://scorpionreports.s3.us-east-2.amazonaws.com/SLNO1.pdf)
-latest change: 2026-02-28
 
 August 15, 2025 | Investigative report by Scorpion Capital | www.scorpioncapital.com
 

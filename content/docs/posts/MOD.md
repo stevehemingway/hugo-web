@@ -10,7 +10,3 @@ draft: false
 
 <https://open.substack.com/pub/hntrbrk/p/breaking-modines-anchor-multi-billion?r=57a252&utm_campaign=post&utm_medium=email>
 
-Thesis: data leak which indicates that Google is about to be a big customer and maybe Amazon already is.
-
-
-

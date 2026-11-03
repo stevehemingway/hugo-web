@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, thesis/fra
 type: stock
 ticker: WSP
 draft: false
+updated: 2026-02-28
 ---
 # WSP Global Inc. (stocks/WSP)
-
-Thesis: fraud, analyst: spruce-point-capital, sector: not sure.
 
 <blockquote>
 <pre>
@@ -19,4 +18,3 @@ Also, on the day we issued our report, WSP filed its Management Information Circ
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/wsp-global)
-latest change: 2026-02-28

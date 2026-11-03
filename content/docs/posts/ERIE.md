@@ -5,13 +5,11 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short]
 type: stock
 ticker: ERIE
 draft: false
+updated: 2026-02-28
 ---
 # Erie Indeminity Company (stocks/ERIE)
 
-Thesis: thesis, analyst: spruce-point-management, sector: sector.
 [More ...](https://www.sprucepointcap.com/research/erie-indemnity-company )
-latest change: 2026-02-28
 
 # Erie Indeminity Company (E/ERIE)
 [More ...](https://www.sprucepointcap.com/research/erie-indemnity-company )
-latest change: 2026-02-08

@@ -5,11 +5,9 @@ tags: [analyst/unknown, focus/security, market/canada, potential/long, sector/en
 type: stock
 ticker: PNE
 draft: false
+updated: 2026-02-28
 ---
 # Pine Cliff Energy Ltd. (stocks/PNE.TO)
-
-Thesis: value, analyst: ??, sector: energy.
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

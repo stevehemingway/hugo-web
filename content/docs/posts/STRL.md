@@ -5,10 +5,9 @@ tags: [analyst/snowcap-research, focus/security, potential/short, sector/constru
 type: stock
 ticker: STRL
 draft: false
+updated: 2026-02-28
 ---
 # Sterling Infrastructure Inc (stocks/STRL)
-
-Thesis: fraud, analyst: snowcap-research, sector: construction.
 
 <blockquote>
 <pre>
@@ -17,8 +16,6 @@ We are short Sterling Infrastructure (NASDAQ:STRL), a poster child for the AI bu
 </blockquote>
 
 [More ...](https://snowcapresearch.com)
-latest change: 2026-02-28
-
 
 Sterling Infrastructure (NASDAQ:STRL) - Snowcap Research short thesis, Feb 2026.
 
@@ -41,7 +38,6 @@ Sterling Infrastructure (NASDAQ:STRL) - Snowcap Research short thesis, Feb 2026.
 **Valuation extreme.** E-Infrastructure business trading at ~29x NTM EV/EBITDA - a premium to NVIDIA and on par with Vertiv (pure-play data center infrastructure with vastly superior growth).
 
 **Downside:** 60% downside even if margins are sustainable. Further downside if margins normalize to industry peers. Snowcap sees 60-80% downside.
-
 
 added by openclaw on 2026-02-21
 

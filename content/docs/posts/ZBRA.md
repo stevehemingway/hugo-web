@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/saa
 type: stock
 ticker: ZBRA
 draft: false
+updated: 2026-02-28
 ---
 # Zebra Technologies Corp. (stocks/ZBRA)
-
-Thesis: competition, analyst: spruce-point-capital, sector: SaaS.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Believes That Zebra Is Downplaying Competitive Pressures Across Its Core Hardwar
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/zebra-technologies-corp)
-latest change: 2026-02-28

@@ -5,10 +5,9 @@ tags: [analyst/morpheus-research, focus/security, market/italy, potential/long, 
 type: stock
 ticker: BC
 draft: false
+updated: 2026-02-28
 ---
 # Brunello Cucinelli (stocks/BC.MIL)
-
-Thesis: sanctions busting, analyst: morpheus-research, sector: luxury fashion.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://www.morpheus-research.com/cucinelli/)
-latest change: 2026-02-28
 
 Basically, a high-end fashion outlet with stores in Moscow etc.
 

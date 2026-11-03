@@ -5,10 +5,9 @@ tags: [analyst/fugazi-research, focus/security, potential/short, sector/chinese-
 type: stock
 ticker: SOGP
 draft: false
+updated: 2026-02-28
 ---
 # sound group (stocks/SOGP)
-
-Thesis: fraud, analyst: fugazi-research, sector: chinese scam.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://substack.com/home/post/p-173227995)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
@@ -30,4 +28,3 @@ see below
 </blockquote>
 
 [More ...](https://substack.com/home/post/p-173227995)
-latest change: 2025-10-29

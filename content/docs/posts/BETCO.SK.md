@@ -5,17 +5,15 @@ tags: [analyst/edwin-dorsey, focus/security, market/sweden, potential/short, the
 type: stock
 ticker: BETCO
 draft: false
+updated: 2026-02-28
 ---
 # Better Collective (stocks/BETCO.SK)
-
-Thesis: fraud, analyst: dorsey, sector: sector.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 WSC: https://open.substack.com/pub/dfresearch/p/wsc-2026-estimates-likely-need-to. Dalrymple
 [2025-10-16T15:48:42+01:00] Stockholm:BETCO. Dorsey is a bear.

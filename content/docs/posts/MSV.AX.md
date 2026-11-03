@@ -5,11 +5,9 @@ tags: [analyst/rogue-funds, focus/security, market/australia, potential/long, se
 type: stock
 ticker: MSV
 draft: false
+updated: 2026-02-28
 ---
 # Mitchell Services (based in Aus,presumably) (stocks/MSV.AX)
-
-Thesis: undeveralued, analyst: rogue-funds, sector: civil-engineering.
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

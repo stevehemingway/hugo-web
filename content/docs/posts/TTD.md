@@ -5,6 +5,7 @@ tags: [analyst/me, focus/security, market/united-states, sector/ad-tech, thesis/
 type: stock
 ticker: TTD
 draft: false
+updated: 2026-01-20
 ---
 # the trade desk (TTD)
 
@@ -13,4 +14,3 @@ draft: false
 see below
 </pre>
 </blockquote>
-latest change: 2026-01-20

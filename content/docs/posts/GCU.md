@@ -5,16 +5,15 @@ tags: [analyst/me, focus/security, potential/long, potential/short, thesis/fraud
 type: stock
 ticker: GCU
 draft: false
+updated: 2026-02-28
 ---
 # GCU (stocks/GCU)
-Thesis: fraud, analyst: analyst, sector: sector.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 17 - Gunnison Copper, GCU, see https://open.substack.com/pub/robertsinn/p/the-charts-of-the-week-new-fed-chair?utm_camp+
 

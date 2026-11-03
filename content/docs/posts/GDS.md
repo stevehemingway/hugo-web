@@ -5,10 +5,9 @@ tags: [analyst/grizzly-research, focus/security, potential/short, sector/pharma,
 type: stock
 ticker: GDS
 draft: false
+updated: 2026-02-28
 ---
 # GeneDx (stocks/GDS)
-
-Thesis: fraud, analyst: grizzly-research, sector: pharma.
 
 <blockquote>
 <pre>
@@ -19,4 +18,3 @@ We believe the company’s growth is largely an illusion, driven by fraudulent s
 </blockquote>
 
 [More ...](https://grizzlyreports.com/genedx-20250205/)
-latest change: 2026-02-28

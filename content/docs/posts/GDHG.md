@@ -5,10 +5,9 @@ tags: [analyst/hindenburg-research, focus/security, potential/short, sector/leis
 type: stock
 ticker: GDHG
 draft: false
+updated: 2026-02-28
 ---
 # Golden Heaven Group Holdings (stocks/GDHG)
-
-Thesis: fraud, analyst: Hindenberg, sector: leisure.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ another classic "China Hustle"
 </blockquote>
 
 [More ...](https://x.com/HindenburgRes/status/1724156604583415978?s=20)
-latest change: 2026-02-28
 
 # Golden Heaven Group Holdings (G/GDHG)
 
@@ -28,4 +26,3 @@ another classic "China Hustle"
 </blockquote>
 
 [More ...](https://x.com/HindenburgRes/status/1724156604583415978?s=20)
-latest change: 2026-02-08

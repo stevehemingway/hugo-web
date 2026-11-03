@@ -5,17 +5,15 @@ tags: [analyst/me, focus/security, potential/long, sector/materials, thesis/mate
 type: stock
 ticker: SOLS
 draft: false
+updated: 2026-02-28
 ---
 # Solstice Advanced Materials (stocks/SOLS)
-
-Thesis: materials, analyst: analyst, sector: materials.
 
 <blockquote>
 <pre>
 $SOLS -- Solstice Advanced Materials. Unique UF6 processing plant in the US. Honeywell spinoff. Nuclear fuel cycle play.
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 $SOLS -- Solstice Advanced Materials. Unique UF6 processing plant in the US. Honeywell spinoff.
 

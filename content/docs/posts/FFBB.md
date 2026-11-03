@@ -5,11 +5,9 @@ tags: [analyst/rogue-funds, focus/security, potential/long, sector/banking]
 type: stock
 ticker: FFBB
 draft: false
+updated: 2026-02-28
 ---
 # FFB Bancorp (stocks/FFBB)
-
-Thesis: thesis, analyst: rogue-funds, sector: banking.
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

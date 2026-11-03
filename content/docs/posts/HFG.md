@@ -5,16 +5,15 @@ tags: [analyst/me, focus/security, potential/short, thesis/fraud]
 type: stock
 ticker: HFG
 draft: false
+updated: 2026-02-28
 ---
 # HFG (stocks/HFG)
-Thesis: fraud, analyst: analyst, sector: sector.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 # HFG (H/HFG)
 <blockquote>
@@ -22,4 +21,3 @@ latest change: 2026-02-28
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-08

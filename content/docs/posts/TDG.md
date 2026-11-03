@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/manufacturi
 type: stock
 ticker: TDG
 draft: false
+updated: 2026-02-28
 ---
 # TransDigm (stocks/TDG)
-
-Thesis: politics, analyst: dorsey, sector: manufacturing.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ TransDigm (NYSE: TDG — $72.7 billion) describes itself as “a leading global 
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-transdigm-tdg)
-latest change: 2026-02-28

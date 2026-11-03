@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, market/hong-kong, potential/short, 
 type: stock
 ticker: QMMM
 draft: false
+updated: 2026-02-28
 ---
 # QMMM Holdings (stocks/QMMM)
-
-Thesis: fraud, analyst: dorsey, sector: digital media.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-qmmm-holdings-qmmm)
-latest change: 2026-02-28
 
 The Bear Cave believes the stock of QMMM Holdings (NASDAQ: QMMM — $296 million) is being manipulated by overseas stock manipulation groups and is at risk of a near-term, severe stock collapse.
 

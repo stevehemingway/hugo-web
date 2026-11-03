@@ -5,12 +5,11 @@ tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/finan
 type: stock
 ticker: IBKR
 draft: false
+updated: 2026-02-28
 ---
 # Interactive Brokers (stocks/IBKR)
 
-Thesis: economics, analyst: bristlemoon-capital, sector: finance.
 [More ...](https://www.bristlemoonresearch.com/p/interactive-brokers-ibkr-hoovering?r=nmbt&utm_campaign=post&utm_medium=web)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

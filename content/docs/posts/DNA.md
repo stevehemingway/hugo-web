@@ -5,6 +5,7 @@ tags: [analyst/scorpion-capital, focus/security, potential/short, sector/biotech
 type: stock
 ticker: DNA
 draft: false
+updated: 2026-02-08
 ---
 # ginkgo bioworks (ds/DNA)
 
@@ -18,6 +19,6 @@ Colossal Failure Get Shoveled Into Yet Another Garbage SPAC.
 </blockquote>
 
 [More ...](https://scorpioncapital.s3.us-east-2.amazonaws.com/reports/DNA1.pdf)
-latest change: 2026-02-08
+
 2026-01-30 USD 8.97
 2026-01-30 USD 8.97

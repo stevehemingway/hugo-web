@@ -5,10 +5,9 @@ tags: [analyst/bleecker-street-research, analyst/kerrisdale-capital, focus/secur
 type: stock
 ticker: JOBY
 draft: false
+updated: 2026-02-28
 ---
 # Joby Aviation (stocks/JOBY)
-
-Thesis: optimism, analyst: bleeker-street-research and kerrisdale-capital, sector: aviation.
 
 <blockquote>
 <pre>
@@ -18,7 +17,6 @@ Thesis: optimism, analyst: bleeker-street-research and kerrisdale-capital, secto
 </blockquote>
 
 [More ...](https://twitter.com/KerrisdaleCap/status/1711725862196805928)
-latest change: 2026-02-28
 
 But what about [this]("https://open.substack.com/pub/hntrbrk/p/exclusive-joby-hydrogen-powered-autonomous?r=57a252&utm_campaign=post&utm_medium=email")?
 

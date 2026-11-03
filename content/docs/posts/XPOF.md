@@ -5,10 +5,9 @@ tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/franc
 type: stock
 ticker: XPOF
 draft: false
+updated: 2026-02-28
 ---
 # xponential fitness (stocks/XPOF)
-
-Thesis: cheap, analyst: bristlemoon-capital, sector: franchising.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ This stock is not one for those looking for a clean story. Rather, this stock ha
 </blockquote>
 
 [More ...](https://www.bristlemoonresearch.com/p/xponential-fitness-xpof-fraud-or?utm_source=post-email-title&publication_id=1827871&post_id=156843516&utm_campaign=email-post-title&isFreemail=true&r=nmbt&triedRedirect=true&utm_medium=email)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

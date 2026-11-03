@@ -5,10 +5,9 @@ tags: [analyst/blue-orca-capital, focus/security, potential/short, sector/energy
 type: stock
 ticker: FLNC
 draft: false
+updated: 2026-02-28
 ---
 # Fluence Energy Inc. (stocks/FLNC)
-
-Thesis: fraud, analyst: blue-orca, sector: energy.
 
 <blockquote>
 <pre>
@@ -19,4 +18,3 @@ Incredibly, Fluence has yet to disclose this ongoing lawsuit to investors.  News
 </blockquote>
 
 [More ...](https://mailchi.mp/8178314ae4ab/blue-orca-is-short-sy-nasdaq-389289?e=a4ca2830bd)
-latest change: 2026-02-28

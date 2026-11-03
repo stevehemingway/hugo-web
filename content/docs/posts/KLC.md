@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/education, 
 type: stock
 ticker: KLC
 draft: false
+updated: 2026-02-28
 ---
 # KinderCare Learning Companies (stocks/KLC)
-
-Thesis: badly run, analyst: edwin dorsey, sector: education.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ KinderCare Learning Companies (NYSE: KLC — $1.51 billion) operates ~1,500 dayc
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-kindercare-learning-companies)
-latest change: 2026-02-28

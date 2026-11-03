@@ -5,10 +5,9 @@ tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/oil-an
 type: stock
 ticker: SOC
 draft: false
+updated: 2026-02-28
 ---
 # Sable Offshore (stocks/SOC)
-
-Thesis: economics, analyst: Hunterbrook Media, sector: oil-and-gas.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Hunterbrook Media, a new media outlet that shares its stories in advance with an
 </blockquote>
 
 [More ...](https://hntrbrk.com/sable/)
-latest change: 2026-02-28
 
 Exxon spinoff Sable Offshore faces seven barriers to restart its pipeline, idled since a major oil spill in 2015. One of those approvals needs to come from the California Coastal Commission, which Sable CEO Jim Flores criticized for its “Teflon” “eco-Nazi attitude” in a leaked call recording newly obtained by Hunterbrook. Because of these barriers — and despite Trump Administration intervention — Sable’s project, originally scheduled to go online in Jan 2024, may never sell oil. At least not under the ownership of Sable ($SOC), which is quickly running out of cash.
 
@@ -34,4 +32,3 @@ Hunterbrook Media, a new media outlet that shares its stories in advance with an
 </blockquote>
 
 [More ...](https://hntrbrk.com/sable/)
-latest change: 2025-10-29

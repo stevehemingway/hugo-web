@@ -5,10 +5,9 @@ tags: [analyst/unknown, focus/security, market/canada, potential/long, sector/en
 type: stock
 ticker: BNE
 draft: false
+updated: 2026-02-28
 ---
 # quote (stocks/BNE.TO)
-
-Thesis: energy, analyst: <unsure>, sector: energy.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Bonterra Energy
 </blockquote>
 
 [More ...](https://seekingalpha.com/article/4545849-bonterra-energy-prepared-takeoff)
-latest change: 2026-02-28
 
 Hasn't really performed. Shares have meandered for two years.
 

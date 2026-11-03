@@ -5,10 +5,9 @@ tags: [analyst/bleecker-street-research, focus/security, potential/short, sector
 type: stock
 ticker: LL
 draft: false
+updated: 2026-02-28
 ---
 # LL Flooring Holdings (stocks/LL)
-
-Thesis: stock pump via fake offer, analyst: bleeker-street-research, sector: flooring.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Thesis: stock pump via fake offer, analyst: bleeker-street-research, sector: flo
 </blockquote>
 
 [More ...](LL Flooring Holdings)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
@@ -30,4 +28,3 @@ latest change: 2026-02-28
 </blockquote>
 
 [More ...](LL Flooring Holdings)
-latest change: 2025-10-29

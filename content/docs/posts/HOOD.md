@@ -5,11 +5,8 @@ tags: [analyst/me, focus/security, market/united-states, potential/short, sector
 type: stock
 ticker: HOOD
 draft: false
+updated: 2026-02-28
 ---
 # Robin Hood Markets (stocks/HOOD)
 
-Thesis: market, analyst: me, sector: fintech.
-latest change: 2026-02-28
-
 # Robin Hood Markets (H/HOOD)
-latest change: 2026-02-08

@@ -5,10 +5,9 @@ tags: [analyst/kerrisdale-capital, focus/security, potential/short, sector/crypt
 type: stock
 ticker: MSTR
 draft: false
+updated: 2026-02-28
 ---
 # MicroStrategy (stocks/MSTR)
-
-Thesis: arbitrage, analyst: kerrisdale-capital, sector: crypto.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://www.kerrisdalecap.com/wp-content/uploads/2024/03/MicroStrategy-MSTR.pdf)
-latest change: 2026-02-28
 
 Kerrisdale Capital published on MicroStrategy (NASDAQ: MSTR — $28.9 billion), a business software company better known for its large Bitcoin holdings. Kerrisdale suggested a pair trade of short MicroStrategy and long Bitcoin because MicroStrategy now trades at a 100%+ premium to its Bitcoin holdings. Kerrisdale argued,
 

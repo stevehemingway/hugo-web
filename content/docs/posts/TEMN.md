@@ -5,10 +5,9 @@ tags: [analyst/hindenburg-research, focus/security, potential/short, sector/soft
 type: stock
 ticker: TEMN
 draft: false
+updated: 2026-02-28
 ---
 # Temenos (stocks/TEMN)
-
-Thesis: fraud, analyst: hindeberg-research, sector: software.
 
 <blockquote>
 <pre>
@@ -20,7 +19,6 @@ In October 2021, Temenos announced a strategic partnership with fintech Mbanq to
 </blockquote>
 
 [More ...](https://hindenburgresearch.com/temenos/)
-latest change: 2026-02-28
 
 Note: not tradeable on IG.
 

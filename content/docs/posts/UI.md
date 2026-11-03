@@ -5,10 +5,9 @@ tags: [analyst/hunterbrook-media, focus/security, potential/long, sector/technol
 type: stock
 ticker: UI
 draft: false
+updated: 2026-02-28
 ---
 # Ubiquity Inc (stocks/UI)
-
-Thesis: moat, analyst: hunterbrook, sector: technology.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Ubiquity ($UI) - networking equipment being illegally exported to Russia because
 </blockquote>
 
 [More ...](https://hunterbrook.com/research)
-latest change: 2026-02-28
 
 Ubiquity ($UI), being illegally exported to Russia, because there is no good alternative. Article by Hunterbrook on 27 Jan 2025. Both good (moat) and bad (breaking sanctions).
 

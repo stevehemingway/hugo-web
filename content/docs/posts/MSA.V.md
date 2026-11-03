@@ -5,10 +5,9 @@ tags: [analyst/brandon-at-micro-ops, focus/security, market/canada, potential/lo
 type: stock
 ticker: MSA
 draft: false
+updated: 2026-02-28
 ---
 # Mineros SA (stocks/MSA.V)
-
-Thesis: good FCF, analyst: brandon-at-Micro Ops, sector: gold mining.
 
 <blockquote>
 <pre>
@@ -19,7 +18,6 @@ We bought the stock for three main reasons:
     MSA can juice shareholder returns once debt-free via increased dividends and/or buybacks.
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

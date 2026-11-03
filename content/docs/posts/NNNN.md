@@ -5,10 +5,9 @@ tags: [analyst/hithawk-research, focus/security, potential/short, sector/medicin
 type: stock
 ticker: NNNN
 draft: false
+updated: 2026-02-28
 ---
 # Anbio (stocks/NNNN)
-
-Thesis: fraud, analyst: hithawk-research, sector: medicine.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://hithawk.com/campaign/anbio/)
-latest change: 2026-02-28
 
 Key Issues
 Evidence of a constructed fraud shell: Anbio’s structure, addresses, products, and filings consistently fail basic verification.

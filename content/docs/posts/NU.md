@@ -5,10 +5,9 @@ tags: [analyst/ian-bezek, focus/security, market/united-states, potential/long, 
 type: stock
 ticker: NU
 draft: false
+updated: 2026-02-28
 ---
 # Nu Holdings Inc. (stocks/NU)
-
-Thesis: value, analyst: Ian Bezek, sector: fintech.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://open.substack.com/pub/ianbezek/p/why-i-a-former-nubank-skeptic-am)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

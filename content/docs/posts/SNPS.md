@@ -5,17 +5,15 @@ tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/chips
 type: stock
 ticker: SNPS
 draft: false
+updated: 2026-02-28
 ---
 # synopsys (stocks/SNPS)
-
-Thesis: monopoly, analyst: bristlemoon, sector: chips.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 Synopsys Inc
 Synopsys (SNPS) is the leading vendor of electronic design automation (EDA) software tools used for

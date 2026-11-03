@@ -5,10 +5,9 @@ tags: [analyst/robert-armstrong, focus/security, potential/long, sector/drilling
 type: stock
 ticker: CTRA
 draft: false
+updated: 2026-02-28
 ---
 # Coterra Energy (stocks/CTRA)
-
-Thesis: cheap, analyst: robert armstrong, sector: drilling.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ it's a gift
 </blockquote>
 
 [More ...](https://markets.ft.com/data/equities/tearsheet/financials?s=CTRA:NYQ)
-latest change: 2026-02-28
 
 I came across this stock in an article by Robert Armstrong where he said that there
 really weren't any cheap stocks on sale any longer.

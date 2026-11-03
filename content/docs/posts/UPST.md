@@ -5,10 +5,9 @@ tags: [analyst/bleecker-street-research, focus/security, market/united-states, p
 type: stock
 ticker: UPST
 draft: false
+updated: 2026-02-28
 ---
 # Upstart Holdings (stocks/UPST)
-
-Thesis: legal-threats, analyst: bleeker-street-research, sector: finance.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ an “AI-powered” consumer lending platform. Bleecker Street Research said tha
 </blockquote>
 
 [More ...](https://twitter.com/Bleecker__St/status/1707395821837128085)
-latest change: 2026-02-28

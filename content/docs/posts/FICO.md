@@ -5,17 +5,15 @@ tags: [analyst/bristlemoon-capital, focus/security, potential/short, thesis/frau
 type: stock
 ticker: FICO
 draft: false
+updated: 2026-02-28
 ---
 # Fair-Isaac Corp. (stocks/FICO)
-
-Thesis: fraud, analyst: bristlemoon-capital, sector: sector.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 # Fair-Isaac Corp. (F/FICO)
 
@@ -24,4 +22,3 @@ latest change: 2026-02-28
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-08

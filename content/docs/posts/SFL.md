@@ -6,17 +6,15 @@ tags: [analyst/tudor-invest-holdings, focus/security, potential/long, sector/tec
 type: stock
 ticker: SFL
 draft: false
+updated: 2026-02-28
 ---
 # https://seekingalpha.com/article/4572569-sfl-putting-to-rest-concern-about-large-container-fleet (stocks/SFL)
-
-Thesis: undervalued, analyst: tudor-invest-holdings, sector: .
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 ?mailingid=30365976&messageid=2850&serial=30365976.260&utm_campaign=rta-author-article&utm_medium=email&utm_source=seeking_alpha&utm_term=30365976.260
 

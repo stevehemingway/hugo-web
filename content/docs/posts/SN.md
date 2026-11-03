@@ -5,10 +5,9 @@ tags: [analyst/grizzly-research, focus/security, potential/short, sector/chinese
 type: stock
 ticker: SN
 draft: false
+updated: 2026-02-28
 ---
 # Shark Ninja (stocks/SN)
-
-Thesis: ramp, analyst: grizzly-research, sector: China IT.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ We Believe SharkNinja, Inc (NYSE: SN) is a China Hustle Based on Rampant Looting
 </blockquote>
 
 [More ...](https://grizzlyreports.com/we-believe-sharkninja-inc-nyse-sn-is-a-china-hustle-based-on-rampant-looting-and-conflicts-of-interest-with-the-chinese-chairman/)
-latest change: 2026-02-28

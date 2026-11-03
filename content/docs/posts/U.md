@@ -5,10 +5,9 @@ tags: [analyst/bristlemoon-capital, focus/security, potential/long, sector/it, t
 type: stock
 ticker: U
 draft: false
+updated: 2026-02-28
 ---
 # Unity Software (stocks/U)
-
-Thesis: economics, analyst: bristlemoon, sector: IT.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Unity Software is a company that we have followed on and off since its IPO in Se
 </blockquote>
 
 [More ...](https://www.bristlemoonresearch.com/p/unity-software-u-applovin-at-home)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

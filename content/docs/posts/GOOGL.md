@@ -5,17 +5,15 @@ tags: [analyst/bristlemoon-capital, focus/security, market/united-states, potent
 type: stock
 ticker: GOOGL
 draft: false
+updated: 2026-02-28
 ---
 # Alphabet (stocks/GOOGL)
-
-Thesis: underrated, analyst: bristlemoon, sector: AI.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 Highly rated by Bristlemoon.
 

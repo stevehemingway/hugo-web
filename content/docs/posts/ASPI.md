@@ -5,10 +5,9 @@ tags: [analyst/fuzzy-panda-research, focus/security, market/united-states, poten
 type: stock
 ticker: ASPI
 draft: false
+updated: 2026-02-28
 ---
 # ASP Isotopes (stocks/ASPI)
-
-Thesis: fraud, analyst: fuzzy-panda-research, sector: mining.
 
 <blockquote>
 <pre>
@@ -17,7 +16,7 @@ paid stock promotion by notorious microcap fraudsters
 </blockquote>
 
 [More ...](https://fuzzypandaresearch.com/aspi-honig-stetson-paid-stock-promotion/)
-latest change: 2026-02-28
+
 2026-01-30 USD 6.34
 
 ---
@@ -41,4 +40,3 @@ paid stock promotion by notorious microcap fraudsters
 </blockquote>
 
 [More ...](https://fuzzypandaresearch.com/aspi-honig-stetson-paid-stock-promotion/)
-latest change: 2025-10-29

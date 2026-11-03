@@ -5,17 +5,15 @@ tags: [analyst/fuzzy-panda-research, analyst/grizzly-research, focus/security, p
 type: stock
 ticker: RZLV
 draft: false
+updated: 2026-02-28
 ---
 # Rezolve AI (stocks/RZLV)
-
-Thesis: fraud, analyst: fuzzy-panda and grizzly-research, sector: AI.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 Fuzzy Panda Research published on Rezolve AI (NASDAQ: RZLV — $2.19 billion), which makes AI-powered solutions for e-commerce companies. Fuzzy Panda called Rezolve “a $2bn market cap SPAC that used to be a mobile phone tech [company] created by a CEO infamous for fake customers & fake partnerships.” Fuzzy Panda alleged the company was essentially a “ChatGPT wrapper” with minimal proprietary tech and raised concerns about related party transactions with the company’s CEO.
 

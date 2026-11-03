@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/pes
 type: stock
 ticker: ROL
 draft: false
+updated: 2026-02-28
 ---
 # Rollins Inc. (stocks/ROL)
-
-Thesis: pe-rollup, analyst: spruce-point-capital, sector: pest-control.
 
 <blockquote>
 <pre>
@@ -18,7 +17,6 @@ Rollins, an S&P 500 index component, is the second largest pest control service 
 </blockquote>
 
 [More ...](https://x.com/sprucepointcap/status/1709557968797110398?s=20)
-latest change: 2026-02-28
 
 # Additional comments, 20th Oct 2023
 

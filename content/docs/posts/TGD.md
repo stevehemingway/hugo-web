@@ -5,11 +5,9 @@ tags: [analyst/byrne-hobart, focus/security, potential/long, sector/aerospace]
 type: stock
 ticker: TGD
 draft: false
+updated: 2026-02-28
 ---
 # Transdigm (stocks/TGD)
-
-Thesis: thesis, analyst: Byrne Hobart, sector: aerospace.
-latest change: 2026-02-28
 
 Mentioned in passing as able to sustain supranormal returns, like BRK.
 

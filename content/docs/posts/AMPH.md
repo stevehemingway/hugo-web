@@ -5,10 +5,9 @@ tags: [analyst/black-mamba-research, focus/security, market/united-states, poten
 type: stock
 ticker: AMPH
 draft: false
+updated: 2026-02-28
 ---
 # Amphastar Pharma (stocks/AMPH)
-
-Thesis: competition, analyst: black-mamba-research, sector: pharma.
 
 <blockquote>
 <pre>
@@ -17,6 +16,6 @@ New activist Black Mamba Research published on Amphastar Pharmaceuticals (NASDAQ
 </blockquote>
 
 [More ...](https://seekingalpha.com/article/4701780-amphastar-pharmaceuticals-shining-star-soon-to-fade-competitive-pressures-looming)
-latest change: 2026-02-28
+
 2026-01-30 USD 26.49
 2026-01-30 USD 26.49

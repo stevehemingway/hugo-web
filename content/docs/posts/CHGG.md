@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/tech, thesi
 type: stock
 ticker: CHGG
 draft: false
+updated: 2026-02-28
 ---
 # Chegg (stocks/CHGG)
-
-Thesis: competition, analyst: dorsey, sector: tech.
 
 <blockquote>
 <pre>
@@ -17,5 +16,5 @@ Chegg’s primary business is selling students monthly subscriptions for homewor
 </blockquote>
 
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-chegg-chgg?r=nmbt&utm_campaign=post&utm_medium=email)
-latest change: 2026-02-28
+
 2026-01-30 USD 0.769

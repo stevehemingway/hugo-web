@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/ai,
 type: stock
 ticker: TEM
 draft: false
+updated: 2026-02-28
 ---
 # Tempus AI Inc. (stocks/TEM)
-
-Thesis: fraud, analyst: spruce-point-management, sector: AI.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/tempus-ai-inc)
-latest change: 2026-02-28
 
 Warns That Tempus Management and Board Members Have a History Together of Promoting Disruptive Technology Companies Which Have Frequently Resulted in Financial Restatements and Shareholder Losses
 Expresses Concerns About Tempus’ Artificial Intelligence Capabilities Given Minimal Revenues and Product Demonstrations, Which Appear to Show Irreconcilable Inputs

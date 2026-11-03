@@ -5,10 +5,9 @@ tags: [analyst/herb-greenberg, analyst/hunterbrook-media, focus/security, potent
 type: stock
 ticker: RH
 draft: false
+updated: 2025-10-29
 ---
 # Restoration Hardware Holdings (stocks/RH)
-
-Thesis: fraud, analyst: hunterbrook, sector: furniture.
 
 <blockquote>
 <pre>
@@ -31,4 +30,3 @@ The luxury brand has seen its cash position fall from $2.3 billion to just $42 m
 </blockquote>
 
 [More ...](https://hntrbrk.com/rh/)
-latest change: 2025-10-29

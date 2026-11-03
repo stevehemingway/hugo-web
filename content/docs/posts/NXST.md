@@ -5,10 +5,9 @@ tags: [analyst/grizzly-research, focus/security, potential/short, sector/media, 
 type: stock
 ticker: NXST
 draft: false
+updated: 2026-02-28
 ---
 # Nextstar Media Group Inc (stocks/NXST)
-
-Thesis: management, analyst: grizzly-reports, sector: media.
 
 <blockquote>
 <pre>
@@ -48,4 +47,3 @@ Nexstar Media Group, Inc. (Nasdaq: NXST) is a media company that produces and di
 </blockquote>
 
 [More ...](https://grizzlyreports.com/nexstar/)
-latest change: 2026-02-28

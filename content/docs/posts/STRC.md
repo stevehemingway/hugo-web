@@ -5,17 +5,15 @@ tags: [analyst/me, focus/security, potential/long, sector/preferred-stock, thesi
 type: stock
 ticker: STRC
 draft: false
+updated: 2026-02-28
 ---
 # Strategy Stretch Preferred (stocks/STRC)
-
-Thesis: preferreds, analyst: analyst, sector: preferred_stock.
 
 <blockquote>
 <pre>
 (Micro)Strategy Stretch Preferred. 10% yield! Preferred shares of MicroStrategy with high yield.
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 $STRC: (Micro)Strategy Stretch Preferred. 10%!
 

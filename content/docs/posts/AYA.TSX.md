@@ -5,17 +5,15 @@ tags: [analyst/blue-orca-capital, focus/security, market/canada, potential/short
 type: stock
 ticker: AYA
 draft: false
+updated: 2026-02-28
 ---
 # Aya Gold and Silver (stocks/AYA.TSX)
-
-Thesis: fraud, analyst: blue-orca, sector: mining.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 # Aya Gold and Silver (A/AYA.TSX)
 
@@ -24,4 +22,3 @@ latest change: 2026-02-28
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-08

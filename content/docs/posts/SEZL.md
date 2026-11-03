@@ -5,10 +5,9 @@ tags: [analyst/hindenburg-research, focus/security, potential/short, sector/fina
 type: stock
 ticker: SEZL
 draft: false
+updated: 2026-02-28
 ---
 # personal-finance (stocks/SEZL)
-
-Thesis: economics and fraud, analyst: hindenberg-research, sector: https://hindenburgresearch.com/sezzle/.
 
 <blockquote>
 <pre>
@@ -19,7 +18,6 @@ Sezzle
 </blockquote>
 
 [More ...](https://hindenburgresearch.com/sezzle/)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
@@ -32,4 +30,3 @@ Insiders have sold ~$71 million in stock this year, including a key pre-IPO inve
 Sezzle
 </pre>
 </blockquote>
-latest change: 2025-10-29

@@ -5,10 +5,9 @@ tags: [analyst/grizzly-research, focus/security, potential/short, sector/cmt, th
 type: stock
 ticker: PINS
 draft: false
+updated: 2026-02-28
 ---
 # Pinterest (stocks/PINS)
-
-Thesis: economics, analyst: grizzly-research, sector: cmt.
 
 <blockquote>
 <pre>
@@ -21,4 +20,3 @@ Pinterest even pays for search traffic to window-dress key performance indicator
 </blockquote>
 
 [More ...](https://grizzlyreports.com/we-believe-pinterest-inc-nyse-pins-is-in-a-death-spiral-but-misleadingly-doctors-its-terrible-performance-statistics/)
-latest change: 2026-02-28

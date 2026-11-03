@@ -5,15 +5,15 @@ tags: [analyst/fuzzy-panda-research, focus/security, market/united-states, poten
 type: stock
 ticker: AIRS
 draft: false
+updated: 2026-02-28
 ---
 # Airsculpt (stocks/AIRS)
 
-Thesis: thesis, analyst: fuzzy-panda-research, sector: sector.
 [More ...](https://fuzzypandaresearch.com/airs/)
-latest change: 2026-02-28
+
 2026-01-30 USD 2.97
 
 # Airsculpt (A/AIRS)
 [More ...](https://fuzzypandaresearch.com/airs/)
-latest change: 2026-02-08
+
 2026-01-30 USD 2.97

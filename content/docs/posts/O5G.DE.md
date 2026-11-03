@@ -4,6 +4,7 @@ date: '2026-10-12T21:42:14+01:00'
 tags: [analyst/muddy-waters-capital, market/germany, potential/short, sector/reit, thesis/fraud]
 type: note
 draft: false
+updated: 2025-04-03
 ---
 # CPI Property Group (O5G.DE)
 
@@ -16,6 +17,5 @@ Muddy Waters is short the credit of CPI Property Group ("CPI PG"). We conclude t
 </blockquote>
 
 [More ...](https://www.muddywatersresearch.com/research/cpipgr/mw-short-credit-cpipgr/)
-latest change: 2025-04-03
 
 Muddy waters is short the credit of the group. See [this](https://www.muddywatersresearch.com/research/cpipgr/part-2/).

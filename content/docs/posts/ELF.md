@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/cos
 type: stock
 ticker: ELF
 draft: false
+updated: 2026-02-28
 ---
 # e.l.f. Beauty (stocks/ELF)
-
-Thesis: fraud, analyst: spruce-point, sector: cosmetics.
 
 <blockquote>
 <pre>
@@ -20,7 +19,6 @@ Over the last several years,
 </blockquote>
 
 [More ...](https://madmimi.com/p/d69dd71?pact=294226-177186956-13184480810-bc581e49663edb294fdcab08f57da39a5a509c4a)
-latest change: 2026-02-28
 
 Also Muddy Waters is short ELF
 https://muddywatersresearch.com/research/elf/mw-is-short-elf/

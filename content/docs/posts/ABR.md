@@ -5,12 +5,11 @@ tags: [analyst/ningi-research, focus/security, market/united-states, potential/s
 type: stock
 ticker: ABR
 draft: false
+updated: 2026-02-28
 ---
 # Arbor Realty Trust: the beginning of the end
 
 Arbor’s underlying CLO performance data for November is now live on Trepp, and it is as bad as we expected, if not worse. This report will track Arbor’s underlying asset delinquencies and debt service coverage ratios (DSCR), which now show clear and dangerous negative trends to the downside.  (stocks/ABR), Arbor’s underlying CLO performance data for November is now live on Trepp, and it is as bad as we expected, if not worse. This report will track Arbor’s underlying asset delinquencies and debt service coverage ratios (DSCR), which now show clear and dangerous negative trends to the downside. 
-
-Thesis: fraud, analyst: ningni-research, sector: Arbor Realty Trust.
 
 <blockquote>
 <pre>
@@ -19,7 +18,6 @@ viceroy-research"
 </blockquote>
 
 [More ...](REIT)
-latest change: 2026-02-28
 
 NINGI Research [published](https://substack.com/redirect/d530b178-142a-4198-9152-af06c9a07793?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/d530b178-142a-4198-9152-af06c9a07793?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98") on **Arbor Realty Trust** (NYSE: ABR — $2.01 billion), a mortgage REIT focused on bridge financing. NINGI Research said Arbor “owns a toxic and worthless portfolio of mobile homes called Lexford/Empirian” and alleged the company is understating credit loss allowances. Specifically, NINGI Research highlighted that the company’s credit loss allowance for its multifamily loan portfolio has grown only $1.7 million since 2020 despite a ~$9 billion increase in its multifamily loan portfolio. NINGI Research also highlighted accounting anomalies and alleged the company hides debt off its balance sheet. NINGI Research concluded,
 
@@ -47,8 +45,6 @@ viceroy-research"
 </blockquote>
 
 [More ...](REIT)
-latest change: 2026-02-08
-
 
 NINGI Research [published](https://substack.com/redirect/d530b178-142a-4198-9152-af06c9a07793?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98 "Click to open https://substack.com/redirect/d530b178-142a-4198-9152-af06c9a07793?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98") on **Arbor Realty Trust** (NYSE: ABR — $2.01 billion), a mortgage REIT focused on bridge financing. NINGI Research said Arbor “owns a toxic and worthless portfolio of mobile homes called Lexford/Empirian” and alleged the company is understating credit loss allowances. Specifically, NINGI Research highlighted that the company’s credit loss allowance for its multifamily loan portfolio has grown only $1.7 million since 2020 despite a ~$9 billion increase in its multifamily loan portfolio. NINGI Research also highlighted accounting anomalies and alleged the company hides debt off its balance sheet. NINGI Research concluded,
 
@@ -59,7 +55,6 @@ https://viceroyresearch.org/2024/02/21/arbor-realty-trust-baloney-with-a-side-of
 ## Update on 18 April 2024
 
 <https://viceroyresearch.org/2024/04/17/arbor-april-clo-update/>
-
 
 <https://viceroyresearch.org/wp-content/uploads/2024/05/Arbor-Elevate-Case-Study.pdf>
 

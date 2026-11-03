@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/fin
 type: stock
 ticker: MSCI
 draft: false
+updated: 2026-02-28
 ---
 # MSCI Inc. (stocks/MSCI)
-
-Thesis: management, analyst: spruce-point-research, sector: financial services.
 
 <blockquote>
 <pre>
@@ -27,6 +26,5 @@ relative to any large cap global equity index. Our fair value target is 55% - 65
 </blockquote>
 
 [More ...](https://assets-global.website-files.com/64dd091f91b3ca8e6309dc0d/65a7d6951629623be5467a96_msci_research_thesis_1-17-2024.pdf)
-latest change: 2026-02-28
 
 [Page at Spruce Point website.](https://www.sprucepointcap.com/research/msci)

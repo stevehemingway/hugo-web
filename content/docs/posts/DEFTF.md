@@ -5,6 +5,7 @@ tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/crypto, the
 type: stock
 ticker: DEFTF
 draft: false
+updated: 2026-02-08
 ---
 # DeFI Technologies (ds/DEFTF)
 
@@ -15,6 +16,6 @@ see link
 </blockquote>
 
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-defi-technologies-deftf?r=nmbt&utm_campaign=post&utm_medium=email)
-latest change: 2026-02-08
+
 2025-05-09 USD 3.9835
 2025-05-09 USD 3.9835

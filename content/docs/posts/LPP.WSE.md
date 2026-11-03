@@ -5,10 +5,9 @@ tags: [analyst/hindenburg-research, focus/security, market/poland, potential/sho
 type: stock
 ticker: LPP
 draft: false
+updated: 2026-02-28
 ---
 # LPP (stocks/LPP.WSE)
-
-Thesis: fraud, analyst: hindenberg, sector: retail.
 
 <blockquote>
 <pre>
@@ -21,4 +20,3 @@ Russia’s invasion of Ukraine in February 2022 triggered a mass exodus of forei
 </blockquote>
 
 [More ...](https://hindenburgresearch.com/lpp/)
-latest change: 2026-02-28

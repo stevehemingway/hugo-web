@@ -5,12 +5,11 @@ tags: [analyst/hunterbrook-media, focus/security, potential/long, sector/ai, the
 type: stock
 ticker: EVLV
 draft: false
+updated: 2026-02-28
 ---
 # Evolv Technologies Inc. (stocks/EVLV)
 
-Thesis: oversold, analyst: hunterbrook, sector: ai.
 [More ...](https://newsletter.hntrbrk.com/p/breaking-schools-stick-with-evolv?r=nmbt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

@@ -5,10 +5,9 @@ tags: [analyst/me, focus/security, potential/long, sector/etf, thesis/undervalue
 type: stock
 ticker: ARGT
 draft: false
+updated: 2026-02-28
 ---
 # Global X MSCI Argentina ETF (stocks/ARGT)
-
-Thesis: undervalued, analyst: analyst, sector: ETF.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Argentina ETF that has had a torrid time recently, but the country has a lot goi
 </blockquote>
 
 [More ...](https://www.globalxetfs.com/funds/argt/)
-latest change: 2026-02-28
 
 ARGT (Argentina ETF). It has had a torrid time recently, but the country has a lot going for it.
 

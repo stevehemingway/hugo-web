@@ -5,10 +5,9 @@ tags: [analyst/ed-fin, focus/security, potential/long, sector/shipping, thesis/u
 type: stock
 ticker: SMHI
 draft: false
+updated: 2026-02-28
 ---
 # Seacore Marine (stocks/SMHI)
-
-Thesis: undervalued, analyst: ed-fin, sector: shipping.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ SEACOR Marine (SMHI) is an Offshore Support Vessel (OSV) play, and considered an
 </blockquote>
 
 [More ...](https://edfin.substack.com/p/smhi-back-to-black?utm_source=post-email-title&publication_id=947755&post_id=142198537&utm_campaign=email-post-title&isFreemail=true&r=nmbt&triedRedirect=true&utm_medium=email)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

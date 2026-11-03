@@ -5,10 +5,9 @@ tags: [analyst/blue-orca-capital, focus/security, potential/short, sector/insura
 type: stock
 ticker: BWIN
 draft: false
+updated: 2026-02-28
 ---
 # Baldwin Insurance Group (stocks/BWIN)
-
-Thesis: fraud, analyst: blue-orca, sector: insurance brokers.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://www.blueorcacapital.com/report/blue-orca-is-short-baldwin-insurance-group-inc/)
-latest change: 2026-02-28
 
 Blue Orca is Short Baldwin Insurance Group, Inc. (NASDAQ: BWIN)
 

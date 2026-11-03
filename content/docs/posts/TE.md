@@ -5,17 +5,14 @@ tags: [analyst/culper-research, analyst/fuzzy-panda-research, focus/security, po
 type: stock
 ticker: TE
 draft: false
+updated: 2026-02-28
 ---
 # T1 Energy (stocks/TE)
-
-
 
 ## update 25 May 26 
 
 Fuzzy Panda Research published on T1 Energy (NYSE: TE — $2.25 billion), a clean battery solutions company formerly known as FREYR Battery. Fuzzy Panda called the company “another China Hustle” and said the company “is further doomed to be non-FEOC compliant” given its extensive China ties.
 <https://fuzzypandaresearch.com/short-te-us-china-solar-feoc-restatements/>
-
-Thesis: fraud, analyst: culper-research, sector: clean-energy.
 
 <blockquote>
 <pre>
@@ -24,7 +21,6 @@ see below
 </blockquote>
 
 [More ...](https://culperresearch.com/wp-content/uploads/2026/01/Culper_TE_1-21-2026.pdf)
-latest change: 2026-02-28
 
 2
 T1 Energy (TE): The “American Made” Charade Masking Chinese Supply and
@@ -52,6 +48,4 @@ T1 then replaced RWE with Trina Solar, and called it a “new” offtake agreeme
 2026-05-30: tidied up, new report from Fuzzy P. damning. 
 
 *updated: 2026-03-07 by automated standardization process*
-
-
 

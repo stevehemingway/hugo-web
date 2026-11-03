@@ -5,10 +5,9 @@ tags: [analyst/grizzly-research, focus/security, potential/short, sector/batteri
 type: stock
 ticker: MVST
 draft: false
+updated: 2026-02-28
 ---
 # microvast holdings (stocks/MVST)
-
-Thesis: fraud, analyst: grizzly-research, sector: batteries.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://grizzlyreports.com/mvst/)
-latest change: 2026-02-28
 
 MVST's House of Lies: The German Factory Stands Idle, the Chinese One Runs at Half Capacity, and the CCP Owns the Shop
 

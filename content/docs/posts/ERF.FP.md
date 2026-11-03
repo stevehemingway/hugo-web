@@ -5,10 +5,9 @@ tags: [analyst/muddy-waters-capital, focus/security, market/france, potential/sh
 type: stock
 ticker: ERF
 draft: false
+updated: 2026-02-28
 ---
 # Eurofins (stocks/ERF.FP)
-
-Thesis: fraud, analyst: muddy-waters, sector: drug testing.
 
 <blockquote>
 <pre>
@@ -19,7 +18,6 @@ Muddy Waters is short Eurofins Scientific SE (ERF.FP) because the confusion and 
 </blockquote>
 
 [More ...](https://muddywatersresearch.com/research/erf-fp/mw-is-short-eurofins)
-latest change: 2026-02-28
 
 ## Part II
 

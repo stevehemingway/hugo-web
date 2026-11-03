@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/unknown, th
 type: stock
 ticker: LANV
 draft: false
+updated: 2026-02-28
 ---
 # Lanvin Group (stocks/LANV)
-
-Thesis: resignation, analyst: edwin-dorsey, sector: unknown.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ CEO of Lanvin Group Holdings (NYSE: LANV — $392 million) “decided to step do
 </blockquote>
 
 [More ...](bear-cave-199)
-latest change: 2026-02-28

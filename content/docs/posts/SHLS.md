@@ -12,11 +12,10 @@ latest_change: 2026-10-28
 source: SHLS.eml
 source_from: "Pelican Way Research <pelicanwayresearch@gmail.com>"
 source_subject: "We are short Shoals Technologies Group Inc ($SHLS)"
+updated: 2026-10-28
 ---
 
 # Shoals Technologies Group Inc (SHLS)
-
-Thesis: short, analyst: pelican-way-research, sector: solar.
 
 <blockquote>
 <pre>
@@ -25,8 +24,6 @@ We short $SHLS because of serious problems we have found with some of the deals 
 </blockquote>
 
 [More ...](https://www.pelicanway-research.com)
-
-latest change: 2026-10-28
 
 Pelican Way Research published a short call on Shoals Technologies Group (NASDAQ: SHLS — solar balance-of-system components). Two claims form the case:
 

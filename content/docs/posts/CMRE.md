@@ -5,10 +5,9 @@ tags: [analyst/rogue-funds, focus/security, potential/long, sector/bulk-shipping
 type: stock
 ticker: CMRE
 draft: false
+updated: 2026-02-28
 ---
 # Costamare Inc. (stocks/CMRE)
-
-Thesis: value, analyst: rogue-funds, sector: bulk-shipping.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ For a cyclical company like Costamare I tend to ensure that a company like this 
 </blockquote>
 
 [More ...](https://www.rogue-funds.com/blog/unleashing-the-kraken-why-costamares-debt-is-fueling-not-anchoring-growth)
-latest change: 2026-02-28
 
 |                                              | 2017    | 2018    | 2019   | 2020   | 2021   |
 |----------------------------------------------|---------|---------|--------|--------|--------|

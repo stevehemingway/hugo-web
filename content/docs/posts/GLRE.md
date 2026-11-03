@@ -5,11 +5,9 @@ tags: [analyst/me, focus/security, potential/long, sector/insurance, thesis/chea
 type: stock
 ticker: GLRE
 draft: false
+updated: 2026-02-28
 ---
 # Greenlight Re (stocks/GLRE)
-
-Thesis: cheap, analyst: me, sector: insurance.
-latest change: 2026-02-28
 
 This is the idea that Greenlight Capital is a spiffy hedge fund, and you can get 
 exposure to it by investing in the reinsurance offshoot.

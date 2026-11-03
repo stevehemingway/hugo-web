@@ -5,10 +5,9 @@ tags: [analyst/df-research, focus/security, potential/short, sector/infrastructu
 type: stock
 ticker: BIP
 draft: false
+updated: 2026-02-28
 ---
 # Brookfield Infrastructure Partners (stocks/BIP)
-
-Thesis: aggressive-accounting, analyst: df-research, sector: infrastructure.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ For example, DF Research noted that a key investment in utility infrastructure p
 </blockquote>
 
 [More ...](https://dfresearch.substack.com/p/dfr-is-short-brookfield-infrastructure)
-latest change: 2026-02-28
 
 [A further research note](https://substack.com/redirect/38cecdb3-e30c-4029-9a4c-914b7cb3c6a8?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98).
 

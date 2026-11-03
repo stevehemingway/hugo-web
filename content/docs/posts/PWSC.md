@@ -5,15 +5,13 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/edu
 type: stock
 ticker: PWSC
 draft: false
+updated: 2026-02-28
 ---
 # PowerSchool Holdings (stocks/PWSC)
 
-Thesis: economics-fraud-legal, analyst: spruce-point-capital, sector: education.
 [More ...](https://www.sprucepointcap.com/research/powerschool-holdings-inc)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
 # PowerSchool Holdings (PWSC)
 [More ...](https://www.sprucepointcap.com/research/powerschool-holdings-inc)
-latest change: 2025-10-29

@@ -5,10 +5,9 @@ tags: [analyst/bear-cave, analyst/herb-greenberg, focus/security, potential/shor
 type: stock
 ticker: HIMS
 draft: false
+updated: 2026-02-28
 ---
 # Hims and Hers (stocks/HIMS)
-
-Thesis: fraud, analyst: bear-cave, herb-greenberg, sector: pharma.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://www.herbgreenberg.com/p/weekly-wrap-when-the-music-stops?r=57a252&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
-latest change: 2026-02-28
 
 # Hims and Hers Health
 

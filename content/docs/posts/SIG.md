@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/retail, the
 type: stock
 ticker: SIG
 draft: false
+updated: 2026-02-28
 ---
 # Signet Jewellers (stocks/SIG)
-
-Thesis: market, analyst: dorsey, sector: retail.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Signet Jewelers (NYSE: SIG — $2.56 billion) is the world’s largest retailer 
 </blockquote>
 
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-signet-jewelers-sig?r=nmbt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
-latest change: 2026-02-28

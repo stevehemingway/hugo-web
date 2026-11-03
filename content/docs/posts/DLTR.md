@@ -5,6 +5,7 @@ tags: [analyst/me, focus/security, potential/short, sector/retail]
 type: stock
 ticker: DLTR
 draft: false
+updated: 2026-02-08
 ---
 # Dollar Tree (ds/DLTR)
 
@@ -13,7 +14,6 @@ draft: false
 nope
 </pre>
 </blockquote>
-latest change: 2026-02-08
 
 2026-01-30 USD 117.59
 2026-01-30 USD 117.59

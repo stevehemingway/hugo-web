@@ -5,10 +5,9 @@ tags: [analyst/glasshouse-research, focus/security, potential/short, sector/cons
 type: stock
 ticker: GVA
 draft: false
+updated: 2026-02-28
 ---
 # Granite Construction (stocks/GVA)
-
-Thesis: fraud, analyst: glasshouse-research, sector: construction.
 
 <blockquote>
 <pre>
@@ -23,4 +22,3 @@ recent statements.
 </blockquote>
 
 [More ...](https://www.glasshouseresearch.com/uploads/8/9/6/9/89690703/gva_final.pdf)
-latest change: 2026-02-28

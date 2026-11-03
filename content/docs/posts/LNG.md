@@ -5,10 +5,9 @@ tags: [analyst/massif-capital-partners, focus/security, potential/long, sector/e
 type: stock
 ticker: LNG
 draft: false
+updated: 2026-02-28
 ---
 # LNG (stocks/LNG)
-
-Thesis: commodity, analyst: massif-capital, sector: energy.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ LNG stocks - liquefied natural gas infrastructure and production. Energy transit
 </blockquote>
 
 [More ...](https://seekingalpha.com/article/4837156-massif-capital-q3-2025-letter-to-investors)
-latest change: 2026-02-28
 
 LNG stocks, see Massif Capital Q3 2025 letter.
 

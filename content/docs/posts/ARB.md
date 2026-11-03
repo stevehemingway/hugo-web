@@ -5,17 +5,15 @@ tags: [analyst/viceroy-research, focus/security, market/united-states, potential
 type: stock
 ticker: ARB
 draft: false
+updated: 2026-02-28
 ---
 # Arbor Realty Trust Inc. (stocks/ARB)
-
-Thesis: economics, analyst: viceroy-research, sector: REIT.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 Arbor Realty – Earnings Preview & CLO Update
 

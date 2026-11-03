@@ -5,17 +5,15 @@ tags: [analyst/ben-carlson, focus/security, potential/long, sector/mining, thesi
 type: stock
 ticker: SYLD
 draft: false
+updated: 2026-02-28
 ---
 # etf (stocks/SYLD)
-
-Thesis: cashflow, analyst: Ben Carlson, sector: .
 
 <blockquote>
 <pre>
 Cambria’s Shareholder Yield ETF, SYLD goes beyond dividends to include buybacks and debt paydown, resulting in a fund portfolio that historically ranks highly on a metric referred to as shareholder yield.
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

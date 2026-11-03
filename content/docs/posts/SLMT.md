@@ -5,6 +5,7 @@ tags: [analyst/fugazi-research, focus/security, potential/short, sector/sport, t
 type: stock
 ticker: SLMT
 draft: false
+updated: 2026-01-26
 ---
 # Brera Holdings PLC (SLMT)
 
@@ -15,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://open.substack.com/pub/fugaziresearch/p/brera-holdings-brea-from-social-impact?utm_campaign=post&utm_medium=email  )
-latest change: 2026-01-26
 
 Brera Holdings PLC (BREA) is an Irish-based holding company that debuted on Nasdaq in January 2023, promoting a vision of "social-impact, multi-club" football (soccer) ownership. Under the leadership of Executive Chairman Dan McClory—a veteran investment banker and Head of China at Boustead Securities—the company presented a plan to acquire and develop small football clubs into a global brand.
 

@@ -5,10 +5,9 @@ tags: [analyst/bristlemoon-capital, focus/security, potential/long, potential/sh
 type: stock
 ticker: PAR
 draft: false
+updated: 2026-02-28
 ---
 # PAR Technology Corp. (stocks/PAR)
-
-Thesis: growth, analyst: bristlemoon-capital, sector: software.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Imagine a company that sells a mission-critical product into a durable customer 
 </blockquote>
 
 [More ...](https://www.bristlemoonresearch.com/p/par-technology-corporation-par-the?utm_source=post-email-title&publication_id=1827871&post_id=146425676&utm_campaign=email-post-title&isFreemail=true&r=nmbt&triedRedirect=true&utm_medium=email)
-latest change: 2026-02-28
 
 reconsider PAR - added by openclaw on 2026-02-21
 

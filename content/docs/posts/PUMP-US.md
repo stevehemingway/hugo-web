@@ -5,10 +5,9 @@ tags: [analyst/guasty-winds, focus/security, potential/long, sector/oilfield-ser
 type: stock
 ticker: PUMP-US
 draft: false
+updated: 2026-02-28
 ---
 # ProPetro Holding Corp (stocks/PUMP-US)
-
-Thesis: asymmetric, analyst: guasty-winds, sector: oilfield-services.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ ProPetro is perhaps the most asymmetric opportunity I have found in public marke
 </blockquote>
 
 [More ...](https://guastywinds.substack.com/p/the-security-i-like-best)
-latest change: 2026-02-28
 
 ProPetro (PUMP-US) is an oilfield services company with a legacy pressure pumping business in the Permian and a fast-growing on-site power generation subsidiary (ProPwr) targeting data centers and oil/gas operations.
 

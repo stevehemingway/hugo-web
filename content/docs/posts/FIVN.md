@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/it, thesis/
 type: stock
 ticker: FIVN
 draft: false
+updated: 2026-02-28
 ---
 # Five9 (stocks/FIVN)
-
-Thesis: economics, analyst: dorsey, sector: IT.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Founded in 2001, San Ramon-based Five9 is one of many “Contact Center as a Ser
 </blockquote>
 
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-five9-fivn)
-latest change: 2026-02-28

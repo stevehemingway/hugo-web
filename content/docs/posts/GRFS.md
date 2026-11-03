@@ -5,10 +5,9 @@ tags: [analyst/gotham-city-research, focus/security, potential/short, sector/pha
 type: stock
 ticker: GRFS
 draft: false
+updated: 2026-02-28
 ---
 # Grifols (stocks/GRFS)
-
-Thesis: fraud, analyst: gotham-city-research, sector: pharma.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Gotham City Research published on Grifols (NASDAQ: GRFS — $5.96 billion), a Sp
 </blockquote>
 
 [More ...](https://www.gothamcityresearch.com/post/grifols-sa-scranton-and-the-undisclosed-debts)
-latest change: 2026-02-28
 
 ## 2024-3-10 Update from Gotham City
 

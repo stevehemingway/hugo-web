@@ -5,10 +5,9 @@ tags: [analyst/convequity, focus/security, potential/long, sector/ai, thesis/eco
 type: stock
 ticker: PGY
 draft: false
+updated: 2026-02-28
 ---
 # Pagaya (stocks/PGY)
-
-Thesis: economics, analyst: convequity, sector: AI.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://open.substack.com/pub/convequity/p/pagaya-from-first-loss-pain-to-forward?r=57a252&utm_campaign=post&utm_med)
-latest change: 2026-02-28
 
  12.PGY -- Pagaya: AI based declined-loan routing provider. Complicated.
 

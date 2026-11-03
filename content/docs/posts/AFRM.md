@@ -5,10 +5,9 @@ tags: [analyst/diogenes-research, analyst/kerrisdale-capital, focus/security, ma
 type: stock
 ticker: AFRM
 draft: false
+updated: 2026-02-28
 ---
 # Affirm (stocks/AFRM)
-
-Thesis: unprofitable-tech, analyst: diogenes and kerrisdalecap, sector: fintech.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Thesis: unprofitable-tech, analyst: diogenes and kerrisdalecap, sector: fintech.
 </blockquote>
 
 [More ...](https://www.kerrisdalecap.com/wp-content/uploads/2026/01/Affirm-Kerrisdale.pdf)
-latest change: 2026-02-28
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So with its lower guidance for September Q revenues, <a href="https://twitter.com/search?q=%24AFRM&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$AFRM</a> will have flat revenues($360M) for the last four quarters. With losses still in the hundreds of millions per quarter. Disruptive FinTech!</p>&mdash; Diogenes (@WallStCynic) <a href="https://twitter.com/WallStCynic/status/1562905207607922688?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
@@ -50,7 +48,6 @@ credit now places Affirm’s model under direct political scrutiny.
 </blockquote>
 
 [More ...](https://twitter.com/search?q=%24AFRM&amp;src=ctag&amp;ref_src=twsrc%5Etfw)
-latest change: 2025-10-29
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So with its lower guidance for September Q revenues, <a href="https://twitter.com/search?q=%24AFRM&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$AFRM</a> will have flat revenues($360M) for the last four quarters. With losses still in the hundreds of millions per quarter. Disruptive FinTech!</p>&mdash; Diogenes (@WallStCynic) <a href="https://twitter.com/WallStCynic/status/1562905207607922688?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 

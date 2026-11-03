@@ -5,10 +5,9 @@ tags: [analyst/df-research, focus/security, potential/short, sector/b-to-b, thes
 type: stock
 ticker: WSC
 draft: false
+updated: 2026-02-28
 ---
 # Willscot Inc. (stocks/WSC)
-
-Thesis: fraud, analyst: df-research, sector: b-to-b.
 
 <blockquote>
 <pre>
@@ -19,7 +18,7 @@ We have extensive photographic evidence showing that WSC's modular space fleet c
 </blockquote>
 
 [More ...](https://open.substack.com/pub/dfresearch/p/willscots-overlevered-fleet-with?r=nmbt&utm_campaign=post&utm_medium=web)
-latest change: 2026-02-28
+
 WSC: The Walking Dead - added by openclaw on 2026-02-21
 
 https://dfresearch.substack.com/p/wsc-the-walking-dead
@@ -51,4 +50,3 @@ We have extensive photographic evidence showing that WSC's modular space fleet c
 </blockquote>
 
 [More ...](https://open.substack.com/pub/dfresearch/p/willscots-overlevered-fleet-with?r=nmbt&utm_campaign=post&utm_medium=web)
-latest change: 2025-10-29

@@ -5,10 +5,9 @@ tags: [analyst/me, focus/security, market/united-states, potential/short, sector
 type: stock
 ticker: SBUX
 draft: false
+updated: 2026-02-28
 ---
 # Starbucks Corp (stocks/SBUX)
-
-Thesis: china, analyst: me, sector: retail.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...]("")
-latest change: 2026-02-28
 
 # Starbucks
 

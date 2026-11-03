@@ -5,17 +5,15 @@ tags: [analyst/bristlemoon-capital, focus/security, market/united-states, potent
 type: stock
 ticker: ASML
 draft: false
+updated: 2026-02-28
 ---
 # ASML (stocks/ASML)
-
-Thesis: monopoly, analyst: bristlemoon, sector: IT.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 Basically, ASML is the only manufacturer of extreme UV lithography.
 

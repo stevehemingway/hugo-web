@@ -5,6 +5,7 @@ tags: [analyst/edwin-dorsey, analyst/night-market-research, focus/security, pote
 type: stock
 ticker: POET
 draft: false
+updated: 2026-02-28
 ---
 # POET Technologies
 
@@ -15,8 +16,6 @@ POET: Marvell Isn’t The Only Dead Partnership. Foxconn, LITEON and More Are To
 
 electronics (stocks/POET), electronics
 
-Thesis: fraud, analyst: edwin-dorsey, sector: https://open.substack.com/pub/thebearcave/p/problems-at-poet-technologies-poet?r=nmbt&utm_campaign=post&utm_medium=email.
-
 <blockquote>
 <pre>
 POET Technologies (NASDAQ: POET — $364 million) is designing an “optical interposer” that the company claims “brings value to devices that integrate electronics and photonics, including high-speed networking for cloud service providers and data centers, 5G networks, ‘Internet of Things’, accelerators for Artificial Intelligence systems and sensing applications, such as LIDAR systems.” The company has virtually no revenue and the stock is up ~450% this year with a lofty $10 million average daily trading volume. The Bear Cave believes POET’s rise is based more on hype than substance.
@@ -25,7 +24,6 @@ POET Technologies
 </blockquote>
 
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-poet-technologies-poet?r=nmbt&utm_campaign=post&utm_medium=email)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-05-17 by Steve*
@@ -37,4 +35,3 @@ POET Technologies (NASDAQ: POET — $364 million) is designing an “optical int
 POET Technologies
 </pre>
 </blockquote>
-latest change: 2025-10-29

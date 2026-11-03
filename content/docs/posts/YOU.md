@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/sup
 type: stock
 ticker: YOU
 draft: false
+updated: 2026-02-28
 ---
 # Clear Secure, Inc. (stocks/YOU)
-
-Thesis: fraud, analyst: spruce-point, sector: support services.
 
 <blockquote>
 <pre>
@@ -22,4 +21,3 @@ Believes That CLEAR’s Valuation Is Miscalculated and Its Shares Trade at an Ir
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/clear-secure-inc)
-latest change: 2026-02-28

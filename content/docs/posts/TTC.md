@@ -5,10 +5,9 @@ tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/con
 type: stock
 ticker: TTC
 draft: false
+updated: 2026-02-28
 ---
 # The Toro Company (stocks/TTC)
-
-Thesis: economics, analyst: Jehospaphat-research, sector: consumer-discretionary.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Jehoshaphat Research published on The Toro Company (NYSE: TTC — $8.69 billion)
 </blockquote>
 
 [More ...](https://x.com/JehoshaphatRsch/status/1792914581666349413)
-latest change: 2026-02-28

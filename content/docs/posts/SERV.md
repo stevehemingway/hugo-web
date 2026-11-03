@@ -5,10 +5,9 @@ tags: [analyst/bonitas-research, analyst/edwin-dorsey, focus/security, potential
 type: stock
 ticker: SERV
 draft: false
+updated: 2026-02-28
 ---
 # Serve Robotics (stocks/SERV)
-
-Thesis: product, analyst: bonitas-research, sector: tech.
 
 Dorsey posted a negative assessment too.
 
@@ -19,7 +18,6 @@ company robots struggling with basic manoeuvers
 </blockquote>
 
 [More ...](https://www.bonitasresearch.com/wp-content/uploads/dlm_uploads/2024/12/Bonitas-Short-Serve_Robotics-SERV-Dec-5-2024.pdf)
-latest change: 2026-02-28
 
 ---
 *updated: 2026-03-07 by automated standardization process*
@@ -33,4 +31,3 @@ company robots struggling with basic manoeuvers
 </blockquote>
 
 [More ...](https://www.bonitasresearch.com/wp-content/uploads/dlm_uploads/2024/12/Bonitas-Short-Serve_Robotics-SERV-Dec-5-2024.pdf)
-latest change: 2025-10-29

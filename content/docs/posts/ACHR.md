@@ -5,17 +5,15 @@ tags: [analyst/culper-research, analyst/grizzly-research, focus/security, potent
 type: stock
 ticker: ACHR
 draft: false
+updated: 2026-02-28
 ---
 # Archer Aviation Inc. (stocks/ACHR)
-
-Thesis: fraud, analyst: grizzly-research, culper-research, sector: vtol aviation.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 # Grizzly 
 

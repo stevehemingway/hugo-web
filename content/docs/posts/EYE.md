@@ -5,10 +5,9 @@ tags: [analyst/bristlemoon-capital, focus/security, potential/short, sector/reta
 type: stock
 ticker: EYE
 draft: false
+updated: 2026-02-28
 ---
 # National Vision Holdings (stocks/EYE)
-
-Thesis: demand and supply, analyst: bristlemoon-capital, sector: retail.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Bristlemoon Capital published on National Vision Holdings (NASDAQ: EYE — $1.62
 </blockquote>
 
 [More ...](https://www.bristlemoonresearch.com/p/a-short-we-like-edition-1)
-latest change: 2026-02-28

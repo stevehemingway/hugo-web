@@ -5,17 +5,15 @@ tags: [focus/security, potential/long, sector/engineering, thesis/elliot]
 type: stock
 ticker: HON
 draft: false
+updated: 2026-02-28
 ---
 # honeywell international (stocks/HON)
-
-Thesis: elliot, analyst: ft, sector: engineering.
 
 <blockquote>
 <pre>
 none
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 Basically, Elliot agitated for a breakup, and it's going to happen.
 

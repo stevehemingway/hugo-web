@@ -5,17 +5,15 @@ tags: [analyst/me, focus/security, market/london, market/uk, potential/short, se
 type: stock
 ticker: UTG
 draft: false
+updated: 2026-02-28
 ---
 # Unite Group PLC (stocks/UTG.L)
-
-Thesis: macro, analyst: me, sector: REIT.
 
 <blockquote>
 <pre>
 
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 # Unite Group PLC
 

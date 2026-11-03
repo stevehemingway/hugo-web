@@ -5,6 +5,7 @@ tags: [analyst/night-market-research, focus/security, sector/travel, thesis/debt
 type: stock
 ticker: MOND
 draft: false
+updated: 2025-04-03
 ---
 # Mondee Holdings (MOND)
 
@@ -15,4 +16,3 @@ Mondee, an airfare consolidator, trades at sector-leading multiples despite medi
 </blockquote>
 
 [More ...](https://seekingalpha.com/article/4654907-mondee-bad-trip-choking-high-interest-debt-downside-potential)
-latest change: 2025-04-03

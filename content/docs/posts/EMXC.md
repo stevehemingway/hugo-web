@@ -5,17 +5,15 @@ tags: [analyst/me, focus/security, potential/long, sector/mining, thesis/value]
 type: stock
 ticker: EMXC
 draft: false
+updated: 2026-02-28
 ---
 # Emerging Markets Ex-China (stocks/EMXC)
-
-Thesis: value, analyst: me, sector: .
 
 <blockquote>
 <pre>
 Vietnam is hot
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

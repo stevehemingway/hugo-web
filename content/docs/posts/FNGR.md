@@ -5,10 +5,9 @@ tags: [analyst/capybara-research, focus/security, potential/short, sector/phone-
 type: stock
 ticker: FNGR
 draft: false
+updated: 2026-02-28
 ---
 # FingerMotion (stocks/FNGR)
-
-Thesis: stock-promotion, analyst: capybara-research, sector: phone-data.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ For example, the company appears to use its copyright registration numbers as "P
 </blockquote>
 
 [More ...](https://twitter.com/CapybaraShort/status/1716946652475593121)
-latest change: 2026-02-28

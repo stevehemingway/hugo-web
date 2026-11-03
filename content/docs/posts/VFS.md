@@ -5,10 +5,9 @@ tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/automo
 type: stock
 ticker: VFS
 draft: false
+updated: 2026-02-28
 ---
 # VinFast (stocks/VFS)
-
-Thesis: poor product, analyst: hunterbrook media, sector: automotive.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Hardly anyone is buying the company’s electric vehicles — at home or abroad 
 </blockquote>
 
 [More ...](https://newsletter.hntrbrk.com/p/whats-going-on-with-vinfast?publication_id=2442504&post_id=143814186&isFreemail=true&r=nmbt&triedRedirect=true)
-latest change: 2026-02-28

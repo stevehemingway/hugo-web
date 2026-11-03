@@ -5,13 +5,9 @@ tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/med
 type: stock
 ticker: ENOV
 draft: false
+updated: 2026-02-28
 ---
 # Enovis 
-
-Thesis: economics, analyst: jehoshaphat-reesarch, sector: medical technology.
-
-
-latest change: 2026-02-28
 
 Enovis is an awful business, but that’s not really the point. In this short thesis, we focus heavily on accounting
 irregularities at ENOV, and there are a lot. Some of them are simple and some of them are complex. We review

@@ -5,10 +5,9 @@ tags: [analyst/kerrisdale-capital, focus/security, market/united-states, potenti
 type: stock
 ticker: CVNA
 draft: false
+updated: 2026-02-28
 ---
 # Carvana (stocks/CVNA)
-
-Thesis: economics, analyst: kerrisdale-capital, sector: retail.
 
 <blockquote>
 <pre>
@@ -19,7 +18,7 @@ Kerrisdale Capital published a follow-up report on Carvana (NYSE: CVNA — $16.8
 </blockquote>
 
 [More ...](https://www.kerrisdalecap.com/wp-content/uploads/2024/02/Carvana-Kerrisdale-Feb-2024.pdf)
-latest change: 2026-02-28
+
 2026-01-30 USD 401.11
 2026-01-30 USD 401.11
 
@@ -92,6 +91,6 @@ Kerrisdale Capital published a follow-up report on Carvana (NYSE: CVNA — $16.8
 </blockquote>
 
 [More ...](https://www.kerrisdalecap.com/wp-content/uploads/2024/02/Carvana-Kerrisdale-Feb-2024.pdf)
-latest change: 2026-02-08
+
 2026-01-30 USD 401.11
 2026-01-30 USD 401.11

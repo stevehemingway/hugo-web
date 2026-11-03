@@ -5,17 +5,15 @@ tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/ev, thesis/
 type: stock
 ticker: GOEV
 draft: false
+updated: 2026-02-28
 ---
 # Canoo (stocks/GOEV)
-
-Thesis: fraud, analyst: dorsey, sector: EV.
 
 <blockquote>
 <pre>
 CFO will no longer serve after seven months
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 # Canoo (G/GOEV)
 
@@ -24,4 +22,3 @@ latest change: 2026-02-28
 CFO will no longer serve after seven months
 </pre>
 </blockquote>
-latest change: 2026-02-08

@@ -5,10 +5,9 @@ tags: [analyst/bleecker-street-research, analyst/night-market-research, focus/se
 type: stock
 ticker: NN
 draft: false
+updated: 2026-02-28
 ---
 # NextNav (stocks/NN)
-
-Thesis: competition, analyst: bleeker-street-research and Night Market Research, sector: tech.
 
 <blockquote>
 <pre>
@@ -18,7 +17,6 @@ Bleecker Street Research published on NextNav (NASDAQ: NN — $432 million),
 </blockquote>
 
 [More ...](https://twitter.com/Bleecker__St/status/1732418253966725510)
-latest change: 2026-02-28
 
 Night Market Research published on NextNav (NASDAQ: NN — $2.14 billion), a GPS and geolocation systems company. Night Market said the market is underestimating the obstacles for the company to get new broadband licenses, and spoke to a former FCC Chairman “who believes NextNav’s position is weak and [its] petition is unlikely to move forward in its current form.” Night Market also raised concerns about the company’s valuation, writing in part,
 

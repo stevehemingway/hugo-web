@@ -5,10 +5,9 @@ tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/manufa
 type: stock
 ticker: USAP
 draft: false
+updated: 2026-02-28
 ---
 # Universal Stainless (stocks/USAP)
-
-Thesis: legal claims, analyst: hunterbrook, sector: manufacturing.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ terrible work conditions and quality assurance, especially on work for Boeing
 </blockquote>
 
 [More ...](https://newsletter.hntrbrk.com/p/universal-stainless-set-to-be-acquired)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
@@ -30,4 +28,3 @@ terrible work conditions and quality assurance, especially on work for Boeing
 </blockquote>
 
 [More ...](https://newsletter.hntrbrk.com/p/universal-stainless-set-to-be-acquired)
-latest change: 2025-10-29

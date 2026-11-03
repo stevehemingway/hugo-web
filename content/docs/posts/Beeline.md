@@ -7,8 +7,6 @@ draft: false
 ---
 # Beeline (stocks/Beeline)
 
-Thesis: fintech, analyst: analyst, sector: fintech.
-
 <blockquote>
 <pre>
 Beeline - home equity withdrawal combined with crypto. Sold home equity owned by Beeline CEO, not company itself. Fintech play on home equity extraction.

@@ -5,10 +5,9 @@ tags: [analyst/fuzzy-panda-research, focus/security, potential/short, sector/it,
 type: stock
 ticker: NSSC
 draft: false
+updated: 2026-02-28
 ---
 # Napco Security Technologies (stocks/NSSC)
-
-Thesis: fraud, analyst: fuzzy-panda, sector: IT.
 
 <blockquote>
 <pre>
@@ -19,4 +18,3 @@ Explosive new lawsuit by former employees alleges accounting fraud and financial
     The alleged fraud involved mis-categorizing COGS as inventory, and was “well-known within the company,” the lawsuit says.
 </pre>
 </blockquote>
-latest change: 2026-02-28

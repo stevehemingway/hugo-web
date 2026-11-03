@@ -5,6 +5,7 @@ tags: [focus/security, potential/short, thesis/fraud, analyst/culper-research]
 type: stock
 ticker: TREE
 draft: false
+updated: 2025-10-29
 ---
 --- analyst: culpeper-research sector: thesis: fraud tags: - short
 - analyst/culper-research - focus/security - potential/short -
@@ -45,4 +46,3 @@ fought this suit for the past 5 years
 
 [More ...](which the
 Company itself told the court was a “death knell” for its defense)
-latest change: 2025-10-29

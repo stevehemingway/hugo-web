@@ -5,10 +5,9 @@ tags: [analyst/culper-research, focus/security, potential/short, sector/medical-
 type: stock
 ticker: ZJYL
 draft: false
+updated: 2026-02-28
 ---
 # Jin Medical International (stocks/ZJYL)
-
-Thesis: fraud, analyst: culper-research, sector: medical devices.
 
 <blockquote>
 <pre>
@@ -19,4 +18,3 @@ Culper Research published a Twitter thread on Jin Medical International (NASDAQ:
 </blockquote>
 
 [More ...](https://twitter.com/CulperResearch/status/1747650037344092174)
-latest change: 2026-02-28

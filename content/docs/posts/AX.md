@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, market/united-states, potential/sho
 type: stock
 ticker: AX
 draft: false
+updated: 2026-02-28
 ---
 # AXOS (stocks/AX)
-
-Thesis: fraud, analyst: dorsey, sector: real estate.
 
 <blockquote>
 <pre>
@@ -17,6 +16,5 @@ Our research, including industry analysis, interviews with 21 former employees, 
 </blockquote>
 
 [More ...](https://hindenburgresearch.com/axos/)
-latest change: 2026-02-28
 
 2026-01-30 USD 98.99

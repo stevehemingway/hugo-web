@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/it,
 type: stock
 ticker: IOT
 draft: false
+updated: 2026-02-28
 ---
 # Samsara Inc. (stocks/IOT)
-
-Thesis: fraud, analyst: spruce-point-capital, sector: IT-hardware.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Reveals That Samsara’s Aggressive Accounting Policies Defer Expenses into Futu
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/samsara-inc/)
-latest change: 2026-02-28

@@ -5,10 +5,9 @@ tags: [analyst/old-time-reitster, focus/security, potential/short, sector/reit, 
 type: stock
 ticker: BMXT
 draft: false
+updated: 2026-02-28
 ---
 # Blackstone Mortgage Trust (stocks/BMXT)
-
-Thesis: economics, analyst: Old Time REITser, sector: REIT.
 
 <blockquote>
 <pre>
@@ -21,4 +20,3 @@ Thesis: economics, analyst: Old Time REITser, sector: REIT.
 </blockquote>
 
 [More ...](https://seekingalpha.com/article/4663294-blackstone-mortgage-portfolio-reveals-2024-darker-than-it-appears)
-latest change: 2026-02-28

@@ -5,17 +5,15 @@ tags: [analyst/muddy-waters-capital, focus/security, potential/short, sector/rei
 type: stock
 ticker: BXMT
 draft: false
+updated: 2026-02-28
 ---
 # Blackstone Mortgage Trust Inc. (stocks/BXMT)
-
-Thesis: fraud, analyst: muddy-waters-capital, sector: mortgage reit.
 
 <blockquote>
 <pre>
 Muddy Waters is short BXMT. Interest rate swaps and manipulated risk ratings / loss provisions have obscured serious deterioration in BXMT's loan book. 
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 ## 2024-3-10 Old Time Reitser joins in
 

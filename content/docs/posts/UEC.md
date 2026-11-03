@@ -5,6 +5,7 @@ tags: [focus/security, potential/short, thesis/fraud, sector/uranium-enrichment-
 type: stock
 ticker: UEC
 draft: false
+updated: 2025-10-29
 ---
 
 ## Uranium Energy Corp (UEC: NYSE American) — Short Thesis
@@ -83,4 +84,3 @@ At ~$9.83, the market is capitalising this at ~$5B for a company that produces ~
 </blockquote>
 
 [More ...](mining)
-latest change: 2025-10-29

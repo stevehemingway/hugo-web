@@ -5,12 +5,11 @@ tags: [analyst/rogue-funds, focus/security, market/sweden, potential/long, secto
 type: stock
 ticker: HAYPP
 draft: false
+updated: 2026-02-28
 ---
 # HAYPP Group (Stockholm) (stocks/HAYPP.STO)
 
-Thesis: economics, analyst: rogue-funds, sector: retailing.
 [More ...](https://www.rogue-funds.com/blog/haypp-group)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

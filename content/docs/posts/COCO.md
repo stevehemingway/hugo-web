@@ -5,17 +5,15 @@ tags: [analyst/ningi-research, focus/security, potential/short, sector/food, sec
 type: stock
 ticker: COCO
 draft: false
+updated: 2026-02-28
 ---
 # Vita Coco Company (stocks/COCO)
-
-Thesis: thesis, analyst: Ningi-research, sector: food manufacturing.
 
 <blockquote>
 <pre>
 
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 Vita Coco – Structural Issues Amid Stalling Sales and Costco Contract Loss
 We are short the Vita Coco Company (NASDAQ: COCO), because, in our opinion, Vita Coco is nothing more than a one-trick pony grazing in a niche TAM. The stock is hyped as a unique growth story in the ‘Better for you’ beverage segment, but in 2024 sales just grew 4.5% YoY (vs. category at 15.4%) and its market share has been falling since early 2023. Compounding the problem, we uncovered that Costco, Vita Coco's largest private label customer, will ultimately terminate its contract with the company, despite having renewed their partnership in 2023. This decision will result in an estimated $90 million revenue shortfall for Vita Coco by the end of 2025 and position Costco as its strongest competitor. Vita Coco is suffering from structural internal deficiencies, such as undisclosed related-party transactions and supply chain mismanagement. We believe the company focuses on misleading the markets while insiders offload stock.

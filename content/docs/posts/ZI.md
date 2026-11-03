@@ -8,4 +8,3 @@ draft: false
 ---
 # Zillow
 
-Thesis: house prices will collapse, because of rising rates, volumes will dry up, trendy estate agents' portals will fail.

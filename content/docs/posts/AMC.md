@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, market/united-states, potential/sho
 type: stock
 ticker: AMC
 draft: false
+updated: 2026-02-28
 ---
 # AMC Entertainment (stocks/AMC)
-
-Thesis: everything, analyst: dorsey, sector: cinemas.
 
 <blockquote>
 <pre>
@@ -18,7 +17,6 @@ AMC Entertainment (NYSE: AMC — $1.62 billion) is the largest movie theater com
 
 [More ...](https://thebearcave.substack.com/p/problems-at-amc-entertainment-amc
 )
-latest change: 2026-02-28
 
 2026-01-30 USD 1.39
 2026-01-30 USD 1.39

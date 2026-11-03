@@ -5,10 +5,9 @@ tags: [analyst/hithawk-research, focus/security, potential/short, sector/media, 
 type: stock
 ticker: TRST
 draft: false
+updated: 2026-02-28
 ---
 # Trustpilot (stocks/TRST)
-
-Thesis: fraud, analyst: hithawk, sector: media.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://hithawk.com/campaign/trst/)
-latest change: 2026-02-28
 
 Trustpilot – A Brazenly Deceitful Business
  

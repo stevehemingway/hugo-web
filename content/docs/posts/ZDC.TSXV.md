@@ -5,10 +5,9 @@ tags: [analyst/left-field-investing, focus/security, market/canada, potential/lo
 type: stock
 ticker: ZDC
 draft: false
+updated: 2026-02-28
 ---
 # Zedcor Inc (stocks/ZDC.TSXV)
-
-Thesis: economics, analyst: left-field-investing, sector: infrastructure.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Zedcor is a company I’ve looked at for around 2 years and have unfortunately o
 </blockquote>
 
 [More ...](https://leftfieldinvesting.substack.com/p/zedcor-inc-oil-field-rental-company)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

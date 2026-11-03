@@ -5,17 +5,15 @@ tags: [analyst/me, focus/security, market/poland, potential/long, sector/mining,
 type: stock
 ticker: KGH
 draft: false
+updated: 2026-02-28
 ---
 # KGHM (stocks/KGH.WA)
-
-Thesis: economics, analyst: analyst, sector: mining.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

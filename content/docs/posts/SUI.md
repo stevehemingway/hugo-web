@@ -5,10 +5,9 @@ tags: [analyst/blue-orca-capital, focus/security, potential/short, sector/rv-and
 type: stock
 ticker: SUI
 draft: false
+updated: 2026-02-28
 ---
 # Sun Communities Inc. (stocks/SUI)
-
-Thesis: fraud, analyst: blue-orca, sector: RV and mobile home sites.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Our diligence reveals that SUI’s CEO received an undisclosed $4 million loan f
 </blockquote>
 
 [More ...](https://mailchi.mp/f342f1ff18bb/blue-orca-is-short-sy-nasdaq-5202764)
-latest change: 2026-02-28

@@ -5,10 +5,9 @@ tags: [analyst/herb-greenberg, focus/security, potential/long, sector/media, the
 type: stock
 ticker: CCO
 draft: false
+updated: 2026-02-28
 ---
 # Clear Channel Outdoor Holdings (stocks/CCO)
-
-Thesis: special_situation, analyst: herb-greenberg, sector: media.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Special situation with Clear Channel Outdoor Holdings. Outdoor advertising busin
 </blockquote>
 
 [More ...](https://open.substack.com/pub/herbgreenberg/p/special-situation-clear-channels-efd?utm_campaign=post&utm_medium=email)
-latest change: 2026-02-28
 
 Clear Channel Outdoor Holdings - Special situation analysis by Herb Greenberg.
 

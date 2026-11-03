@@ -5,12 +5,11 @@ tags: [focus/security, potential/long, sector/mining, thesis/cheap-exposure]
 type: stock
 ticker: SPGP
 draft: false
+updated: 2026-02-28
 ---
 # iShares Gold Producers (stocks/SPGP)
 
-Thesis: cheap exposure, analyst: comment in FT, sector: mining.
 [More ...](https://www.ishares.com/uk/individual/en/products/251908/ishares-gold-producers-ucits-etf?switchLocale=y&siteEntryPassthrough=true)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

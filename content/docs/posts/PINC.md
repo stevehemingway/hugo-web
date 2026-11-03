@@ -5,10 +5,9 @@ tags: [analyst/jehoshaphat-research, focus/security, potential/short, sector/hea
 type: stock
 ticker: PINC
 draft: false
+updated: 2026-02-28
 ---
 # Premier Inc (stocks/PINC)
-
-Thesis: thesis, analyst: Jehoshaphat, sector: healthcare-purchasing.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Jehoshaphat Research published on Premier Inc (NASDAQ: PINC — $2.01 billion), 
 </blockquote>
 
 [More ...](https://jehoshaphatresearch.com/wp-content/uploads/2025/01/PINC-Research-Opinion-by-Jehoshaphat-Research-Jan-2025.pdf?)
-latest change: 2026-02-28

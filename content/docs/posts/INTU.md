@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/sof
 type: stock
 ticker: INTU
 draft: false
+updated: 2026-02-28
 ---
 # Intuit Inc. (stocks/INTU)
-
-Thesis: economics, analyst: spruce-point, sector: software.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ unwise acquisitions
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/intuit-inc)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
@@ -30,4 +28,3 @@ unwise acquisitions
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/intuit-inc)
-latest change: 2025-10-29

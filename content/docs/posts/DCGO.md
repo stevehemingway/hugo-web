@@ -5,6 +5,7 @@ tags: [analyst/fuzzy-panda-research, focus/security, potential/short, sector/hea
 type: stock
 ticker: DCGO
 draft: false
+updated: 2026-02-08
 ---
 # DocGo (ds/DCGO)
 
@@ -25,6 +26,6 @@ Leadership at DocGo has a long history of lies and connections to fraudulent sch
 </blockquote>
 
 [More ...](https://fuzzypandaresearch.com/docgo-employees-allege-medicare-fraud/)
-latest change: 2026-02-08
+
 2026-01-30 USD 0.7666
 2026-01-30 USD 0.7666

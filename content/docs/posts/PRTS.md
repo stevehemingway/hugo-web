@@ -5,17 +5,15 @@ tags: [analyst/elmer-spud, focus/security, potential/long, sector/retail, thesis
 type: stock
 ticker: PRTS
 draft: false
+updated: 2026-02-28
 ---
 # Car Parts (stocks/PRTS)
-
-Thesis: turnaround, analyst: elmer-spud, sector: retail.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 Deep Value? Dumpster Diving? Strategic Turnaround? Welcome to Carparts.com (PRTS)
 PRTS strategic review resulted in a multi-pronged investment from three parties rather than a sale. With valuation remaining at sub-basement levels, I'll stick around to see if management can execute.

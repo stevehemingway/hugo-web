@@ -5,11 +5,9 @@ tags: [analyst/me, focus/security, potential/long, sector/etf, thesis/biggest-co
 type: stock
 ticker: XDG
 draft: false
+updated: 2026-02-28
 ---
 # SPX 50 (stocks/XDG)
-
-Thesis: biggest companies:OK?, analyst: analyst, sector: etf.
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

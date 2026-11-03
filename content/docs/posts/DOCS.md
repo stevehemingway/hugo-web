@@ -5,6 +5,7 @@ tags: [analyst/jehoshaphat-research, focus/security, potential/short, thesis/acc
 type: stock
 ticker: DOCS
 draft: false
+updated: 2026-02-08
 ---
 # Doximity Inc (ds/DOCS)
 
@@ -17,6 +18,6 @@ Jehoshaphat also noted that the company’s Chief Revenue Officer, Co-Founder, a
 </blockquote>
 
 [More ...](https://x.com/JehoshaphatRsch/status/1774795208791581030)
-latest change: 2026-02-08
+
 2026-01-30 USD 37.47
 2026-01-30 USD 37.47

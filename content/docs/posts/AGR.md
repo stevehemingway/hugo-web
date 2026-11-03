@@ -5,17 +5,16 @@ tags: [analyst/bear-cave, focus/security, market/united-states, potential/short,
 type: stock
 ticker: AGR
 draft: false
+updated: 2026-02-28
 ---
 # Avangrid (stocks/AGR)
-
-Thesis: resignations, analyst: bear-cave, sector: electricity.
 
 <blockquote>
 <pre>
 
 </pre>
 </blockquote>
-latest change: 2026-02-28
+
 2024-12-23 USD 36.02
 2024-12-23 USD 36.02
 
@@ -26,6 +25,6 @@ latest change: 2026-02-28
 
 </pre>
 </blockquote>
-latest change: 2026-02-08
+
 2024-12-23 USD 36.02
 2024-12-23 USD 36.02

@@ -5,15 +5,13 @@ tags: [analyst/wolfpack-research, focus/security, potential/short]
 type: stock
 ticker: INOD
 draft: false
+updated: 2026-02-28
 ---
 # company name (stocks/INOD)
 
-Thesis: thesis, analyst: wolfpack-research, sector: sector.
 [More ...](https://wolfpackresearch.com/research/inod/)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
 # company name (INOD)
 [More ...](https://wolfpackresearch.com/research/inod/)
-latest change: 2025-10-29

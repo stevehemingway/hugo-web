@@ -5,10 +5,9 @@ tags: [analyst/hunterbrook-media, focus/security, potential/short, sector/retail
 type: stock
 ticker: UWMC
 draft: false
+updated: 2026-02-28
 ---
 # UWM Holdings (stocks/UWMC)
-
-Thesis: fraud, analyst: hunterbrook-media, sector: retail-finance.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Hunterbrook Media, a new media outlet that shares its stories in advance with an
 </blockquote>
 
 [More ...](https://hntrbrk.com/uwm/)
-latest change: 2026-02-28

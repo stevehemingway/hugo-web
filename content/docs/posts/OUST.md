@@ -5,10 +5,9 @@ tags: [analyst/citron-research, focus/security, potential/long, sector/technlogy
 type: stock
 ticker: OUST
 draft: false
+updated: 2026-02-28
 ---
 # Ouster Lidar Sensors (stocks/OUST)
-
-Thesis: technology edge, analyst: citrini-research, sector: technlogy.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://www.citriniresearch.com/p/in-conversation-ouster-oust-us)
-latest change: 2026-02-28
 
 Basically, the main US manufacturer of Lidar sensors. Growing market.
 

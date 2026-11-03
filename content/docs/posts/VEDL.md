@@ -5,10 +5,9 @@ tags: [analyst/viceroy-research, focus/security, potential/short, sector/conglom
 type: stock
 ticker: VEDL
 draft: false
+updated: 2026-02-28
 ---
 # Vedanta (stocks/VEDL)
-
-Thesis: fraud, analyst: viceroy-research, sector: conglomerate.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://viceroyresearch.org/2025/07/15/vedanta-hidden-holdings-bjst-and-ptcc/)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
@@ -30,4 +28,3 @@ see below
 </blockquote>
 
 [More ...](https://viceroyresearch.org/2025/07/15/vedanta-hidden-holdings-bjst-and-ptcc/)
-latest change: 2025-10-29

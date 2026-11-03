@@ -5,10 +5,9 @@ tags: [analyst/me, focus/security, potential/long, sector/reit, thesis/fairly-va
 type: stock
 ticker: VNO
 draft: false
+updated: 2026-02-28
 ---
 # Vornado Reality Trust (stocks/VNO)
-
-Thesis: fairly_valued, analyst: me, sector: real-estate.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ The reports of New York commercial real estate’s death have… not been exagge
 </blockquote>
 
 [More ...](theurl)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

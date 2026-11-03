@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, potential/long, potential/short, se
 type: stock
 ticker: FLYW
 draft: false
+updated: 2026-02-28
 ---
 # Flywire (stocks/FLYW)
-
-Thesis: valuation, analyst: edwin-dorsey, sector: .
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Flywire (NASDAQ: FLYW — $2.76 billion) describes itself as a “global payment
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-flywire-flyw)
-latest change: 2026-02-28

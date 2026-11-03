@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/ret
 type: stock
 ticker: BOOT
 draft: false
+updated: 2026-02-28
 ---
 # Boot Barn Inc. (stocks/BOOT)
-
-Thesis: fraud, analyst: spruce-point-research, sector: retail.
 
 <blockquote>
 <pre>
@@ -21,4 +20,3 @@ Questions if Management Has Misportrayed its New Store Appearances with Evidence
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/boot-barn-holdings-inc)
-latest change: 2026-02-28

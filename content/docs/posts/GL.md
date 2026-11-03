@@ -5,10 +5,9 @@ tags: [analyst/friendly-bear, analyst/fuzzy-panda-research, analyst/viceroy-rese
 type: stock
 ticker: GL
 draft: false
+updated: 2026-02-28
 ---
 # Globe Life (stocks/GL)
-
-Thesis: fraud, analyst: fuzzy-panda-research, friendly-bear, viceroy-research, sector: insurance.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Short Globe Life (GL) - Executives Disregarded Wide-Spread “Insurance Fraud”
 </blockquote>
 
 [More ...](https://fuzzypandaresearch.com/globe-life-american-income-life-david-zophin-steve-greer/)
-latest change: 2026-02-28
 
 ## Update 24-06-07
 

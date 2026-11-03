@@ -5,10 +5,9 @@ tags: [analyst/old-time-reitster, focus/security, potential/short, sector/reit, 
 type: stock
 ticker: GOOD
 draft: false
+updated: 2026-02-28
 ---
 # Gladstone Commercial Corp. (stocks/GOOD)
-
-Thesis: economics, analyst: Old Time REITster, sector: REIT.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Old Time REITster published on Gladstone Commercial Corporation (NASDAQ: GOOD â€
 </blockquote>
 
 [More ...](https://x.com/muddywatersre/status/1770498426179928355?s=20)
-latest change: 2026-02-28

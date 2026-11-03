@@ -5,10 +5,9 @@ tags: [analyst/greenlight-capital, focus/security, potential/long, sector/pharma
 type: stock
 ticker: ROIV
 draft: false
+updated: 2026-02-28
 ---
 # Roivant Sciences (stocks/ROIV)
-
-Thesis: value, analyst: greenlight-capital, sector: pharma.
 
 <blockquote>
 <pre>
@@ -34,7 +33,6 @@ a $1.5 billion share repurchase program. We acquired our shares at an
 average price of $10.96. ROIV ended the quarter at $10.54.
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

@@ -5,14 +5,13 @@ tags: [analyst/me, focus/security, potential/short]
 type: stock
 ticker: RENB
 draft: false
+updated: 2026-02-28
 ---
 # company name (stocks/RENB)
 
 [More ...](https://hindenburgresearch.com/renovaro/)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
 # company name (RENB)
 [More ...](https://hindenburgresearch.com/renovaro/)
-latest change: 2025-10-29

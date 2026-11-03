@@ -5,10 +5,9 @@ tags: [analyst/ningi-research, focus/security, potential/short, sector/financial
 type: stock
 ticker: MRX
 draft: false
+updated: 2026-02-28
 ---
 # Marex Group plc (stocks/MRX)
-
-Thesis: fraud, analyst: Ningni research, sector: financial.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://ningiresearch.com/2025/08/05/marex-group-plc-nasdaq-mrx-a-financial-house-of-cards/})
-latest change: 2026-02-28
 
 Marex Group plc (NASDAQ: MRX): A Financial House of Cards
 

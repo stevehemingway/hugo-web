@@ -5,10 +5,9 @@ tags: [analyst/ningi-research, focus/security, potential/short, sector/pharmaceu
 type: stock
 ticker: GRAL
 draft: false
+updated: 2026-02-28
 ---
 # GRAIL Inc. (stocks/GRAL)
-
-Thesis: fraud, analyst: ningi-research, sector: pharmaceuticals and biotechnology.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://ningiresearch.com/research/)
-latest change: 2026-02-28
 
 GRAIL (NASDAQ: GRAL): Why Galleri Will Fail the Real Test: Regulatory Approval and Widespread Commercialization All But Impossible
 We are short GRAIL, Inc. (NASDAQ: GRAL), because, in our opinion, the company’s overly ambitious approach to cancer screening has created insurmountable regulatory roadblocks. Additionally, leadership's persistent disregard for expert advice and a dysfunctional corporate culture have led to significant operational missteps, disappointing sales, and looming financial distress.

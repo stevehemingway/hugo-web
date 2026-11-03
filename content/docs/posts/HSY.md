@@ -5,10 +5,9 @@ tags: [analyst/grizzly-research, focus/security, potential/short, sector/food, t
 type: stock
 ticker: HSY
 draft: false
+updated: 2026-02-28
 ---
 # Hershey (stocks/HSY)
-
-Thesis: legal threat, analyst: grizzly-research, sector: food.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ High Levels of Banned PFAS Detected in Hershey’s (NYSE: HSY) Packaging. Indepe
 </blockquote>
 
 [More ...](https://grizzlyreports.com/hsy)
-latest change: 2026-02-28

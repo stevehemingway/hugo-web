@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/fmc
 type: stock
 ticker: MNST
 draft: false
+updated: 2026-02-28
 ---
 # Monster Beverage Corp (stocks/MNST)
-
-Thesis: economics, analyst: spruce-point, sector: FMCG.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ competition from Bud
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/monster-beverage-corp)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
@@ -30,4 +28,3 @@ competition from Bud
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/monster-beverage-corp)
-latest change: 2025-10-29

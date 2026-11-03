@@ -5,10 +5,9 @@ tags: [analyst/rob-s-pierre, focus/security, market/united-states, potential/sho
 type: stock
 ticker: ORCL
 draft: false
+updated: 2026-02-28
 ---
 # Oracle (stocks/ORCL)
-
-Thesis: manipulation, analyst: rob s pierre, sector: cloud.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see link
 </blockquote>
 
 [More ...](https://www.ft.com/content/d0928820-d51d-46b2-8287-9369bcf76467?commentID=30208b3c-4d65-4867-99da-8b532dbf4005)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
@@ -30,4 +28,3 @@ see link
 </blockquote>
 
 [More ...](https://www.ft.com/content/d0928820-d51d-46b2-8287-9369bcf76467?commentID=30208b3c-4d65-4867-99da-8b532dbf4005)
-latest change: 2025-10-29

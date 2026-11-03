@@ -5,13 +5,11 @@ tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/employees, 
 type: stock
 ticker: VSAT
 draft: false
+updated: 2026-02-28
 ---
 # Starlink (stale)
 
-
 Elon Musk and Starlink have gained a powerful new ally in competing against Viasat. Based on the collective reviews of customers (stocks/VSAT), Elon Musk and Starlink have gained a powerful new ally in competing against Viasat. Based on the collective reviews of customers
-
-Thesis: politics, analyst: dorsey, sector: employees.
 
 <blockquote>
 <pre>
@@ -20,7 +18,6 @@ Thesis: politics, analyst: dorsey, sector: employees.
 </blockquote>
 
 [More ...](and engineers)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
@@ -33,4 +30,3 @@ latest change: 2026-02-28
 </blockquote>
 
 [More ...](and engineers)
-latest change: 2025-10-29

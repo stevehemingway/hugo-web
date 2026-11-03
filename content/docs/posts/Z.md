@@ -5,10 +5,9 @@ tags: [analyst/spruce-point-capital, focus/security, potential/short, sector/ser
 type: stock
 ticker: Z
 draft: false
+updated: 2026-02-28
 ---
 # Zillow Group (stocks/Z)
-
-Thesis: economics, analyst: spruce-point, sector: services.
 
 <blockquote>
 <pre>
@@ -23,11 +22,8 @@ Expresses Concern That Zillow’s Aggressive Accounting Methods May Enable the C
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/zillow-group-inc)
-latest change: 2026-02-28
 
 # Zillow
-
-Thesis: house prices will collapse, because of rising rates, volumes will dry up, trendy estate agents' portals will fail.
 
 ## 2024-3-10
 

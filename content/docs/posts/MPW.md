@@ -5,10 +5,9 @@ tags: [analyst/viceroy-research, focus/security, potential/short, sector/reit, t
 type: stock
 ticker: MPW
 draft: false
+updated: 2026-02-28
 ---
 # Medical Properties Trust (stocks/MPW)
-
-Thesis: fraud, analyst: viceroy-research, sector: REIT.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Aggressive healthcare property roll-up caters almost exclusively to distressed t
 </blockquote>
 
 [More ...](https://viceroyresearch.org/2023/12/06/mpw-viceroys-briefing-on-discovery-issues/)
-latest change: 2026-02-28
 
 Aggressive healthcare property roll-up caters almost exclusively to distressed tenants. Rent is round-tripped via “fake” purchases of massively inflated assets. The fat lady is singing.
 

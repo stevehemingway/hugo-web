@@ -5,10 +5,9 @@ tags: [analyst/morpheus-research, focus/security, market/spain, potential/short,
 type: stock
 ticker: MIL
 draft: false
+updated: 2026-02-28
 ---
 # Brunello Cucinelli (stocks/MIL.BC)
-
-Thesis: illegal activity, analyst: morpheus-research, sector: unknown.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](missing)
-latest change: 2026-02-28
 
 1.Brunello Cucinelli, MIL:BC. Violating EU sanctions on Russia. Morpheus Research.
 

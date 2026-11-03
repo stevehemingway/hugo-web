@@ -5,10 +5,9 @@ tags: [analyst/grizzly-research, focus/security, potential/short, sector/biotech
 type: stock
 ticker: WGS
 draft: false
+updated: 2026-02-28
 ---
 # GeneDx (stocks/WGS)
-
-Thesis: fraud, analyst: grizzly-research, sector: biotech.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://grizzlyreports.com/genedx-20250205/)
-latest change: 2026-02-28
 
 # Insiders Attest That GeneDx (Nasdaq: WGS) Is Actively Committing Widespread Fraud
 

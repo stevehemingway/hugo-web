@@ -5,10 +5,9 @@ tags: [analyst/hindenburg-research, focus/security, potential/short, sector/avia
 type: stock
 ticker: EH
 draft: false
+updated: 2026-02-28
 ---
 # EHang Holdings (stocks/EH)
-
-Thesis: fraud, analyst: hindenberg, sector: aviation.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Thesis: fraud, analyst: hindenberg, sector: aviation.
 </blockquote>
 
 [More ...](https://hindenburgresearch.com/ehang/)
-latest change: 2026-02-28
 
 # Summary: EHang (NASDAQ:EH)
 <pre>

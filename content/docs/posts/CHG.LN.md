@@ -5,10 +5,9 @@ tags: [analyst/massif-capital-partners, focus/security, market/uk, potential/lon
 type: stock
 ticker: CHG
 draft: false
+updated: 2026-02-28
 ---
 # CHEMRING (stocks/CHG.LN)
-
-Thesis: moat, analyst: massif-capital, sector: defence.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://research.massifcap.com/p/chemring-war-demand-and-old-lessons)
-latest change: 2026-02-28
 
 Chemring (CHG LN) is experiencing a surge in orders amid an era of rearmament and geopolitical tensions. A company once synonymous with decoy flares and pyrotechnics, it now has a record order book exceeding £1 billion, with demand so robust that 76% of its expected FY2026 revenue was secured by the end of FY2025 (October 31st ). Management reports a “robust” defense market outlook, with strong growth projected for at least the next decade. Such confident tones might recall prior buildups, the surges of the 1980s and early 2000s, when defense firms similarly reveled in abundant orders. Yet CHG leadership, tempered by the company’s own history, remains measured.
 Throughout 2025, management adjusted its view of 2026 not through overt upgrades, but through a series of controlled affirmations. Order cover for the forward year steadily increased, yet formal guidance remained carefully framed, as if the backlog were something to be managed rather than celebrated. Rising contractual certainty, paired with restrained language, suggests a leadership team less interested in narrating a boom than in avoiding the familiar errors that follow such a boom.

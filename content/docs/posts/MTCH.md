@@ -5,13 +5,10 @@ tags: [analyst/bristlemoon-capital, focus/security, potential/short, thesis/decl
 type: stock
 ticker: MTCH
 draft: false
+updated: 2026-02-28
 ---
 # company name (stocks/MTCH)
-
-Thesis: declining revenue, analyst: bristle moon capital, sector: sector.
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
 # company name (MTCH)
-latest change: 2025-10-29

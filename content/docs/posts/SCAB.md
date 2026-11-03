@@ -5,10 +5,9 @@ tags: [analyst/ningi-research, analyst/viceroy-research, focus/security, potenti
 type: stock
 ticker: SCAB
 draft: false
+updated: 2026-02-28
 ---
 # Svenska Cellulosa (stocks/SCAB)
-
-Thesis: fraud, analyst: NINGI-research; viceroy-research, sector: forestry.
 
 <blockquote>
 <pre>
@@ -17,6 +16,5 @@ Svenska Cellulosa published its interim report for the fourth quarter of 2023, a
 </blockquote>
 
 [More ...](https://ningiresearch.com/2024/01/26/our-response-to-svenska-cellulosa-ab-sca-sfb-sca-b/)
-latest change: 2026-02-28
 
 2023-3-22 [Update](https://viceroyresearch.org/2024/03/22/sca-you-wood-not-believe-it/?ct=t(EMAIL_CAMPAIGN_9_26_2023_15_9_COPY_01)&mc_cid=e71b9a3ba6&mc_eid=635208a0c1)

@@ -5,11 +5,9 @@ tags: [analyst/byrne-hobart, focus/security, potential/long]
 type: stock
 ticker: DHR
 draft: false
+updated: 2026-02-28
 ---
 # Danaher (stocks/DHR)
-
-Thesis: thesis, analyst: Byrne Hobart, sector: sector.
-latest change: 2026-02-28
 
 Mentioned in passing as able to sustain supranormal returns, like BRK.
 

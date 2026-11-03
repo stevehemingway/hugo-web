@@ -5,10 +5,9 @@ tags: [analyst/hunterbrook-media, focus/security, potential/long, sector/homebui
 type: stock
 ticker: LGIH
 draft: false
+updated: 2026-02-28
 ---
 # LGI Homes (stocks/LGIH)
-
-Thesis: short_thesis, analyst: hunterbrook, sector: homebuilding.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ LGI Homes reportedly very aggressive lending practices with high default rates. 
 </blockquote>
 
 [More ...](https://hunterbrook.com/research)
-latest change: 2026-02-28
 
 LGI Homes - Report by Hunterbrook saying they are very aggressive and have a high default rate.
 

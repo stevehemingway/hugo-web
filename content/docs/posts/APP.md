@@ -5,10 +5,9 @@ tags: [analyst/culper-research, analyst/fuzzy-panda-research, analyst/lauren-bal
 type: stock
 ticker: APP
 draft: false
+updated: 2026-02-28
 ---
 # AppLovin (stocks/APP)
-
-Thesis: fraud, analyst: lauren-balik, culper-research, fuzzy-panda, sector: internet.
 
 <blockquote>
 <pre>
@@ -17,6 +16,6 @@ Independent researcher Lauren Balik published on AppLovin (NASDAQ: APP — $107 
 </blockquote>
 
 [More ...](https://www.thecaptainslog.io/applovin-nasdaq-app-is-a-round-tripping-hellhole/?utm_source=substack&utm_medium=email)
-latest change: 2026-02-28
+
 2026-01-30 USD 473.11
 2026-01-30 USD 473.11

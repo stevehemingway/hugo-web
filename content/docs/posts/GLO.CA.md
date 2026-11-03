@@ -5,10 +5,9 @@ tags: [analyst/massif-capital-partners, focus/security, market/canada, potential
 type: stock
 ticker: GLO
 draft: false
+updated: 2026-02-28
 ---
 # Global Atomic (stocks/GLO.CA)
-
-Thesis: fraud, analyst: Massif Capital Partners, sector: sector.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](seeking alpha)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

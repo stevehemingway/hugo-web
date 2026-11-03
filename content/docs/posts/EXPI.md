@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/real-estate
 type: stock
 ticker: EXPI
 draft: false
+updated: 2026-02-28
 ---
 # eXp World Holdings (stocks/EXPI)
-
-Thesis: economics, analyst: edwin-dorsey, sector: real-estate-brokerages.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ eXp World Holdings (NASDAQ: EXPI — $1.50 billion) describes itself as “one o
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/more-problems-at-exp-world-holdings)
-latest change: 2026-02-28
 
 ## 2024-07-02 More from edwin-dorsey
 

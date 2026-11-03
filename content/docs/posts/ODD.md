@@ -5,10 +5,9 @@ tags: [analyst/edwin-dorsey, focus/security, potential/short, sector/advertising
 type: stock
 ticker: ODD
 draft: false
+updated: 2026-02-28
 ---
 # Oddity (stocks/ODD)
-
-Thesis: misrepresentation, analyst: edwin-dorsey, sector: advertising.
 
 <blockquote>
 <pre>
@@ -36,6 +35,5 @@ In reality, The Bear Cave believes Oddity is a glorified Instagram and Facebook 
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-oddity-tech-odd)
-latest change: 2026-02-28
 
 [Update](https://ningiresearch.com/2024/05/21/research-report-oddity-tech-limited-nasdaq-odd/).

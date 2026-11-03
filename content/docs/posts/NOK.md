@@ -5,17 +5,15 @@ tags: [analyst/me, focus/security, potential/long, sector/currency, thesis/value
 type: stock
 ticker: NOK
 draft: false
+updated: 2026-02-28
 ---
 # Norweigen Kroner (stocks/NOK)
-
-Thesis: value, analyst: analyst, sector: currency.
 
 <blockquote>
 <pre>
 NOK
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 NOK has to be a good buy. Maybe CHF, but they don't have the oil.
 

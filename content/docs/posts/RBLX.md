@@ -5,10 +5,9 @@ tags: [analyst/hindenburg-research, focus/security, market/united-states, potent
 type: stock
 ticker: RBLX
 draft: false
+updated: 2026-02-28
 ---
 # Roblox (stocks/RBLX)
-
-Thesis: reputation, analyst: hindenberg, sector: gaming.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ Inflated Key Metrics For Wall Street And A Pedophile Hellscape For Kids
 </blockquote>
 
 [More ...](https://hindenburgresearch.com/roblox/)
-latest change: 2026-02-28
 
 Roblox (NYSE: RBLX — $\18.0 billion) is a popular platform for children generally between six and fourteen to play online. The Bear Cave previously published on Roblox in February 2022 and alleged that “the company has engaged in litigation and intimidation to help conceal allegations of pedophilia on the platform.” Today’s investigation by The Bear Cave finds that Roblox has facilitated hundreds of known child abuse cases, popular Roblox game developers have been arrested on child abuse allegations, Roblox games include images of dismembered bodies and Nazi logos, and the company has been linked to child suicide attempts and the widespread production of child pornography. In sum, The Bear Cave believes Roblox has facilitated more child abuse than any public company in history.
 

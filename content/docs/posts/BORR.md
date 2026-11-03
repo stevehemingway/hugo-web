@@ -5,12 +5,11 @@ tags: [analyst/macro-ops, focus/security, potential/long, sector/oil-and-gas-exp
 type: stock
 ticker: BORR
 draft: false
+updated: 2026-02-28
 ---
 # Borr Drilling (stocks/BORR)
 
-Thesis: value, analyst: macro-ops, sector: oil and gas exploration.
 [More ...](https://operators.macro-ops.com/wp-content/uploads/2023/12/The-Long-Pull_-Borr-Drilling-BORR-1.pdf)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

@@ -5,17 +5,15 @@ tags: [analyst/me, focus/security, market/united-states, potential/short, sector
 type: stock
 ticker: LULU
 draft: false
+updated: 2026-02-28
 ---
 # Lululemon Athletica (stocks/LULU)
-
-Thesis: economics, analyst: me, sector: retail.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 This is just me thinking: how can a shop selling leggings be valued like Google?
 

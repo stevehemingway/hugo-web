@@ -5,17 +5,15 @@ tags: [analyst/jehoshaphat-research, focus/security, market/canada, potential/sh
 type: stock
 ticker: GSY
 draft: false
+updated: 2026-02-28
 ---
 # Go Easy (stocks/GSY.CA)
-
-Thesis: fraud, analyst: jehosaphat-research, sector: finance.
 
 <blockquote>
 <pre>
 see below
 </pre>
 </blockquote>
-latest change: 2026-02-28
 
 This seems to be a sub-prime lender, the stock price of which has cratered this year (2025),
 and whose CEO has departed.

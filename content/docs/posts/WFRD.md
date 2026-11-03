@@ -5,10 +5,9 @@ tags: [analyst/bison-interests, focus/security, potential/long, sector/oil-servi
 type: stock
 ticker: WFRD
 draft: false
+updated: 2026-02-28
 ---
 # Weatherford Precision Energy (stocks/WFRD)
-
-Thesis: offshore-oil-demand, analyst: bison-energy, sector: oil-services.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://seekingalpha.com/article/4644877-weatherford-unexpected-global-integrated-oilfield-services-winner)
-latest change: 2026-02-28
 
 Weatherford International is an unexpected winner in the oil field services boom, with strong earnings and projected double-digit revenue growth.
 

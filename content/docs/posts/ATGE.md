@@ -5,10 +5,9 @@ tags: [analyst/safkhet-capital, focus/security, market/united-states, potential/
 type: stock
 ticker: ATGE
 draft: false
+updated: 2026-02-28
 ---
 # Adtalem Global Education (stocks/ATGE)
-
-Thesis: thesis, analyst: safkhet-capital, sector: universities.
 
 <blockquote>
 <pre>
@@ -19,5 +18,5 @@ Safkhet Capital published an update on Adtalem Global Education (NYSE: ATGE — 
 </blockquote>
 
 [More ...](https://img1.wsimg.com/blobby/go/14c124c6-8b4b-4fce-aa5b-4fc04834d828/downloads/SCR%20Walden%20University%20Report.pdf?ver=1709820984239)
-latest change: 2026-02-28
+
 2026-01-30 USD 103.55

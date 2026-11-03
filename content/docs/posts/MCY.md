@@ -5,10 +5,9 @@ tags: [analyst/wolfpack-research, focus/security, potential/short, sector/insura
 type: stock
 ticker: MCY
 draft: false
+updated: 2026-02-28
 ---
 # Mercury General (stocks/MCY)
-
-Thesis: risks, analyst: wolfpack-research, sector: insurance.
 
 <blockquote>
 <pre>
@@ -17,4 +16,3 @@ Wolfpack Research published on Mercury General (NYSE: MCY — $2.76 billion), a 
 </blockquote>
 
 [More ...](https://www.wolfpackresearch.com/items/california-wildfire-events-a-gamechanger-for-mercury-(mcy)-as-we-estimate-more-than-%242-billion-in-losses-using-zip-code-data)
-latest change: 2026-02-28

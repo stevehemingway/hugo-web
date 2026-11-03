@@ -5,10 +5,9 @@ tags: [analyst/grizzly-research, focus/security, potential/short, sector/ai, the
 type: stock
 ticker: PONY
 draft: false
+updated: 2026-02-28
 ---
 # Pony AI (stocks/PONY)
-
-Thesis: weak tech, analyst: grizzly-research, sector: AI.
 
 <blockquote>
 <pre>
@@ -17,7 +16,6 @@ see below
 </blockquote>
 
 [More ...](https://grizzlyreports.com/pony/)
-latest change: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
@@ -30,4 +28,3 @@ see below
 </blockquote>
 
 [More ...](https://grizzlyreports.com/pony/)
-latest change: 2025-10-29
