@@ -6,12 +6,23 @@
   <code>market/london</code> sits under <code>market</code>.</p>
 
   {{ $tags := .Site.Taxonomies.tags }}
+
   {{ range slice "analyst" "sector" "thesis" "market" "potential" "focus" "size" "theme" }}
     {{ $root := . }}
-    <h2 id="{{ $root }}">{{ $root | title }}</h2>
-    <ul>
-      {{ range $name, $weighted := $tags }}
-        {{ if hasPrefix $name (printf "%s/" $root) }}
+
+    {{/* Gather term names sharing this root's prefix. */}}
+    {{ $names := slice }}
+    {{ range $name, $weighted := $tags }}
+      {{ if hasPrefix $name (printf "%s/" $root) }}
+        {{ $names = $names | append $name }}
+      {{ end }}
+    {{ end }}
+
+    {{ with $names }}
+      <h2 id="{{ $root }}">{{ $root | title }}</h2>
+      <ul>
+        {{ range . }}
+          {{ $weighted := index $tags . }}
           {{ with $weighted.Page }}
           <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -19,8 +30,8 @@
           </li>
           {{ end }}
         {{ end }}
-      {{ end }}
-    </ul>
+      </ul>
+    {{ end }}
   {{ end }}
 </article>
 {{ end }}

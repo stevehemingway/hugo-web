@@ -1,0 +1,26 @@
+/* Local overrides — kept separate from the theme so theme updates are safe. */
+
+/*
+ * hugo-book hides the sidebar below 56rem (~896px) and swaps in a header
+ * hamburger. With a 755-post tree that hamburger is the only way in, which
+ * is clumsy on a large monitor with a narrow window. Show the sidebar
+ * permanently instead.
+ *
+ * The theme's mobile branch sets visibility:hidden, flex-basis:0 and a
+ * negative inline margin on .book-menu, then relies on #menu-control to
+ * un-hide it. Undo all three. The hamburger label stays but is harmless.
+ */
+@media screen and (max-width: 56rem) {
+  .book-menu {
+    visibility: visible;
+    flex-basis: var(--menu-width);
+    margin-inline-start: 0;
+    z-index: auto;
+  }
+
+  /* Keep the sidebar itself scrollable rather than the whole page. */
+  .book-menu .book-menu-content {
+    overflow-y: auto;
+    max-height: 100vh;
+  }
+}
