@@ -5,12 +5,12 @@ tags: [potential/short]
 type: note
 draft: false
 ---
-[[AFRM]]
+[AFRM](../afrm/)
 [[TSLA]]
 [[PTON]]
 [[CCL]]
-[[CVNA]]
+[CVNA](../cvna/)
 [[MP]]
-[[SAVA]]
-[[AMC]]
+[SAVA](../sava/)
+[AMC](../amc/)
 

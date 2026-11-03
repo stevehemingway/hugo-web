@@ -19,7 +19,7 @@ I did some research, for a change. Not a lot but some!
 I got a list of promising defence stocks [here](https://www.investopedia.com/top-defense-stocks-q2-2023-7376223), and went through them.
 Most have already taken off (check out Bombardier!), but HII seems to be a laggard.
 
-I did think about [[BA]] and [[LDO.BVME]] and [[RR]] but I decided on HII as more of a pure play.
+I did think about [[BA]] and [LDO.BVME](../ldo.bvme/) and [RR](../rr/) but I decided on HII as more of a pure play.
 I think it does more actual manufacturing than $RTX, and is less a financial engineering play, 
 but it seems to have a pretty decent return on equity.
 

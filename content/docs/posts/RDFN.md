@@ -7,4 +7,4 @@ ticker: RDFN
 draft: false
 ---
 # Redfin
-Somewhat like [[ZI]]
+Somewhat like [ZI](../zi/)

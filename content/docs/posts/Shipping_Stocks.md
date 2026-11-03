@@ -34,10 +34,10 @@ draft: false
 > 
 > In this brief update, I share four overall picks which are poised to benefit from the current environment:
 > 
->     Tankers: International Seaways [[INSW]]
->     Dry Bulk: Genco Shipping [[GNK]]
->     Containers: Textainer Group [[TGH]]
->     Overall Top Pick: Global Ship Lease [[GSL]]
+>     Tankers: International Seaways [INSW](../insw/)
+>     Dry Bulk: Genco Shipping [GNK](../gnk/)
+>     Containers: Textainer Group [TGH](../tgh/)
+>     Overall Top Pick: Global Ship Lease [GSL](../gsl/)
 > 
 > Previous Setups and Results
 > 
@@ -49,8 +49,8 @@ draft: false
 >     Dorian LPG [[LPG]] at $8.99
 >     Euronav [[EURN]] at $10.31
 >     FLEX LNG [[FLNG]] at $5.88
->     Global Ship Lease [[GSL]] at $5.20
->     Star Bulk Carriers [[SBLK]] $7.44
+>     Global Ship Lease [GSL](../gsl/) at $5.20
+>     Star Bulk Carriers [SBLK](../sblk/) $7.44
 > 
 > All five of these stocks have performed enormously well over the past two years and have also paid enormous dividends as a basket. The combined return of these stocks, even after the carnage of this summer, is 224% in 25 months. Meanwhile the S&P 500 [[SPY]] has returned less than 3% and the S&P 500 Total Return Index has returned 12.8%.
 > 
@@ -64,9 +64,9 @@ draft: false
 > 
 >     Atlas Corp [[ATCO]] at $8.70
 >     Capital Partners [[CPLP]] at $6.28
->     Costamare [[CMRE]] at $5.19
+>     Costamare [CMRE](../cmre/) at $5.19
 >     Danaos Corp [[DAC]] at $6.11
->     Global Ship Lease [[GSL]] at $5.79
+>     Global Ship Lease [GSL](../gsl/) at $5.79
 >     Navios Maritime Containers ("NMCI", now NMM at 0.39x) at $0.97
 > 
 > All six of these stocks performed enormously well and even after outsized (and illogical in my opinion) pullbacks this past year, have returned 386% in 24 months. Meanwhile the S&P 500 Total Return Index returned 17.6%.
@@ -79,9 +79,9 @@ draft: false
 > 
 > Just prior to the invasion of Ukraine, the tanker sector was enjoying the best setup we had seen in several years and I issued a sector buy alert (view PDF) on Value Investor's Edge with three top picks:
 > 
->     International Seaways [[INSW]] at $14.59
+>     International Seaways [INSW](../insw/) at $14.59
 >     Okeanis Eco Tankers (Oslo: OET) at NOK 74.40
->     Scorpio Tankers [[STNG]] at $13.61
+>     Scorpio Tankers [STNG](../stng/) at $13.61
 > 
 > All three of these stocks have blown out the market this year and are just starting to shift to shareholder returns. These three picks have returned 154% in 8 months while the S&P 500 has lost nearly 19%!
 > 
@@ -94,7 +94,7 @@ draft: false
 > Our associate researcher, Climent Molins, also issued a public table-pounding alert on the product tanker sector in April 2022, which he previously shared on Value Investor's Edge. His three highlighted top picks included:
 > 
 >     Ardmore Shipping [[ASC]] at $5.21
->     Scorpio Tankers [[STNG]] at $21.65
+>     Scorpio Tankers [STNG](../stng/) at $21.65
 >     Torm plc [[TRMD]] at $9.21
 > 
 > All three of these names have performed exceptionally well and have returned an average of 90% in 5 months while the S&P 500 has lost nearly 16%!
@@ -109,25 +109,25 @@ draft: false
 > 
 > Genco Shipping: 'Fair Value Estimate' of $24.00 (90% Upside)
 > 
-> Genco Shipping [[GNK]] is exceptionally positioned in the dry bulk space with a fleet of 44 vessels, most of which are exposed to the spot market. GNK has also installed scrubbers on all 17 of their Capesize vessels, which adds around $8,000 in additional daily upside compared to benchmark rates at the current fuel spreads.
+> Genco Shipping [GNK](../gnk/) is exceptionally positioned in the dry bulk space with a fleet of 44 vessels, most of which are exposed to the spot market. GNK has also installed scrubbers on all 17 of their Capesize vessels, which adds around $8,000 in additional daily upside compared to benchmark rates at the current fuel spreads.
 > 
 > The best part about GNK is their pristine balance sheet, with a net D/A of just 12%. Additionally, GNK is fully committed to heavy dividend payouts, with a current policy of paying out nearly all free cash flows going forward after selective debt repayment. If dry bulk markets are decent next year, GNK could be net debt free as soon as mid-2023. I recently interviewed their CEO, John Wobbensmith, in a full-length discussion available on Seeking Alpha.
 > 
 > Global Ship Lease: 'Fair Value Estimate' of $40.00 (154% Upside)
 > 
-> Global Ship Lease [[GSL]] is a massively discounted and misunderstood stock, which trades below the value of their contract backlog alone. GSL stock has plummeted over the past 5-6 months even as they have completed a comprehensive refinancing and recently added massive new contract deals, some of which extend as far as 2029!
+> Global Ship Lease [GSL](../gsl/) is a massively discounted and misunderstood stock, which trades below the value of their contract backlog alone. GSL stock has plummeted over the past 5-6 months even as they have completed a comprehensive refinancing and recently added massive new contract deals, some of which extend as far as 2029!
 > 
 > I expect GSL to ramp up repurchases later this year and they are also likely to raise their dividend in early-2023. GSL already yields near 10% and this current payout is more than 4x covered by expected cash flows in 2023-2025. Our research associate, Climent Molins, recently published a comprehensive review of GSL and I included them, along with peer Danaos Corp [[DAC]] in a 'career conviction' update a few weeks ago.
 > 
 > International Seaways: 'Fair Value Estimate' of $40.00 (19% Upside)
 > 
-> International Seaways [[INSW]] is in the sweet spot of the tanker market with a nice balance of both crude and product tankers. INSW has a very clean balance sheet and is starting to pivot towards larger shareholder returns, including a $60M repurchase of which they recently used $20M to mop up discounted shares.
+> International Seaways [INSW](../insw/) is in the sweet spot of the tanker market with a nice balance of both crude and product tankers. INSW has a very clean balance sheet and is starting to pivot towards larger shareholder returns, including a $60M repurchase of which they recently used $20M to mop up discounted shares.
 > 
 > INSW has a solid management team, great market exposure, is shifting towards higher shareholder returns, yet it trades at a discount to most peers. I have a conservative value estimate of just $40.00 since the tanker stocks are not quite as cheap as other segments; however, if strong rates continue, their NAV could be over $50/sh within a couple months and share prices will likely follow.
 > 
 > Textainer Group: 'Fair Value Estimate' of $56.00 (105% Upside)
 > 
-> Textainer Group [[TGH]] is not a traditional shipping firm, but they have benefitted significantly from the supply chain crisis over the past couple years by significantly growing their long-term contract base. TGH has fixed recent growth on up to 12-year to 14-year charters at near record levels of profitability, and with capex completed and unlikely to resume in large quantities for the next 2-3 years, TGH is now set to massively ramp up shareholder returns via repurchases and dividend growth.
+> Textainer Group [TGH](../tgh/) is not a traditional shipping firm, but they have benefitted significantly from the supply chain crisis over the past couple years by significantly growing their long-term contract base. TGH has fixed recent growth on up to 12-year to 14-year charters at near record levels of profitability, and with capex completed and unlikely to resume in large quantities for the next 2-3 years, TGH is now set to massively ramp up shareholder returns via repurchases and dividend growth.
 > 
 > I expect TGH will raise their dividend significantly later this year and if shares remain extremely undervalued, TGH is likely to retire over 15% of their shares over the next 4-5 quarters. Textainer has a strong balance sheet and excellent banking relationships and their customers (the major global liners) have the strongest credit quality in history. TGH stock has been beaten up alongside most other container names because the market doesn't seem to properly understand this business model. I believe the upcoming dividend raise and strong repurchases will significantly improve share performance into 2023.
 > Conclusion: Time to Overweight Shipping

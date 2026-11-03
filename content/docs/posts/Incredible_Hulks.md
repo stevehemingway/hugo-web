@@ -7,33 +7,33 @@ draft: false
 ---
 # Tankers etc.
 - [[ATCO]]
-- [[CMRE]]
+- [CMRE](../cmre/)
 - [[CPLP]]
 - [[DAC]]
-- [[DHT]]
+- [DHT](../dht/)
 - [[DLNG]]
 - [[DSSI]]
 - [[DSX]]
 - [[EGLE]]
 - [[EURN]]
 - [[FRO]]
-- [[GNK]]
-- [[GSL]]
-- [[INSW]]
+- [GNK](../gnk/)
+- [GSL](../gsl/)
+- [INSW](../insw/)
 - [[LPG]]
 - [[MPZZF]]
 - [[NAT]]
 - [[NMCI]]
 - [[NMM]]
-- [[OET]]
-- [[SB]]
-- [[SBLK]]
-- [[STNG]]
+- [OET](../oet/)
+- [SB](../sb/)
+- [SBLK](../sblk/)
+- [STNG](../stng/)
 - [[STNP]
 - [[TGP]]
 - [[TK]]
 - [[TNK]]
 - [[TNP]]
-- [[ZIM]]
+- [ZIM](../zim/)
 
 [$DHT](https://twitter.com/search?q=%24DHT&src=cashtag_click) [$EURN](https://twitter.com/search?q=%24EURN&src=cashtag_click) [$FRO](https://twitter.com/search?q=%24FRO&src=cashtag_click) [$INSW](https://twitter.com/search?q=%24INSW&src=cashtag_click) [$NMM](https://twitter.com/search?q=%24NMM&src=cashtag_click) [$OET](https://twitter.com/search?q=%24OET&src=cashtag_click) [$TNP](https://twitter.com/search?q=%24TNP&src=cashtag_click)

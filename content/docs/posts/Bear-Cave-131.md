@@ -9,10 +9,10 @@ draft: false
 
 [Here.](https://thebearcave.substack.com/p/the-bear-cave-131-0bf?utm_source=email)
 
-[[CYXT]]
-[[MQ]]
-[[MNRA]]
-[[HYZN]]
-[[PAY]]
-[[WEBR]]
-[[SBUX]]
+[CYXT](../cyxt/)
+[MQ](../mq/)
+[MNRA](../mnra/)
+[HYZN](../hyzn/)
+[PAY](../pay/)
+[WEBR](../webr/)
+[SBUX](../sbux/)

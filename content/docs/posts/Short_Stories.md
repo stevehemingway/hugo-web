@@ -6,5 +6,5 @@ type: note
 draft: false
 ---
 delete me
- [[Miniso ($MNSO)]]
-- [[Celsius ($CELH)]]
+ [Miniso](../mnso/)
+- [Celsius](../celh/)

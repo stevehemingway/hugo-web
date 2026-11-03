@@ -5,4 +5,4 @@ type: note
 draft: false
 ---
 [Four stolen ideas.](https://www.overlookedalpha.com/p/research-notes-four-stolen-ideas).
-References  [[ASTS]], [[EVA]], [[FIZZ]], [[HLF]], [[LC]], [[LYFT]], [[UBER]] .
+References  [ASTS](../asts/), [EVA](../eva/), [[FIZZ]], [HLF](../hlf/), [[LC]], [LYFT](../lyft/), [[UBER]] .

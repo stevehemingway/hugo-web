@@ -5,10 +5,10 @@ tags: [potential/long]
 type: note
 draft: false
 ---
-- [[PACK]]
-- [[NESN.SW]]
-- [[BBBY]]
-- [[MRO]]
-- [[CNR]]
-- [[QDEL]]
-- [[BHC]]
+- [PACK](../pack/)
+- [NESN.SW](../nesn.sw/)
+- [BBBY](../bbby/)
+- [MRO](../mro/)
+- [CNR](../cnr/)
+- [QDEL](../qdel/)
+- [BHC](../bhc/)
