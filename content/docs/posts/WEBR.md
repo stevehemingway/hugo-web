@@ -13,7 +13,7 @@ Possibly about to be taken private.
 
 ## Status
 
-No longer listed. Weber Inc. (WEBR) (WEBR).
+No longer listed. Weber Inc. (WEBR).
 
 Outcome: taken private.
 

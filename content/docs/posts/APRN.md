@@ -11,7 +11,7 @@ Blue Apron Holdings was a US meal-kit company that shipped pre-portioned recipe 
 
 ## Status
 
-No longer listed. Blue Apron Holdings (APRN).
+No longer listed. Blue Apron Holdings.
 
 Outcome: Wonder Group.
 

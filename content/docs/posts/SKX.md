@@ -13,7 +13,7 @@ It has gone down a lot, and has started buybacks, so it probably was a sell, but
 
 ## Status
 
-No longer listed. Skechers U.S.A., Inc. (SKX) (SKX).
+No longer listed. Skechers U.S.A., Inc. (SKX).
 
 Outcome: acquired by 3G.
 

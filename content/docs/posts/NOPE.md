@@ -15,7 +15,7 @@ Active ETF tries to be market neutral.
 
 ## Status
 
-No longer listed. Noble Absolute Return ETF (NOPE).
+No longer listed. Noble Absolute Return ETF.
 
 Outcome: NYSE Arca active ETF launched Sep 2022; no Yahoo listing data remains, fund terminated/closed (exact wind-up date unverified).
 

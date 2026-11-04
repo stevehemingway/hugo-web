@@ -11,7 +11,7 @@ draft: false
 
 ## Status
 
-No longer listed. Fisker (FSRNQ).
+No longer listed. Fisker.
 
 Outcome: Chapter 11 filed Jun 2024; assets sold to American Lease; shares cancelled and now quoted as the FSRNQ stub, last price $0.0007.
 

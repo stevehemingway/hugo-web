@@ -25,7 +25,7 @@ really weren't any cheap stocks on sale any longer.
 
 ## Status
 
-No longer listed. Coterra Energy (CTRA).
+No longer listed. Coterra Energy.
 
 Outcome: merged into DVN.
 

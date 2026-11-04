@@ -171,7 +171,7 @@ VAPO’s product has failed to bring the company any meaningful profits. This wa
 
 ## Status
 
-No longer listed. Vapotherm, Inc. (VAPO).
+No longer listed. Vapotherm, Inc.
 
 Outcome: Voluntary NYSE delisting to OTCQX, then taken over 20 Sep 2024 by a Perceptive Advisors vehicle; stock suspended.
 

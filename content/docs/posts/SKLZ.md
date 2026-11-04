@@ -11,6 +11,6 @@ draft: false
 
 ## Status
 
-Still trading as **FIRY** on NYSE - Firy Inc..
+Still trading as **FIRY** on NYSE - Firy Inc.
 
 Price: **12.49 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

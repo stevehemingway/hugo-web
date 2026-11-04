@@ -132,7 +132,7 @@ As Vital’s valuation remains depressed, there is a window of opportunity to pu
 
 ## Status
 
-No longer listed. Vital Energy, Inc. (VTLE) (VTLE).
+No longer listed. Vital Energy, Inc. (VTLE).
 
 Outcome: acquired by CRGY.
 

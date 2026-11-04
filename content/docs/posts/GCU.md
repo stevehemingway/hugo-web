@@ -16,6 +16,6 @@ updated: 2026-02-28
 
 ## Status
 
-Still trading as **GCU.TO** on Toronto - Gunnison Copper Corp..
+Still trading as **GCU.TO** on Toronto - Gunnison Copper Corp.
 
 Price: **0.375 USD** at the close on 2026-11-03 (Yahoo Finance end-of-day).

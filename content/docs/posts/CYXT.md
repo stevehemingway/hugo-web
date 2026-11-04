@@ -11,7 +11,7 @@ Keith Dalrymple, an independent short seller, [published](https://substack.com/r
 
 ## Status
 
-No longer listed. Cyxtera Technologies, Inc. (CYXTQ).
+No longer listed. Cyxtera Technologies, Inc.
 
 Outcome: Chapter 11 Jun 2023; data centre assets sold to Brookfield for $775m; plan effective 12 Jan 2024, renamed CTI Liquidation Co. and wound down.
 

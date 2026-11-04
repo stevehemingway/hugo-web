@@ -16,7 +16,7 @@ Might be worth a look.
 
 ## Status
 
-No longer listed. Enhabit (EHAB).
+No longer listed. Enhabit.
 
 Outcome: acquired by Kinderhook.
 

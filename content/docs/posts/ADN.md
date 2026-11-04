@@ -13,7 +13,7 @@ Advent Technologies Holdings, Inc. (NASDAQ: ADN) wants you to believe it’s pos
 
 ## Status
 
-No longer listed. Advent Technologies Holdings, Inc. (ADN).
+No longer listed. Advent Technologies Holdings, Inc.
 
 Outcome: Nasdaq equity-shortfall delisting notice 18 Aug 2025, effective 27 Aug 2025 subject to appeal; ADN shows no last price, only ADNWW warrants at $0.0029.
 

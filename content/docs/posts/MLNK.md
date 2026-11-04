@@ -20,7 +20,7 @@ https://www.overlookedalpha.com/p/meridianlink-a-risky-bet-ahead-of?utm_source=p
 
 ## Status
 
-No longer listed. MeridianLink (MLNK).
+No longer listed. MeridianLink.
 
 Outcome: acquired by Centerbridge.
 

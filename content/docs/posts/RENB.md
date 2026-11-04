@@ -16,6 +16,6 @@ updated: 2026-02-28
 
 ## Status
 
-Still trading as **LNAI** on NASDAQ - Lunai Bioworks Inc..
+Still trading as **LNAI** on NASDAQ - Lunai Bioworks Inc.
 
 Price: **0.1648 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

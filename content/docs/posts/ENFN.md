@@ -21,7 +21,7 @@ Spruce Point Capital Management, LLC (“Spruce Point” or “we” or “us”
 
 ## Status
 
-No longer listed. Enfusion (ENFN).
+No longer listed. Enfusion.
 
 Outcome: acquired by CWAN.
 

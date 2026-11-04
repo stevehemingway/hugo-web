@@ -12,7 +12,7 @@ draft: false
 
 ## Status
 
-No longer listed. Taylor Morrison Home Corporation (TMHC) (TMHC).
+No longer listed. Taylor Morrison Home Corporation (TMHC).
 
 Outcome: acquired by BRK.A.
 

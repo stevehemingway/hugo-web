@@ -12,7 +12,7 @@ draft: false
 
 ## Status
 
-No longer listed. Charge Enterprises (CRGEQ).
+No longer listed. Charge Enterprises.
 
 Outcome: shares cancelled.
 

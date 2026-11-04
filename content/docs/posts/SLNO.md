@@ -37,7 +37,7 @@ supplementary evidence, please email contact@scorpioncapital.com or anonymously 
 
 ## Status
 
-No longer listed. Soleno Therapeutics, Inc. (SLNO) (SLNO).
+No longer listed. Soleno Therapeutics, Inc. (SLNO).
 
 Outcome: acquired by NBIX.
 

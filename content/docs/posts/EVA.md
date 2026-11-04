@@ -20,7 +20,7 @@ The full report is [here](https://static1.squarespace.com/static/5a81b554be42d6b
 
 ## Status
 
-No longer listed. Enviva Inc. (EVA).
+No longer listed. Enviva Inc.
 
 Outcome: Chapter 11 Mar 2024; plan confirmed Jun 2024; Chapter 11 cases converted to Chapter 7 on about 27 Nov 2024 and assets liquidated - equity cancelled.
 

@@ -21,7 +21,7 @@ Citron Research published on Apellis Pharmaceuticals (NASDAQ: APLS — $5.57 bil
 
 ## Status
 
-No longer listed. Apellis Pharmaceuticals (APLS).
+No longer listed. Apellis Pharmaceuticals.
 
 Outcome: acquired by BIIB.
 

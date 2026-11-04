@@ -13,7 +13,7 @@ draft: false
 
 ## Status
 
-No longer listed. Textainer Group Holdings Limited (TGH).
+No longer listed. Textainer Group Holdings Limited.
 
 Outcome: Acquired by Stonepeak for $7.4bn; completed 14 Mar 2024, shares delisted from NYSE.
 

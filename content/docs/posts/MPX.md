@@ -14,7 +14,7 @@ More about Marine Products Corporation
 
 ## Status
 
-No longer listed. Marine Products (MPX).
+No longer listed. Marine Products.
 
 Outcome: acquired by MasterCraft Boat.
 

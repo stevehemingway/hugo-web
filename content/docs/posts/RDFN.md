@@ -11,7 +11,7 @@ Somewhat like [ZI](../zi/)
 
 ## Status
 
-No longer listed. Redfin Corporation (RDFN) (RDFN).
+No longer listed. Redfin Corporation (RDFN).
 
 Outcome: acquired by RKT.
 

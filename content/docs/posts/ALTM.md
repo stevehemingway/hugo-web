@@ -20,7 +20,7 @@ updated: 2026-02-28
 
 ## Status
 
-No longer listed. Arcadium Lithium (ALTM).
+No longer listed. Arcadium Lithium.
 
 Outcome: acquired by Rio Tinto.
 

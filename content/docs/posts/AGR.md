@@ -20,7 +20,7 @@ updated: 2026-02-28
 
 ## Status
 
-No longer listed. Avangrid (AGR).
+No longer listed. Avangrid.
 
 Outcome: acquired by Iberdrola.
 

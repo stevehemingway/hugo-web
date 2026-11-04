@@ -22,6 +22,6 @@ terrible work conditions and quality assurance, especially on work for Boeing
 
 ## Status
 
-Still trading as **USAP** on NASDAQ - Universal Stainless & Alloy Products, Inc..
+Still trading as **USAP** on NASDAQ - Universal Stainless & Alloy Products, Inc.
 
 Price: **44.99 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

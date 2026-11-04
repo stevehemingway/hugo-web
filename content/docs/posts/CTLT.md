@@ -21,7 +21,7 @@ Fiat Lux Partners, an anonymous group that “calls out weak short activism,” 
 
 ## Status
 
-No longer listed. Catalent (CTLT).
+No longer listed. Catalent.
 
 Outcome: acquired by Novo Holdings.
 

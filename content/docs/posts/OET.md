@@ -21,6 +21,6 @@ Has had a good run recently, and over last six months.
 
 ## Status
 
-Still trading as **OET.OL** on Oslo - Okeanis Eco Tankers Corp..
+Still trading as **OET.OL** on Oslo - Okeanis Eco Tankers Corp.
 
 Price: **827.0 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

@@ -28,7 +28,7 @@ But even this is likely conservative, as Dayforce is a governance mess beset by 
 
 ## Status
 
-No longer listed. Dayforce (DAY).
+No longer listed. Dayforce.
 
 Outcome: acquired by Thoma Bravo.
 

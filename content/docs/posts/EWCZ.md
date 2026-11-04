@@ -22,7 +22,7 @@ TLDR:
 
 ## Status
 
-No longer listed. European Wax Center (EWCZ).
+No longer listed. European Wax Center.
 
 Outcome: taken private by General Atlantic.
 

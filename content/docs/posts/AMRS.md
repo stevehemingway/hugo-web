@@ -13,7 +13,7 @@ https://seekingalpha.com/symbol/AMRS
 
 ## Status
 
-No longer listed. Amyris (AMRSQ).
+No longer listed. Amyris.
 
 Outcome: shares cancelled.
 
