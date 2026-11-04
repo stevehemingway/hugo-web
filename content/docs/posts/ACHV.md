@@ -23,3 +23,12 @@ Also endorsed by Rogue Funds <https://www.rogue-funds.com/blog/achieve-life-scie
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 4.97 | USD 4.97 |
+| 2026-11-03 | USD 6.73 | USD 6.73 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -31,3 +31,12 @@ Scarce Flight Activity; Recycled Video material; Misleading DoD Contract; Partne
 Culper Research is Short Archer Aviation Inc (NYSE:ACHR)
 We are short Archer Aviation (“ACHR”, “Archer”, “the Company”) because we believe that over the past 12 months, Archer has systematically misled, deceived, or outright lied to investors about virtually every supposed milestone related to its development and testing of its eVTOL aircraft, Midnight. Archer’s misrepresentations have grown increasingly brazen as it attempts to conceal a far more deep-seated, and – in the Company’s very own words – “potentially catastrophic” problem: Midnight’s sham transition flight and underlying instability. In our view, Archer’s continued promotion of near-term commercialization is not only premature, but reckless.
 2026-01-30 USD 7.19
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 7.52 | USD 7.52 |
+| 2026-11-03 | USD 4.13 | USD 4.13 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
