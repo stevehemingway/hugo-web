@@ -6,7 +6,9 @@ type: stock
 ticker: ESTA
 draft: false
 ---
-# Establishment Labs: A Financially Stretched Silicone Safety Charade
+# Establishment Labs
+
+## A Financially Stretched Silicone Safety Charade
 
 **(NASDAQ:ESTA)**
 

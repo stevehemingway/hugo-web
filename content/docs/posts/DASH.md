@@ -31,3 +31,12 @@ Professional traders constantly monitor situations, where short sellers can get 
 
 Culper Research published on DoorDash (NASDAQ: DASH — $110 billion), a popular food delivery platform. Culper alleged that DoorDash would onboard dashers with less stringent ID vetting than peers and often without proper background checks. For example, Culper cited litigation in which a Dasher killed a mother while drunk driving, despite four prior DUIs, and a case in which DoorDash onboarded a Dasher who “had an aggravated assault with a deadly weapon charge” and later “attempted to rape an 18-year-old [DoorDash] customer after delivering an order to her home.”
 2026-01-30 USD 204.62
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 226.48 | USD 226.48 |
+| 2026-11-03 | USD 183.32 | USD 183.32 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

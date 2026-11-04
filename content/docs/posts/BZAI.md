@@ -53,3 +53,11 @@ This research report from Pelican Way Research analyzes Blaize AI's (BZAI) finan
 **Conclusion:**
 Pelican Way Research concludes that Blaize AI is operating as a "China hustle" that has consistently failed to generate meaningful revenue while burning cash, using fraudulent deals to artificially inflate its stock price and extract profits from retail investors.
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.95 | USD 1.95 |
+| 2026-11-03 | USD 0.21 | USD 0.21 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

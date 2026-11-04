@@ -57,3 +57,12 @@ For a cyclical company like Costamare I tend to ensure that a company like this 
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 15.79 | USD 15.30 |
+| 2026-11-03 | USD 13.27 | USD 13.27 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

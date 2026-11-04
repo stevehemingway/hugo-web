@@ -11,3 +11,12 @@ Well, it's global and prudent, mostly.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 116.69 | USD 114.34 |
+| 2026-11-03 | USD 122.71 | USD 122.71 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

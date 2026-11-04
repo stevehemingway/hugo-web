@@ -14,3 +14,12 @@ Basically, the market is missing how great CNX (and DEC) are as investments beca
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 36.77 | USD 36.77 |
+| 2026-11-03 | USD 36.58 | USD 36.58 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

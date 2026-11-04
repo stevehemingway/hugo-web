@@ -26,3 +26,12 @@ https://open.substack.com/pub/dfresearch/p/bip-the-quiet-collapse?r=nmbt&utm_cam
 
 analyst: df-research
 sector: infrastructure
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 34.74 | USD 32.88 |
+| 2026-11-03 | USD 37.46 | USD 37.46 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

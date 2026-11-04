@@ -25,3 +25,12 @@ Still loss making.
 Worth watching for a catalyst.
 2026-01-30 USD 52.48
 2026-01-30 USD 52.48
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 45.74 | USD 45.74 |
+| 2026-11-03 | USD 29.98 | USD 29.98 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

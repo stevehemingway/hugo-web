@@ -11,3 +11,12 @@ Looks boring, but somehow on a 'long' list.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 169.63 | USD 169.42 |
+| 2026-11-03 | USD 238.45 | USD 238.45 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

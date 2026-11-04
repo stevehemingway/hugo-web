@@ -30,3 +30,12 @@ No longer listed. Coterra Energy.
 Outcome: merged into DVN.
 
 Date of delisting / termination: May 7, 2026.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 26.32 | USD 26.14 |
+| 2026-05-06 | USD 32.56 | USD 32.56 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

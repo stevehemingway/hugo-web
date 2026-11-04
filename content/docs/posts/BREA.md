@@ -30,3 +30,12 @@ Key findings include:
 Still trading as **SLMT** on NASDAQ - Solmate Infrastructure.
 
 Price: **3.090 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.87 | USD 18.70 |
+| 2026-11-03 | USD 3.09 | USD 3.09 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

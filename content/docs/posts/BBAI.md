@@ -15,3 +15,12 @@ Iceberg Research [published][]
 
 [1]<https://substack.com/redirect/65a386d2-b0a4-4ce2-85ce-7fe6049b070b?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98> "Substack post"
 2026-01-30 USD 5.04
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 5.40 | USD 5.40 |
+| 2026-11-03 | USD 2.53 | USD 2.53 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

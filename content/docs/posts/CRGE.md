@@ -17,3 +17,12 @@ No longer listed. Charge Enterprises.
 Outcome: shares cancelled.
 
 Date of delisting / termination: May 6, 2024.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.41 | USD 0.41 |
+| 2026-11-03 | USD 0.02 | USD 0.02 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

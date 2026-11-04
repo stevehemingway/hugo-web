@@ -239,3 +239,12 @@ Jan 26
 8
 
 [website](https://www.fugaziresearch.com/p/cue-reverse-splits-pipe-dilution?publication_id=5186417&post_id=197198881&triggerShare=true&isFreemail=true&r=57a252&triedRedirect=true)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.31 | USD 9.16 |
+| 2026-11-03 | USD 20.86 | USD 20.86 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

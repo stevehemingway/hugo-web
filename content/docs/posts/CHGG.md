@@ -18,3 +18,12 @@ Chegg’s primary business is selling students monthly subscriptions for homewor
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-chegg-chgg?r=nmbt&utm_campaign=post&utm_medium=email)
 
 2026-01-30 USD 0.769
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.93 | USD 0.93 |
+| 2026-11-03 | USD 0.65 | USD 0.65 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

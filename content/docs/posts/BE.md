@@ -369,3 +369,12 @@ The information presented is current as of the date indicated. No representation
 Should any provision of these Terms of Use be adjudged invalid or unenforceable, the remaining provisions shall remain in full force and effect. Trademarks contained in links to third-party websites belong to their respective owners. Hunterbrook Media retains copyright on all text, content, graphics, and trademarks displayed on this site.
 
 Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9uZXdzbGV0dGVyLmhudHJicmsuY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNVFExTlRjMU1qWXNJbkJ2YzNSZmFXUWlPakl3TmpBME5UTXhOQ3dpYVdGMElqb3hOemd6TlRNd016Z3hMQ0psZUhBaU9qRTRNVFV3TmpZek9ERXNJbWx6Y3lJNkluQjFZaTB5TkRReU5UQTBJaXdpYzNWaUlqb2laR2x6WVdKc1pWOWxiV0ZwYkNKOS5wdEVfWnBjcjkxTml0cFdza2JMRzZqSVFkX05CZDIwaU9naGlYM3M5ZkNZIiwicCI6MjA2MDQ1MzE0LCJzIjoyNDQyNTA0LCJmIjp0cnVlLCJ1IjozMTQ1NTc1MjYsImlhdCI6MTc4MzUzMDM4MSwiZXhwIjoyMDk5MTA2MzgxLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.NfMrS0h-0gy2GKQXzAg5olLO50GtKie_5_9fGc1BwpY?
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 86.89 | USD 86.89 |
+| 2026-11-03 | USD 214.01 | USD 214.01 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

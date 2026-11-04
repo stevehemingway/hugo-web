@@ -94,3 +94,12 @@ Kerrisdale Capital published a follow-up report on Carvana (NYSE: CVNA — $16.8
 
 2026-01-30 USD 401.11
 2026-01-30 USD 401.11
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 422.02 | USD 84.40 |
+| 2026-11-03 | USD 71.28 | USD 71.28 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

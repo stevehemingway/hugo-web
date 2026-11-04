@@ -15,3 +15,12 @@ Mar 2023. Share price hasn't really moved in a year.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 73.63 | USD 73.16 |
+| 2026-11-03 | USD 91.23 | USD 91.23 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -20,3 +20,12 @@ Questions if Management Has Misportrayed its New Store Appearances with Evidence
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/boot-barn-holdings-inc)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 176.47 | USD 176.47 |
+| 2026-11-03 | USD 133.59 | USD 133.59 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

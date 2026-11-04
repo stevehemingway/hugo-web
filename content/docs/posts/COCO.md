@@ -53,3 +53,12 @@ Its CEO swiftly liquidated $20.6 million in stock after Vita Coco raised its rev
 Talking a good game, Vita Coco likes to give the impression that it has a growth plan based on an unbeatable supply chain advantage and a stable of strong products able to win races in a variety of markets. In our opinion, however, Vita Coco is a one-trick pony – one that now can’t even perform its trademark crowd-pleaser.
 Read The Report Here
 2026-01-30 USD 53.35
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 53.01 | USD 53.01 |
+| 2026-11-03 | USD 59.69 | USD 59.69 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

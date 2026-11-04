@@ -19,3 +19,12 @@ This creates added stress for crypto exchanges.
 This could be the time that $COIN finally falls to earth.
 2026-01-30 USD 194.74
 2026-01-30 USD 194.74
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 226.14 | USD 226.14 |
+| 2026-11-03 | USD 145.45 | USD 145.45 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

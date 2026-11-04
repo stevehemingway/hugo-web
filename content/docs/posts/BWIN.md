@@ -15,3 +15,12 @@ We are short Baldwin Insurance Group, Inc. (“Baldwin” or the “Company”),
 
 Our diligence has uncovered multiple instances in which Baldwin has acquired small insurance firms of agents that, according to state records, were already working for Baldwin before the time of the acquisition. We believe that Baldwin’s acquisitions amount to aggressive financial engineering, allowing it to shift commission costs from its income statement to the balance sheet in the form of earnout liabilities and capitalized assets, thus artificially inflating adjusted EBITDA and operating cash flow.
 2026-01-30 USD 21.92
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 24.03 | USD 24.03 |
+| 2026-11-03 | USD 31.99 | USD 31.99 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

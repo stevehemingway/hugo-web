@@ -10,9 +10,7 @@ updated: 2026-02-28
 # Blackstone Mortgage Trust Inc. (stocks/BXMT)
 
 <blockquote>
-<pre>
 Muddy Waters is short BXMT. Interest rate swaps and manipulated risk ratings / loss provisions have obscured serious deterioration in BXMT's loan book. 
-</pre>
 </blockquote>
 
 ## 2024-3-10 Old Time Reitser joins in
@@ -20,5 +18,17 @@ Muddy Waters is short BXMT. Interest rate swaps and manipulated risk ratings / l
 Old Time REITster published a follow-up article on Blackstone Mortgage Trust (NYSE: BXMT — $3.51 billion), a mortgage REIT focused on commercial real estate in North America, Europe, and Australia. Old Time REITster alleged the company was likely to trip its debt covenants in the first half of this year and noted the percentage of performing loans in its portfolio has declined from 99% in September 2022 to 93% today, with more declines likely to follow.
 
 Note that Ariel Cohen has strongly rebutted the short sellers in his tweets (https://twitter.com/arielcohenteam). Maybe dangerous to short still.
+
+
+Note that Ariel Cohen has strongly rebutted the short sellers in his tweets (https://twitter.com/arielcohenteam). Maybe dangerous to short still.
+
 2026-01-30 USD 19.25
-2026-01-30 USD 19.25
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 19.13 | USD 17.45 |
+| 2026-11-03 | USD 11.08 | USD 11.08 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
