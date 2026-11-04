@@ -14,6 +14,6 @@ In July 2021 Bleecker Street also highlighted the company’s ties to Fyre Festi
 
 ## Status
 
-Still trading as **HOFV** on None - Hall of Fame Resort &amp; Entertainment Company (HOFV).
+Still trading as **HOFV** on NASDAQ - Hall of Fame Resort & Entertainment Company.
 
 Price: **0.3500 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

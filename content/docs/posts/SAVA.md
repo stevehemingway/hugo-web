@@ -11,6 +11,6 @@ draft: false
 
 ## Status
 
-Still trading as **FLNA** on None - Filana Therapeutics, Inc. (FLNA).
+Still trading as **FLNA** - Filana Therapeutics, Inc. (exchange not recorded).
 
 Price: **0.5943 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

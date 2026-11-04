@@ -21,6 +21,6 @@ Lastly, we believe that RCM’s business model is dangerously reflexive and requ
 
 ## Status
 
-Still trading as **RCM** on NASDAQ - R1 RCM Inc. (RCM).
+Still trading as **RCM** on NASDAQ - R1 RCM Inc..
 
 Price: **14.31 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

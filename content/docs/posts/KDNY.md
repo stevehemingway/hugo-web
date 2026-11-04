@@ -15,6 +15,6 @@ To download the Report (PDF format), go to our website at:
 
 ## Status
 
-Still trading as **NVS** on NYSE - Novartis AG (NVS).
+Still trading as **NVS** on NYSE - Novartis AG.
 
 Price: **159.26 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

@@ -11,6 +11,8 @@ draft: false
 
 ## Status
 
-Still trading as **FSRNQ** on None - Fisker.
+No longer listed. Fisker (FSRNQ).
 
-Price: **0.0007 USD** (-12.50 on the day) at the close on 2026-11-04 (Yahoo Finance end-of-day).
+Outcome: Chapter 11 filed Jun 2024; assets sold to American Lease; shares cancelled and now quoted as the FSRNQ stub, last price $0.0007.
+
+Date of delisting / termination: 2024-06-17.

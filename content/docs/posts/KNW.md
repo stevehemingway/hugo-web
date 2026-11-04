@@ -24,6 +24,6 @@ draft: false
 
 ## Status
 
-Still trading as **USBC** on NYSE American - USBC, Inc. (USBC).
+Still trading as **USBC** on NYSE American - USBC, Inc.
 
 Price: **0.4143 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

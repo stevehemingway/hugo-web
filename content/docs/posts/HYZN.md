@@ -13,6 +13,6 @@ NGMI?
 
 ## Status
 
-Still trading as **HYZN** on None - Hyzon Motors Inc. (HYZN).
+Still trading as **HYZN** on NASDAQ - Hyzon Motors Inc..
 
 Price: **0.6399 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

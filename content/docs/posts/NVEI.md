@@ -42,6 +42,6 @@ Preferences
 
 ## Status
 
-Still trading as **NVEI** on None - Nuvei Corporation (NVEI).
+Still trading as **NVEI** on NASDAQ/TSX - Nuvei Corporation.
 
 Price: **33.99 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).
