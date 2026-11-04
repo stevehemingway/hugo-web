@@ -17,3 +17,12 @@ many of the technical  and engineering problems of producing a Tesla-killer
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | EUR 60.07 | EUR n/a |
+| 2026-11-03 | EUR 40.48 | EUR n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

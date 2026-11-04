@@ -16,3 +16,12 @@ We think the accounting restatements show that Sivers’ management is willing t
 In the end, Sivers has a long history of cranking out announcements that go nowhere. The same script played out with its touted US listing. After restating three years of financials allegedly for that purpose, Sivers management has since delayed a US listing due to “market timing.”
 
 date: 2026-05-02 
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | SEK 4.15 | SEK n/a |
+| 2026-11-03 | SEK 19.41 | SEK n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

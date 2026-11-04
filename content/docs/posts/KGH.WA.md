@@ -11,3 +11,12 @@ updated: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | PLN 280.80 | PLN n/a |
+| 2026-11-03 | PLN 275.35 | PLN n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

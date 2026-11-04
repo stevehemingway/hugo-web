@@ -12,3 +12,12 @@ It's small, highly profitable, has a dominant position in its own market and has
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | AUD 0.77 | AUD n/a |
+| 2026-11-04 | AUD 0.68 | AUD n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

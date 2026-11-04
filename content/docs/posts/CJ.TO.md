@@ -16,3 +16,12 @@ Update (2023-04-17): hasn't gone anywhere, but is profit making and seems OK.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | CAD 8.69 | CAD n/a |
+| 2026-11-03 | CAD 12.27 | CAD n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

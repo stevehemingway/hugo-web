@@ -12,3 +12,12 @@ draft: false
 > In July, J Capital Research [highlighted](https://substack.com/redirect/a14e2293-60a1-49fb-a570-a046ef975901?r=nmbt) more problems including high insider selling, a sudden CEO departure, and potential environmental damage from the company’s Lithium mining methods.
 
 Lake Resources is not shortable!
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | AUD 0.12 | AUD n/a |
+| 2026-11-04 | AUD 0.03 | AUD n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -11,3 +11,12 @@ beneficiary of increased defence spending.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | EUR 273.80 | EUR n/a |
+| 2026-11-03 | EUR 304.80 | EUR n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

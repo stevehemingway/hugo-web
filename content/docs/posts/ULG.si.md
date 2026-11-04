@@ -14,3 +14,11 @@ draft: false
  
 It has been almost a year since my last writeup of a Singaporean stock, as market reforms have resulted in positive revaluations across the exchange reducing the opportunity set. On the bright side, a very interesting new company took the opportunity to IPO on the SGX in December last year which I believe is underappreciated in its business quality and prospects. Ultragreen.AI ($ULG.si) is weirdly not an AI company, instead it is the world’s largest producer of Indocyanine Green (ICG), the fluorescent dye injected during surgery to illuminate blood flow, perfusion and tissue margins. The company has 70% market share in a growing market and is trading at just 16x forward earnings with an active buyback and insider purchases.
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.51 | USD n/a |
+| 2026-11-03 | USD 0.40 | USD n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

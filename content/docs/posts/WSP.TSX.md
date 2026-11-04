@@ -16,3 +16,12 @@ Headquartered in Montreal, Quebec, Canada, WSP Global Inc. is an engineering and
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/wsp-global)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | CAD 248.52 | CAD n/a |
+| 2026-11-03 | CAD 197.73 | CAD n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -10,3 +10,12 @@ See [this](https://theboatmancapital.com/wp-content/uploads/2022/12/Home-REIT-Le
 
 Seems to be a developer renting to small charities. 
 Haven't read the report, beyond a quick skim, but the stock price has cratered.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | GBp 0.38 | GBp n/a |
+| 2026-11-03 | GBp 8.20 | GBp n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -49,3 +49,12 @@ As far as the actual risks there are a few. The most pressing is in photon thera
 
 Conclusion
 To be frank, I believe that RaySearch may be the most interesting idea I’ve ever written about on here. In RaySearch you have a genuine software monopoly in the growing proton therapy market combined with a high quality, competitive offering in photon therapy succeeding within a niche. I think our downside is reasonably protected by switching costs, regulatory and reputational moats, recurring revenue and a reasonable valuation. The current selloff in software and Swedish medtech has provided us with an opportunity to buy a low double digits organic grower at 24x forward earnings, a price I believe to be too cheap considering the many factors discussed above. For full disclosure, I have made RaySearch one of my largest positions with an average price around 220 mSek.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | SEK 228.00 | SEK n/a |
+| 2026-11-03 | SEK 166.70 | SEK n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

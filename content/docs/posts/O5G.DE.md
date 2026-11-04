@@ -19,3 +19,12 @@ Muddy Waters is short the credit of CPI Property Group ("CPI PG"). We conclude t
 [More ...](https://www.muddywatersresearch.com/research/cpipgr/mw-short-credit-cpipgr/)
 
 Muddy waters is short the credit of the group. See [this](https://www.muddywatersresearch.com/research/cpipgr/part-2/).
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | EUR 0.78 | EUR n/a |
+| 2026-11-03 | EUR 0.74 | EUR n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

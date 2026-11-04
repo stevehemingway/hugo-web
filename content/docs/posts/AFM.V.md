@@ -13,3 +13,12 @@ Tin mining in the DRC. What could possibly go wrong?
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | CAD 1.19 | CAD n/a |
+| 2026-11-03 | CAD 1.25 | CAD n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

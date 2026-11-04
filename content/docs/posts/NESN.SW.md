@@ -21,3 +21,12 @@ Anyway, that's the bull thesis. The bear case is that it's ex-growth, it doesn't
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | CHF 78.74 | CHF n/a |
+| 2026-11-03 | CHF 84.41 | CHF n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

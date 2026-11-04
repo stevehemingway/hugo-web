@@ -19,3 +19,12 @@ The fun topic of today is a nail fungus company based out of Sweden, Moberg Phar
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | SEK 10.27 | SEK n/a |
+| 2026-11-03 | SEK 11.00 | SEK n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

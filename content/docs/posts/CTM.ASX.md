@@ -11,3 +11,12 @@ https://static1.squarespace.com/static/55cbe47de4b0a1e3b9b911fe/t/62aa45a9f57269
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | AUD 0.58 | AUD n/a |
+| 2026-11-04 | AUD 0.34 | AUD n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

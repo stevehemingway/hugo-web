@@ -13,3 +13,12 @@ This seems to be a sub-prime lender, the stock price of which has cratered this 
 and whose CEO has departed.
 
 The share price may have stablised to a point where it's too dangerous to short.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | CAD 131.29 | CAD n/a |
+| 2026-11-03 | CAD 45.64 | CAD n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

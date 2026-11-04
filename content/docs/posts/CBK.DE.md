@@ -21,3 +21,12 @@ Basically, it's cheap!
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | EUR 36.10 | EUR n/a |
+| 2026-11-03 | EUR 37.99 | EUR n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

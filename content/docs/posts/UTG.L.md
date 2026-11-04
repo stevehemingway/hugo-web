@@ -28,3 +28,12 @@ My best guess is that it will eventually fail, but the price action is not too b
 ## comment 2023-11-28 (P: ~962p)
 
 Price action has been all over the place since May. Sawtooth price history, going up rather rapidly, followed by a slow, steady descent. Something to be avoided, I think.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | GBp 559.50 | GBp n/a |
+| 2026-11-03 | GBp 492.00 | GBp n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

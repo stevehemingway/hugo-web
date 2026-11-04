@@ -18,3 +18,12 @@ Mentioned in: https://www.asiancenturystocks.com/hidden-champions-of-australia/?
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-30 | AUD 12.44 | AUD n/a |
+| 2026-11-04 | AUD 11.99 | AUD n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

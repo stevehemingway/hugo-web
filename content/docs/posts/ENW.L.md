@@ -16,3 +16,12 @@ Highly volatile stock. Hasn't gone anywhere (net) in two or three years.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | GBp 17.50 | GBp n/a |
+| 2026-11-03 | GBp 12.25 | GBp n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -23,3 +23,12 @@ Hasn't really performed. Shares have meandered for two years.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | CAD 4.52 | CAD n/a |
+| 2026-11-03 | CAD 6.55 | CAD n/a |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
