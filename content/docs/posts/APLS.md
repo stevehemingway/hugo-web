@@ -18,3 +18,11 @@ Citron Research published on Apellis Pharmaceuticals (NASDAQ: APLS — $5.57 bil
 [More ...](https://citronresearch.com/wp-content/uploads/2023/11/Citron-Reports-on-Apellis-Pharmaceuticals.pdf)
 
 2026-01-30 USD 22.58
+
+## Status
+
+No longer listed. Apellis Pharmaceuticals (APLS).
+
+Outcome: acquired by BIIB.
+
+Date of delisting / termination: May 14, 2026.

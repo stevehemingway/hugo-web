@@ -12,3 +12,9 @@ Muddy Waters is short Chinook Therapeutics Inc (NASDAQ:KDNY) because we believe 
 only Phase 3 trial, the ALIGN study.
 
 To download the Report (PDF format), go to our website at:
+
+## Status
+
+Still trading as **NVS** on NYSE - Novartis AG (NVS).
+
+Price: **159.26 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

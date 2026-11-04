@@ -11,3 +11,7 @@ updated: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+Post is titled "SPX 50" and describes an options strategy, not an issuer - no price check applies

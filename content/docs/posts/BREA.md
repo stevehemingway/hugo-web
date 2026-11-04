@@ -24,3 +24,9 @@ Key findings include:
     Narrative Pivot: The company has abruptly transitioned from a social-justice soccer story to a Solana-based crypto treasury narrative, catalyzing extreme stock volatility.
 
     Minimal Operational Substance: Italian sports holdings (Brera Milano, Juve Stabia, UYBA Volley) provide publicity but contribute minimal revenue, functioning primarily as a narrative engine for capital market activities.
+
+## Status
+
+Still trading as **SLMT** on NASDAQ - Solmate Infrastructure.
+
+Price: **3.090 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

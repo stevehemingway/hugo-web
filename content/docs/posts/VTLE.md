@@ -129,3 +129,11 @@ As Vital’s valuation remains depressed, there is a window of opportunity to pu
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+No longer listed. Vital Energy, Inc. (VTLE) (VTLE).
+
+Outcome: acquired by CRGY.
+
+Date of delisting / termination: Dec 15, 2025.

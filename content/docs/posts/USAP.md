@@ -19,3 +19,9 @@ terrible work conditions and quality assurance, especially on work for Boeing
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+Still trading as **USAP** on None - Universal Stainless &amp; Alloy Products, Inc. (USAP).
+
+Price: **44.99 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

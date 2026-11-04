@@ -7,3 +7,7 @@ ticker: SLACK
 draft: false
 ---
 ![MS Teams vs Slack](https://pbs.twimg.com/media/FZ55cdIUEAEWNm0?format=png&name=900x900)
+
+## Status
+
+Only an image of MS Teams vs Slack; Slack was acquired by Salesforce (2021) and no longer trades

@@ -25,3 +25,11 @@ But even this is likely conservative, as Dayforce is a governance mess beset by 
 </blockquote>
 
 [More ...](https://static1.squarespace.com/static/5a81b554be42d6b09e19fc09/t/660eaa348a750f7a93ed83bc/1712237110099/Blue+Orca+Short+Dayforce+Inc+%28NYSE+DAY%29.pdf)
+
+## Status
+
+No longer listed. Dayforce (DAY).
+
+Outcome: acquired by Thoma Bravo.
+
+Date of delisting / termination: Feb 4, 2026.

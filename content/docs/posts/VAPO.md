@@ -168,3 +168,11 @@ VAPO’s product has failed to bring the company any meaningful profits. This wa
 [Reliq Health (RQHTF) Founder’s Enormous List of Penny Stock Scams](https://whitediamondresearch.com/archive/reliq-healths-rqhtf-founder-enormous-list-of-penny-stock-scams/)
 
 [](https://whitediamondresearch.com/archive/vapo-likely-facing-imminent-bankruptcy/
+
+## Status
+
+No longer listed. Vapotherm, Inc. (VAPO).
+
+Outcome: Voluntary NYSE delisting to OTCQX, then taken over 20 Sep 2024 by a Perceptive Advisors vehicle; stock suspended.
+
+Date of delisting / termination: 2024-09-20.

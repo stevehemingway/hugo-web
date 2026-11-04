@@ -19,3 +19,9 @@ Call options on the rest of the pipeline.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+Still trading as **BMY** on NYSE - Bristol-Myers Squibb Company.
+
+Price: **61.71 USD** (-2.08 on the day) at the close on 2026-11-04 (Yahoo Finance end-of-day).

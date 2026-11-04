@@ -19,3 +19,9 @@ updated: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+Still trading as **SNFI** on OTC Markets OTCPK - Stark Novus Financial Inc..
+
+Price: **1.66 USD** at the close on 2026-11-03 (Yahoo Finance end-of-day).

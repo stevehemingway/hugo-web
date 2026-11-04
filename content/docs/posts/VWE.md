@@ -35,3 +35,11 @@ Basically gone to zero.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+No longer listed. Vintage Wine Estates, Inc. (VWE).
+
+Outcome: Chapter 11 and voluntary Nasdaq delisting Jul 2024; brands and wineries sold in a ~$140m auction to settle lender claims.
+
+Date of delisting / termination: 2024-07-24.

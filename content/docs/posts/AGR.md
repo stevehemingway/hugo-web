@@ -17,3 +17,11 @@ updated: 2026-02-28
 
 2024-12-23 USD 36.02
 2024-12-23 USD 36.02
+
+## Status
+
+No longer listed. Avangrid (AGR).
+
+Outcome: acquired by Iberdrola.
+
+Date of delisting / termination: Dec 23, 2024.

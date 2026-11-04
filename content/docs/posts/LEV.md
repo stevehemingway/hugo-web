@@ -13,3 +13,11 @@ updated: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+No longer listed. The Lion Electric Company (LEV).
+
+Outcome: CCAA creditor protection (Quebec) Dec 2024 with ~$500m debt; assets sold via SISP; equity wiped out.
+
+Date of delisting / termination: 2024-12-18.

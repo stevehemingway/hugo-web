@@ -30,3 +30,9 @@ I am short AURC (Aurora Acquisition Corp)
 [More ...](mortgages)
 
 2023-08-23 USD 17.4425
+
+## Status
+
+Still trading as **BETR** on NASDAQ - Better Home &amp; Finance Holding Company.
+
+Price: **19.04 USD** (-9.40 on the day) at the close on 2026-11-04 (Yahoo Finance end-of-day).

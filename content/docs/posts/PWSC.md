@@ -13,3 +13,11 @@ updated: 2026-02-28
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+No longer listed. PowerSchool Holdings, Inc. (PWSC) (PWSC).
+
+Outcome: acquired by Bain Capital.
+
+Date of delisting / termination: Oct 1, 2024.

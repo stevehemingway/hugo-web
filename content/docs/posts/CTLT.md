@@ -18,3 +18,11 @@ Fiat Lux Partners, an anonymous group that “calls out weak short activism,” 
 >
 2024-12-18 USD 63.48
 2024-12-18 USD 63.48
+
+## Status
+
+No longer listed. Catalent (CTLT).
+
+Outcome: acquired by Novo Holdings.
+
+Date of delisting / termination: Dec 18, 2024.

@@ -10,3 +10,11 @@ draft: false
 Chronically lossmaking.
 https://seekingalpha.com/symbol/AMRS
 2023-08-18 USD 0.05
+
+## Status
+
+No longer listed. Amyris (AMRSQ).
+
+Outcome: shares cancelled.
+
+Date of delisting / termination: May 7, 2024.

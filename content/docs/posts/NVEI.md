@@ -39,3 +39,9 @@ Preferences
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+Still trading as **NVEI** on None - Nuvei Corporation (NVEI).
+
+Price: **33.99 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

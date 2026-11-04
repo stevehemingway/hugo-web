@@ -22,3 +22,11 @@ really weren't any cheap stocks on sale any longer.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+No longer listed. Coterra Energy (CTRA).
+
+Outcome: merged into DVN.
+
+Date of delisting / termination: May 7, 2026.

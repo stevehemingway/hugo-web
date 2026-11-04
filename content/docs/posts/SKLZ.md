@@ -8,3 +8,9 @@ draft: false
 ---
 # Skillz
 [$SKLZ](https://twitter.com/search?q=%24SKLZ&src=cashtag_click) - [https://twitter.com/restrinct/status/1371405164670644228](https://twitter.com/restrinct/status/1371405164670644228)
+
+## Status
+
+Still trading as **FIRY** on NYSE - Firy Inc. (FIRY).
+
+Price: **12.49 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

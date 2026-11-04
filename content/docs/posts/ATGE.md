@@ -20,3 +20,9 @@ Safkhet Capital published an update on Adtalem Global Education (NYSE: ATGE — 
 [More ...](https://img1.wsimg.com/blobby/go/14c124c6-8b4b-4fce-aa5b-4fc04834d828/downloads/SCR%20Walden%20University%20Report.pdf?ver=1709820984239)
 
 2026-01-30 USD 103.55
+
+## Status
+
+Still trading as **CVSA** on NYSE - Covista.
+
+Price: **122.53 USD** (-1.21 on the day) at the close on 2026-11-04 (Yahoo Finance end-of-day).

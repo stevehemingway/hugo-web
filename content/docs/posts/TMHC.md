@@ -9,3 +9,11 @@ draft: false
 > CFO of Taylor Morrison Home Corp (NYSE: TMHC — $4.70 billion) stepped down after a little over one year “to attend to family commitments that will require him to relocate out of Arizona.”
 
 [IG Index](https://www.ig.com/uk/marketanalysis/ig-shares/taylor-morrison-home-corp-TMHC-US/prompts/CASH)
+
+## Status
+
+No longer listed. Taylor Morrison Home Corporation (TMHC) (TMHC).
+
+Outcome: acquired by BRK.A.
+
+Date of delisting / termination: Jul 24, 2026.

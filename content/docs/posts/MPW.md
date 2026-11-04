@@ -56,3 +56,9 @@ Viceroy Research published an update on Medical Properties Trust (NYSE: MPW — 
 New research, April 2024: https://viceroyresearch.org/2024/04/02/mpw-cerberus-letter-to-congress/.
 
 Further research, 15 Oct 2024, https://viceroyresearch.org/2024/10/15/mpw-tacit-admission-of-securities-fraud/.
+
+## Status
+
+Still trading as **MPT** on NYSE - Medical Properties Trust.
+
+Price: **2.020 USD** (-7.34 on the day) at the close on 2026-11-04 (Yahoo Finance end-of-day).

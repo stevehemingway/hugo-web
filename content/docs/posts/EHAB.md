@@ -13,3 +13,11 @@ Might be worth a look.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+No longer listed. Enhabit (EHAB).
+
+Outcome: acquired by Kinderhook.
+
+Date of delisting / termination: May 15, 2026.

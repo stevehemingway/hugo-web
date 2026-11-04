@@ -17,3 +17,9 @@ Royalty companies have become the instrument of choice, but Franco Nevada’s (F
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+Still trading as **GOLD** on NYSE - Gold.com.
+
+Price: **39.12 USD** (-2.54 on the day) at the close on 2026-11-04 (Yahoo Finance end-of-day).

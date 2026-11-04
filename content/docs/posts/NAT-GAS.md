@@ -21,3 +21,7 @@ added by openclaw on 2026-02-21
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+Commodity theme page (natural gas), not an issuer - no price check applies

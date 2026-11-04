@@ -18,3 +18,11 @@ After conducting a forensic review of Enfusion, Inc. (NYSE: ENFN or “the Compa
 [More ...](SaaS)
 
 Spruce Point Capital Management, LLC (“Spruce Point” or “we” or “us”), a New York-based investment management firm that focuses on forensic research and short-selling, today issued a detailed report entitled “Route, Order, Sell” that outlines why we believe shares of Enfusion, Inc. (NYSE: ENFN) ("Enfusion" or the "Company") face up to 40% to 60% long-term downside risk, or approximately $3.70 – $5.60 per share. Download or view the report by visiting www.sprucepointcap.com for additional information and exclusive updates.
+
+## Status
+
+No longer listed. Enfusion (ENFN).
+
+Outcome: acquired by CWAN.
+
+Date of delisting / termination: Apr 21, 2025.

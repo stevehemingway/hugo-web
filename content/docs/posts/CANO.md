@@ -27,3 +27,11 @@ The stock has gone to 1.3. You don't know enough about the US health care system
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Status
+
+No longer listed. Cano Health, Inc. (CANO).
+
+Outcome: Chapter 11 filed Feb 2024; delisted from NYSE Feb 2024; emerged 28 Jun 2024 as a private company.
+
+Date of delisting / termination: 2024-06-28.

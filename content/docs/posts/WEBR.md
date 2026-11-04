@@ -10,3 +10,11 @@ draft: false
 Maker of BBQ grills.
 Losing money.
 Possibly about to be taken private.
+
+## Status
+
+No longer listed. Weber Inc. (WEBR) (WEBR).
+
+Outcome: taken private.
+
+Date of delisting / termination: Feb 21, 2023.

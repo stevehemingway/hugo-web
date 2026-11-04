@@ -18,3 +18,9 @@ You should stay away.
 
 2026-01-30 USD 0.2345
 2026-01-30 USD 0.2345
+
+## Status
+
+Still trading as **DTCKF** on OTC Markets OTCID - Davis Commodities Limited.
+
+Price: **0.226 USD** at the close on 2026-11-03 (Yahoo Finance end-of-day).

@@ -8,3 +8,11 @@ draft: false
 ---
 # Redfin
 Somewhat like [ZI](../zi/)
+
+## Status
+
+No longer listed. Redfin Corporation (RDFN) (RDFN).
+
+Outcome: acquired by RKT.
+
+Date of delisting / termination: Jul 1, 2025.

@@ -10,3 +10,9 @@ draft: false
 Another EV bandwagon passenger. 
 Burning through $134M pa, shareholders' equity is around $370M.
 NGMI?
+
+## Status
+
+Still trading as **HYZN** on None - Hyzon Motors Inc. (HYZN).
+
+Price: **0.6399 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).

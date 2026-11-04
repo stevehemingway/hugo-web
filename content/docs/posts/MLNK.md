@@ -17,3 +17,11 @@ draft: false
 -   This isn’t a home run short but there’s a good case for a bearish bet ahead of earnings in March.
 
 https://www.overlookedalpha.com/p/meridianlink-a-risky-bet-ahead-of?utm_source=post-email-title&publication_id=97545&post_id=98221197&isFreemail=true&utm_medium=email
+
+## Status
+
+No longer listed. MeridianLink (MLNK).
+
+Outcome: acquired by Centerbridge.
+
+Date of delisting / termination: Oct 24, 2025.
