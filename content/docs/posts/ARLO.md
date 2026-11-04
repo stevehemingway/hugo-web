@@ -112,3 +112,12 @@ The punchline: low-growth hardware companies command much lower multiples, and e
 5. Any sell-side response to the report.
 
 *Summarised from the PDF; figures are as stated by Snowcap and are largely its own estimates.*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 13.99 | USD 13.99 |
+| 2026-11-03 | USD 13.71 | USD 13.71 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

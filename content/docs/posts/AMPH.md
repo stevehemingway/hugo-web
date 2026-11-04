@@ -19,3 +19,12 @@ New activist Black Mamba Research published on Amphastar Pharmaceuticals (NASDAQ
 
 2026-01-30 USD 26.49
 2026-01-30 USD 26.49
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 26.78 | USD 26.78 |
+| 2026-11-03 | USD 27.12 | USD 27.12 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

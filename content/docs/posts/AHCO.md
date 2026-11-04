@@ -16,3 +16,12 @@ The problem is that it's cashflow positive and not sufficiently highly geared to
 It has an earnings report tomorrow, but I don't have enough conviction to recommend any action. My best guess is that it will have another earnings miss and the share price will drop.2026-01-30 USD 10.05
 
 This is the content of AHCO.m4
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 9.96 | USD 9.96 |
+| 2026-11-03 | USD 6.28 | USD 6.28 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

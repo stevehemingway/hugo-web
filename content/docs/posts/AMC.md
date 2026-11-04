@@ -20,3 +20,12 @@ AMC Entertainment (NYSE: AMC — $1.62 billion) is the largest movie theater com
 
 2026-01-30 USD 1.39
 2026-01-30 USD 1.39
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.56 | USD 1.56 |
+| 2026-11-03 | USD 3.28 | USD 3.28 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -53,3 +53,12 @@ credit now places Affirm’s model under direct political scrutiny.
 
 ## 2022 Nov 15
 Some decent results caused the stock price to leap by 8%. Maybe now is the time to open a short position. It's down 82% on the year though ...
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 74.43 | USD 74.43 |
+| 2026-11-03 | USD 71.97 | USD 71.97 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

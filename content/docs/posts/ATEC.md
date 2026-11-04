@@ -12,3 +12,12 @@ I think that when I first took an interest in this it was generally considered a
 Now it may simply be too cheap to short.
 2026-01-30 USD 14.83
 2026-01-30 USD 14.83
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 21.04 | USD 21.04 |
+| 2026-11-03 | USD 7.47 | USD 7.47 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

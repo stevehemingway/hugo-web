@@ -145,3 +145,11 @@ The filings still show the same picture: the legacy cannabis business is gone, t
 
 At these levels, this ranks among the more fragile long-term investments in the market, reliant on continued momentum rather than underlying support. We consider AKAN’s shares to be uninvestable and to have zero fundamental value.
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.46 | USD 10.30 |
+| 2026-11-03 | USD 1.08 | USD 1.08 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -15,3 +15,12 @@ Mexican airport group.
 Summary: well-run group, new assets, gains at expense of nationalised airports. 
 
 [2026-06-14]
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 323.40 | USD 317.42 |
+| 2026-11-03 | USD 258.20 | USD 258.20 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

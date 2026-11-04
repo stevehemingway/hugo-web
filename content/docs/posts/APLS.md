@@ -26,3 +26,12 @@ No longer listed. Apellis Pharmaceuticals.
 Outcome: acquired by BIIB.
 
 Date of delisting / termination: May 14, 2026.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 25.12 | USD 25.12 |
+| 2026-05-14 | USD 41.03 | USD 41.03 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -28,3 +28,12 @@ It’s been nerve-wracking in recent years to bet against these kinds of stocks 
 
 But there are some potential opportunities in call spreads, and this is a stock that can give way in a hurry. This was a great short idea from Kerrisdale at $10, and it still looks like a good idea above $6.
 =======
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 72.63 | USD 72.63 |
+| 2026-11-03 | USD 37.15 | USD 37.15 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

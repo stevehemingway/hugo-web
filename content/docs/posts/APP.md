@@ -19,3 +19,12 @@ Independent researcher Lauren Balik published on AppLovin (NASDAQ: APP — $107 
 
 2026-01-30 USD 473.11
 2026-01-30 USD 473.11
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 673.82 | USD 673.82 |
+| 2026-11-03 | USD 245.51 | USD 245.51 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

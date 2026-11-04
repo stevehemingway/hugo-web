@@ -12,3 +12,12 @@ draft: false
 2026-01-30 USD 38.84
 2026-01-30 USD 38.84
 2026-01-30 USD 38.84
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 32.03 | USD 31.55 |
+| 2026-11-03 | USD 49.89 | USD 49.89 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

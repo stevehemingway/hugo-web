@@ -13,3 +13,12 @@ draft: false
 Overlooked Alpha. A short candidate.
 2026-01-30 USD 278.39
 2026-01-30 USD 278.39
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 241.89 | USD 241.89 |
+| 2026-11-03 | USD 123.53 | USD 123.53 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

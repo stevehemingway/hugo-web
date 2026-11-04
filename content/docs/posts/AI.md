@@ -10,3 +10,12 @@ Kerrisdale Capital [published](https://twitter.com/KerrisdaleCap/status/16327544
 
 In February 2022, Spruce Point also [published](https://thebearcave.substack.com/p/the-bear-cave-105) on C3 and noted the company “has a pattern of exaggerated business claims and is using multiple strategic partnerships… to project an aura as a successful enterprise.”2026-01-30 USD 11.01
 2026-01-30 USD 11.01
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 13.48 | USD 13.48 |
+| 2026-11-03 | USD 11.54 | USD 11.54 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

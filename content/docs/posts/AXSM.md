@@ -20,3 +20,12 @@ Culper Research published on Axsome Therapeutics (NASDAQ: AXSM — $3.50 billion
 [More ...](https://img1.wsimg.com/blobby/go/cc91fda7-4669-4d1b-81ce-a0b8d77f25ab/downloads/Culper_AXSM_6-11-2024.pdf?ver=1718112368081)
 
 2026-01-30 USD 184.25
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 182.64 | USD 182.64 |
+| 2026-11-03 | USD 139.61 | USD 139.61 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

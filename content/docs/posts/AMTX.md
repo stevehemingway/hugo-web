@@ -14,3 +14,11 @@ Manatee Research published on Amprius Technologies (NYSE: AMPX — $2.31 billion
 
 [Manatee web report](https://manateeresearch.com/2026/05/20/amprius-technologies-exaggerated-orders-hollow-manufacturing/)
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.39 | USD 1.39 |
+| 2026-11-03 | USD 1.15 | USD 1.15 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -59,3 +59,12 @@ Pelican Way Research on REalloys Inc. ($ALOY)
 System Exit: Friday, July 31, 2026 | Campaign Return: -28.4% / Pre-Publish: -7.7%
 
 Investor Impact: The campaign ran for just under three days following Pelican Way's $7.33 USD assumed entry on July 28, 2026. Pre-publication upward drift saw shares rise 10.0% to $8.065 USD at release, offering incoming investors an improved short entry price relative to the author's baseline. However, heavy momentum continued to drive $ALOY upward to $9.41 USD by July 31—lagging the Nasdaq Composite by 27.6% on a market-adjusted basis—before the BlackStyx system executed an automated exit to cap the campaign loss at 28.4%.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 8.10 | USD 8.10 |
+| 2026-11-03 | USD 6.05 | USD 6.05 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

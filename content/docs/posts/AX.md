@@ -18,3 +18,12 @@ Our research, including industry analysis, interviews with 21 former employees, 
 [More ...](https://hindenburgresearch.com/axos/)
 
 2026-01-30 USD 98.99
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 86.16 | USD 86.16 |
+| 2026-11-03 | USD 93.06 | USD 93.06 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

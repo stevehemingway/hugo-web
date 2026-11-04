@@ -262,3 +262,11 @@ None.
 
 The 10-Q says so on page 13.
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 20.23 | USD 18.74 |
+| 2026-11-03 | USD 19.01 | USD 19.01 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
