@@ -34,3 +34,12 @@ optimistic income projection
 
 Also, Snowcap Research has produced a note: 
 https://static1.squarespace.com/static/5fb304fb74a5527435ec0d68/t/679a5150818e7f63a08a46eb/1738166610809/Short+FTAI+Aviation+Final+v1+29012025.pdf
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 196.85 | USD 195.73 |
+| 2026-11-04 | USD 179.58 | USD 179.58 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

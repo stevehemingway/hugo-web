@@ -26,3 +26,12 @@ We assign a $3 price target on GLSI.
 
 2023-04-17 Mon 11:58 AM: 
 stockprice has gone down a bit, not cratered, with latest revelation. Maybe worth a punt.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 21.01 | USD 21.01 |
+| 2026-11-04 | USD 16.35 | USD 16.35 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

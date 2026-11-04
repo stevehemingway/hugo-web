@@ -22,3 +22,12 @@ Over the last several years,
 
 Also Muddy Waters is short ELF
 https://muddywatersresearch.com/research/elf/mw-is-short-elf/
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 76.04 | USD 76.04 |
+| 2026-11-03 | USD 111.50 | USD 111.50 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

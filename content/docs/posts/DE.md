@@ -91,3 +91,12 @@ A bit expensive. Big jump in profits in Q3 2022 is bullish for the sector.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 465.57 | USD 461.94 |
+| 2026-11-03 | USD 665.83 | USD 665.83 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -7,3 +7,12 @@ ticker: ETSY
 draft: false
 ---
 https://citronresearch.com/wp-content/uploads/2023/02/Citron-Exposes-the-Dirty-Secrets-of-Etsy.pdf
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 55.44 | USD 55.44 |
+| 2026-11-03 | USD 89.86 | USD 89.86 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -14,3 +14,12 @@ DraftKings (NASDAQ: DKNG — $21.2 billion) is on a mission “to make life more
 2026-01-30 USD 27.51
 2026-01-30 USD 27.51
 2026-01-30 USD 27.51
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 34.46 | USD 34.46 |
+| 2026-11-03 | USD 21.93 | USD 21.93 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

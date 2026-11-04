@@ -23,3 +23,12 @@ Spruce Point Capital [published](https://substack.com/redirect/979c331f-51cd-406
 > “Understand that the founders will stop at nothing to succeed and that means lying to press, vendors, employees and Glassdoor.”
 > 
 > “I would say that if there is a number where there's an opportunity to kind of be aggressive with something, they probably will be.”
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 11.36 | USD 11.36 |
+| 2026-11-03 | USD 20.82 | USD 20.82 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

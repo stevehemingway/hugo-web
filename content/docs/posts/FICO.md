@@ -9,3 +9,11 @@ updated: 2026-02-28
 ---
 # Fair-Isaac Corp. (stocks/FICO)
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1,690.62 | USD 1,690.62 |
+| 2026-11-03 | USD 724.38 | USD 724.38 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

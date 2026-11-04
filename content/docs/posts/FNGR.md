@@ -16,3 +16,12 @@ For example, the company appears to use its copyright registration numbers as "P
 </blockquote>
 
 [More ...](https://twitter.com/CapybaraShort/status/1716946652475593121)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.23 | USD 1.23 |
+| 2026-11-03 | USD 0.12 | USD 0.12 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

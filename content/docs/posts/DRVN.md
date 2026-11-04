@@ -17,3 +17,12 @@ tariffs will make people keep their car on the road for longer
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 14.82 | USD 14.82 |
+| 2026-11-03 | USD 11.29 | USD 11.29 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

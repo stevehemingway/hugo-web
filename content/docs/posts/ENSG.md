@@ -15,3 +15,12 @@ draft: false
 <https://x.com/hntrbrkmedia/status/2063993132912418849>
 
 [2026-06-14]
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 174.20 | USD 174.01 |
+| 2026-11-03 | USD 182.21 | USD 182.21 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

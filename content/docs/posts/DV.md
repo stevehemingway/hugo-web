@@ -14,3 +14,12 @@ draft: false
 > DoubleVerify fashions itself as a technology leader in advertising measurement, verification and fraud prevention so that its corporate advertising clients can protect their brand value. Its purported value proposition is that it increases transparency for its clients in the digital advertising ecosystem to insure they receive the advertising impression value that they’re paying for. However, after conducting extensive research into DV, our impression is that it is hypocritical and falls dramatically short on its own transparency and ability to accurately measure and report its financial results to investors. As a result, we will lay out the case that DV’s own brand and intangible asset value is impaired, and that in order to salvage its credibility, it should convene a special committee to address our multiple concerns. We believe it is time for the Board to evaluate using its Clawback Policy to hold insiders accountable for their behaviors. We reiterate a “Strong Sell” opinion on DV with 35% — 45% ($15.90 — $18.80 per share) downside risk. We believe DV’s competitor Integral Ad Science (Nasdaq: IAS) offers superior value through better positioning to faster growing foreign markets, greater financial transparency, and stronger patent protection. As a result, we are long the stock and see 20% — 30% ($19.20 — $20.80 per share) upside potential as the valuation gap narrows.
 
 [Read More.](https://www.sprucepointcap.com/double-verify-holdings-inc/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 11.44 | USD 11.44 |
+| 2026-11-03 | USD 13.54 | USD 13.54 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

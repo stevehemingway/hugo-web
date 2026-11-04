@@ -16,3 +16,12 @@ Flywire (NASDAQ: FLYW — $2.76 billion) describes itself as a “global payment
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-flywire-flyw)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 14.16 | USD 14.16 |
+| 2026-11-03 | USD 19.15 | USD 19.15 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

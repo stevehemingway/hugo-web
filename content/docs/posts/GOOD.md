@@ -16,3 +16,12 @@ Old Time REITster published on Gladstone Commercial Corporation (NASDAQ: GOOD â€
 </blockquote>
 
 [More ...](https://x.com/muddywatersre/status/1770498426179928355?s=20)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 10.67 | USD 9.83 |
+| 2026-11-04 | USD 10.89 | USD 10.89 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

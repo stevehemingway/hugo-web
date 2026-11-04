@@ -17,3 +17,12 @@ Bonitas Research [published](https://twitter.com/BonitasResearch/status/16012161
 # 2023-04-17 Mon 11:53 AM
 
 Still probably a fraud, basically stock went right up after the report, but has come back down again.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 6.68 | USD 6.68 |
+| 2026-11-04 | USD 2.73 | USD 2.73 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

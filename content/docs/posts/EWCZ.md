@@ -27,3 +27,12 @@ No longer listed. European Wax Center.
 Outcome: taken private by General Atlantic.
 
 Date of delisting / termination: May 8, 2026.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 3.60 | USD 3.60 |
+| 2026-05-08 | USD 5.82 | USD 5.82 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

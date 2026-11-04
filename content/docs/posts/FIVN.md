@@ -16,3 +16,12 @@ Founded in 2001, San Ramon-based Five9 is one of many “Contact Center as a Ser
 </blockquote>
 
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-five9-fivn)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 20.05 | USD 20.05 |
+| 2026-11-03 | USD 35.77 | USD 35.77 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

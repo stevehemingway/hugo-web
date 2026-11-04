@@ -35,3 +35,12 @@ draft: false
 _Initial Disclosure: After extensive research, we have taken a short position in shares of Establishment Labs Holdings Inc. (NASDAQ:ESTA). This report represents our opinion, and we encourage every reader to do their own due diligence. Please see our full disclaimer at the bottom of the report_
 
 [**Read The Full Report Here**](https://hindenburgresearch.us19.list-manage.com/track/click?u=ffb3753afd4493d4fbd300492&id=b342959252&e=42ad85c53c "Read The Full Report Here")
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 72.88 | USD 72.88 |
+| 2026-11-03 | USD 61.40 | USD 61.40 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

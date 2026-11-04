@@ -17,3 +17,12 @@ Vietnam is hot
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 72.68 | USD 72.27 |
+| 2026-11-03 | USD 89.75 | USD 89.75 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

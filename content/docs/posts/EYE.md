@@ -16,3 +16,12 @@ Bristlemoon Capital published on National Vision Holdings (NASDAQ: EYE — $1.62
 </blockquote>
 
 [More ...](https://www.bristlemoonresearch.com/p/a-short-we-like-edition-1)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 25.82 | USD 25.82 |
+| 2026-11-03 | USD 16.79 | USD 16.79 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

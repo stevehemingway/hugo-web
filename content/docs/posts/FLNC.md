@@ -18,3 +18,12 @@ Incredibly, Fluence has yet to disclose this ongoing lawsuit to investors.  News
 </blockquote>
 
 [More ...](https://mailchi.mp/8178314ae4ab/blue-orca-is-short-sy-nasdaq-389289?e=a4ca2830bd)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 19.78 | USD 19.78 |
+| 2026-11-03 | USD 5.50 | USD 5.50 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

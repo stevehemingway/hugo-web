@@ -12,3 +12,12 @@ Inflation play.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 54.71 | USD 54.44 |
+| 2026-11-03 | USD 61.10 | USD 61.10 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

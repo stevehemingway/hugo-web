@@ -18,3 +18,12 @@ Our investigation, which included a review of financial and litigation records a
 </blockquote>
 
 [More ...](https://hindenburgresearch.com/equinix/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 766.16 | USD 754.78 |
+| 2026-11-03 | USD 1,014.40 | USD 1,014.40 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

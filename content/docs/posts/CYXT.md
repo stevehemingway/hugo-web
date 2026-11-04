@@ -9,10 +9,8 @@ draft: false
 # Cyxtera Technologies
 Keith Dalrymple, an independent short seller, [published](https://substack.com/redirect/74456168-2ebb-4e24-8895-c4d3a7a848e6?r=nmbt "https://substack.com/redirect/74456168-2ebb-4e24-8895-c4d3a7a848e6?r=nmbt") on **Cyxtera Technologies** (NASDAQ: CYXT — $1.71 billion), a Coral Gables, Florida-based data center company that went public via SPAC. Dalrymple highlighted increasing data center competition and an “excessive debt load” of ~$2 billion as headwinds for the company. The report also noted that insiders, SPAC sponsors, and PIPE investors have filed to sell around 130 million shares. Cyxtera Technologies is roughly flat since its July 2021 SPAC merger.
 
-## Status
+## Delisted
 
-No longer listed. Cyxtera Technologies, Inc.
+**Cyxtera Technologies, Inc. (CYXT)** is no longer listed. Delisted **2024-01-12**.
 
-Outcome: Chapter 11 Jun 2023; data centre assets sold to Brookfield for $775m; plan effective 12 Jan 2024, renamed CTI Liquidation Co. and wound down.
-
-Date of delisting / termination: 2024-01-12.
+Chapter 11 Jun 2023; data centre assets sold to Brookfield for $775m; plan effective 12 Jan 2024, renamed CTI Liquidation Co. and wound down.

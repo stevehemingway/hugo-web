@@ -16,3 +16,12 @@ another classic "China Hustle"
 </blockquote>
 
 [More ...](https://x.com/HindenburgRes/status/1724156604583415978?s=20)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.91 | USD 1.91 |
+| 2026-11-04 | USD 1.06 | USD 1.06 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

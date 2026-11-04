@@ -12,3 +12,12 @@ updated: 2026-02-28
 Restrinct, an anonymous account on X, published on Fabrinet (NYSE: FN — $7.84 billion), an optical product manufacturing company. Restrinct said the company’s tailwinds from providing optical interconnect solutions for data centers are diminishing and wrote,
 
 “Current outer-year estimates imply that FN’s 100% share of NVDA designed transceivers remains constant, however this isn’t possible as 3 - 4 other NVDA suppliers have been or are under process of being qualified.”
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 455.28 | USD 455.28 |
+| 2026-11-03 | USD 363.33 | USD 363.33 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

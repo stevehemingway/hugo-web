@@ -9,3 +9,12 @@ draft: false
 # Enovix
 
 Pig Farmer Capital, a new anonymous short activist, published on Enovix Corp (NASDAQ: ENVX — $2.18 billion), a next-generation battery company. Pig Farmer said the company’s “battery innovation is not that innovative” and said that it faces fierce competition with incumbent lithium-ion battery companies. Pig Farmer Capital also alleged the company is “a classic case of SPAC financial engineering whereby insiders create immense wealth out of thin air” because the SPAC that merged with Enovix was affiliated with Enovix shareholders.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 7.31 | USD 7.31 |
+| 2026-11-03 | USD 2.94 | USD 2.94 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

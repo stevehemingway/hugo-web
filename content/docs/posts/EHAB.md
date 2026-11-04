@@ -21,3 +21,12 @@ No longer listed. Enhabit.
 Outcome: acquired by Kinderhook.
 
 Date of delisting / termination: May 15, 2026.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 9.22 | USD 9.22 |
+| 2026-05-14 | USD 13.80 | USD 13.80 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

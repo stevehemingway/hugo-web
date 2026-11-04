@@ -18,10 +18,8 @@ The full report is [here](https://static1.squarespace.com/static/5a81b554be42d6b
 
 [The Bear Cave has covered this too.](https://thebearcave.substack.com/p/the-bear-cave-139-fce?utm_source=post-email-title&publication_id=26828&post_id=78756173&isFreemail=true&utm_medium=email)
 
-## Status
+## Delisted
 
-No longer listed. Enviva Inc.
+**Enviva Inc. (EVA)** is no longer listed. Delisted **2024-11-27**.
 
-Outcome: Chapter 11 Mar 2024; plan confirmed Jun 2024; Chapter 11 cases converted to Chapter 7 on about 27 Nov 2024 and assets liquidated - equity cancelled.
-
-Date of delisting / termination: 2024-11-27.
+Chapter 11 Mar 2024; plan confirmed Jun 2024; cases converted to Chapter 7 on about 27 Nov 2024 and assets liquidated - equity cancelled.

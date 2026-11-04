@@ -15,3 +15,12 @@ It has acquired some new fields, and has suffered a near-death experience, but i
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 3.54 | USD 3.24 |
+| 2026-11-03 | USD 3.65 | USD 3.65 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

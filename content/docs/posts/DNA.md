@@ -22,3 +22,12 @@ Colossal Failure Get Shoveled Into Yet Another Garbage SPAC.
 
 2026-01-30 USD 8.97
 2026-01-30 USD 8.97
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 8.31 | USD 8.31 |
+| 2026-11-03 | USD 10.76 | USD 10.76 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

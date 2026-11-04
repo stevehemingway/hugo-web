@@ -20,3 +20,12 @@ GCT has two main warehouse clusters on the east coast (NJ) and west coast (CA). 
 ## Grizzly report
 
 [Grizzly Research thinks the same.](https://grizzlyreports.com/gigacloud-technology-inc-another-china-hustle-inflating-key-metrics-using-undisclosed-related-party-shell-companies/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 39.28 | USD 39.28 |
+| 2026-11-04 | USD 57.88 | USD 57.88 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -21,3 +21,12 @@ Jehoshaphat also noted that the company’s Chief Revenue Officer, Co-Founder, a
 
 2026-01-30 USD 37.47
 2026-01-30 USD 37.47
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 44.28 | USD 44.28 |
+| 2026-11-03 | USD 32.60 | USD 32.60 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

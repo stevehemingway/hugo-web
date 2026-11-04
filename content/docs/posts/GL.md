@@ -34,3 +34,12 @@ Viceroy Research:
 ## Update 2024-08-04
 
 Dorsey mentioned them again. Viceroy is still short. The chart looks ripe for another fall, but the stock did recover from 40 to 90, so it's a treacherous trade.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 139.86 | USD 138.73 |
+| 2026-11-04 | USD 161.72 | USD 161.72 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

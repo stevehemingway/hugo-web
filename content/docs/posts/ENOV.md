@@ -21,3 +21,11 @@ aggressive M&A was the primary vector for most of this puffery. But a huge deal 
 massive debt,i and its long, fun decade of hyperactive M&A has ended. If this story were a movie, we’d call it
 Last of the Acquisitions, and we’d have seen it many times.
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 26.64 | USD 26.64 |
+| 2026-11-03 | USD 20.89 | USD 20.89 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

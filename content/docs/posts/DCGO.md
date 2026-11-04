@@ -29,3 +29,12 @@ Leadership at DocGo has a long history of lies and connections to fraudulent sch
 
 2026-01-30 USD 0.7666
 2026-01-30 USD 0.7666
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.88 | USD 0.88 |
+| 2026-11-03 | USD 0.25 | USD 0.25 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

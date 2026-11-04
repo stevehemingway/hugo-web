@@ -13,3 +13,12 @@ Mentioned in passing as able to sustain supranormal returns, like BRK.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 228.92 | USD 227.54 |
+| 2026-11-03 | USD 230.11 | USD 230.11 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

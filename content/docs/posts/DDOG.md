@@ -15,3 +15,12 @@ I think this may be the exception that proves the rule.
 By most conventional metrics, $DDOG is a dog, but it offers a distinctive service that
 some customers feel is worth whatever it costs.
 2026-01-30 USD 129.32
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 135.99 | USD 135.99 |
+| 2026-11-03 | USD 220.52 | USD 220.52 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

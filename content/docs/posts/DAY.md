@@ -33,3 +33,12 @@ No longer listed. Dayforce.
 Outcome: acquired by Thoma Bravo.
 
 Date of delisting / termination: Feb 4, 2026.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 69.16 | USD 69.16 |
+| 2026-02-03 | USD 69.86 | USD 69.86 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -18,3 +18,12 @@ draft: false
 > 
 > A copy of the report can be downloaded here.
 >
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 62.97 | USD 62.97 |
+| 2026-11-03 | USD 41.49 | USD 41.49 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
