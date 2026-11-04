@@ -5,6 +5,13 @@
   potential, focus, size and theme. Tags nest with <code>/</code>, so
   <code>market/london</code> sits under <code>market</code>.</p>
 
+  <p>Under <code>focus</code>, a post is either <code>focus/security</code> (a
+  traceable listed issuer), <code>focus/theme</code> (a commodity or sector
+  thesis with no single issuer), <code>focus/method</code> (a technique or
+  screen rather than a company), or <code>focus/non-issuer</code> (a stub,
+  image or otherwise unidentifiable subject). Only
+  <code>focus/security</code> posts can carry prices.</p>
+
   {{ $tags := .Site.Taxonomies.tags }}
 
   {{ range slice "analyst" "sector" "thesis" "market" "potential" "focus" "size" "theme" }}

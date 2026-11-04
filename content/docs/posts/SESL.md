@@ -1,8 +1,8 @@
 ---
 title: Sesl
 date: '2026-10-12T21:42:14+01:00'
-tags: [focus/security, potential/short, sector/technology]
-type: stock
+tags: [potential/short, sector/technology, focus/non-issuer]
+type: note
 ticker: SESL
 draft: false
 ---

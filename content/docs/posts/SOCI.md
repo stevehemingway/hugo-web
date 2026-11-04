@@ -1,8 +1,8 @@
 ---
 title: Soci
 date: '2026-10-08T16:11:55+01:00'
-tags: [focus/security]
-type: stock
+tags: [focus/non-issuer]
+type: note
 ticker: SOCI
 draft: false
 ---
