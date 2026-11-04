@@ -7,6 +7,7 @@ ticker: UEC
 draft: false
 updated: 2025-10-29
 ---
+# Uranium Energy Corp (stocks/UEC)
 
 ## Uranium Energy Corp (UEC: NYSE American) — Short Thesis
 
@@ -75,12 +76,3 @@ At ~$9.83, the market is capitalising this at ~$5B for a company that produces ~
 - **Q4 FY2026 results** (expected ~Sep 2026) — production ramp still unproven
 - **Further dilution at lower prices** — death spiral as ATM gets drawn during weakness
 - **enCore Energy relative value trade** — institutional rotation from UEC to actually-contracted peers
-# see below (UEC)
-
-<blockquote>
-<pre>
-
-</pre>
-</blockquote>
-
-[More ...](mining)
