@@ -38,3 +38,12 @@ Both banks provide depository services for crypto exchanges, funds, and stableco
 Signature has downplayed its exposure to the collapse of FTX by specifying that they never made loans to the defunct exchange, only that they had a “[deposit relationship](https://www.barrons.com/articles/signature-bank-stock-price-ftx-51668539447).” They have also announced they are going to try and sell off up to $10 billion of their [crypto related deposits](https://www.coindesk.com/business/2022/12/06/signature-bank-to-reduce-crypto-tied-deposits-by-as-much-as-10-billion/). This announcement seems to have anticipated a joint warning from the [FIDC, OCC, and Federal Reserve](https://www.wsj.com/articles/federal-reserve-fdic-and-occ-warn-banks-about-cryptocurrency-risks-11672783296) about banking for crypto companies.
 
 The lack of attention on Signature may be about to change. Signature faces significant and obvious risks from holding large deposits for crypto entities at risk of sudden and massive withdrawal pressures. As seen with SI’s preliminary Q4 results, **these withdrawal pressures can be severe and lead to massive losses for the bank when it needs to come up with the money.** However, crypto bank runs are not the only risk Signature faces in the coming months. According to recent revelations, Signature may face significant legal and regulatory consequences from doing business in the fast and loose world of cryptocurrency.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.00 | USD 1.00 |
+| 2026-11-04 | USD 0.18 | USD 0.18 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

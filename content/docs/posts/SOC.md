@@ -23,3 +23,12 @@ Exxon spinoff Sable Offshore faces seven barriers to restart its pipeline, idled
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 9.02 | USD 9.02 |
+| 2026-11-04 | USD 1.98 | USD 1.98 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

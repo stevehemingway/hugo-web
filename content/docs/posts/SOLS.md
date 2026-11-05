@@ -21,3 +21,12 @@ added by openclaw on 2026-02-21
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 48.58 | USD 48.43 |
+| 2026-11-04 | USD 57.70 | USD 57.70 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

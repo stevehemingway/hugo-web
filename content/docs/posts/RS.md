@@ -19,3 +19,12 @@ The good news? Rimini Street is firing on all cylinders. Their US growth is back
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 288.87 | USD 285.87 |
+| 2026-11-04 | USD 441.95 | USD 441.95 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

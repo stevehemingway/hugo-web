@@ -11,3 +11,12 @@ draft: false
 The Boatman Capital Research [published](https://twitter.com/BoatmanCapital/status/1599679970594488320) an open letter on **Home REIT** (London: HOME — GBP367 million), a property company that owns housing primarily for charities catering to homeless individuals. The Boatman Capital owns stock in Home REIT and wants the chairwomen to resign over “significant accounting issues,” the company’s failure to disclose payments to its tenants, and poor acquisition due diligence, among other factors. Two weeks ago, Viceroy Research [published](https://thebearcave.substack.com/p/the-bear-cave-145) on the company and alleged many of its customers were in financial distress.
 
 2023-4-17: stock now suspended. Presumably, Boatman had done his homework.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 26.27 | USD 25.68 |
+| 2026-11-04 | USD 30.21 | USD 30.21 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

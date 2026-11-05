@@ -24,3 +24,12 @@ uneconomic business built on three shaky pillars
 Sunrun: The Case of the Phantom Subscribers (RUN US)
 
 MW is again short Sunrun. We weren't cynical enough when we first published our initial short thesis on Sunrun in July 2022. We now believe that Sunrun has greatly exaggerated its (non-GAAP) Subscriber numbers for years, with the current overstatement seemingly close to five quarters of reported deployments. It appears that Sunrun has been claiming and selling tax credits on these inflated numbers as well. The amount of possible excess tax credits for 2022 alone could be ~$200 million.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 18.40 | USD 18.40 |
+| 2026-11-04 | USD 8.79 | USD 8.79 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

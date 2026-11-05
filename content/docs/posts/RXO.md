@@ -40,3 +40,12 @@ see below
 [More ...](https://dfresearch.substack.com/p/rxo-needs-to-raise-equity?utm_campaign=email-half-post&r=57a252&utm_source=substack&utm_medium=email)
 
 >>>>>>> 6c63adb51b9e19cfa5510f5426847384e17d1833
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 12.64 | USD 12.64 |
+| 2026-11-04 | USD 28.40 | USD 28.40 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

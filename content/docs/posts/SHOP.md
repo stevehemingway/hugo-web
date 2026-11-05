@@ -14,3 +14,12 @@ To my mind, it is very unlikely to ever be profitable, but I am not an analyst a
 practically unchanged from last quarter, when the company at least cleared a profit.
 
 The stock has had a good year, more than doubling from six months ago. What is not to like?
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 160.97 | USD 160.97 |
+| 2026-11-04 | USD 153.03 | USD 153.03 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

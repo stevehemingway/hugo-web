@@ -9,3 +9,12 @@ draft: false
 # Pantheon
 
 https://seekingalpha.com/article/4567363-pantheon-resources-crashes-more-downside-potential?mailingid=30134266&messageid=2850&serial=30134266.3035&utm_campaign=rta-author-article&utm_medium=email&utm_source=seeking_alpha&utm_term=30134266.3035
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.12 | USD 0.12 |
+| 2026-11-04 | USD 0.11 | USD 0.11 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

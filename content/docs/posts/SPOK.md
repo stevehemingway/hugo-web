@@ -24,3 +24,12 @@ Management raised the quarterly dividend from $0.13 cent to $0.31 cent in March 
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 13.19 | USD 12.11 |
+| 2026-11-04 | USD 12.07 | USD 12.07 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

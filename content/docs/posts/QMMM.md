@@ -29,3 +29,12 @@ The Bear Cave believes QMMM is now at risk of a near-term, severe stock collapse
 Still trading as **QMMM** on NASDAQ - QMMM Holdings Limited.
 
 Price: **119.40 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 119.40 | USD 119.40 |
+| 2026-11-04 | USD 119.40 | USD 119.40 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

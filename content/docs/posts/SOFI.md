@@ -69,3 +69,12 @@ Unsubscribe
 https://gem.godaddy.com/opt_out?pact=494620-190731474-12675128727-7a592da6fec1a84b6ab064bd22b171c81a558558
 
 Muddy Waters, LLC | 714 Congress Avenue, Austin TX 78701
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 26.18 | USD 26.18 |
+| 2026-11-04 | USD 17.38 | USD 17.38 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -16,3 +16,12 @@ Signet Jewelers (NYSE: SIG — $2.56 billion) is the world’s largest retailer 
 </blockquote>
 
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-signet-jewelers-sig?r=nmbt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 82.88 | USD 81.70 |
+| 2026-11-04 | USD 128.40 | USD 128.40 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -110,3 +110,12 @@ Powered by [Squarespace](https://a1e0.engage.squarespace-mail.com/r?m=6423140582
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 3.88 | USD 3.88 |
+| 2026-11-04 | USD 5.26 | USD 5.26 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

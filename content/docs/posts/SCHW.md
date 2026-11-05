@@ -23,3 +23,12 @@ draft: false
 > While he was correct in the short term, Mr. Bettinger’s statement hints at the longer-term problems that Schwab now faces. Schwab has profited on the spread between near-zero interest deposits and higher interest securities, a strategy that accounted for nearly 25% of net revenues at the end of 2022. However, Schwab has been bleeding the low-interest deposits that made their current business model viable. As Schwab races to replace these funds with higher-interest alternatives, the company is dismantling one of the key foundations of its business model. While the future is uncertain, it seems likely that Schwab is going to have a pretty rough 2023…
 > 
 >
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 99.91 | USD 98.93 |
+| 2026-11-04 | USD 93.37 | USD 93.37 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

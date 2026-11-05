@@ -32,3 +32,12 @@ Pelican Way Research published a short call on Shoals Technologies Group (NASDAQ
 Pelican Way directs readers to their website for the full thesis and for their disclaimer on how they hold and profit from their financial interests.
 
 Email received 2026-10-28 13:51 UTC from Pelican Way Research (Manhattan, NY).
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 8.50 | USD 8.50 |
+| 2026-11-04 | USD 9.16 | USD 9.16 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -7,3 +7,12 @@ ticker: SKIN
 draft: false
 ---
 https://thebearcave.substack.com/p/problems-at-the-beauty-health-co
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.39 | USD 27.80 |
+| 2026-11-04 | USD 11.05 | USD 11.05 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -23,3 +23,12 @@ RGTI Revenues:
 Okie dokie.
  
 I get it. Quantum computing is dope. The point is simply that pure momentum trades work in both directions. RGTI was off 15% yesterday on no news and looks tired, finally.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 22.15 | USD 22.15 |
+| 2026-11-04 | USD 11.21 | USD 11.21 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

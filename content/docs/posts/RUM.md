@@ -32,3 +32,12 @@ Rumble (NASDAQ: RUM — $1.46 billion) describes itself as “a high-growth neut
 ## Update 2023-10-24
 
 Mentioned by Bear Cave.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 6.32 | USD 6.32 |
+| 2026-11-04 | USD 5.11 | USD 5.11 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

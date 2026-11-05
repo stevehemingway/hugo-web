@@ -14,3 +14,12 @@ draft: false
 Still trading as **FIRY** on NYSE - Firy Inc.
 
 Price: **12.49 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 4.31 | USD 4.31 |
+| 2026-06-18 | USD 8.84 | USD 8.84 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

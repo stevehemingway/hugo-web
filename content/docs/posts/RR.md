@@ -21,3 +21,12 @@ Reliability problems limit scale. Mechanical failures, support burdens, and laws
 Cash from stock, not sales. Revenue stagnates while losses widen and share count climbs.
 Insiders win, holders dilute. Super-voting stock and low-cost insider awards transfer value upward.
 Reality check. RR operates as a reseller of imported systems—a financial instrument masquerading as robotics innovation.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 3.23 | USD 3.23 |
+| 2026-11-04 | USD 0.90 | USD 0.90 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

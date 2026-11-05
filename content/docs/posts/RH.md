@@ -30,3 +30,12 @@ The luxury brand has seen its cash position fall from $2.3 billion to just $42 m
 </blockquote>
 
 [More ...](https://hntrbrk.com/rh/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 179.15 | USD 179.15 |
+| 2026-11-04 | USD 144.90 | USD 144.90 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

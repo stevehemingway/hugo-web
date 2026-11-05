@@ -38,3 +38,12 @@ Culper Research published on SoundHound AI (NASDAQ: SOUN —  million)
 Capybara Research published on SoundHound AI (NASDAQ: SOUN — $1.54 billion), an AI-powered speech recognition company. Capybara raised concerns about erroneous media reporting about a “recent” investment from Nvidia that was actually made in 2017 and noted that the company’s AI-powered music detection app ranks far below competitors. In addition, Capybara predicted the company had “a mere 15 months of operational cash left.”
 
 Also, in Dec 24, 'Anonymous tech' fingered the same firm.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 9.97 | USD 9.97 |
+| 2026-11-04 | USD 4.32 | USD 4.32 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

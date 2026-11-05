@@ -108,3 +108,12 @@ In recent quarters, most of SIDU’s revenue has originated from Craig Technolog
 
 ---
 updated: 2026-04-09
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 3.14 | USD 3.14 |
+| 2026-11-04 | USD 1.04 | USD 1.04 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

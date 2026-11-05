@@ -72,3 +72,12 @@ The report concludes that SRAD's business model is structurally flawed, creating
 
 ---
 *Last updated: 2026-04-27 by steve*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 23.77 | USD 23.77 |
+| 2026-11-04 | USD 14.49 | USD 14.49 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -30,3 +30,12 @@ NuScale, however, has not yet commercialized any reactors. In its first quarter 
 ## IG situation
 
 SMR cannot be sold short on IG.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 14.17 | USD 14.17 |
+| 2026-11-04 | USD 5.13 | USD 5.13 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

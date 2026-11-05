@@ -42,3 +42,12 @@ No longer listed. Soleno Therapeutics, Inc. (SLNO).
 Outcome: acquired by NBIX.
 
 Date of delisting / termination: May 18, 2026.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 46.30 | USD 46.30 |
+| 2026-05-19 | USD 53.01 | USD 53.01 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

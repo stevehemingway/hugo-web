@@ -13,3 +13,12 @@ draft: false
 Akram’s Razor also raised additional concerns that Sprout Social’s software has become “commoditized” and that competitor Sprinklr (NYSE: CXM) is poised to take share going forward. Akram’s Razor concluded,
 
 “The short offers 40%-60% downside over the next six months and is in my opinion the best risk/reward short in the entire SaaS sector.”
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 11.27 | USD 11.27 |
+| 2026-11-04 | USD 10.78 | USD 10.78 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -23,3 +23,12 @@ This presents a massive asymmetric opportunity for investors.  As to Insulet, we
 </blockquote>
 
 [More ...](https://www.blueorcacapital.com/report/blue-orca-is-short-insulet-corporation-and-long-eoflow-co-ltd/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 284.24 | USD 284.24 |
+| 2026-11-04 | USD 165.02 | USD 165.02 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

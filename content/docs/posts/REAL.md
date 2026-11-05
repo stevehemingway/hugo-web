@@ -12,3 +12,12 @@ Real Estate Stocks on the Move Thursday: $SOHO, $ASPS, $BHR, $BDN, $ORC, $GEO, $
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 15.78 | USD 15.78 |
+| 2026-11-04 | USD 13.57 | USD 13.57 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

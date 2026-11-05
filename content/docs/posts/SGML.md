@@ -57,3 +57,12 @@ For all media inquiries, please contact Blue Orca directly at media@blueorcacapi
 NOT AVAILABLE FOR SHORT SALE
 
 >>>>>>> b13a364 (few m4 files.):stocks/SGML.m4
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 13.19 | USD 13.19 |
+| 2026-11-04 | USD 5.62 | USD 5.62 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

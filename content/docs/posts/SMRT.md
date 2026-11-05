@@ -13,3 +13,12 @@ Gusty Winds Musing, an anonymous Substack, [published](https://substack.com/redi
 > “The company has a market cap of $570m. It has cash of $215m and no debt. So an EV of ~$350m. That puts it on ~11x EV/Sales of just the software business, and of course the company is losing substantial amounts of money from its installation services and operating expenses. It’s one of the most expensive software companies on the Nasdaq on those metrics and it loses ~$3 at the bottom line for every dollar of software revenue that it has… I think this is worth $0 and I am short.”
 
 ![tradingview chart](https://www.tradingview.com/x/aKgO3xJA/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 2.02 | USD 2.02 |
+| 2026-11-04 | USD 1.62 | USD 1.62 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -24,3 +24,12 @@ Key findings include:
     Narrative Pivot: The company has abruptly transitioned from a social-justice soccer story to a Solana-based crypto treasury narrative, catalyzing extreme stock volatility.
 
     Minimal Operational Substance: Italian sports holdings (Brera Milano, Juve Stabia, UYBA Volley) provide publicity but contribute minimal revenue, functioning primarily as a narrative engine for capital market activities.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.87 | USD 18.70 |
+| 2026-11-04 | USD 3.25 | USD 3.25 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

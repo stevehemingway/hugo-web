@@ -25,3 +25,12 @@ It's hard to see their market share, or the total market for takeaway coffee goi
 Why would you pay 25 times for the stock?
 
 [This article outlines a bull case. I remain unconvinced.](https://seekingalpha.com/article/4535388-starbucks-heading-to-stardom). To be honest, I forgot how exposed the company is to China. To me, that's all part of the larger bear case.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 84.21 | USD 82.70 |
+| 2026-11-04 | USD 109.70 | USD 109.70 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

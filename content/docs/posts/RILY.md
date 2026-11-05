@@ -20,3 +20,12 @@ Follow-up (22 Feb 22): https://wolfpackresearch.com/research/rily2/
 Follow-up 22 Aug 23: Friendly Bear puts out a sell note: https://friendlybearresearch.com/2023/08/21/b-riley-bebe-dont-hurt-me-no-more/?subscribe=already#subscribe-blog-blog_subscription-8
 
 [Follow-up](https://friendlybearresearch.com/2024/05/22/it-appears-b-riley-needs-to-consolidate-franchise-group-under-gaap/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 4.67 | USD 4.67 |
+| 2026-11-04 | USD 3.83 | USD 3.83 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -36,3 +36,12 @@ average price of $10.96. ROIV ended the quarter at $10.54.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 21.70 | USD 21.70 |
+| 2026-11-04 | USD 38.23 | USD 38.23 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
