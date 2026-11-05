@@ -14,3 +14,12 @@ draft: false
 Still trading as **TTCFQ** on OTC - Tattooed Chef, Inc.
 
 Price: **0.000001 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.00 | USD 0.00 |
+| 2026-11-04 | USD 0.00 | USD 0.00 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

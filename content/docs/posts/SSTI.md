@@ -27,3 +27,12 @@ Bull case:
 Conclusion:
 
 It's probably a crap company, but one that would be dangerous to short.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 8.03 | USD 8.03 |
+| 2026-11-04 | USD 8.33 | USD 8.33 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

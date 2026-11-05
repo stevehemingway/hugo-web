@@ -24,3 +24,12 @@ STEM has very little cushion.  We calculate that without STEM massively stretchi
    
 Rather than trade as a burgeoning software business at 3x revenues, we believe that the market will come to value STEM as a low-margin hardware reseller and systems integrator which is uninvestable on account of undisclosed customer financing, accounting red flags, and misleading claims regarding its software revenues.  Ultimately, we think that STEM’s only real talent lies in raising money from the capital markets and selling stock.
 https://mailchi.mp/8d8522466bfd/blue-orca-is-short-sy-nasdaq-389249?e=a4ca2830bd
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 15.05 | USD 15.05 |
+| 2026-11-04 | USD 2.88 | USD 2.88 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

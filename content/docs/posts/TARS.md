@@ -13,3 +13,12 @@ Culper Research published on Tarsus Pharmaceuticals (NASDAQ: TARS — $2.82 bill
 Culper concluded:
 
 “We are short [Tarsus] and think shares are headed lower as the company draws AKS/DoJ scrutiny, XDEMVY revenues peak well below $2B, and 2026 results continue to disappoint.”
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 81.88 | USD 81.88 |
+| 2026-11-04 | USD 69.07 | USD 69.07 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

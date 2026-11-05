@@ -17,3 +17,12 @@ Cambria’s Shareholder Yield ETF, SYLD goes beyond dividends to include buyback
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 69.52 | USD 68.34 |
+| 2026-11-04 | USD 88.19 | USD 88.19 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -14,3 +14,12 @@ updated: 2026-02-28
 #
 #
 <https://newsletter.hntrbrk.com/p/breaking-symbotic-delayed-10-k-reveals?r=nmbt&utm_campaign=post&utm_medium=web>
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 59.50 | USD 59.50 |
+| 2026-11-04 | USD 37.51 | USD 37.51 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

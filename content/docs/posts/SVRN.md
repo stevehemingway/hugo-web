@@ -61,3 +61,11 @@ Fugazi's argument: common holders are paying full value for a wrapper controlled
 
 One note: this is a **single short-biased newsletter's opinion**, not an audited document — worth treating as an argument to verify against the underlying SEC filings rather than settled fact.
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.08 | USD 21.60 |
+| 2026-11-04 | USD 17.79 | USD 17.79 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

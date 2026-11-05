@@ -16,3 +16,12 @@ Jehoshaphat Research published on The Toro Company (NYSE: TTC — $8.69 billion)
 </blockquote>
 
 [More ...](https://x.com/JehoshaphatRsch/status/1792914581666349413)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 78.72 | USD 77.74 |
+| 2026-11-04 | USD 107.49 | USD 107.49 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

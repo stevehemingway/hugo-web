@@ -17,3 +17,12 @@ No longer listed. Taylor Morrison Home Corporation (TMHC).
 Outcome: acquired by BRK.A.
 
 Date of delisting / termination: Jul 24, 2026.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 58.87 | USD 58.87 |
+| 2026-07-24 | USD 72.45 | USD 72.45 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

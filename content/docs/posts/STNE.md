@@ -14,3 +14,12 @@ https://www.popularfintech.com/p/stone-q3-2022-earnings-review-returning?utm_sou
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 14.79 | USD 12.25 |
+| 2026-11-04 | USD 7.69 | USD 7.69 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

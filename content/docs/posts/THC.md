@@ -12,3 +12,12 @@ updated: 2026-02-28
 Fuzzy Panda Research published on Tenet Healthcare (NYSE: THC — $15.3 billion), a Dallas-based hospital and healthcare company. Fuzzy Panda “uncovered >$167 million of excess Medicare outlier payments to Tenet” and highlighted that the company previously fell ~70% in 2002 over a similar overpayment scandal. Fuzzy Panda alleged the company benefited from recruiting undocumented immigrants to give birth in Tenant hospitals, provided sub-par medical care, derived about 25% of its revenue from Medicare and Medicaid, and is “the next United Healthcare.” Fuzzy Panda concluded,
 
 “We think the opportunity to short Tenet today, near its all-time peak stock price, is like getting to go back in time so you can short Valeant Pharmaceuticals when the government announced they were going to crack down on price gouging drugs.”
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 198.72 | USD 198.72 |
+| 2026-11-04 | USD 292.25 | USD 292.25 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

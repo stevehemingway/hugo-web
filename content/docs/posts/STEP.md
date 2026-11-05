@@ -25,3 +25,12 @@ To pay the bill, StepStone seemingly must dilute shareholders, issue debt, or bo
 StepStone defended the transaction in a detailed response to Hunterbrook. The company says the buyout is priced at a discount to StepStone’s own trading multiple, that SPRING’s marks are reviewed by external auditors and a third-party valuation agent under an independent board, and that the economics are held by an entity — CH Equity Partners LLC — whose ownership is aligned with the interests of the overall company. On its marks, StepStone has said gains may be “unrealized,” but “that does not make it unreal.”
 
 date: 2026-07
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 64.17 | USD 62.26 |
+| 2026-11-04 | USD 46.40 | USD 46.40 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

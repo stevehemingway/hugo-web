@@ -39,3 +39,11 @@ T1 then replaced RWE with Trina Solar, and called it a “new” offtake agreeme
 
 *updated: 2026-03-07 by automated standardization process*
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 6.68 | USD 6.68 |
+| 2026-11-04 | USD 2.73 | USD 2.73 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

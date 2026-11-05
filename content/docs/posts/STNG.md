@@ -11,3 +11,12 @@ This is one of the incredible hulks.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 50.83 | USD 49.95 |
+| 2026-11-04 | USD 85.05 | USD 85.05 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

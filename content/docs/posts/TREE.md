@@ -46,3 +46,12 @@ fought this suit for the past 5 years
 
 [More ...](which the
 Company itself told the court was a “death knell” for its defense)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 53.09 | USD 53.09 |
+| 2026-11-04 | USD 38.35 | USD 38.35 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

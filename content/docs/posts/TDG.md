@@ -16,3 +16,12 @@ TransDigm (NYSE: TDG — $72.7 billion) describes itself as “a leading global 
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-transdigm-tdg)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1,329.85 | USD 1,329.85 |
+| 2026-11-04 | USD 1,216.88 | USD 1,216.88 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

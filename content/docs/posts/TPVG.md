@@ -15,3 +15,12 @@ draft: false
 > TriplePoint charges investors 1.75% of the fund’s “average adjusted gross assets” and 20% of net investment income above an 8% hurdle rate.
 > 
 > The Bear Cave believes TriplePoint’s net asset value decline will accelerate in the coming quarters as TriplePoint may need to take significant write-downs in its loan book.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 6.54 | USD 5.66 |
+| 2026-11-04 | USD 4.67 | USD 4.67 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
