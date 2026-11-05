@@ -22,3 +22,12 @@ Gotham City Research published on Grifols (NASDAQ: GRFS — $5.96 billion), a Sp
 > Gotham City Research published an update on Grifols (NASDAQ: GRFS — $5.77 billion), a Spanish pharmaceutical company. The update focuses on a roughly $300 million loan between Grifols and a related party classified vaguely as “other financial assets with other related parties.”
 
 [Link.](https://www.gothamcityresearch.com/post/grifols-sa-how-an-advance-payment-becomes-a-loan-part-i)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 9.35 | USD 9.23 |
+| 2026-11-04 | USD 8.61 | USD 8.61 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

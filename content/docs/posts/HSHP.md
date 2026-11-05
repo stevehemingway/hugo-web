@@ -9,3 +9,12 @@ draft: false
 # Himalaya Shipping (HSHP)
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 9.10 | USD 8.27 |
+| 2026-11-04 | USD 15.42 | USD 15.42 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

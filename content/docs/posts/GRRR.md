@@ -14,3 +14,12 @@ Gorilla Technology Group (NASDAQ: GRRR — $774 million) describes itself as “
 Originally founded in 2001 as a video analytics company, today Gorilla has pivoted aggressively to AI-powered technology under its CEO and Chairman, Mr. Jay Chandan, who led the SPAC that took Gorilla public in July 2022.
 
 Mr. Chandan, pictured below, spoke at Intel’s 2024 AI summit in Bangkok. Gorilla uploaded a copy of Mr. Chandan’s speech to YouTube and wrote,
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 10.92 | USD 10.92 |
+| 2026-11-04 | USD 7.70 | USD 7.70 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

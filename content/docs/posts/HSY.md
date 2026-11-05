@@ -16,3 +16,12 @@ High Levels of Banned PFAS Detected in Hershey’s (NYSE: HSY) Packaging. Indepe
 </blockquote>
 
 [More ...](https://grizzlyreports.com/hsy)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 181.98 | USD 177.99 |
+| 2026-11-04 | USD 174.50 | USD 174.50 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

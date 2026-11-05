@@ -48,3 +48,12 @@ Definitely a short candidate, but it has a habit of defying short sellers.
 | Accumulated Other Comprehensive Income     | -211800000.0  | -182200000.0 | -212500000.0 |
 | Total Stockholders' Equity                 | -1391500000.0 | -856100000.0 | -390000000.0 |
 | Total Liabilities And Stockholders' Equity | 2819800000.0  | 3076100000.0 | 2678600000.0 |
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 12.89 | USD 12.89 |
+| 2026-11-04 | USD 15.31 | USD 15.31 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

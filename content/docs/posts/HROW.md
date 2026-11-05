@@ -10,3 +10,12 @@ Bonitas Research [published](https://substack.com/redirect/917f0bce-744f-4d62-9f
 
 > “With significant liabilities managed by bad actors willing to enrich themselves at the expense of minority HROW shareholders, we are short Harrow and think its stock is going lower.”
 >
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 49.00 | USD 49.00 |
+| 2026-11-04 | USD 28.75 | USD 28.75 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

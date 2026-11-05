@@ -16,3 +16,12 @@ Reveals That Samsara’s Aggressive Accounting Policies Defer Expenses into Futu
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/samsara-inc/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 35.45 | USD 35.45 |
+| 2026-11-04 | USD 42.81 | USD 42.81 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

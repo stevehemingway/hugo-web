@@ -18,3 +18,12 @@ GP also could be in hot water with California’s HVIP (Hybrid and Zero-Emission
 Furthermore, GP is currently broke and needs to raise money to keep the lights on.
 
 See full lawsuit here.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.78 | USD 3.90 |
+| 2026-11-04 | USD 0.66 | USD 0.66 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

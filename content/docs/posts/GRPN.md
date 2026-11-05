@@ -14,3 +14,12 @@ ndependent researcher Lauren Balik published on Groupon (NASDAQ: GRPN — $1.35 
 “Groupon’s management team is willfully omitting the two biggest trends driving growth in the key North America Local segment. These two trends are full of liabilities, risks, and sketchy vendors operating in legal grey markets. Regardless of any enforcement from the FTC, state AGs, FDA, etc. these two trends of compounded GLP-1 treatments and MS Office 2024’s release cycle are over and wrapping up.”
 
 Following Ms. Balik’s report, Groupon removed several of the vendors on its platform offering GLP-1 coupons.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 17.61 | USD 17.61 |
+| 2026-11-04 | USD 17.31 | USD 17.31 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

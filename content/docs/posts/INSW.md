@@ -19,3 +19,12 @@ Also, wars will increase demand (which is a product of how much is transported, 
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 48.55 | USD 42.48 |
+| 2026-11-04 | USD 99.36 | USD 99.36 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

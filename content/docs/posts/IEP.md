@@ -250,3 +250,12 @@ on too much leverage in the face of sustained
 losses: a combination that rarely ends well.
 
 [Read More](https://hindenburgresearch.com/icahn/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 7.55 | USD 6.21 |
+| 2026-11-04 | USD 5.34 | USD 5.34 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

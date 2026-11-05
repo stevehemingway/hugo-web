@@ -48,3 +48,12 @@ draft: false
 - **Barriers to Entry**: No truly new entrants since the GFC, suggesting high barriers to entry favor incumbents
 
 The analysis suggests that while there are competitors, Guardian has carved out a defensible niche in ALFs with superior service levels and a unique decentralized operating model that larger competitors haven't been able to replicate effectively.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 30.09 | USD 30.09 |
+| 2026-11-04 | USD 42.09 | USD 42.09 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

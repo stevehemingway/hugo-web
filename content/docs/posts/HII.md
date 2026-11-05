@@ -25,3 +25,12 @@ but it seems to have a pretty decent return on equity.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 340.07 | USD 335.93 |
+| 2026-11-04 | USD 303.99 | USD 303.99 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

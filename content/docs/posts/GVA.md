@@ -22,3 +22,12 @@ recent statements.
 </blockquote>
 
 [More ...](https://www.glasshouseresearch.com/uploads/8/9/6/9/89690703/gva_final.pdf)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 115.35 | USD 115.00 |
+| 2026-11-04 | USD 132.39 | USD 132.39 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

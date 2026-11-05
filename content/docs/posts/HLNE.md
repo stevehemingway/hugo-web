@@ -171,3 +171,11 @@ And if Hamilton Lane starts seeing redemptions, it might take a long time to res
 
 Whether Pandora’s Box can be closed before the culling begins remains perhaps the industry’s most expensive question.
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 134.31 | USD 131.72 |
+| 2026-11-04 | USD 94.99 | USD 94.99 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

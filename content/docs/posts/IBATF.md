@@ -16,3 +16,12 @@ Summary
     IBAT has less than two quarters of cash, $20m in debt and negative working capital of $16m.
     IBAT is  tempting a highly dilutive equity for debt transaction indicating a low-value technology reliant on usurious capital.
     IBAT’s two largest shareholders with 40% of outstanding shares have sold nearly 30% of their stakes this year in private transactions.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.10 | USD 0.10 |
+| 2026-11-04 | USD 0.06 | USD 0.06 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

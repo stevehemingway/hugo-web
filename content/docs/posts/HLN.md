@@ -19,3 +19,12 @@ The stock has gone down, because a lot of people were given it, as it was spun o
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 10.11 | USD 9.91 |
+| 2026-11-04 | USD 9.23 | USD 9.23 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

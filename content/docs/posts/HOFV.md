@@ -17,3 +17,12 @@ In July 2021 Bleecker Street also highlighted the company’s ties to Fyre Festi
 Still trading as **HOFV** on NASDAQ - Hall of Fame Resort & Entertainment Company.
 
 Price: **0.3500 USD** at the close on 2026-11-04 (Yahoo Finance end-of-day).
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.35 | USD 0.35 |
+| 2026-11-04 | USD 0.35 | USD 0.35 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
