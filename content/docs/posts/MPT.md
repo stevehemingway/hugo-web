@@ -91,3 +91,11 @@ The stock has experienced a catastrophic decline from its peak, driven by tenant
 - Moody's credit reports
 - Yahoo Finance, StockAnalysis.com
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 5.00 | USD 4.70 |
+| 2026-11-04 | USD 2.05 | USD 2.05 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

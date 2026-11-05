@@ -20,3 +20,12 @@ Pinterest even pays for search traffic to window-dress key performance indicator
 </blockquote>
 
 [More ...](https://grizzlyreports.com/we-believe-pinterest-inc-nyse-pins-is-in-a-death-spiral-but-misleadingly-doctors-its-terrible-performance-statistics/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 25.89 | USD 25.89 |
+| 2026-11-04 | USD 21.22 | USD 21.22 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

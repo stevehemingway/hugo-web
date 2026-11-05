@@ -12,3 +12,12 @@ draft: false
 > Founded in a California garage in 2014, Olaplex was created by Dean and Darcy Christal to help repair and strengthen women’s hair. The company received a notable early endorsement from Kim Kardashian which led to rapid growth. Olaplex currently sells an assortment of 10 different hair care products on its website, through retail chains like Sephora, and through salons.
 > 
 > The company’s growth and premium products attracted the attention of private equity firm Advent International, which acquired Olaplex for ~$1 billion in January 2020. From there, sales exploded in the pandemic as the company and its influencers dominated TikTok, Instagram, and YouTube. That growth, 90% in 2020 and 112% in 2021, helped the company reach a $16 billion valuation in its September 2021 IPO. The company sold no stock and received no cash, instead, Advent sold around 60 million shares for ~$1.5 billion in the IPO, a deal _Bloomberg_ [called](https://substack.com/redirect/b54d86a8-6349-4c4c-8750-194f8716d035?r=nmbt) “among the most lucrative private equity transactions in the U.S.” As Advent sells down its remaining ~75% stake, investors must ask whether Olaplex can sustain its rapid sales growth. The Bear Cave thinks not...
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.34 | USD 1.34 |
+| 2026-07-08 | USD 2.07 | USD 2.07 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

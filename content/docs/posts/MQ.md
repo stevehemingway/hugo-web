@@ -56,3 +56,12 @@ This is not the first. Spruce Point released an updated report on them in April 
 ---
 - short
 ---
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 4.75 | USD 19.00 |
+| 2026-11-04 | USD 18.60 | USD 18.60 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

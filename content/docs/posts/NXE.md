@@ -83,3 +83,12 @@ NextGen is the best undeveloped uranium asset in the world, but it is still an o
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 9.20 | USD 9.20 |
+| 2026-11-04 | USD 8.00 | USD 8.00 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

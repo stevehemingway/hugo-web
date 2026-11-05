@@ -17,3 +17,12 @@ draft: false
 
 Palantir is picking up a lot of business from governments that are terminally hopeless at IT development, so I am not sure this is safe to short.
 I think that the political alignment of Thiel might compromise the ability of Palantir to get contracts with mainstream governments.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 177.75 | USD 177.75 |
+| 2026-11-04 | USD 171.70 | USD 171.70 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

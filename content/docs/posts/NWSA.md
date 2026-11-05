@@ -14,3 +14,12 @@ Argument that the conglomerate discount is shrinking.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 26.12 | USD 25.93 |
+| 2026-11-04 | USD 30.56 | USD 30.56 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

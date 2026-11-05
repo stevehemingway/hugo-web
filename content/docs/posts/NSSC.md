@@ -18,3 +18,12 @@ Explosive new lawsuit by former employees alleges accounting fraud and financial
     The alleged fraud involved mis-categorizing COGS as inventory, and was “well-known within the company,” the lawsuit says.
 </pre>
 </blockquote>
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 41.70 | USD 41.19 |
+| 2026-11-04 | USD 31.75 | USD 31.75 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

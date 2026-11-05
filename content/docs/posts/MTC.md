@@ -13,3 +13,12 @@ MMTEC is a holding company that, through its subsidiaries, operates a U.S.-regis
 [Fugazi report](https://open.substack.com/pub/fugaziresearch/p/mtc-from-delisting-risk-to-a-half?r=57a252&utm_campaign=post-expanded-share&utm_medium=web)
 
 Update: 2026-05-20 
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 3.42 | USD 3.42 |
+| 2026-11-04 | USD 5.37 | USD 5.37 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

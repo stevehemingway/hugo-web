@@ -35,3 +35,12 @@ _“I believe that JOE will grow revenue at 30% to 50% each year for the foresee
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 59.37 | USD 58.95 |
+| 2026-11-04 | USD 70.45 | USD 70.45 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

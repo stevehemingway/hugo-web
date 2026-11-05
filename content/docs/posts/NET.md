@@ -45,3 +45,12 @@ draft: false
 ### Catalysts
 - **Q2 2026 earnings: August 6** — potential for disappointment after the run-up
 - If AI monetization doesn't materialise quickly, multiple compression is vicious
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 197.15 | USD 197.15 |
+| 2026-11-04 | USD 266.58 | USD 266.58 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

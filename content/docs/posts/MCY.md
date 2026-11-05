@@ -16,3 +16,12 @@ Wolfpack Research published on Mercury General (NYSE: MCY — $2.76 billion), a 
 </blockquote>
 
 [More ...](https://www.wolfpackresearch.com/items/california-wildfire-events-a-gamechanger-for-mercury-(mcy)-as-we-estimate-more-than-%242-billion-in-losses-using-zip-code-data)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 94.06 | USD 93.13 |
+| 2026-11-04 | USD 88.93 | USD 88.93 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

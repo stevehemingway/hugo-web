@@ -18,3 +18,12 @@ A Hunterbrook investigation finds potential major roadblocks to getting the loan
 </blockquote>
 
 [More ...](https://newsletter.hntrbrk.com/p/plug-power-failure-part-i-critical?r=nmbt&utm_campaign=post&utm_medium=web)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.97 | USD 1.97 |
+| 2026-11-04 | USD 1.46 | USD 1.46 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

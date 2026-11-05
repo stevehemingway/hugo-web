@@ -18,3 +18,12 @@ updated: 2026-02-28
 [More ...](https://thebearcave.substack.com/p/problems-at-lifestance-health-lfst)
 
 LifeStance Health (NASDAQ: LFST — $2.29 billion) is on a mission “to help people lead healthier, more fulfilling lives by improving access to trusted, affordable, and personalized mental health care.” The company is “one of the nation’s largest outpatient mental health platforms” with over 5,000 therapists operating across 33 states serving over 6 million virtual and in-person visits in the last twelve months. The private equity-backed company has grown rapidly by acquiring smaller therapy clinics and investors view the company as a perfect play on our growing mental health crisis. The Bear Cave doesn’t.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 7.04 | USD 7.04 |
+| 2026-11-04 | USD 14.21 | USD 14.21 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

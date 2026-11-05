@@ -18,3 +18,12 @@ It's rare to see a US-focussed analyst recommending a UK stock.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 17.69 | USD 16.33 |
+| 2026-11-04 | USD 21.30 | USD 21.30 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

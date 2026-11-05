@@ -37,3 +37,12 @@ In reality, The Bear Cave believes Oddity is a glorified Instagram and Facebook 
 [More ...](https://thebearcave.substack.com/p/problems-at-oddity-tech-odd)
 
 [Update](https://ningiresearch.com/2024/05/21/research-report-oddity-tech-limited-nasdaq-odd/).
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 40.18 | USD 40.18 |
+| 2026-11-04 | USD 21.57 | USD 21.57 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

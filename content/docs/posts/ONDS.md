@@ -12,3 +12,12 @@ draft: false
 -- Bear Cave \#129
 
 The [NMR report](https://seekingalpha.com/article/4529687-ondas-holdings-stock-high-risk-of-derailment)  is very detailed and professional. Not only do the board members have a chequered past, the technology, and regulatory changes, do not support any sort of growth story. This is a small stock, the price of which can easily be manipulated, but it seems hard to believe that it will not go bust eventually (or be taken over by a rival).
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 9.76 | USD 9.76 |
+| 2026-11-04 | USD 5.27 | USD 5.27 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

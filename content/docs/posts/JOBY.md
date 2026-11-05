@@ -22,3 +22,12 @@ But what about [this]("https://open.substack.com/pub/hntrbrk/p/exclusive-joby-hy
 
 Basically, JOBY might be a great investment, or a shit one. 
 Probably safest to stand well back, or buy a straddle.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 13.20 | USD 13.20 |
+| 2026-11-04 | USD 5.05 | USD 5.05 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

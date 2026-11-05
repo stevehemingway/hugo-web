@@ -13,3 +13,12 @@ We Interviewed Some of the First Surgeons to use Microbot Medical’s LIBERTY En
 [Website](https://whitediamondresearch.com/research/we-interviewed-some-of-the-first-surgeons-to-use-microbot-medicals-liberty-endovascular-robotic-system-and-its-clear-that-it-will-be-a-commercial-failure-1-price-target/)
 
 *2026-05-17*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 2.00 | USD 2.00 |
+| 2026-11-04 | USD 1.14 | USD 1.14 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

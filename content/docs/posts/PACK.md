@@ -30,3 +30,12 @@ The return to 2019 lows on its own doesn’t make the stock a buying opportunity
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 5.41 | USD 5.41 |
+| 2026-11-04 | USD 3.36 | USD 3.36 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

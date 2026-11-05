@@ -19,3 +19,12 @@ No longer listed. Marine Products.
 Outcome: acquired by MasterCraft Boat.
 
 Date of delisting / termination: May 15, 2026.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 8.76 | USD 8.47 |
+| 2026-05-14 | USD 8.18 | USD 8.18 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

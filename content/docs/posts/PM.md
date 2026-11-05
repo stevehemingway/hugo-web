@@ -14,3 +14,12 @@ Anyway, it's share price has been weak for a month or two.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 160.40 | USD 156.34 |
+| 2026-11-04 | USD 211.28 | USD 211.28 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

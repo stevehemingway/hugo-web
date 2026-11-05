@@ -34,3 +34,12 @@ Shorts include (or recently included):
 - YETI Holdings Inc
 
 The sorts of stocks, well many, that you'd short if the market wasn't so cruel.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 24.26 | USD 23.50 |
+| 2026-11-04 | USD 28.66 | USD 28.66 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

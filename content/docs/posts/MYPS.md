@@ -54,3 +54,12 @@ For now, I’ve backed up the truck and, assuming management keeps their word, w
 Disclosure: Long, microcap, and never investing advice.
 
 *date 2026-05-30*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.65 | USD 6.51 |
+| 2026-11-04 | USD 4.47 | USD 4.47 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

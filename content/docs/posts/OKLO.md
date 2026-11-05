@@ -16,3 +16,12 @@ Kerrisdale Capital published on Oklo (NYSE: OKLO — $3.08 billion), a nuclear e
 </blockquote>
 
 [More ...](kerrisdale-capital)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 71.76 | USD 71.76 |
+| 2026-11-04 | USD 22.12 | USD 22.12 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

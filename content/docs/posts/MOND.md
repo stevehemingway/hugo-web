@@ -16,3 +16,12 @@ Mondee, an airfare consolidator, trades at sector-leading multiples despite medi
 </blockquote>
 
 [More ...](https://seekingalpha.com/article/4654907-mondee-bad-trip-choking-high-interest-debt-downside-potential)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 0.00 | USD 0.00 |
+| 2026-11-04 | USD 0.00 | USD 0.00 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

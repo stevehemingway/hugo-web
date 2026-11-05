@@ -49,3 +49,12 @@ A large number of shares are unaccounted for. Billions of USD worth of stock rep
 </blockquote>
 
 [More ...](https://grizzlyreports.com/we-believe-pdd-is-a-dying-fraudulent-company-and-its-shopping-app-temu-is-cleverly-hidden-spyware-that-poses-an-urgent-security-threat-to-u-s-national-interests/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 113.39 | USD 113.39 |
+| 2026-11-04 | USD 82.15 | USD 82.15 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

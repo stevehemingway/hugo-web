@@ -14,3 +14,12 @@ This is a steepener trade wrapped up in an ETF.
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 19.16 | USD 18.59 |
+| 2026-11-04 | USD 16.93 | USD 16.93 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

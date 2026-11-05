@@ -40,3 +40,12 @@ time. Warning: Despite $436m of │ cash on hand and no debt, PERI is
 asking shareholders at its annual meeting next month to authorize │ an
 additional 20m of shares and cited, “in order to preserve and increase
 our market │ competitiveness and expand our business.”
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 9.58 | USD 9.58 |
+| 2026-11-04 | USD 11.45 | USD 11.45 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

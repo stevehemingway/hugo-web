@@ -104,3 +104,11 @@ RESTACK
 548 Market Street PMB 72296, San Francisco, CA 94104
 Unsubscribe
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 9.30 | USD 9.30 |
+| 2026-11-04 | USD 10.50 | USD 10.50 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

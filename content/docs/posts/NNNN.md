@@ -20,3 +20,12 @@ Extreme price volatility is engineered, not market-driven, making the stock high
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 30.07 | USD 30.07 |
+| 2026-11-04 | USD 3.68 | USD 3.68 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

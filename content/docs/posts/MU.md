@@ -16,3 +16,12 @@ The problem is that it's making lots of money and has a good retun on equity.
 Not sure what Fleck is worried about. The chart looks crap ...
 
 Bear thesis: memory chips are a commodity. There are many manufacturers, so at best Micron can get a boring return on capital. Now the pandemic rush to buy PCs is over, it will be hit by declining demand, which is not good for a very capital-intensive business.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 285.41 | USD 285.19 |
+| 2026-11-04 | USD 795.23 | USD 795.23 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

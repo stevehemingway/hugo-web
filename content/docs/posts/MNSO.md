@@ -19,3 +19,12 @@ Blue Orca’s founder, Soren Aandahl, also did a [Zer0esTv interview](https://su
 2023-04-17 Mon 12:21 PM
 
 Stockprice has shot up recently, but has weakened in last week.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 18.75 | USD 18.31 |
+| 2026-11-04 | USD 10.42 | USD 10.42 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

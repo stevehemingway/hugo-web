@@ -26,3 +26,12 @@ Citron said the company “receives more taxpayer student funding than any unive
 Citron said the company “receives more taxpayer student funding than any university in the US”
 </pre>
 </blockquote>
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 166.31 | USD 166.31 |
+| 2026-11-04 | USD 150.67 | USD 150.67 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

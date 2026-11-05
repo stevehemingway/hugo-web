@@ -21,3 +21,12 @@ Bleecker Street Research published on NextNav (NASDAQ: NN — $432 million),
 Night Market Research published on NextNav (NASDAQ: NN — $2.14 billion), a GPS and geolocation systems company. Night Market said the market is underestimating the obstacles for the company to get new broadband licenses, and spoke to a former FCC Chairman “who believes NextNav’s position is weak and [its] petition is unlikely to move forward in its current form.” Night Market also raised concerns about the company’s valuation, writing in part,
 
 “NN will lose $100M this year and carries $190m in debt. Despite the risks NextNav trades at a significant premium to comps on a MHz-POP basis. NextNav’s $2.7B fully diluted EV is 450x 2025e revenue and 300x the recorded value of its license portfolio.”
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 16.64 | USD 16.64 |
+| 2026-11-04 | USD 8.76 | USD 8.76 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

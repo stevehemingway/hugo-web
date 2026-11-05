@@ -11,3 +11,12 @@ draft: false
 It shows that Lyft's model simply does not make any sense for drivers.
 The chunk of money it takes out of the fare is far too high to make 
 it an attractive job for anyone who can work as a taxi-driver (which is, presumably, everyone who can work for Lyft).
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 19.37 | USD 19.37 |
+| 2026-11-04 | USD 18.74 | USD 18.74 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

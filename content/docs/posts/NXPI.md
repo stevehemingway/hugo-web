@@ -66,3 +66,12 @@ Subscribe to Citrini Research to unlock the rest.
 Become a paying subscriber of Citrini Research to get access to this post and other subscriber-only content.
 
 12/05/2026 
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 217.06 | USD 214.22 |
+| 2026-11-04 | USD 265.01 | USD 265.01 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

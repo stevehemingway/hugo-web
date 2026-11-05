@@ -13,3 +13,12 @@ Warren Buffett's strategy is only to buy monopolists, or at least those firms wh
 
 Although Stoller is not offering an actual analysis of the stock price, if FB no longer has the ability to knock out the competition it would seem logical that it should no longer deserve the same multiple.
 I guess it's trading on a P/E of 13, which isn't too demanding, compared to a P/E of 19 for $GOOG.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 660.09 | USD 658.49 |
+| 2026-11-04 | USD 630.00 | USD 630.00 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

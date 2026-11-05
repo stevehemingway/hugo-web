@@ -10,3 +10,12 @@ updated: 2026-03-05
 # Neonode (stocks/NEON)
 
 Twitter user @unemon1 tweeted critically on Neonode (NASDAQ: NEON — $86 million), an optical sensor company in patent litigation with Samsung. Unemon initially highlighted that the company delayed disclosing the results of its Samsung settlement, theorizing that the delayed disclosure meant bad news. The company later fell ~75% this week to $5/share after announcing underwhelming settlement results. Unemon believes the stock still has downside with a $1/share price target.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 1.74 | USD 1.74 |
+| 2026-11-04 | USD 0.63 | USD 0.63 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

@@ -12,3 +12,12 @@ updated: 2026-02-28
 Citron Research tweeted critically on Opendoor Technologies (NASDAQ: OPEN — $4.89 billion), a company that buys and sells homes online. Citron said Opendoor “is nothing more than a stock promo and a science project in how to burn money” and concluded,
 
 “The business model is not broken... it has never worked.”
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 5.83 | USD 5.83 |
+| 2026-11-04 | USD 1.98 | USD 1.98 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

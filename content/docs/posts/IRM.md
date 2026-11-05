@@ -30,3 +30,12 @@ I can see why people like this stock, and I understand that it's doing some work
 ## 26-11-03 update 
 
 J Capital Research published on Iron Mountain (NYSE: IRM — $34.7 billion), arguing that the records-storage company’s data-center expansion is generating inadequate returns while adding debt. The firm says data centers absorbed about 81% of capital spending but generated around 13% of revenue as of the second quarter. Iron Mountain’s quarterly filing showed $17.3 billion of debt against $205 million in cash. J Capital also questions the treatment of maintenance and equipment replacement costs and argues that required REIT distributions constrain funding for construction.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 82.95 | USD 81.10 |
+| 2026-11-04 | USD 118.66 | USD 118.66 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

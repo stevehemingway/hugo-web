@@ -28,3 +28,12 @@ Despite reportedly saying approvals were “pretty much complete” for a uraniu
 </blockquote>
 
 [More ...](https://open.substack.com/pub/hntrbrk/p/fission-impossible-nano-nuclear-nne?r=nmbt&utm_campaign=post&utm_medium=email)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 24.01 | USD 24.01 |
+| 2026-11-04 | USD 10.95 | USD 10.95 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

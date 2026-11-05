@@ -10,3 +10,12 @@ draft: false
 
 Bombed out e-commerce company with a buy-now pay-later operation.
 Trading at $0.5. Has traded at $1 for a long time.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 6.46 | USD 6.46 |
+| 2026-11-04 | USD 10.05 | USD 10.05 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

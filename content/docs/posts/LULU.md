@@ -24,3 +24,12 @@ really designed to be worn by chunkier girls?
 Of course, the stock might get to the point when Amazon, or Walmart, decides they want to own it, 
 in which case shorting it will turn out to be a mistake.
 And, as we all know, shorting anything in a weak market is usually a mistake.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 207.81 | USD 207.81 |
+| 2026-11-04 | USD 112.06 | USD 112.06 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

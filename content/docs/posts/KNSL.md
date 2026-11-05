@@ -16,3 +16,11 @@ The Bear Cave believes Kinsale is not a business with a durable moat and instead
 
 date: 2026-06-02
 
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 391.12 | USD 390.29 |
+| 2026-11-04 | USD 391.73 | USD 391.73 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

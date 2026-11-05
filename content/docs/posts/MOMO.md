@@ -10,3 +10,12 @@ draft: false
 CEO of Hello Group (NASDAQ: MOMO — $925 million) resigned “because of health reasons, effective immediately” after two years. In September a board member departed “due to personal reasons” and in June the company’s CFO retired.
 
 China crap, heavily loss-making. Too late to short.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 6.55 | USD 6.25 |
+| 2026-11-04 | USD 4.55 | USD 4.55 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

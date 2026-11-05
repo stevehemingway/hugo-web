@@ -47,3 +47,12 @@ Nexstar Media Group, Inc. (Nasdaq: NXST) is a media company that produces and di
 </blockquote>
 
 [More ...](https://grizzlyreports.com/nexstar/)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 203.05 | USD 197.59 |
+| 2026-11-04 | USD 185.12 | USD 185.12 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

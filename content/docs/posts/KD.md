@@ -23,3 +23,12 @@ quote
 </blockquote>
 
 [More ...](https://www.gothamcityresearch.com/post/kyndryl-like-the-old-ibm-except-with-an-undisclosed-cost-problem-part-i)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 26.56 | USD 26.56 |
+| 2026-11-04 | USD 16.84 | USD 16.84 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

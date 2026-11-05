@@ -14,3 +14,12 @@ This was mentioned by Paul Krake on a recent episode of the Market Huddle, but I
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 35.40 | USD 35.40 |
+| 2026-11-04 | USD 35.54 | USD 35.54 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

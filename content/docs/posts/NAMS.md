@@ -7,3 +7,12 @@ ticker: NAMS
 draft: false
 ---
 New Amsterdam Pharma, on NASDAQ, nothing obvious for shorting.
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 35.08 | USD 35.08 |
+| 2026-11-04 | USD 20.93 | USD 20.93 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

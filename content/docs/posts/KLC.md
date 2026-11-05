@@ -16,3 +16,12 @@ KinderCare Learning Companies (NYSE: KLC — $1.51 billion) operates ~1,500 dayc
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-kindercare-learning-companies)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 4.32 | USD 4.32 |
+| 2026-11-04 | USD 2.14 | USD 2.14 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

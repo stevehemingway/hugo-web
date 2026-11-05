@@ -53,3 +53,12 @@ draft: false
 **Bottom line:** If you're comparing the two, Nebius is the "growthier" but pricier pick. CoreWeave is bigger and cheaper but loaded with debt. Both are speculative — this is a bet on AI infrastructure demand staying hot, not a conservative investment.
 
 Are you thinking of buying, or just researching?
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 83.70 | USD 83.70 |
+| 2026-11-04 | USD 141.52 | USD 141.52 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

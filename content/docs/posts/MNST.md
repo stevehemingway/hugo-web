@@ -19,3 +19,12 @@ competition from Bud
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 76.67 | USD 38.34 |
+| 2026-11-04 | USD 48.75 | USD 48.75 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

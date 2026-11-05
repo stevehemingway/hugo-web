@@ -28,3 +28,12 @@ FEB 26
 -   After this rally, a short of MAX works well if the cyclical swing doesn’t happen — and should survive even if it does.
 
 https://www.overlookedalpha.com/p/mediaalpha-stock-is-absurdly-expensive?publication_id=97545&post_id=105157493&isFreemail=true
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 12.95 | USD 12.95 |
+| 2026-11-04 | USD 15.05 | USD 15.05 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

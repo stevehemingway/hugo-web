@@ -28,3 +28,12 @@ relative to any large cap global equity index. Our fair value target is 55% - 65
 [More ...](https://assets-global.website-files.com/64dd091f91b3ca8e6309dc0d/65a7d6951629623be5467a96_msci_research_thesis_1-17-2024.pdf)
 
 [Page at Spruce Point website.](https://www.sprucepointcap.com/research/msci)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 573.73 | USD 567.38 |
+| 2026-11-04 | USD 674.30 | USD 674.30 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

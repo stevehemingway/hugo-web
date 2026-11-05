@@ -14,3 +14,12 @@ https://seekingalpha.com/article/4569637-oneok-ready-for-a-dividend-increase-in-
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 73.50 | USD 69.96 |
+| 2026-11-04 | USD 88.60 | USD 88.60 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
