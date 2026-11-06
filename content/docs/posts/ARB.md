@@ -37,3 +37,12 @@ https://www.instagram.com/
 https://mailchimp.com
 2026-01-30 USD 29.05
 2026-01-30 USD 29.05
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2026-09-28 | USD 29.97 | USD 29.97 |
+| 2026-11-04 | USD 30.16 | USD 30.16 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._

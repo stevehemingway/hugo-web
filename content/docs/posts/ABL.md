@@ -23,3 +23,12 @@ In response, Abacus said the Morpheus article was “a copy and paste of fiction
 Still trading as **ABX** on NYSE - Abacus Global Management.
 
 Price: **8.62 USD** (-0.23 on the day) at the close on 2026-11-04 (Yahoo Finance end-of-day).
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2026-05-28 | USD 8.47 | USD 8.47 |
+| 2026-11-04 | USD 8.47 | USD 8.47 |
+
+_Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
