@@ -113,6 +113,14 @@ The punchline: low-growth hardware companies command much lower multiples, and e
 
 *Summarised from the PDF; figures are as stated by Snowcap and are largely its own estimates.*
 
+## Styx update 2026-11-08
+
+System Exit: November 2, 2026 | Campaign Return: -17.4% | Investor Return: -21.3%
+
+Snowcap argued that Arlo's reported subscription growth is overstated by bundle accounting, a quietly handled acquisition and a churn figure distorted by low-profit partner accounts. The first real test, third quarter results, came only on November 5, after the exit. The short ran for almost two weeks from the US$12.520 assumed entry on October 20, and the 3.9% drop into publication left followers with the -21.3% Investor Return. The loss was 4.1% after three days, 15.6% a week later and 17.4% at the exit (-19.1% market-adjusted).
+
+_From the Black Styx weekly update, reporting period ending 2026-11-08._
+
 ## Closing prices
 
 | Date | Close | Adj close |

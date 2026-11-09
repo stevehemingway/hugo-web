@@ -29,6 +29,12 @@ Ultimately, the 14-year-old girl was “found crying alone in the bathroom of a 
 
 Bleecker Street Research published on Roblox (NYSE: RBLX — $30.7 billion), arguing that its safety overhaul has weakened growth without adequately protecting children. Bleecker says it purchased 100 accounts already verified as belonging to children and accessed them without having to go through another age check. Bleecker argues that Roblox’s restrictions on chat between age groups still impede legitimate users from sharing games with friends, which hurts growth without resolving the underlying safety problems. Its account sample showed roughly 50% fewer newly active users during July 1–September 24 than in the same period last year.
 
+## Styx update 2026-11-08
+
+Return: 9.3% (previous week 20.9%)
+
+_From the Black Styx weekly update, reporting period ending 2026-11-08._
+
 ## Closing prices
 
 | Date | Close | Adj close |
