@@ -10,9 +10,7 @@ updated: 2026-02-28
 # quote (stocks/BNE.TO)
 
 <blockquote>
-<pre>
 Bonterra Energy
-</pre>
 </blockquote>
 
 [More ...](https://seekingalpha.com/article/4545849-bonterra-energy-prepared-takeoff)

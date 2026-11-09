@@ -7,7 +7,7 @@ ticker: PONY
 draft: false
 updated: 2026-02-28
 ---
-# Pony AI (stocks/PONY)
+# Pony AI ($PONY)
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

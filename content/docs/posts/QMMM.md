@@ -7,7 +7,7 @@ ticker: QMMM
 draft: false
 updated: 2026-02-28
 ---
-# QMMM Holdings (stocks/QMMM)
+# QMMM Holdings ($QMMM)
 
 The Bear Cave believes the stock of QMMM Holdings (NASDAQ: QMMM — $296 million) is being manipulated by overseas stock manipulation groups and is at risk of a near-term, severe stock collapse.
 

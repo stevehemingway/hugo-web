@@ -7,12 +7,10 @@ ticker: AMPH
 draft: false
 updated: 2026-02-28
 ---
-# Amphastar Pharma (stocks/AMPH)
+# Amphastar Pharma ($AMPH)
 
 <blockquote>
-<pre>
 New activist Black Mamba Research published on Amphastar Pharmaceuticals (NASDAQ: AMPH — $1.85 billion), an American specialty pharmaceutical company. Black Mamba “uncovered obvious competitive threats up and down Amphastar's product portfolio” and specifically noted the company would face competition from three new entrants in the glucagon market and that the patent expiration of its Primatene MIST inhaler “[will] allow private label copycats in early 2026.” Black Mama concluded,
-</pre>
 </blockquote>
 
 [More ...](https://seekingalpha.com/article/4701780-amphastar-pharmaceuticals-shining-star-soon-to-fade-competitive-pressures-looming)

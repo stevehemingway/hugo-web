@@ -7,12 +7,10 @@ ticker: LGIH
 draft: false
 updated: 2026-02-28
 ---
-# LGI Homes (stocks/LGIH)
+# LGI Homes ($LGIH)
 
 <blockquote>
-<pre>
 LGI Homes reportedly very aggressive lending practices with high default rates. Homebuilder with potential credit quality issues.
-</pre>
 </blockquote>
 
 [More ...](https://hunterbrook.com/research)

@@ -7,12 +7,10 @@ ticker: PAR
 draft: false
 updated: 2026-02-28
 ---
-# PAR Technology Corp. (stocks/PAR)
+# PAR Technology Corp. ($PAR)
 
 <blockquote>
-<pre>
 Imagine a company that sells a mission-critical product into a durable customer base. Without that product, those customers can’t make sales. Now imagine that this mission-critical product comprises a miniscule part of the customer’s overall costs. And despite having a set of competitors that are lethargic and slow moving, the company has historically not pushed through material price increases, creating latent pricing power. 
-</pre>
 </blockquote>
 
 [More ...](https://www.bristlemoonresearch.com/p/par-technology-corporation-par-the?utm_source=post-email-title&publication_id=1827871&post_id=146425676&utm_campaign=email-post-title&isFreemail=true&r=nmbt&triedRedirect=true&utm_medium=email)

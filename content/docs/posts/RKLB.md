@@ -7,7 +7,7 @@ ticker: RKLB
 draft: false
 updated: 2026-02-28
 ---
-# Rocket Lab (stocks/RKLB)
+# Rocket Lab ($RKLB)
 
 [More ...](https://www.bleeckerstreetresearch.com/research/rklb)
 

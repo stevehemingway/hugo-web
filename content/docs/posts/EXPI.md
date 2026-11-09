@@ -7,12 +7,10 @@ ticker: EXPI
 draft: false
 updated: 2026-02-28
 ---
-# eXp World Holdings (stocks/EXPI)
+# eXp World Holdings ($EXPI)
 
 <blockquote>
-<pre>
 eXp World Holdings (NASDAQ: EXPI — $1.50 billion) describes itself as “one of the world’s fastest-growing real estate brokerages.” In reality, eXp lost about ~1,500 of its nearly 90,000 agents last quarter and faces robust competition from aggressive low-cost brokerages. In short, The Bear Cave believes that eXp’s earnings results later today will reveal a devastating truth: eXp is losing its highest-producing agents to fast-growing competitor Real Brokerage (NASDAQ: REAX — $723 million).
-</pre>
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/more-problems-at-exp-world-holdings)

@@ -7,12 +7,10 @@ ticker: AX
 draft: false
 updated: 2026-02-28
 ---
-# AXOS (stocks/AX)
+# AXOS ($AX)
 
 <blockquote>
-<pre>
 Our research, including industry analysis, interviews with 21 former employees, lease agents and industry experts, combined with an examination of Axos’ loan book derived through local property records, indicates a company exposed to the riskiest asset classes with lax underwriting standards and a loan book filled with multiple glaring problems.
-</pre>
 </blockquote>
 
 [More ...](https://hindenburgresearch.com/axos/)

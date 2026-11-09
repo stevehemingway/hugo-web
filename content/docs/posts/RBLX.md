@@ -7,12 +7,10 @@ ticker: RBLX
 draft: false
 updated: 2026-02-28
 ---
-# Roblox (stocks/RBLX)
+# Roblox ($RBLX)
 
 <blockquote>
-<pre>
 Inflated Key Metrics For Wall Street And A Pedophile Hellscape For Kids
-</pre>
 </blockquote>
 
 [More ...](https://hindenburgresearch.com/roblox/)

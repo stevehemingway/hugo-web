@@ -10,7 +10,6 @@ updated: 2026-02-08
 # DocGo (ds/DCGO)
 
 <blockquote>
-<pre>
 DocGo (DCGO) is a mobile health services and transportation company that came public via a SPAC and portrays itself as an innovative tech company “powered by artificial intelligence.”
 
 Our research discovered a starkly different reality. Former employee interviews and previously unseen and undisclosed lawsuits reveal serious allegations of fraudulent billing practices and a pattern of forging medical documents.
@@ -22,7 +21,6 @@ Leadership at DocGo has a long history of lies and connections to fraudulent sch
 * Another’s business was financed by the perpetrators of the second largest ponzi scheme in history.
 * CEO who cited ethical integrity that recently resigned for lying about his resume.
 * A Board of Director’s whose backgrounds include multiple pump & dumps, penny stocks, de-listings, reverse mergers, and connections to alleged ponzi schemes.
-</pre>
 </blockquote>
 
 [More ...](https://fuzzypandaresearch.com/docgo-employees-allege-medicare-fraud/)

@@ -7,12 +7,10 @@ ticker: USAP
 draft: false
 updated: 2026-02-28
 ---
-# Universal Stainless (stocks/USAP)
+# Universal Stainless ($USAP)
 
 <blockquote>
-<pre>
 terrible work conditions and quality assurance, especially on work for Boeing
-</pre>
 </blockquote>
 
 [More ...](https://newsletter.hntrbrk.com/p/universal-stainless-set-to-be-acquired)

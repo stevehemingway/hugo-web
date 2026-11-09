@@ -7,7 +7,7 @@ ticker: PWSC
 draft: false
 updated: 2026-02-28
 ---
-# PowerSchool Holdings (stocks/PWSC)
+# PowerSchool Holdings ($PWSC)
 
 [More ...](https://www.sprucepointcap.com/research/powerschool-holdings-inc)
 

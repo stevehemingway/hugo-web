@@ -7,12 +7,10 @@ ticker: SMHI
 draft: false
 updated: 2026-02-28
 ---
-# Seacore Marine (stocks/SMHI)
+# Seacore Marine ($SMHI)
 
 <blockquote>
-<pre>
 SEACOR Marine (SMHI) is an Offshore Support Vessel (OSV) play, and considered an alternative to Tidewater (TDW) for investors who prefer US listings. It is illiquid and has corrected a lot since the past earnings report... and in contrast to its ‘big brother’ $TDW the valuation has not recovered much.
-</pre>
 </blockquote>
 
 [More ...](https://edfin.substack.com/p/smhi-back-to-black?utm_source=post-email-title&publication_id=947755&post_id=142198537&utm_campaign=email-post-title&isFreemail=true&r=nmbt&triedRedirect=true&utm_medium=email)

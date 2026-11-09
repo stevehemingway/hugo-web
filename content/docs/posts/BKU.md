@@ -7,7 +7,7 @@ ticker: BKU
 draft: false
 updated: 2026-02-28
 ---
-# company name (stocks/BKU)
+# company name ($BKU)
 
 [More ...](https://www.yetanothervalueblog.com/p/bank-opportunity-costs-forgoing-buybacks?r=nmbt&utm_campaign=post&utm_medium=web)
 

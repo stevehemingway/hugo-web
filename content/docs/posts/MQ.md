@@ -7,12 +7,10 @@ ticker: MQ
 draft: false
 updated: 2026-02-28
 ---
-# Marqueta (stocks/MQ)
+# Marqueta ($MQ)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-marqeta-mq?publication_id=26828&post_id=143262128&isFreemail=true&r=nmbt&triedRedirect=true)
@@ -46,9 +44,7 @@ This is not the first. Spruce Point released an updated report on them in April 
 # Marqueta (MQ)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-marqeta-mq?publication_id=26828&post_id=143262128&isFreemail=true&r=nmbt&triedRedirect=true)

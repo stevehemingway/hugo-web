@@ -7,7 +7,7 @@ ticker: GOGO
 draft: false
 updated: 2026-02-28
 ---
-# Gogo Inc. (stocks/GOGO)
+# Gogo Inc. ($GOGO)
 
 [More ...](https://www.bleeckerstreetresearch.com/research/gogo)
 

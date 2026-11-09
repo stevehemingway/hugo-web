@@ -7,7 +7,7 @@ ticker: GRPN
 draft: false
 updated: 2026-02-28
 ---
-# Groupon Inc. (stocks/GRPN)
+# Groupon Inc. ($GRPN)
 
 ndependent researcher Lauren Balik published on Groupon (NASDAQ: GRPN — $1.35 billion), a coupon company. Ms. Balik alleged the company’s recent growth was driven by temporary surges in questionable discount offers for GLP-1 medications as well as one-time discounts for new Microsoft Office software. Ms. Balik concluded, in part,
 

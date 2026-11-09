@@ -7,12 +7,10 @@ ticker: PCT
 draft: false
 updated: 2026-02-28
 ---
-# PureCycle Technologies (stocks/PCT)
+# PureCycle Technologies ($PCT)
 
 <blockquote>
-<pre>
 doomed
-</pre>
 </blockquote>
 
 [More ...](https://substack.com/redirect/acfa239a-7fc7-4639-a00b-38cc88e9fbab?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98)

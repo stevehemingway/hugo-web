@@ -7,7 +7,7 @@ ticker: SNPS
 draft: false
 updated: 2026-02-28
 ---
-# synopsys (stocks/SNPS)
+# synopsys ($SNPS)
 
 Synopsys Inc
 Synopsys (SNPS) is the leading vendor of electronic design automation (EDA) software tools used for

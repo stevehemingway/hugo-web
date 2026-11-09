@@ -7,10 +7,9 @@ ticker: Z
 draft: false
 updated: 2026-02-28
 ---
-# Zillow Group (stocks/Z)
+# Zillow Group ($Z)
 
 <blockquote>
-<pre>
 Believes Zillow is a Mature Business Under Increasing Pressures with Recent Failed Growth Initiatives That Illustrate Management is Incapable of Innovating and Delivering on Goals as Zillow Quietly Retracts 2025 Revenue Targets
 
 Expects the Litigation Involving the National Association of Realtors, as well as U.S. Department of Justice Intervention, to Significantly Impact U.S. Buyer Agent Commissions, Which Would be a Considerable Blow to Zillow’s Core Business
@@ -18,7 +17,6 @@ Expects the Litigation Involving the National Association of Realtors, as well a
 Sees Additional Business Pressures Against Zillow from Homes.com – Now Owned by the CoStar Group – Which Represents an Underappreciated Threat to Zillow’s Website Traffic
 
 Expresses Concern That Zillow’s Aggressive Accounting Methods May Enable the Company to Prematurely Book Revenue from Flex Partners and Mortgage Products, While Excessive Use of Stock-Based Compensation Dilutes Shareholders and Flatters Margins
-</pre>
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/zillow-group-inc)

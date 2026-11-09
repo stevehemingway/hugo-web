@@ -7,7 +7,7 @@ ticker: ASML
 draft: false
 updated: 2026-02-28
 ---
-# ASML (stocks/ASML)
+# ASML ($ASML)
 
 Basically, ASML is the only manufacturer of extreme UV lithography.
 

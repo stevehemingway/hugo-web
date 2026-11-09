@@ -7,7 +7,7 @@ ticker: RENB
 draft: false
 updated: 2026-02-28
 ---
-# company name (stocks/RENB)
+# company name ($RENB)
 
 [More ...](https://hindenburgresearch.com/renovaro/)
 

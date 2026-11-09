@@ -9,12 +9,10 @@ updated: 2026-02-28
 ---
 # Arbor Realty Trust: the beginning of the end
 
-Arbor’s underlying CLO performance data for November is now live on Trepp, and it is as bad as we expected, if not worse. This report will track Arbor’s underlying asset delinquencies and debt service coverage ratios (DSCR), which now show clear and dangerous negative trends to the downside.  (stocks/ABR), Arbor’s underlying CLO performance data for November is now live on Trepp, and it is as bad as we expected, if not worse. This report will track Arbor’s underlying asset delinquencies and debt service coverage ratios (DSCR), which now show clear and dangerous negative trends to the downside. 
+Arbor’s underlying CLO performance data for November is now live on Trepp, and it is as bad as we expected, if not worse. This report will track Arbor’s underlying asset delinquencies and debt service coverage ratios (DSCR), which now show clear and dangerous negative trends to the downside.  ($ABR), Arbor’s underlying CLO performance data for November is now live on Trepp, and it is as bad as we expected, if not worse. This report will track Arbor’s underlying asset delinquencies and debt service coverage ratios (DSCR), which now show clear and dangerous negative trends to the downside. 
 
 <blockquote>
-<pre>
 viceroy-research"
-</pre>
 </blockquote>
 
 [More ...](REIT)
@@ -39,9 +37,7 @@ https://viceroyresearch.org/2024/02/21/arbor-realty-trust-baloney-with-a-side-of
 # Arbor’s underlying CLO performance data for November is now live on Trepp, and it is as bad as we expected, if not worse. This report will track Arbor’s underlying asset delinquencies and debt service coverage ratios (DSCR), which now show clear and dangerous negative trends to the downside.  (A/ABR)
 
 <blockquote>
-<pre>
 viceroy-research"
-</pre>
 </blockquote>
 
 [More ...](REIT)

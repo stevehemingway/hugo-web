@@ -7,7 +7,7 @@ ticker: DHR
 draft: false
 updated: 2026-02-28
 ---
-# Danaher (stocks/DHR)
+# Danaher ($DHR)
 
 Mentioned in passing as able to sustain supranormal returns, like BRK.
 

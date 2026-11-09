@@ -7,10 +7,9 @@ ticker: ODD
 draft: false
 updated: 2026-02-28
 ---
-# Oddity (stocks/ODD)
+# Oddity ($ODD)
 
 <blockquote>
-<pre>
 Oddity Tech (NASDAQ: ODD — $2.25 billion) is an Israeli company that describes itself as “a consumer tech platform built to transform the global beauty and wellness market.” In its July 2023 IPO prospectus, Oddity mentioned “AI” and “machine learning” over 80 times and went public to extreme investor enthusiasm for a high-growth and high-tech makeup company. The Bear Cave sees things differently and believes Oddity is high on hype, but low on substance.
 
 Oddity launched its first brand, makeup company IL Makiage, in 2018 and a second smaller brand, hair and skincare company SpoiledChild, in 2022. Oddity’s sales have grown rapidly from $110 million in 2020 to $222 million in 2021 and $324 million in 2022, roughly 90% of which comes from IL Makiage.
@@ -31,7 +30,6 @@ On its site, Oddity also boasts:
 The Bear Cave thinks not.
 
 In reality, The Bear Cave believes Oddity is a glorified Instagram and Facebook advertiser that has widespread consumer and employee complaints and is endorsed by a firm with a history of public market duds. Let’s dig in.
-</pre>
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-oddity-tech-odd)

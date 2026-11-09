@@ -7,7 +7,7 @@ ticker: RXO
 draft: false
 updated: 2026-02-28
 ---
-# RXO Inc. (stocks/RXO)
+# RXO Inc. ($RXO)
 
 Update: Amazon has moved into the same field as RXO, which is another headwind.
 Another update from Dalrymple.
@@ -32,9 +32,7 @@ sector: freight-forwarding
 # RXO (RXO)
 
 <blockquote>
-<pre>
 see below
-</pre>
 </blockquote>
 
 [More ...](https://dfresearch.substack.com/p/rxo-needs-to-raise-equity?utm_campaign=email-half-post&r=57a252&utm_source=substack&utm_medium=email)

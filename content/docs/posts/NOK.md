@@ -7,12 +7,10 @@ ticker: NOK
 draft: false
 updated: 2026-02-28
 ---
-# Norweigen Kroner (stocks/NOK)
+# Norweigen Kroner ($NOK)
 
 <blockquote>
-<pre>
 NOK
-</pre>
 </blockquote>
 
 NOK has to be a good buy. Maybe CHF, but they don't have the oil.

@@ -7,7 +7,7 @@ ticker: SMCI
 draft: false
 updated: 2026-02-28
 ---
-# Super Micro (stocks/SMCI)
+# Super Micro ($SMCI)
 
 [More ...](https://hindenburgresearch.com/smci/)
 

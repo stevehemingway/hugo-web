@@ -7,12 +7,10 @@ ticker: ASPI
 draft: false
 updated: 2026-02-28
 ---
-# ASP Isotopes (stocks/ASPI)
+# ASP Isotopes ($ASPI)
 
 <blockquote>
-<pre>
 paid stock promotion by notorious microcap fraudsters
-</pre>
 </blockquote>
 
 [More ...](https://fuzzypandaresearch.com/aspi-honig-stetson-paid-stock-promotion/)

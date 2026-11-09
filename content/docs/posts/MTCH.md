@@ -7,7 +7,7 @@ ticker: MTCH
 draft: false
 updated: 2026-02-28
 ---
-# company name (stocks/MTCH)
+# company name ($MTCH)
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

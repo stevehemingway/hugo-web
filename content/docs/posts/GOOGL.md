@@ -7,7 +7,7 @@ ticker: GOOGL
 draft: false
 updated: 2026-02-28
 ---
-# Alphabet (stocks/GOOGL)
+# Alphabet ($GOOGL)
 
 Highly rated by Bristlemoon.
 

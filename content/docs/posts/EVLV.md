@@ -7,7 +7,7 @@ ticker: EVLV
 draft: false
 updated: 2026-02-28
 ---
-# Evolv Technologies Inc. (stocks/EVLV)
+# Evolv Technologies Inc. ($EVLV)
 
 [More ...](https://newsletter.hntrbrk.com/p/breaking-schools-stick-with-evolv?r=nmbt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 

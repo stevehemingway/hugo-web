@@ -10,9 +10,7 @@ updated: 2026-02-28
 # Grand Canyon Education Inc.
 
 <blockquote>
-<pre>
 Citron said the company “receives more taxpayer student funding than any university in the US”
-</pre>
 </blockquote>
 
 [More ...](https://twitter.com/CitronResearch/status/1714277628914569539)
@@ -22,9 +20,7 @@ Citron said the company “receives more taxpayer student funding than any unive
 # education (LOPE)
 
 <blockquote>
-<pre>
 Citron said the company “receives more taxpayer student funding than any university in the US”
-</pre>
 </blockquote>
 
 ## Closing prices

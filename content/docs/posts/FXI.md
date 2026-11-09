@@ -7,12 +7,10 @@ ticker: FXI
 draft: false
 updated: 2026-02-28
 ---
-# iShares China Large-Cap ETF (stocks/FXI)
+# iShares China Large-Cap ETF ($FXI)
 
 <blockquote>
-<pre>
 China ETF that has been up a lot this year. Question is whether the rally will continue.
-</pre>
 </blockquote>
 
 [More ...](https://www.ishares.com/us/products/239650/ishares-china-largecap-etf)

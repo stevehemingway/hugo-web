@@ -7,14 +7,12 @@ ticker: ZJYL
 draft: false
 updated: 2026-02-28
 ---
-# Jin Medical International (stocks/ZJYL)
+# Jin Medical International ($ZJYL)
 
 <blockquote>
-<pre>
 Culper Research published a Twitter thread on Jin Medical International (NASDAQ: ZJYL — $822 million), a Chinese manufacturer of wheelchairs and other aids. Culper called the company “a China Hustle-style charade” and highlighted that Jin Medical’s recent announcements of major orders come from entities secretly controlled by Jin Medical’s CEO and CFO. Culper also raised concerns about Jin Medical’s auditor and wrote:
 
     “Current [Jin Medical] auditor DNTW [Toronto] appears to have been previously shut down and its partners charged by the SEC for its role in another China fraud, Subaye, which claimed to be running a cloud business that didn't exist.”
-</pre>
 </blockquote>
 
 [More ...](https://twitter.com/CulperResearch/status/1747650037344092174)

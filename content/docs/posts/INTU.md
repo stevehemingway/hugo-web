@@ -7,12 +7,10 @@ ticker: INTU
 draft: false
 updated: 2026-02-28
 ---
-# Intuit Inc. (stocks/INTU)
+# Intuit Inc. ($INTU)
 
 <blockquote>
-<pre>
 unwise acquisitions
-</pre>
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/intuit-inc)

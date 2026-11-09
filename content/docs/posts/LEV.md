@@ -7,7 +7,7 @@ ticker: LEV
 draft: false
 updated: 2026-02-28
 ---
-# Lion Electric Inc (stocks/LEV)
+# Lion Electric Inc ($LEV)
 
 [More ...](https://twitter.com/sunshine_rsrch/status/1780986419319644303)
 

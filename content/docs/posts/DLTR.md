@@ -10,9 +10,7 @@ updated: 2026-02-08
 # Dollar Tree (ds/DLTR)
 
 <blockquote>
-<pre>
 nope
-</pre>
 </blockquote>
 
 2026-01-30 USD 117.59

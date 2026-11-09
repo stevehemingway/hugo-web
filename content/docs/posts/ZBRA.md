@@ -7,12 +7,10 @@ ticker: ZBRA
 draft: false
 updated: 2026-02-28
 ---
-# Zebra Technologies Corp. (stocks/ZBRA)
+# Zebra Technologies Corp. ($ZBRA)
 
 <blockquote>
-<pre>
 Believes That Zebra Is Downplaying Competitive Pressures Across Its Core Hardware, Services and Software Offerings, and May Be Embellishing Market Leadership Claims. 
-</pre>
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/zebra-technologies-corp)

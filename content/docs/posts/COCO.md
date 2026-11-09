@@ -7,12 +7,10 @@ ticker: COCO
 draft: false
 updated: 2026-02-28
 ---
-# Vita Coco Company (stocks/COCO)
+# Vita Coco Company ($COCO)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 Vita Coco – Structural Issues Amid Stalling Sales and Costco Contract Loss

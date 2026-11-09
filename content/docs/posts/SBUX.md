@@ -7,7 +7,7 @@ ticker: SBUX
 draft: false
 updated: 2026-02-28
 ---
-# Starbucks Corp (stocks/SBUX)
+# Starbucks Corp ($SBUX)
 
 # Starbucks
 

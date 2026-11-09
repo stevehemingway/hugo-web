@@ -9,9 +9,7 @@ draft: false
 # BW LPG Limited (BWLPG.OS)
 
 <blockquote>
-<pre>
 oslo
-</pre>
 </blockquote>
 ---
 *Last updated: 2026-03-07 by automated standardization process*

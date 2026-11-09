@@ -7,15 +7,13 @@ ticker: ELF
 draft: false
 updated: 2026-02-28
 ---
-# e.l.f. Beauty (stocks/ELF)
+# e.l.f. Beauty ($ELF)
 
 <blockquote>
-<pre>
 Over the last several years,
  e.l.f. leveraged the power of viral TikTok and digital marketing campaigns to become one of the most richly valued stocks in the cosmetics and beauty industry. However,
  we were shocked to learn that e.l.f. achieved this growth by establishing a close business relationship with Movers+Shakers,
  an advertising agency whose founders were previously members of the NXIVM cult. 
-</pre>
 </blockquote>
 
 [More ...](https://madmimi.com/p/d69dd71?pact=294226-177186956-13184480810-bc581e49663edb294fdcab08f57da39a5a509c4a)

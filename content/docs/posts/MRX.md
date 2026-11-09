@@ -7,7 +7,7 @@ ticker: MRX
 draft: false
 updated: 2026-02-28
 ---
-# Marex Group plc (stocks/MRX)
+# Marex Group plc ($MRX)
 
 Marex Group plc (NASDAQ: MRX): A Financial House of Cards
 

@@ -7,12 +7,10 @@ ticker: VFS
 draft: false
 updated: 2026-02-28
 ---
-# VinFast (stocks/VFS)
+# VinFast ($VFS)
 
 <blockquote>
-<pre>
 Hardly anyone is buying the company’s electric vehicles — at home or abroad — according to months-long investigation spanning satellite imagery, AIS data, trade records, and on-the-ground reporting.
-</pre>
 </blockquote>
 
 [More ...](https://newsletter.hntrbrk.com/p/whats-going-on-with-vinfast?publication_id=2442504&post_id=143814186&isFreemail=true&r=nmbt&triedRedirect=true)

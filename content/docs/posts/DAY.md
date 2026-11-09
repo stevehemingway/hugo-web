@@ -10,7 +10,6 @@ updated: 2025-07-07
 # Dayforce (DAY)
 
 <blockquote>
-<pre>
 We are short Dayforce, Inc. (“Dayforce” or the “Company”), an S&P 500 human capital management business which we believe engages in highly aggressive revenue recognition and accounting maneuvers to inappropriately pull forward revenues and inflate profits.
  
 We also believe that Dayforce manipulates key profitability metrics which not only misleads investors but unjustly enriches management, whose compensation is tied to such bogus profitability metrics or directly benefit from the Company’s aggressive accounting.
@@ -21,7 +20,6 @@ Once we adjust Dayforce’s financials to remove the impact of inappropriately p
  
 But even this is likely conservative, as Dayforce is a governance mess beset by absurd executive pay packages, misleading non-GAAP metrics, unusual adverse auditor opinions on internal controls, insider selling and heavy management turnover.  Ultimately, we believe that Dayforce is set up for an ugly correction as investors come to understand the pedestrian and chronically unprofitable business beneath a façade of financial alchemy.
  
-</pre>
 </blockquote>
 
 [More ...](https://static1.squarespace.com/static/5a81b554be42d6b09e19fc09/t/660eaa348a750f7a93ed83bc/1712237110099/Blue+Orca+Short+Dayforce+Inc+%28NYSE+DAY%29.pdf)

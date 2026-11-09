@@ -7,7 +7,7 @@ ticker: NNNN
 draft: false
 updated: 2026-02-28
 ---
-# Anbio (stocks/NNNN)
+# Anbio ($NNNN)
 
 Key Issues
 Evidence of a constructed fraud shell: Anbio’s structure, addresses, products, and filings consistently fail basic verification.

@@ -7,12 +7,10 @@ ticker: GRFS
 draft: false
 updated: 2026-02-28
 ---
-# Grifols (stocks/GRFS)
+# Grifols ($GRFS)
 
 <blockquote>
-<pre>
 Gotham City Research published on Grifols (NASDAQ: GRFS — $5.96 billion), a Spanish pharmaceutical company. Gotham City alleged that Grifols “manipulates reported debt & EBITDA to artificially reduce reported leverage to 6x which we believe is closer to 10x-13x.” Specifically, Gotham City alleged that Grifols “fully consolidates BPC Plasma [and] Haema onto its financial statements” while at the same time a Grifols family vehicle, Scranton Enterprises, also consolidates those same entities onto its financial statements. Gotham City also found additional “undisclosed related party transactions” including loans and concluded, in part,
-</pre>
 </blockquote>
 
 [More ...](https://www.gothamcityresearch.com/post/grifols-sa-scranton-and-the-undisclosed-debts)

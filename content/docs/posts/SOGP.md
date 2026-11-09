@@ -7,7 +7,7 @@ ticker: SOGP
 draft: false
 updated: 2026-02-28
 ---
-# sound group (stocks/SOGP)
+# sound group ($SOGP)
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

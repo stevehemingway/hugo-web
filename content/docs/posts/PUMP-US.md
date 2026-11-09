@@ -10,9 +10,7 @@ updated: 2026-02-28
 # ProPetro Holding Corp (stocks/PUMP-US)
 
 <blockquote>
-<pre>
 ProPetro is perhaps the most asymmetric opportunity I have found in public markets with serious trading liquidity. 2-year base case ~$35/share (3-4x upside), with potential 10x over 5-8 years if ProPwr executes flawlessly.
-</pre>
 </blockquote>
 
 [More ...](https://guastywinds.substack.com/p/the-security-i-like-best)

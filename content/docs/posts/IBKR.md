@@ -7,7 +7,7 @@ ticker: IBKR
 draft: false
 updated: 2026-02-28
 ---
-# Interactive Brokers (stocks/IBKR)
+# Interactive Brokers ($IBKR)
 
 [More ...](https://www.bristlemoonresearch.com/p/interactive-brokers-ibkr-hoovering?r=nmbt&utm_campaign=post&utm_medium=web)
 

@@ -7,7 +7,7 @@ ticker: HIMS
 draft: false
 updated: 2026-02-28
 ---
-# Hims and Hers (stocks/HIMS)
+# Hims and Hers ($HIMS)
 
 # Hims and Hers Health
 

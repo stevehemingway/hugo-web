@@ -7,7 +7,7 @@ ticker: BWIN
 draft: false
 updated: 2026-02-28
 ---
-# Baldwin Insurance Group (stocks/BWIN)
+# Baldwin Insurance Group ($BWIN)
 
 Blue Orca is Short Baldwin Insurance Group, Inc. (NASDAQ: BWIN)
 

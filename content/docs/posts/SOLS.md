@@ -7,12 +7,10 @@ ticker: SOLS
 draft: false
 updated: 2026-02-28
 ---
-# Solstice Advanced Materials (stocks/SOLS)
+# Solstice Advanced Materials ($SOLS)
 
 <blockquote>
-<pre>
 $SOLS -- Solstice Advanced Materials. Unique UF6 processing plant in the US. Honeywell spinoff. Nuclear fuel cycle play.
-</pre>
 </blockquote>
 
 $SOLS -- Solstice Advanced Materials. Unique UF6 processing plant in the US. Honeywell spinoff.

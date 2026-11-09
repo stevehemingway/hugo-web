@@ -7,16 +7,14 @@ ticker: BOOT
 draft: false
 updated: 2026-02-28
 ---
-# Boot Barn Inc. (stocks/BOOT)
+# Boot Barn Inc. ($BOOT)
 
 <blockquote>
-<pre>
 rovides Evidence That Boot Barn’s CEO Has Modified His Educational Degree Claim and Fails to Disclose His Role at Gerald Stevens, Inc. a Bankrupt Specialty Retailer That Pursued a Similar National Expansion Strategy
 
 Provides Evidence That Boot Barn’s Omnichannel Marketing, Ecommerce and Customer Growth is Slowing While it Pursues an Aggressive Large Store Retail Expansion with Declining New Store Unit Economics
 
 Questions if Management Has Misportrayed its New Store Appearances with Evidence That Multiple New Stores Appear Nothing Like Images Presented to Investors
-</pre>
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/boot-barn-holdings-inc)

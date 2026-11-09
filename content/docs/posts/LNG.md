@@ -7,12 +7,10 @@ ticker: LNG
 draft: false
 updated: 2026-02-28
 ---
-# LNG (stocks/LNG)
+# LNG ($LNG)
 
 <blockquote>
-<pre>
 LNG stocks - liquefied natural gas infrastructure and production. Energy transition fuel with growing global demand.
-</pre>
 </blockquote>
 
 [More ...](https://seekingalpha.com/article/4837156-massif-capital-q3-2025-letter-to-investors)

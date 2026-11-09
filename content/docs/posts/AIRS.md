@@ -7,7 +7,7 @@ ticker: AIRS
 draft: false
 updated: 2026-02-28
 ---
-# Airsculpt (stocks/AIRS)
+# Airsculpt ($AIRS)
 
 [More ...](https://fuzzypandaresearch.com/airs/)
 

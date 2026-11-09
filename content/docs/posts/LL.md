@@ -7,12 +7,10 @@ ticker: LL
 draft: false
 updated: 2026-02-28
 ---
-# LL Flooring Holdings (stocks/LL)
+# LL Flooring Holdings ($LL)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 [More ...](LL Flooring Holdings)

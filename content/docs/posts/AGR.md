@@ -7,12 +7,10 @@ ticker: AGR
 draft: false
 updated: 2026-02-28
 ---
-# Avangrid (stocks/AGR)
+# Avangrid ($AGR)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 2024-12-23 USD 36.02

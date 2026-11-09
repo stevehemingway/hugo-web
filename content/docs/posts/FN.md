@@ -7,7 +7,7 @@ ticker: FN
 draft: false
 updated: 2026-02-28
 ---
-# Fabrinet (stocks/FN)
+# Fabrinet ($FN)
 
 Restrinct, an anonymous account on X, published on Fabrinet (NYSE: FN — $7.84 billion), an optical product manufacturing company. Restrinct said the company’s tailwinds from providing optical interconnect solutions for data centers are diminishing and wrote,
 

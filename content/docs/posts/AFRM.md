@@ -7,12 +7,10 @@ ticker: AFRM
 draft: false
 updated: 2026-02-28
 ---
-# Affirm (stocks/AFRM)
+# Affirm ($AFRM)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 [More ...](https://www.kerrisdalecap.com/wp-content/uploads/2026/01/Affirm-Kerrisdale.pdf)
@@ -42,9 +40,7 @@ credit now places Affirm’s model under direct political scrutiny.
 # Affirm (AFRM)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 [More ...](https://twitter.com/search?q=%24AFRM&amp;src=ctag&amp;ref_src=twsrc%5Etfw)

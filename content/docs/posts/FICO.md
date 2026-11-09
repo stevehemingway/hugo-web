@@ -7,7 +7,7 @@ ticker: FICO
 draft: false
 updated: 2026-02-28
 ---
-# Fair-Isaac Corp. (stocks/FICO)
+# Fair-Isaac Corp. ($FICO)
 
 ## Closing prices
 

@@ -7,7 +7,7 @@ ticker: ARB
 draft: false
 updated: 2026-02-28
 ---
-# Arbor Realty Trust Inc. (stocks/ARB)
+# Arbor Realty Trust Inc. ($ARB)
 
 Arbor Realty – Earnings Preview & CLO Update
 

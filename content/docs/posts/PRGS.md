@@ -7,12 +7,10 @@ ticker: PRGS
 draft: false
 updated: 2026-02-28
 ---
-# Progress Software (stocks/PRGS)
+# Progress Software ($PRGS)
 
 <blockquote>
-<pre>
 Nine days later, on June 16, the U.S. Department of State’s Rewards for Justice account posted a “reward up to $10 million” for information “linking CL0P Ransomware Gang or any other malicious cyber actors targeting U.S. critical infrastructure to a foreign government.” The tweet linked to the June 7 CISA press release about the Progress Software MOVEit breach.
-</pre>
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-progress-software-prgs?r=nmbt)

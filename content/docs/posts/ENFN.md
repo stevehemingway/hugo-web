@@ -7,12 +7,10 @@ ticker: ENFN
 draft: false
 updated: 2026-02-28
 ---
-# Enfusion (stocks/ENFN)
+# Enfusion ($ENFN)
 
 <blockquote>
-<pre>
 After conducting a forensic review of Enfusion, Inc. (NYSE: ENFN or “the Company”), Spruce Point believes that financial restatement risk is extremely high and investor expectations are likely to disappoint. The Company claims to be a high growth SaaS provider of financial software with multi-year contracts but we don’t believe it to be a high quality one. We believe its product offering is under increased competitive pressures and that the CFO, CRO, CSO and CEO having all been replaced within the past two years is a telling sign. Multiple executives and Board members are connected to scandalous companies targeted both by short-sellers and the SEC. The CEO just enacted a large stock sale program ahead of the Investor Day. We see 40% - 60% downside risk ($3.70 - $5.60 per share).
-</pre>
 </blockquote>
 
 [More ...](SaaS)

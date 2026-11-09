@@ -7,7 +7,7 @@ ticker: WGS
 draft: false
 updated: 2026-02-28
 ---
-# GeneDx (stocks/WGS)
+# GeneDx ($WGS)
 
 ## By Grizzly Research February 5, 2025
 #

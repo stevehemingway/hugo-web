@@ -11,7 +11,7 @@ updated: 2026-02-28
 
 [Citron Research piles in](https://x.com/CitronResearch/status/2042598525817463059?s=20)
 
-# Applied Optoelectronics (stocks/AAOI), Applied Optoelectronics
+# Applied Optoelectronics ($AAOI), Applied Optoelectronics
 
 Culper Research is Short Applied Optoelectronics, Inc. (AAOI)
 

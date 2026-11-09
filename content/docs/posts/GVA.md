@@ -7,10 +7,9 @@ ticker: GVA
 draft: false
 updated: 2026-02-28
 ---
-# Granite Construction (stocks/GVA)
+# Granite Construction ($GVA)
 
 <blockquote>
-<pre>
 GVA is significantly behind on many construction projects, well
 beyond what they detail on recent call.
 2. GVA has prematurely recognized revenue on material projects without
@@ -18,7 +17,6 @@ reaching the necessary milestones.
 3. The recent CAP (Committed and Awarded Projects) increase is mostly
 due to low-quality revenue projects contradicting management’s
 recent statements.
-</pre>
 </blockquote>
 
 [More ...](https://www.glasshouseresearch.com/uploads/8/9/6/9/89690703/gva_final.pdf)

@@ -7,7 +7,7 @@ ticker: TRST
 draft: false
 updated: 2026-02-28
 ---
-# Trustpilot (stocks/TRST)
+# Trustpilot ($TRST)
 
 Trustpilot – A Brazenly Deceitful Business
  

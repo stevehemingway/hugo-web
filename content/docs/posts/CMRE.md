@@ -7,12 +7,10 @@ ticker: CMRE
 draft: false
 updated: 2026-02-28
 ---
-# Costamare Inc. (stocks/CMRE)
+# Costamare Inc. ($CMRE)
 
 <blockquote>
-<pre>
 For a cyclical company like Costamare I tend to ensure that a company like this is undervalued on its own disregarding macro catalysts or geopolitical events. It’s a shipping company, it isn’t complicated, and we’ll try not to make it that way in this write-up.
-</pre>
 </blockquote>
 
 [More ...](https://www.rogue-funds.com/blog/unleashing-the-kraken-why-costamares-debt-is-fueling-not-anchoring-growth)

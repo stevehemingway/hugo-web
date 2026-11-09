@@ -7,10 +7,9 @@ ticker: NXST
 draft: false
 updated: 2026-02-28
 ---
-# Nextstar Media Group Inc (stocks/NXST)
+# Nextstar Media Group Inc ($NXST)
 
 <blockquote>
-<pre>
 Nexstar is a U.S. television and radio company, owning nearly 200 nation-wide and local stations with associated digital platforms
 Since revenue from traditional TV is generally declining, the entire broadcasting industry’s equity trades at steep discounts and investors expect a convincing digitalization strategy
 To impress investors, Nexstar mentions “digital” 64 times in their latest annual report and touts their “assets include 138 websites and 229 mobile applications across our local stations, NewsNation and The Hill. The portfolio also includes eight connected television applications and three free ad-supported television (“FAST”) channels from The CW and The Hill.” Nexstar’s shares trade close to its all-time high and at a hefty premium against competitors.
@@ -43,7 +42,6 @@ In conclusion, Nexstar may not benefit from its legacy TV business for as long a
 Introduction
 Nexstar Media Group, Inc. (Nasdaq: NXST) is a media company that produces and distributes local and national news, sports and entertainment content across its television and digital platforms. Nexstar owns America’s largest local television broadcasting group comprised of network affiliates, with more than 200 owned or partner stations in 116 U.S. markets. Linear TV is declining nationally and locally, resulting in media companies needing a convincing digital strategy. Nexstar’s portfolio of digital assets include 140 local websites, 278 mobile applications, 25 connected television applications, and six free ad supported television (“FAST”) channels.
 
-</pre>
 </blockquote>
 
 [More ...](https://grizzlyreports.com/nexstar/)

@@ -7,7 +7,7 @@ ticker: SLNO
 draft: false
 updated: 2026-02-28
 ---
-# Soleno Therapeutics (stocks/SLNO)
+# Soleno Therapeutics ($SLNO)
 
 August 15, 2025 | Investigative report by Scorpion Capital | www.scorpioncapital.com
 

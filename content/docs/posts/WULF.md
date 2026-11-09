@@ -9,12 +9,10 @@ updated: 2026-02-28
 ---
 # Terawulf is a charade to enrich insiders
 
-https://grizzlyreports.com/beware-of-terawulf-we-believe-the-company-is-a-charade-to-enrich-insiders-at-the-cost-of-investors-and-backed-by-notorious-pump-and-dump-artists/ (stocks/WULF), https://grizzlyreports.com/beware-of-terawulf-we-believe-the-company-is-a-charade-to-enrich-insiders-at-the-cost-of-investors-and-backed-by-notorious-pump-and-dump-artists/
+https://grizzlyreports.com/beware-of-terawulf-we-believe-the-company-is-a-charade-to-enrich-insiders-at-the-cost-of-investors-and-backed-by-notorious-pump-and-dump-artists/ ($WULF), https://grizzlyreports.com/beware-of-terawulf-we-believe-the-company-is-a-charade-to-enrich-insiders-at-the-cost-of-investors-and-backed-by-notorious-pump-and-dump-artists/
 
 <blockquote>
-<pre>
 crypto
-</pre>
 </blockquote>
 
 Also picked up by Hunterbrook: 
@@ -25,9 +23,7 @@ Also picked up by Hunterbrook:
 # https://grizzlyreports.com/beware-of-terawulf-we-believe-the-company-is-a-charade-to-enrich-insiders-at-the-cost-of-investors-and-backed-by-notorious-pump-and-dump-artists/ (WULF)
 
 <blockquote>
-<pre>
 crypto
-</pre>
 </blockquote>
 
 Also picked up by Hunterbrook: 

@@ -7,7 +7,7 @@ ticker: BORR
 draft: false
 updated: 2026-02-28
 ---
-# Borr Drilling (stocks/BORR)
+# Borr Drilling ($BORR)
 
 [More ...](https://operators.macro-ops.com/wp-content/uploads/2023/12/The-Long-Pull_-Borr-Drilling-BORR-1.pdf)
 

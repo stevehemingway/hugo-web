@@ -7,12 +7,10 @@ ticker: SYLD
 draft: false
 updated: 2026-02-28
 ---
-# etf (stocks/SYLD)
+# etf ($SYLD)
 
 <blockquote>
-<pre>
 Cambria’s Shareholder Yield ETF, SYLD goes beyond dividends to include buybacks and debt paydown, resulting in a fund portfolio that historically ranks highly on a metric referred to as shareholder yield.
-</pre>
 </blockquote>
 
 ---

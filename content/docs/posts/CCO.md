@@ -7,12 +7,10 @@ ticker: CCO
 draft: false
 updated: 2026-02-28
 ---
-# Clear Channel Outdoor Holdings (stocks/CCO)
+# Clear Channel Outdoor Holdings ($CCO)
 
 <blockquote>
-<pre>
 Special situation with Clear Channel Outdoor Holdings. Outdoor advertising business with potential restructuring value.
-</pre>
 </blockquote>
 
 [More ...](https://open.substack.com/pub/herbgreenberg/p/special-situation-clear-channels-efd?utm_campaign=post&utm_medium=email)

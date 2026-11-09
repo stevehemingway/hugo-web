@@ -7,7 +7,7 @@ ticker: ZETA
 draft: false
 updated: 2026-02-28
 ---
-# Zeta Global Holdings Corp (stocks/ZETA)
+# Zeta Global Holdings Corp ($ZETA)
 
 # Zeta Global Holdings Corp (ZETA): Shams, Scams, and Spam
 

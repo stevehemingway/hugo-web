@@ -7,12 +7,10 @@ ticker: DRVN
 draft: false
 updated: 2026-02-28
 ---
-# Driven Brands (stocks/DRVN)
+# Driven Brands ($DRVN)
 
 <blockquote>
-<pre>
 tariffs will make people keep their car on the road for longer
-</pre>
 </blockquote>
 
 ---

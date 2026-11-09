@@ -7,7 +7,7 @@ ticker: PGY
 draft: false
 updated: 2026-02-28
 ---
-# Pagaya (stocks/PGY)
+# Pagaya ($PGY)
 
  12.PGY -- Pagaya: AI based declined-loan routing provider. Complicated.
 

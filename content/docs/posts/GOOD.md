@@ -7,12 +7,10 @@ ticker: GOOD
 draft: false
 updated: 2026-02-28
 ---
-# Gladstone Commercial Corp. (stocks/GOOD)
+# Gladstone Commercial Corp. ($GOOD)
 
 <blockquote>
-<pre>
 Old Time REITster published on Gladstone Commercial Corporation (NASDAQ: GOOD — $595 million), a diversified net lease REIT. Old Time REITster suggested the company may need to cut its dividend again as Funds From Operations “will be impacted by expiring interest rate caps and lost revenue due to expiring leases and properties that were or will be sold.”
-</pre>
 </blockquote>
 
 [More ...](https://x.com/muddywatersre/status/1770498426179928355?s=20)

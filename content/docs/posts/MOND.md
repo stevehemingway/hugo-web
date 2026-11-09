@@ -10,9 +10,7 @@ updated: 2025-04-03
 # Mondee Holdings (MOND)
 
 <blockquote>
-<pre>
 Mondee, an airfare consolidator, trades at sector-leading multiples despite mediocre growth, extreme leverage, and rising default risk.
-</pre>
 </blockquote>
 
 [More ...](https://seekingalpha.com/article/4654907-mondee-bad-trip-choking-high-interest-debt-downside-potential)

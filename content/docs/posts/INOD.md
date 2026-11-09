@@ -7,7 +7,7 @@ ticker: INOD
 draft: false
 updated: 2026-02-28
 ---
-# company name (stocks/INOD)
+# company name ($INOD)
 
 [More ...](https://wolfpackresearch.com/research/inod/)
 

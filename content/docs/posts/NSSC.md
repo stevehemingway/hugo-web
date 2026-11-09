@@ -7,16 +7,14 @@ ticker: NSSC
 draft: false
 updated: 2026-02-28
 ---
-# Napco Security Technologies (stocks/NSSC)
+# Napco Security Technologies ($NSSC)
 
 <blockquote>
-<pre>
 Explosive new lawsuit by former employees alleges accounting fraud and financial manipulation at Napco.
 
     They say the fraud occurred for multiple years – and at the direction of the CFO.
 
     The alleged fraud involved mis-categorizing COGS as inventory, and was “well-known within the company,” the lawsuit says.
-</pre>
 </blockquote>
 
 ## Closing prices

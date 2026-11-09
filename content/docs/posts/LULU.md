@@ -7,7 +7,7 @@ ticker: LULU
 draft: false
 updated: 2026-02-28
 ---
-# Lululemon Athletica (stocks/LULU)
+# Lululemon Athletica ($LULU)
 
 This is just me thinking: how can a shop selling leggings be valued like Google?
 

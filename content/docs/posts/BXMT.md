@@ -7,7 +7,7 @@ ticker: BXMT
 draft: false
 updated: 2026-02-28
 ---
-# Blackstone Mortgage Trust Inc. (stocks/BXMT)
+# Blackstone Mortgage Trust Inc. ($BXMT)
 
 <blockquote>
 Muddy Waters is short BXMT. Interest rate swaps and manipulated risk ratings / loss provisions have obscured serious deterioration in BXMT's loan book. 

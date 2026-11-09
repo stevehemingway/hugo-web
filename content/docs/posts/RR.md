@@ -7,7 +7,7 @@ ticker: RR
 draft: false
 updated: 2026-02-28
 ---
-# Richtech Robotics (stocks/RR)
+# Richtech Robotics ($RR)
 
 Richtech Robotics markets itself as a U.S. AI-robotics innovator. Public filings and third-party evidence tell a different story: an import-distribution chain routed through Shenzhen, wrapped in patriotic branding, and sustained by continuous publicity and equity issuance.
 The company’s real engine isn’t technology or manufacturing—it’s narrative monetization, where attention becomes liquidity and liquidity sustains more attention.

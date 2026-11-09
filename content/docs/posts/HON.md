@@ -7,12 +7,10 @@ ticker: HON
 draft: false
 updated: 2026-02-28
 ---
-# honeywell international (stocks/HON)
+# honeywell international ($HON)
 
 <blockquote>
-<pre>
 none
-</pre>
 </blockquote>
 
 Basically, Elliot agitated for a breakup, and it's going to happen.

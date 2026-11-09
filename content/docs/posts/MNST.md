@@ -7,12 +7,10 @@ ticker: MNST
 draft: false
 updated: 2026-02-28
 ---
-# Monster Beverage Corp (stocks/MNST)
+# Monster Beverage Corp ($MNST)
 
 <blockquote>
-<pre>
 competition from Bud
-</pre>
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/research/monster-beverage-corp)

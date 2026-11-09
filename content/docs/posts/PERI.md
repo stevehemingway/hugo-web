@@ -7,12 +7,10 @@ ticker: PERI
 draft: false
 updated: 2026-02-28
 ---
-# Perion Network Ltd. (stocks/PERI)
+# Perion Network Ltd. ($PERI)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 [More ...](https://www.sprucepointcap.com/perion-network-ltd/)

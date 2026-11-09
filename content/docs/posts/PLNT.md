@@ -7,7 +7,7 @@ ticker: PLNT
 draft: false
 updated: 2026-02-28
 ---
-# Planet Fitness (stocks/PLNT)
+# Planet Fitness ($PLNT)
 
 [More ...](https://thebearcave.substack.com/p/problems-at-planet-fitness-plnt)
 

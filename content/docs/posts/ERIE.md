@@ -7,7 +7,7 @@ ticker: ERIE
 draft: false
 updated: 2026-02-28
 ---
-# Erie Indeminity Company (stocks/ERIE)
+# Erie Indeminity Company ($ERIE)
 
 [More ...](https://www.sprucepointcap.com/research/erie-indemnity-company )
 

@@ -7,7 +7,7 @@ ticker: XDG
 draft: false
 updated: 2026-02-28
 ---
-# SPX 50 (stocks/XDG)
+# SPX 50 ($XDG)
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

@@ -7,12 +7,10 @@ ticker: RIDE
 draft: false
 updated: 2026-02-28
 ---
-# Lordstown Motors (stocks/RIDE)
+# Lordstown Motors ($RIDE)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 [More ...](https://twitter.com/WallStCynic/status/1404059445060059143)

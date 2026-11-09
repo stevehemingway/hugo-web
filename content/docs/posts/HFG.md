@@ -7,9 +7,9 @@ ticker: HFG
 draft: false
 updated: 2026-02-28
 ---
-# HFG (stocks/HFG)
+# HFG ($HFG)
 
 
 ## Status
 
-Heading-only post, body is just "# HFG (stocks/HFG)" - no identifiable issuer - no price check possible
+Heading-only post, body is just "# HFG ($HFG)" - no identifiable issuer - no price check possible

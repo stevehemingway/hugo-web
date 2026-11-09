@@ -7,7 +7,7 @@ ticker: SYM
 draft: false
 updated: 2026-02-28
 ---
-# SYM (stocks/SYM)
+# SYM ($SYM)
 [More ...](https://www.dropbox.com/scl/fi/sh5lzo13fgp9gm6p3dpjy/SYM-thing-isn-t-Right-Picking-apart-a-Case-of-Misleading-Disclosure-8.22.2024-Final.pdf?rlkey=xbwa9v6foj1xsmgsb13vc9mkp&e=4&st=prc9smzt&dl=0)
 
 ## Update, 2024-12-05 -- delayed 10-K

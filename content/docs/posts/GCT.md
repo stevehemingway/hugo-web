@@ -7,12 +7,10 @@ ticker: GCT
 draft: false
 updated: 2026-02-28
 ---
-# GigaCloud Technology (stocks/GCT)
+# GigaCloud Technology ($GCT)
 
 <blockquote>
-<pre>
 GCT has two main warehouse clusters on the east coast (NJ) and west coast (CA). Over the past two weeks, we staked out these warehouses and saw activity levels which in our view portrayed a far smaller business than GCT claims.
-</pre>
 </blockquote>
 
 [More ...](https://img1.wsimg.com/blobby/go/cc91fda7-4669-4d1b-81ce-a0b8d77f25ab/downloads/Culper_GCT_9-28-2023.pdf?ver=1695909089639)

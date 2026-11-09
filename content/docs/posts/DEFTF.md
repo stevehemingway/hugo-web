@@ -10,9 +10,7 @@ updated: 2026-02-08
 # DeFI Technologies (ds/DEFTF)
 
 <blockquote>
-<pre>
 see link
-</pre>
 </blockquote>
 
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-defi-technologies-deftf?r=nmbt&utm_campaign=post&utm_medium=email)

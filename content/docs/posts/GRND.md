@@ -7,7 +7,7 @@ ticker: GRND
 draft: false
 updated: 2026-02-28
 ---
-# Grindr Inc. (stocks/GRND)
+# Grindr Inc. ($GRND)
 
 Grindr Inc. (NYSE: GRND): Undisclosed SEC Investigation, Revolting User Base, Vanishing Moat, Inflated Metrics, and Selling Insiders Highlight Deep Risks
 We are short Grindr Inc. (NYSE: GRND). In our opinion, Grindr’s management has pursued aggressive monetization at the expense of its own users. This short-term extraction strategy is juicing near-term revenues, but it is eroding the platform’s long-term viability.

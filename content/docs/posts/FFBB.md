@@ -7,7 +7,7 @@ ticker: FFBB
 draft: false
 updated: 2026-02-28
 ---
-# FFB Bancorp (stocks/FFBB)
+# FFB Bancorp ($FFBB)
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

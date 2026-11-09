@@ -10,9 +10,7 @@ updated: 2026-02-28
 # Aurora Acquisition Corp: death by dilution
 
 <blockquote>
-<pre>
 I am short AURC (Aurora Acquisition Corp)
-</pre>
 </blockquote>
 
 [More ...](mortgages)
@@ -22,9 +20,7 @@ I am short AURC (Aurora Acquisition Corp)
 # the SPAC that will be bringing Better.com to market next week. I think the fair value of the company is ~81 cents - it is currently trading at . (A/AURC)
 
 <blockquote>
-<pre>
 I am short AURC (Aurora Acquisition Corp)
-</pre>
 </blockquote>
 
 [More ...](mortgages)

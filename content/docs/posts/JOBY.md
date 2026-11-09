@@ -7,13 +7,11 @@ ticker: JOBY
 draft: false
 updated: 2026-02-28
 ---
-# Joby Aviation (stocks/JOBY)
+# Joby Aviation ($JOBY)
 
 <blockquote>
-<pre>
 
 '“Tesla meets Uber in the sky… [with] some of the most egregious guidance of any SPAC we have seen.”'
-</pre>
 </blockquote>
 
 [More ...](https://twitter.com/KerrisdaleCap/status/1711725862196805928)

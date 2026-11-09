@@ -7,7 +7,7 @@ ticker: PSTG
 draft: false
 updated: 2026-02-28
 ---
-# Pure Storage (stocks/PSTG)
+# Pure Storage ($PSTG)
 
 Kerrisdale Capital published on Pure Storage (NYSE: PSTG — $26.9 billion), an all-flash data storage company. Kerrisdale says the company has “gone from disruptor to disrupted” and that its “core enterprise storage products face declining differentiation.” Kerrisdale highlighted recent investments from NVIDIA and Google in VAST Data and wrote,
 

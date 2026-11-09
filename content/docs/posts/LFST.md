@@ -7,12 +7,10 @@ ticker: LFST
 draft: false
 updated: 2026-02-28
 ---
-# LifeStance Health (stocks/LFST)
+# LifeStance Health ($LFST)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 [More ...](https://thebearcave.substack.com/p/problems-at-lifestance-health-lfst)

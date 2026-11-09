@@ -7,7 +7,7 @@ ticker: BREA
 draft: false
 updated: 2026-02-28
 ---
-# Brera Holdings PLC (stocks/BREA)
+# Brera Holdings PLC ($BREA)
 
 Brera Holdings PLC (BREA) is an Irish-based holding company that debuted on Nasdaq in January 2023, promoting a vision of "social-impact, multi-club" football (soccer) ownership. Under the leadership of Executive Chairman Dan McClory—a veteran investment banker and Head of China at Boustead Securities—the company presented a plan to acquire and develop small football clubs into a global brand.
 

@@ -7,12 +7,10 @@ ticker: PRI
 draft: false
 updated: 2026-02-28
 ---
-# Primerica Inc (stocks/PRI)
+# Primerica Inc ($PRI)
 
 <blockquote>
-<pre>
 Primerica’s highest producing agents are engaged in misleading, false, or deceptive conduct 
-</pre>
 </blockquote>
 
 [More ...](https://open.substack.com/pub/thebearcave/p/problems-at-primerica-pri?r=nmbt&utm_campaign=post&utm_medium=email)

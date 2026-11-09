@@ -7,10 +7,9 @@ ticker: PDD
 draft: false
 updated: 2026-02-28
 ---
-# PDD Holdings (stocks/PDD)
+# PDD Holdings ($PDD)
 
 <blockquote>
-<pre>
 TEMU app software has the full array of characteristics of the most aggressive forms of malware /spyware.
 The app has hidden functions that allow for extensive data exfiltration unbeknown to users, potentially giving bad actors full access to almost all data on customers’ mobile devices.
 It is evident that great efforts were taken to intentionally hide the malicious intent and intrusiveness of the software.
@@ -45,7 +44,6 @@ PDD is a business that is run for the benefit of insiders rather than shareholde
 PDD Holdings built a payments platform that it uses. However, management has carved out the entire payments business for itself (the AliPay playbook). We believe management has privately retained the most attractive part of the business for itself.
 A large number of shares are unaccounted for. Billions of USD worth of stock reportedly went “missing”. Some supposedly went to charity and some to venture capital investor. We see this absence of transparency as another red flag.
 
-</pre>
 </blockquote>
 
 [More ...](https://grizzlyreports.com/we-believe-pdd-is-a-dying-fraudulent-company-and-its-shopping-app-temu-is-cleverly-hidden-spyware-that-poses-an-urgent-security-threat-to-u-s-national-interests/)

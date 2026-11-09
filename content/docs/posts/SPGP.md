@@ -7,7 +7,7 @@ ticker: SPGP
 draft: false
 updated: 2026-02-28
 ---
-# iShares Gold Producers (stocks/SPGP)
+# iShares Gold Producers ($SPGP)
 
 [More ...](https://www.ishares.com/uk/individual/en/products/251908/ishares-gold-producers-ucits-etf?switchLocale=y&siteEntryPassthrough=true)
 

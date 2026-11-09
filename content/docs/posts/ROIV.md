@@ -7,10 +7,9 @@ ticker: ROIV
 draft: false
 updated: 2026-02-28
 ---
-# Roivant Sciences (stocks/ROIV)
+# Roivant Sciences ($ROIV)
 
 <blockquote>
-<pre>
 We
 established a small long position in Roivant Sciences (ROIV). ROIV is
 a biotech company focused primarily on inflammation and immunology
@@ -31,7 +30,6 @@ ROIV. Lastly, the management team continues to find new opportunities to
 in-license from larger pharmaceutical companies. ROIV recently announced
 a $1.5 billion share repurchase program. We acquired our shares at an
 average price of $10.96. ROIV ended the quarter at $10.54.
-</pre>
 </blockquote>
 
 ---

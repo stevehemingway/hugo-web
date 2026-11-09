@@ -9,12 +9,10 @@ updated: 2026-02-28
 ---
 # White Castle
 
-an audio and speech recognition company. Culper called the company “a flailing AI wannabe trading at 22x revenues that has misled investors.” Specifically (stocks/SOUN), an audio and speech recognition company. Culper called the company “a flailing AI wannabe trading at 22x revenues that has misled investors.” Specifically
+an audio and speech recognition company. Culper called the company “a flailing AI wannabe trading at 22x revenues that has misled investors.” Specifically ($SOUN), an audio and speech recognition company. Culper called the company “a flailing AI wannabe trading at 22x revenues that has misled investors.” Specifically
 
 <blockquote>
-<pre>
 Culper Research published on SoundHound AI (NASDAQ: SOUN —  million)
-</pre>
 </blockquote>
 
 [More ...](multiple customers have complained the company’s speech recognition technology gets orders wrong)
@@ -28,9 +26,7 @@ Also, in Dec 24, 'Anonymous tech' fingered the same firm.
 # an audio and speech recognition company. Culper called the company “a flailing AI wannabe trading at 22x revenues that has misled investors.” Specifically (SOUN)
 
 <blockquote>
-<pre>
 Culper Research published on SoundHound AI (NASDAQ: SOUN —  million)
-</pre>
 </blockquote>
 
 [More ...](multiple customers have complained the company’s speech recognition technology gets orders wrong)

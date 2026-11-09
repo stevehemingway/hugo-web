@@ -7,7 +7,7 @@ ticker: OUST
 draft: false
 updated: 2026-02-28
 ---
-# Ouster Lidar Sensors (stocks/OUST)
+# Ouster Lidar Sensors ($OUST)
 
 Basically, the main US manufacturer of Lidar sensors. Growing market.
 

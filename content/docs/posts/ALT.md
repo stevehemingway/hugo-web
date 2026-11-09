@@ -7,7 +7,7 @@ ticker: ALT
 draft: false
 updated: 2026-02-28
 ---
-# company name (stocks/ALT)
+# company name ($ALT)
 
 [More ...](https://x.com/KerrisdaleCap/status/1757414378213618032?s=20)
 

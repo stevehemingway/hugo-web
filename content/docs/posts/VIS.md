@@ -7,12 +7,10 @@ ticker: VIS
 draft: false
 updated: 2026-02-28
 ---
-# Vanguard Industrials ETF (stocks/VIS)
+# Vanguard Industrials ETF ($VIS)
 
 <blockquote>
-<pre>
 Vanguard Industrials ETF (or similar physical assets type ETF). Citrini note on industrial/infrastructure exposure.
-</pre>
 </blockquote>
 
 [More ...](https://citrini.substack.com/)

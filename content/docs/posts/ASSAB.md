@@ -7,12 +7,10 @@ ticker: ASSAB
 draft: false
 updated: 2026-02-28
 ---
-# Assa Abloy (stocks/ASSAB)
+# Assa Abloy ($ASSAB)
 
 <blockquote>
-<pre>
 like $BLDR but less expensive
-</pre>
 </blockquote>
 
 ---

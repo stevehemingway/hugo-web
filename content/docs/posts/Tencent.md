@@ -6,12 +6,10 @@ type: note
 draft: false
 updated: 2026-02-28
 ---
-# Tencent Holdings Ltd (stocks/Tencent)
+# Tencent Holdings Ltd ($Tencent)
 
 <blockquote>
-<pre>
 Tencent: amazing business with dominant WeChat platform. See Howard Yu post on the panic that built WeChat's 700B value.
-</pre>
 </blockquote>
 
 [More ...](https://open.substack.com/pub/howardyu/p/the-panic-that-built-wechats-700?utm_campaign=post-expanded-share&utm_medium=web)

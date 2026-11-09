@@ -7,12 +7,10 @@ ticker: RCM
 draft: false
 updated: 2026-02-28
 ---
-# R1 RCM (stocks/RCM)
+# R1 RCM ($RCM)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 [More ...](https://substack.com/redirect/ef11d8a0-0993-4ce3-a25c-016c57ffa8a0?j=eyJ1Ijoibm1idCJ9.oKN8sNuAta-fKDvVXVf40Ijrk4j2KaDlakvdPE7BH98)

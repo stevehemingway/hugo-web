@@ -10,7 +10,6 @@ updated: 2026-02-08
 # DoorDash (ds/DASH)
 
 <blockquote>
-<pre>
 
 So far so good. $DASH is a case study in the excesses of ‘sending money to Planet Palo Alto’ that has taken place since the 2008 financial crisis. The trouble is that we are no longer trading our grandfather’s stock market.
 
@@ -26,7 +25,6 @@ Professional traders constantly monitor situations, where short sellers can get 
 
 -- [substack post](https://www.blindsquirrelmacro.com/p/the-end-of-the-dash-for-trash)
 
-</pre>
 </blockquote>
 
 Culper Research published on DoorDash (NASDAQ: DASH — $110 billion), a popular food delivery platform. Culper alleged that DoorDash would onboard dashers with less stringent ID vetting than peers and often without proper background checks. For example, Culper cited litigation in which a Dasher killed a mother while drunk driving, despite four prior DUIs, and a case in which DoorDash onboarded a Dasher who “had an aggravated assault with a deadly weapon charge” and later “attempted to rape an 18-year-old [DoorDash] customer after delivering an order to her home.”

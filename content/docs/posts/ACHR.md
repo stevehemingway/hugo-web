@@ -7,7 +7,7 @@ ticker: ACHR
 draft: false
 updated: 2026-02-28
 ---
-# Archer Aviation Inc. (stocks/ACHR)
+# Archer Aviation Inc. ($ACHR)
 
 # Grizzly 
 

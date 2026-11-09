@@ -7,12 +7,10 @@ ticker: GL
 draft: false
 updated: 2026-02-28
 ---
-# Globe Life (stocks/GL)
+# Globe Life ($GL)
 
 <blockquote>
-<pre>
 Short Globe Life (GL) - Executives Disregarded Wide-Spread “Insurance Fraud” While They Received Millions in Undisclosed Kickback Scheme
-</pre>
 </blockquote>
 
 [More ...](https://fuzzypandaresearch.com/globe-life-american-income-life-david-zophin-steve-greer/)

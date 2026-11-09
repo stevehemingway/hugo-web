@@ -17,9 +17,7 @@ updated: 2026-10-28
 # Shoals Technologies Group Inc (SHLS)
 
 <blockquote>
-<pre>
 We short $SHLS because of serious problems we have found with some of the deals they have announced to shore up their legacy business, which has recently experienced significant margin compression. SHLS touted an MOU with UGT Renewables/Sun Africa, but we discovered this company is in chaos due to the actions of its founder, a convicted felon. We are also skeptical of a data center pivot that relies heavily on a tiny battery company, Terraflow, which apparently has only raised ~$20m so far and whose new headquarters was still under construction when our investigator visited earlier this month.
-</pre>
 </blockquote>
 
 [More ...](https://www.pelicanway-research.com)
@@ -32,6 +30,12 @@ Pelican Way Research published a short call on Shoals Technologies Group (NASDAQ
 Pelican Way directs readers to their website for the full thesis and for their disclaimer on how they hold and profit from their financial interests.
 
 Email received 2026-10-28 13:51 UTC from Pelican Way Research (Manhattan, NY).
+
+## Update
+
+System Exit: Wednesday, November 4, 2026 | Campaign Return: -28.9% | Investor Return: -25.1%
+
+Investor Impact: Pelican Way argued that Shoals' core business was losing margin and that its growth pivots rested on weak partners. On November 4, Shoals reported third quarter revenue up 43.8%, raised its outlook and announced a merger with ARRAY Technologies, and the stock jumped. The short ran for just over a week from the US$7.060 assumed entry on October 27, and the 3.8% rise into publication gave followers a better entry and the -25.1% Investor Return. The position was down only 2.0% at our October 30 check, and the loss reached 28.9% at the exit (-33.1% market-adjusted). The BlackStyx risk system executed a disciplined technical exit on November 4, 2026, to preserve capital. Shares kept rising afterward, to US$10.080 by November 6, a level that would have deepened the loss to 42.8%.
 
 ## Closing prices
 

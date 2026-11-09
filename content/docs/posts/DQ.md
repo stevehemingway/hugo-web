@@ -7,12 +7,10 @@ ticker: DQ
 draft: false
 updated: 2026-02-28
 ---
-# Daqo New Energy Corp (stocks/DQ)
+# Daqo New Energy Corp ($DQ)
 
 <blockquote>
-<pre>
 Daqo New Energy -- polysilicon producer for solar industry. In Wasteland Capital's portfolio. Chinese solar supply chain play.
-</pre>
 </blockquote>
 
 [More ...](https://wastelandcapital.com/)

@@ -7,7 +7,7 @@ ticker: TEM
 draft: false
 updated: 2026-02-28
 ---
-# Tempus AI Inc. (stocks/TEM)
+# Tempus AI Inc. ($TEM)
 
 Warns That Tempus Management and Board Members Have a History Together of Promoting Disruptive Technology Companies Which Have Frequently Resulted in Financial Restatements and Shareholder Losses
 Expresses Concerns About Tempus’ Artificial Intelligence Capabilities Given Minimal Revenues and Product Demonstrations, Which Appear to Show Irreconcilable Inputs

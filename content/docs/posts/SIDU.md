@@ -81,7 +81,7 @@ All content is the intellectual property of Fugazi Research and may not be repro
 
 Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuZnVnYXppcmVzZWFyY2guY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNVFExTlRjMU1qWXNJbkJ2YzNSZmFXUWlPakU1TXpNeE1UazJNaXdpYVdGMElqb3hOemMxTkRneU5ESTNMQ0psZUhBaU9qRTRNRGN3TVRnME1qY3NJbWx6Y3lJNkluQjFZaTAxTVRnMk5ERTNJaXdpYzNWaUlqb2laR2x6WVdKc1pWOWxiV0ZwYkNKOS5iby1WX24wbEphMXFXUG9zal9MZi0xU1lhNzZJZHpBdmhNR1BPdE5MNzBrIiwicCI6MTkzMzExOTYyLCJzIjo1MTg2NDE3LCJmIjp0cnVlLCJ1IjozMTQ1NTc1MjYsImlhdCI6MTc3NTQ4MjQyNywiZXhwIjoyMDkxMDU4NDI3LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.5Q3nNq-vEPfltNwgsQjqAPu_vxoU28JnJ4S0j_UR0ic?
 
-# SIDU (stocks/SIDU), SIDU
+# SIDU ($SIDU), SIDU
 
 In recent quarters, most of SIDU’s revenue has originated from Craig Technologies, a company controlled by SIDU’s CEO, Carol Craig. While this relationship is disclosed in the company’s filings, it raises a structural concern: it calls into question the quality of reported revenue, the independence of demand, and whether reported sales reflect genuine commercial traction. This risk is compounded by the fact that a significant portion of this revenue does not convert into cash and remains recorded as accounts receivable, maintaining ongoing liquidity pressure.
 

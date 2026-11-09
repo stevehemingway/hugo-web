@@ -7,12 +7,10 @@ ticker: BOE
 draft: false
 updated: 2026-02-28
 ---
-# Boss Resources Ltd. (stocks/BOE)
+# Boss Resources Ltd. ($BOE)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 [More ...](https://www.ig.com/uk/marketanalysis/ig-shares/boss-resources-limited)

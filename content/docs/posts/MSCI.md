@@ -7,10 +7,9 @@ ticker: MSCI
 draft: false
 updated: 2026-02-28
 ---
-# MSCI Inc. (stocks/MSCI)
+# MSCI Inc. ($MSCI)
 
 <blockquote>
-<pre>
 
 Spruce Point Issues “Strong Sell” Opinion On
 MSCI Inc. With 55% - 65% Downside Risk
@@ -22,7 +21,6 @@ MSCI’s indices, analytics, and ESG ratings to disburse trillions of dollars gl
 anyone has ever fully indexed, benchmarked or evaluated MSCI’s broad range of dubious and aggressive and outright farcical
 business practices. We lay out the case that MSCI’s ESG rating scores as an F and that its stock should be sold or underweighted
 relative to any large cap global equity index. Our fair value target is 55% - 65% ($190 - $244/sh.) downside risk to MSCI’s price%
-</pre>
 </blockquote>
 
 [More ...](https://assets-global.website-files.com/64dd091f91b3ca8e6309dc0d/65a7d6951629623be5467a96_msci_research_thesis_1-17-2024.pdf)

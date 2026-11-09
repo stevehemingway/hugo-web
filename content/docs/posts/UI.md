@@ -7,12 +7,10 @@ ticker: UI
 draft: false
 updated: 2026-02-28
 ---
-# Ubiquity Inc (stocks/UI)
+# Ubiquity Inc ($UI)
 
 <blockquote>
-<pre>
 Ubiquity ($UI) - networking equipment being illegally exported to Russia because there is no good alternative. Both good (moat) and bad (breaking sanctions). Article by Hunterbrook on 27 Jan 2025.
-</pre>
 </blockquote>
 
 [More ...](https://hunterbrook.com/research)

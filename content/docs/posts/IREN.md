@@ -7,7 +7,7 @@ ticker: IREN
 draft: false
 updated: 2026-02-28
 ---
-# IREN (stocks/IREN)
+# IREN ($IREN)
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

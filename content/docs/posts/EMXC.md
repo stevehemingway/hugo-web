@@ -7,12 +7,10 @@ ticker: EMXC
 draft: false
 updated: 2026-02-28
 ---
-# Emerging Markets Ex-China (stocks/EMXC)
+# Emerging Markets Ex-China ($EMXC)
 
 <blockquote>
-<pre>
 Vietnam is hot
-</pre>
 </blockquote>
 
 ---

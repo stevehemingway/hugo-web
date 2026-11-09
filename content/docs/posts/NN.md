@@ -7,13 +7,11 @@ ticker: NN
 draft: false
 updated: 2026-02-28
 ---
-# NextNav (stocks/NN)
+# NextNav ($NN)
 
 <blockquote>
-<pre>
 Bleecker Street Research published on NextNav (NASDAQ: NN — $432 million),
  a geolocation services company. Bleecker Street called NextNav “a sixteen-year-old company trying to build a better alternative to GPS with little meaningful traction” and said the company “aligned itself with real estate in the metaverse and flying cars.” Bleecker Street also predicted NextNav would be unable to compete against bigger rivals like Apple and Google. The company is down ~60% since merging with a B. Riley-affiliated SPAC in October 2021.
-</pre>
 </blockquote>
 
 [More ...](https://twitter.com/Bleecker__St/status/1732418253966725510)

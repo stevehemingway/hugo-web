@@ -7,12 +7,10 @@ ticker: SMR
 draft: false
 updated: 2026-02-28
 ---
-# NuScale Power (stocks/SMR)
+# NuScale Power ($SMR)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 ## Hunterbrook update (2024-6-11)

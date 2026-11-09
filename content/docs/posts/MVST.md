@@ -7,7 +7,7 @@ ticker: MVST
 draft: false
 updated: 2026-02-28
 ---
-# microvast holdings (stocks/MVST)
+# microvast holdings ($MVST)
 
 MVST's House of Lies: The German Factory Stands Idle, the Chinese One Runs at Half Capacity, and the CCP Owns the Shop
 

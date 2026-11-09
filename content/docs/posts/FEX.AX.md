@@ -10,9 +10,7 @@ updated: 2026-02-28
 # Fenix Resources (stocks/FEX.AX)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 > 

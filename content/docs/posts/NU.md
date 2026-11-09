@@ -7,7 +7,7 @@ ticker: NU
 draft: false
 updated: 2026-02-28
 ---
-# Nu Holdings Inc. (stocks/NU)
+# Nu Holdings Inc. ($NU)
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

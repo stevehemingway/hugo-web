@@ -37,11 +37,9 @@ sector/the-court-ruled-to-certify-the-plaintiff-class - thesis/fraud ---
 has now grown into an existential risk. In August 2024 (TREE)
 
 <blockquote>
-<pre>
 First, LendingTree is sitting on a time bomb of litigation exposing it to a minimum of $157 million up to $472
 million in damages – almost the entirety of the Company’s current equity value. LendingTree has unsuccessfully
 fought this suit for the past 5 years
-</pre>
 </blockquote>
 
 [More ...](which the

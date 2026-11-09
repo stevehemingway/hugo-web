@@ -7,10 +7,9 @@ ticker: NNE
 draft: false
 updated: 2026-02-28
 ---
-# Nanu Nuclear (stocks/NNE)
+# Nanu Nuclear ($NNE)
 
 <blockquote>
-<pre>
 Nano Nuclear Energy (NASDAQ: $NNE) stock rose over 450% after going public in May, reaching a market cap of more than $850 million, even though the company has no revenue, products, or patents for its core technology.
 
 NNE estimates that it will bring nuclear microreactors to market between 2030 and 2031. An expert called this timeline “frankly laughable.” The former chair of the Nuclear Regulatory Commission told Hunterbrook it “won’t happen” — given that competitors with more resources have taken 15-20 years for similar projects.
@@ -24,7 +23,6 @@ The company’s auditor was recently sanctioned and fined by the Public Company 
 As of July 2024, the U.S. Nuclear Regulatory Commission does not list NNE among the companies that have begun pre-application activities for the kind of reactor NNE is pitching. An NRC spokesperson told Hunterbrook Media that the Advanced Reactor department is “not aware of this company” and “we have not had any pre-application dealings with them.”
 
 Despite reportedly saying approvals were “pretty much complete” for a uranium fuel fabrication facility, NNE only claims to have submitted an initial site proposal with the Department of Energy in August 2023, and the company appears to have filed no permitting or regulatory application documents with the NRC, according to a review of the agency’s online public records portal.
-</pre>
 </blockquote>
 
 [More ...](https://open.substack.com/pub/hntrbrk/p/fission-impossible-nano-nuclear-nne?r=nmbt&utm_campaign=post&utm_medium=email)

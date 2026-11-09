@@ -9,12 +9,10 @@ updated: 2026-02-28
 ---
 # Starlink (stale)
 
-Elon Musk and Starlink have gained a powerful new ally in competing against Viasat. Based on the collective reviews of customers (stocks/VSAT), Elon Musk and Starlink have gained a powerful new ally in competing against Viasat. Based on the collective reviews of customers
+Elon Musk and Starlink have gained a powerful new ally in competing against Viasat. Based on the collective reviews of customers ($VSAT), Elon Musk and Starlink have gained a powerful new ally in competing against Viasat. Based on the collective reviews of customers
 
 <blockquote>
-<pre>
 “With the election of President Trump
-</pre>
 </blockquote>
 
 [More ...](and engineers)
@@ -24,9 +22,7 @@ Elon Musk and Starlink have gained a powerful new ally in competing against Vias
 # Elon Musk and Starlink have gained a powerful new ally in competing against Viasat. Based on the collective reviews of customers (VSAT)
 
 <blockquote>
-<pre>
 “With the election of President Trump
-</pre>
 </blockquote>
 
 [More ...](and engineers)

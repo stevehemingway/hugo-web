@@ -7,10 +7,8 @@ ticker: GOEV
 draft: false
 updated: 2026-02-28
 ---
-# Canoo (stocks/GOEV)
+# Canoo ($GOEV)
 
 <blockquote>
-<pre>
 CFO will no longer serve after seven months
-</pre>
 </blockquote>

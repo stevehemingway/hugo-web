@@ -7,7 +7,7 @@ ticker: FFAI
 draft: false
 updated: 2026-02-28
 ---
-# Faraday Future (stocks/FFAI)
+# Faraday Future ($FFAI)
 
 Wolfpack Research published on Faraday Future (NASDAQ: FFAI — $253 million), an early-stage electric car company. Wolfpack alleged the company “based its latest pump on fake orders, a rebadged Chinese minivan, and a tsunami of lies meant to induce retail to buy right before a massive flood of new shares are authorized.” Wolfpack highlighted the company’s “track record of abysmal failure ($4.4b spent with 17 cars delivered)” and alleged its claims of 10,000+ preorders for its minivan lack economic substance. For example, Wolfpack highlighted that Faraday disclosed 1,000 preorders from a microcap company that has “less than $10,000 in cash” and that other orders are from “paid co-creation partners.”
 

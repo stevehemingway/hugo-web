@@ -7,7 +7,7 @@ ticker: TGD
 draft: false
 updated: 2026-02-28
 ---
-# Transdigm (stocks/TGD)
+# Transdigm ($TGD)
 
 Mentioned in passing as able to sustain supranormal returns, like BRK.
 

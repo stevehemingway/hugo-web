@@ -10,9 +10,7 @@ updated: 2026-02-28
 # Natural Gas (stocks/NAT-GAS)
 
 <blockquote>
-<pre>
 Natural gas - commodity play. Potentially undervalued energy source with supply/demand dynamics.
-</pre>
 </blockquote>
 
 nat gas!

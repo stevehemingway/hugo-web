@@ -7,12 +7,10 @@ ticker: CTRA
 draft: false
 updated: 2026-02-28
 ---
-# Coterra Energy (stocks/CTRA)
+# Coterra Energy ($CTRA)
 
 <blockquote>
-<pre>
 it's a gift
-</pre>
 </blockquote>
 
 [More ...](https://markets.ft.com/data/equities/tearsheet/financials?s=CTRA:NYQ)

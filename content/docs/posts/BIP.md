@@ -7,12 +7,10 @@ ticker: BIP
 draft: false
 updated: 2026-02-28
 ---
-# Brookfield Infrastructure Partners (stocks/BIP)
+# Brookfield Infrastructure Partners ($BIP)
 
 <blockquote>
-<pre>
 For example, DF Research noted that a key investment in utility infrastructure provider BUUK Infrastructure is carried at a $1.2 billion value by Brookfield, when in reality the equity may be worthless because the company produces minimal free cash flow.
-</pre>
 </blockquote>
 
 [More ...](https://dfresearch.substack.com/p/dfr-is-short-brookfield-infrastructure)

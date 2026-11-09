@@ -10,9 +10,7 @@ updated: 2025-01-23
 # Star Bulk Carriers (SBLK)
 
 <blockquote>
-<pre>
 Mintzmyer views Star Bulk as well-positioned to benefit from ongoing demand in the dry bulk market, especially with expectations for an increase in dry bulk ton-miles in 2024. He believes that the integration of synergies from the recent merger with Eagle Bulk has enhanced operational efficiency and reduced costs significantly
-</pre>
 </blockquote>
 
 [More ...](https://www.perplexity.ai/search/what-does-j-mintzmyer-say-abou-gperhcHmR6a3EpJ9TAmJvA)

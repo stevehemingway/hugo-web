@@ -7,13 +7,11 @@ ticker: ROL
 draft: false
 updated: 2026-02-28
 ---
-# Rollins Inc. (stocks/ROL)
+# Rollins Inc. ($ROL)
 
 <blockquote>
-<pre>
 
 Rollins, an S&P 500 index component, is the second largest pest control service provider in the U.S. and operates under a variety of brands such as Orkin, HomeTeam Pest Defense, Critter Control, Fox Pest Control and Western Pest Services. The Company services more than two million customers, with approximately 45% and 35% of sales to residential and commercial customers. Approximately 93% of sales are in the U.S., with the remaining 7% coming from international sales. While historically the pest control industry has exhibited healthy margins and is viewed as recession-resistant due to recurring revenues and services that were deemed essential during COVID-19, there are multiple growing long-term macroeconomic and microeconomic issues that have been identified, which are likely to pressure Rollins’ historical growth and margins.
-</pre>
 </blockquote>
 
 [More ...](https://x.com/sprucepointcap/status/1709557968797110398?s=20)

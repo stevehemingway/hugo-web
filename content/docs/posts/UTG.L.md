@@ -10,9 +10,7 @@ updated: 2026-02-28
 # Unite Group PLC (stocks/UTG.L)
 
 <blockquote>
-<pre>
 
-</pre>
 </blockquote>
 
 ## comment 2023-5-22 (P: ~901p)

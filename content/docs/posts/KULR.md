@@ -7,12 +7,10 @@ ticker: KULR
 draft: false
 updated: 2026-02-28
 ---
-# KULR Technology Group (stocks/KULR)
+# KULR Technology Group ($KULR)
 
 <blockquote>
-<pre>
 We believe KULR is just a fancy PR machine trying to impress gullible investors
-</pre>
 </blockquote>
 
 [More ...](https://grizzlyreports.com/kulr/)

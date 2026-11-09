@@ -7,12 +7,10 @@ ticker: STRC
 draft: false
 updated: 2026-02-28
 ---
-# Strategy Stretch Preferred (stocks/STRC)
+# Strategy Stretch Preferred ($STRC)
 
 <blockquote>
-<pre>
 (Micro)Strategy Stretch Preferred. 10% yield! Preferred shares of MicroStrategy with high yield.
-</pre>
 </blockquote>
 
 $STRC: (Micro)Strategy Stretch Preferred. 10%!

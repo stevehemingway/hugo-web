@@ -7,14 +7,12 @@ ticker: SERV
 draft: false
 updated: 2026-02-28
 ---
-# Serve Robotics (stocks/SERV)
+# Serve Robotics ($SERV)
 
 Dorsey posted a negative assessment too.
 
 <blockquote>
-<pre>
 company robots struggling with basic manoeuvers
-</pre>
 </blockquote>
 
 [More ...](https://www.bonitasresearch.com/wp-content/uploads/dlm_uploads/2024/12/Bonitas-Short-Serve_Robotics-SERV-Dec-5-2024.pdf)

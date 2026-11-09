@@ -7,7 +7,7 @@ ticker: UEC
 draft: false
 updated: 2025-10-29
 ---
-# Uranium Energy Corp (stocks/UEC)
+# Uranium Energy Corp ($UEC)
 
 ## Uranium Energy Corp (UEC: NYSE American) — Short Thesis
 

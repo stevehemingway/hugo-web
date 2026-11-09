@@ -7,7 +7,7 @@ ticker: IR
 draft: false
 updated: 2026-02-28
 ---
-# IR (stocks/IR)
+# IR ($IR)
 
 ---
 *Last updated: 2026-03-07 by automated standardization process*

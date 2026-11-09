@@ -7,12 +7,10 @@ ticker: GDHG
 draft: false
 updated: 2026-02-28
 ---
-# Golden Heaven Group Holdings (stocks/GDHG)
+# Golden Heaven Group Holdings ($GDHG)
 
 <blockquote>
-<pre>
 another classic "China Hustle"
-</pre>
 </blockquote>
 
 [More ...](https://x.com/HindenburgRes/status/1724156604583415978?s=20)

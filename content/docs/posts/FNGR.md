@@ -7,12 +7,10 @@ ticker: FNGR
 draft: false
 updated: 2026-02-28
 ---
-# FingerMotion (stocks/FNGR)
+# FingerMotion ($FNGR)
 
 <blockquote>
-<pre>
 For example, the company appears to use its copyright registration numbers as "Patent Registration Numbers" in its SEC filings, and the company is audited by Mr. Kam Fuk Chan, who was reprimanded and fined in 2019 and 2022 and had his license revoked earlier this year.
-</pre>
 </blockquote>
 
 [More ...](https://twitter.com/CapybaraShort/status/1716946652475593121)

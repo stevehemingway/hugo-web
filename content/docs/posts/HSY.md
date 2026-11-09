@@ -7,12 +7,10 @@ ticker: HSY
 draft: false
 updated: 2026-02-28
 ---
-# Hershey (stocks/HSY)
+# Hershey ($HSY)
 
 <blockquote>
-<pre>
 High Levels of Banned PFAS Detected in Hershey’s (NYSE: HSY) Packaging. Independent Tests Reveal Widespread Presence of Cancer-Linked “Forever Chemicals” in its Biggest Brands
-</pre>
 </blockquote>
 
 [More ...](https://grizzlyreports.com/hsy)

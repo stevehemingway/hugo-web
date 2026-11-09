@@ -7,7 +7,7 @@ ticker: MSTR
 draft: false
 updated: 2026-02-28
 ---
-# MicroStrategy (stocks/MSTR)
+# MicroStrategy ($MSTR)
 
 Kerrisdale Capital published on MicroStrategy (NASDAQ: MSTR — $28.9 billion), a business software company better known for its large Bitcoin holdings. Kerrisdale suggested a pair trade of short MicroStrategy and long Bitcoin because MicroStrategy now trades at a 100%+ premium to its Bitcoin holdings. Kerrisdale argued,
 

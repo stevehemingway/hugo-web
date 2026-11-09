@@ -7,12 +7,10 @@ ticker: MPW
 draft: false
 updated: 2026-02-28
 ---
-# Medical Properties Trust (stocks/MPW)
+# Medical Properties Trust ($MPW)
 
 <blockquote>
-<pre>
 Aggressive healthcare property roll-up caters almost exclusively to distressed tenants. Rent is round-tripped via “fake” purchases of   massively inflated assets. The fat lady is singing.
-</pre>
 </blockquote>
 
 [More ...](https://viceroyresearch.org/2023/12/06/mpw-viceroys-briefing-on-discovery-issues/)

@@ -10,11 +10,9 @@ updated: 2026-02-08
 # Doximity Inc (ds/DOCS)
 
 <blockquote>
-<pre>
     “We believe Doximity’s underlying sales, contrary to the Street’s expectations for double-digit growth, are declining at a negative -3-6% rate, but that this decline has been masked through accelerated revenue recognition.”
 
 Jehoshaphat also noted that the company’s Chief Revenue Officer, Co-Founder, and Controller have all departed in the last year “alongside unusual selling patterns from other insiders.”
-</pre>
 </blockquote>
 
 [More ...](https://x.com/JehoshaphatRsch/status/1774795208791581030)

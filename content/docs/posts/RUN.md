@@ -7,12 +7,10 @@ ticker: RUN
 draft: false
 updated: 2026-02-28
 ---
-# Sunrun (stocks/RUN)
+# Sunrun ($RUN)
 
 <blockquote>
-<pre>
 uneconomic business built on three shaky pillars
-</pre>
 </blockquote>
 
 # Sunrun: “ESG” is for Everybody Screws the Government (RUN US)

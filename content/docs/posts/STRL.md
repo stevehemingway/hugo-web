@@ -7,12 +7,10 @@ ticker: STRL
 draft: false
 updated: 2026-02-28
 ---
-# Sterling Infrastructure Inc (stocks/STRL)
+# Sterling Infrastructure Inc ($STRL)
 
 <blockquote>
-<pre>
 We are short Sterling Infrastructure (NASDAQ:STRL), a poster child for the AI bubble. Data center exposure appears exaggerated. Backlog growth is not supported by contract win data. Margins appear grossly inflated through abnormal accounting revisions. We see 60-80% downside.
-</pre>
 </blockquote>
 
 [More ...](https://snowcapresearch.com)
