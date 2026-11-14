@@ -1,10 +1,13 @@
 ---
 title: 'Csquare Inc'
 date: 2026-10-22T21:33:02+01:00
+tags: [analyst/me, focus/security, market/united-states, potential/short, sector/data-management, thesis/debt]
+type: stock
+ticker: CSQR
 draft: false
-weight: 100
-bookHidden: false
+updated: 2026-10-22
 ---
+# Csquare Inc (CSQR)
 
 ## Bear case on Csquare Inc (NYSE: CSQR)
 
