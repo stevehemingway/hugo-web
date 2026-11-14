@@ -14,3 +14,12 @@ AMBQ, a fabless ultra-low power semiconductor solutions supplier, excites invest
 </blockquote>
 
 [More ...](https://jcapitalresearch.substack.com/p/ambiq-micro-ambq)
+
+## Closing prices
+
+| Date | Close | Adj close |
+| --- | --- | --- |
+| 2025-12-31 | USD 28.50 | USD 28.50 |
+| 2026-11-13 | USD 47.46 | USD 47.46 |
+
+_Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
