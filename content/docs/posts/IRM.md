@@ -39,3 +39,11 @@ J Capital Research published on Iron Mountain (NYSE: IRM — $34.7 billion), arg
 | 2026-11-04 | USD 118.66 | USD 118.66 |
 
 _Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
+
+## Mentioned in the roundup — 2026-11-17
+
+Recorded by the watcher: **IRM** was mentioned in *Weekly Styx Update, 15 November 2026 (Week 46, reporting period 9–15 November 2026)*.
+
+Listed among new campaigns. Iron Mountain (NYSE: IRM) was the subject of a short campaign in the reporting week.
+
+_Source: Weekly Styx Update, 15 November 2026 (Week 46, reporting period 9–15 November 2026)._

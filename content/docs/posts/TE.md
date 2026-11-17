@@ -47,3 +47,11 @@ T1 then replaced RWE with Trina Solar, and called it a “new” offtake agreeme
 | 2026-11-04 | USD 2.73 | USD 2.73 |
 
 _Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
+
+## Mentioned in the roundup — 2026-11-17
+
+Recorded by the watcher: **TE** was mentioned in *The Bear Cave #352, 15 November 2026*.
+
+Under News of the Week: T1 Energy disclosed an **SEC investigation** into its statements about eligibility for manufacturing tax credits and other accounting issues — concerns highlighted by Fuzzy Panda and Culper Research earlier this year. The company said it would cooperate and could not predict the outcome.
+
+_Source: The Bear Cave #352, 15 November 2026._

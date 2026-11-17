@@ -22,3 +22,11 @@ updated: 2026-02-28
 | 2026-11-04 | USD 29.60 | USD 29.60 |
 
 _Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
+
+## Mentioned in the roundup — 2026-11-17
+
+Recorded by the watcher: **SMCI** was mentioned in *The Bear Cave #352, 15 November 2026*.
+
+Noted under News of the Week. Super Micro said it was cooperating with authorities and that Megaspeed, where Alice Huang previously worked, had never been a customer. This follows reporting that US prosecutors are examining whether entities linked to Alice Huang helped smuggle Super Micro products into China.
+
+_Source: The Bear Cave #352, 15 November 2026._

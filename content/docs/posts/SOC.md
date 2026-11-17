@@ -30,3 +30,11 @@ Exxon spinoff Sable Offshore faces seven barriers to restart its pipeline, idled
 | 2026-11-04 | USD 1.98 | USD 1.98 |
 
 _Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
+
+## Mentioned in the roundup — 2026-11-17
+
+Recorded by the watcher: **SOC** was mentioned in *The Bear Cave #352, 15 November 2026*.
+
+Noted under News of the Week. Sable Offshore, whose cash constraints and promotion by Phil Mickelson were exposed by Hunterbrook Media last year, renewed its going-concern warning after its sole crude buyer interrupted purchases in October. It is now a penny stock.
+
+_Source: The Bear Cave #352, 15 November 2026._

@@ -23,3 +23,11 @@ AMBQ, a fabless ultra-low power semiconductor solutions supplier, excites invest
 | 2026-11-13 | USD 47.46 | USD 47.46 |
 
 _Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
+
+## Mentioned in the roundup — 2026-11-17
+
+Recorded by the watcher: **AMBQ** was mentioned in *The Bear Cave #352, 15 November 2026*.
+
+Repeated as one of the week's new activist short reports. J Capital Research published on Ambiq Micro, arguing that competition and customer concentration could prevent the low-power chip designer from turning growing demand for AI devices into profits. Ambiq's quarterly filing shows four end customers accounted for 81% of sales in the first nine months of 2026; J Capital argues buyers can press for unprofitable prices while rivals narrow Ambiq's power-efficiency advantage.
+
+_Source: The Bear Cave #352, 15 November 2026._

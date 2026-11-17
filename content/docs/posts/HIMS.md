@@ -22,3 +22,11 @@ From The Bear Cave
 | 2026-11-04 | USD 26.66 | USD 26.66 |
 
 _Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
+
+## Mentioned in the roundup — 2026-11-17
+
+Recorded by the watcher: **HIMS** was mentioned in *The Bear Cave #352, 15 November 2026*.
+
+Noted under Notable Departures. The Vice President of Product Design departed after roughly one year and two months, moving to Maven Clinic. The chief accounting officer also departed on 9 October. The latest quarterly filing describes an SEC investigation of compounded-semaglutide disclosures and related business relationships, along with an FTC lawsuit over privacy, advertising, subscription and cancellation practices.
+
+_Source: The Bear Cave #352, 15 November 2026._

@@ -18,3 +18,11 @@ draft: false
 | 2026-11-04 | USD 29.54 | USD 29.54 |
 
 _Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
+
+## Mentioned in the roundup — 2026-11-17
+
+Recorded by the watcher: **IONQ** was mentioned in *The Bear Cave #352, 15 November 2026*.
+
+Noted under Notable Departures. The CFO and COO left on 13 November after approximately one year and two months in the roles; his predecessor departed on 4 September 2025 after about four years and six months. IonQ also appointed a new chief accounting officer effective immediately.
+
+_Source: The Bear Cave #352, 15 November 2026._

@@ -26,3 +26,11 @@ _From the Black Styx weekly update, reporting period ending 2026-11-08._
 | 2026-11-06 | USD 9.03 | USD 9.03 |
 
 _Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column incorporates splits and dividends._
+
+## Mentioned in the roundup — 2026-11-17
+
+Recorded by the watcher: **FRVO** was mentioned in *Weekly Styx Update, 15 November 2026 (Week 46, reporting period 9–15 November 2026)*.
+
+Listed among exits. The Fervo campaign was closed out profitably.
+
+_Source: Weekly Styx Update, 15 November 2026 (Week 46, reporting period 9–15 November 2026)._
