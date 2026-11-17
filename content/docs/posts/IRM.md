@@ -44,6 +44,6 @@ _Source: Tiingo end-of-day. Prices are unadjusted; the adjusted column incorpora
 
 Recorded by the watcher: **IRM** was mentioned in *Weekly Styx Update, 15 November 2026 (Week 46, reporting period 9–15 November 2026)*.
 
-Listed among new campaigns. Iron Mountain (NYSE: IRM) was the subject of a short campaign in the reporting week.
+Listed in the Active Campaigns table as a **J Capital Research** short, with a campaign return of 1.4% (7.6% market-adjusted) as at the week ending 15 November 2026.
 
 _Source: Weekly Styx Update, 15 November 2026 (Week 46, reporting period 9–15 November 2026)._

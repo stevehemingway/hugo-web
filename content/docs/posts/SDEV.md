@@ -29,6 +29,6 @@ _Source: Yahoo Finance end-of-day. Prices are unadjusted; the adjusted column in
 
 Recorded by the watcher: **SDEV** was mentioned in *Weekly Styx Update, 15 November 2026 (Week 46, reporting period 9–15 November 2026)*.
 
-Listed among new campaigns — Fugazi Research published on Stablecoin Development Corp (SDEV), and by the weekly update the stock was already down. Fugazi's thesis concerns the company's arrangement as a Zcash treasury vehicle, with dilution and related-party risks.
+Listed in the Active Campaigns table as a **Fugazi Research** short, with a campaign return of 89.6% (86.9% market-adjusted) as at the week ending 15 November 2026 — the strongest performer in the table. The stock is a leveraged bet on Zcash and is highly dilutive, according to the analyst.
 
 _Source: Weekly Styx Update, 15 November 2026 (Week 46, reporting period 9–15 November 2026)._
