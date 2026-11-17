@@ -6,7 +6,7 @@ type: stock
 tickers: [USAU]
 analyst: shortfinder
 source: 2026-11-16
-draft: true
+draft: false
 updated: 2026-11-16
 ---
 

@@ -6,7 +6,7 @@ type: stock
 tickers: [ACOG]
 analyst: shortfinder
 source: 2026-11-09
-draft: true
+draft: false
 updated: 2026-11-17
 ---
 

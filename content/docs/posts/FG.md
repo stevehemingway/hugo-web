@@ -6,7 +6,7 @@ type: stock
 tickers: [FG]
 analyst: nick-nemeth
 source: 2026-11-15
-draft: true
+draft: false
 updated: 2026-11-17
 ---
 
